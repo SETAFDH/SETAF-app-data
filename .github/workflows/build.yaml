@@ -1,0 +1,22 @@
+on:
+  push:
+    branches:
+    - main
+concurrency: build
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/github-script@v8
+      with:
+        github-token: ${{ secrets.SETAF_APP_ACTION_TOKEN }}
+        script: |
+          await github.rest.actions.createWorkflowDispatch({
+            owner: context.repo.owner,
+            repo: 'SETAF-app',
+            workflow_id: 'build.yaml',
+            ref: 'main',
+            inputs: {
+              'data-ref': context.sha,
+            },
+          })
