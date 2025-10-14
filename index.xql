@@ -3,7 +3,7 @@ xquery version "3.1";
 module namespace idx="http://teipublisher.com/index";
 
 declare namespace tei="http://www.tei-c.org/ns/1.0";
-declare namespace dbk="http://docbook.org/ns/docbook";
+(:declare namespace dbk="http://docbook.org/ns/docbook";:)
 
 declare variable $idx:app-root :=
     let $rawPath := system:get-module-load-path()
