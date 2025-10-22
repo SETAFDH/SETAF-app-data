@@ -4104,29 +4104,35 @@
             </choice>
             <lb type="DefaultLine" corresp="#f7_eSc_line_eea5da17_ligne_20"/>
             <choice>
-               <orig>Dans y admettre contraire aux Decretalles/</orig>
-               <reg type="intermediary">Dans y admettre contraire aux Decretalles/</reg>
+               <orig>Sans y admettre contraire aux Decretalles/</orig>
+               <reg type="intermediary">Sans y admettre contraire aux Decretalles/</reg>
             </choice>
             <lb type="DefaultLine" corresp="#f7_eSc_line_8c125f0b_ligne_21"/>
             <choice>
                <orig>Ou autrement ne uous seroit facile.</orig>
                <reg type="intermediary">Ou autrement ne vous seroit facile.</reg>
             </choice>
-            <lb type="DefaultLine" corresp="#f7_eSc_line_7eb2ebae_ligne_22"/>
-            <choice>
-               <orig>¶ Autre chãson cõtenant une partie des dã¬</orig>
-               <reg type="intermediary">¶ Autre chanson contenant une partie des dam¬</reg>
-            </choice>
-            <lb type="DefaultLine" corresp="#f7_eSc_line_eaf3b944_ligne_23"/>
-            <choice>
-               <orig>nables erreurs et abusions des ministres de</orig>
-               <reg type="intermediary">nables erreurs et abusions des ministres de</reg>
-            </choice>
-            <lb type="DefaultLine" corresp="#f7_eSc_line_e72e6ee5_ligne_24"/>
-            <choice>
-               <orig>Lantechrist/ qͥ ont usurpe le nom de p̃bstre.</orig>
-               <reg type="intermediary">L'antechrist/ qui ont usurpe le nom de prebstre.</reg>
-            </choice>
+            <hi>
+               <lb type="HeadingLine" corresp="#f7_eSc_line_7eb2ebae_ligne_22"/>
+               <choice>
+                  <orig>¶ Autre chãson cõtenant une partie des dã¬</orig>
+                  <reg type="intermediary">¶ Autre chanson contenant une partie des dam¬</reg>
+               </choice>
+            </hi>
+            <hi>
+               <lb type="HeadingLine" corresp="#f7_eSc_line_eaf3b944_ligne_23"/>
+               <choice>
+                  <orig>nables erreurs et abusions des ministres de</orig>
+                  <reg type="intermediary">nables erreurs et abusions des ministres de</reg>
+               </choice>
+            </hi>
+            <hi>
+               <lb type="HeadingLine" corresp="#f7_eSc_line_e72e6ee5_ligne_24"/>
+               <choice>
+                  <orig>Lantechrist/ qͥ ont usurpe le nom de p̃bstre.</orig>
+                  <reg type="intermediary">L'antechrist/ qui ont usurpe le nom de prebstre.</reg>
+               </choice>
+            </hi>
             <hi>
                <lb type="DropCapitalLine" corresp="#f7_eSc_line_70d4aa8b_ligne_2"/>
                <choice>
@@ -6000,7 +6006,7 @@
             </note>
             <lb type="DefaultLine" corresp="#f16_eSc_line_696b026d_ligne_9"/>
             <choice>
-               <orig>Rentrarent point en celle terre/</orig>
+               <orig>Nentrarent point en celle terre/</orig>
                <reg type="intermediary">N'entrarent point en celle terre/</reg>
             </choice>
             <lb type="DefaultLine" corresp="#f16_eSc_line_33841a48_ligne_10"/>
