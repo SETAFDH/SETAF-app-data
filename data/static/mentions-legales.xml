@@ -44,6 +44,11 @@
            </div>
            
            <div>
+              <head type="static_subtitle">Créatrice du logo</head>
+              <p>Mylène Dejouy</p>
+           </div>
+           
+           <div>
               <head type="static_subtitle">Utilisation des images</head>
               <p>Les modalités d’utilisation et de diffusion des images sont définies par les bibliothèques qui conservent les imprimés. Nous invitons les utilisateurs à se référer aux notices de chaque édition pour prendre connaissance de la licence appliquée (dans la rubrique « Métadonnées »).</p>
            </div>
@@ -56,7 +61,7 @@
            <div>
               <head type="static_subtitle">Mises à jour</head>
               <p>Le projet SETAF met tout en œuvre pour assurer l’exactitude des informations diffusées sur son site à la date de leur mise en ligne, ainsi que leur mise à jour régulière. Cependant, nous ne garantissons pas l’absence d’omissions ou d’erreurs et vous remercions par avance pour vos retours et suggestions permettant d’enrichir les données diffusées. La bibliothèque numérique se réserve le droit de modifier, à tout moment et sans préavis, le contenu du site Web.</p>
-              <p>Dernière mise à jour des mentions légales : 17/09/2025</p>
+              <p>Dernière mise à jour des mentions légales : 21/10/2025</p>
            </div>
         </div>
         
@@ -88,6 +93,11 @@
            </div>
            
            <div>
+              <head type="static_subtitle">Logo designer</head>
+              <p>Mylène Dejouy</p>
+           </div>
+           
+           <div>
               <head type="static_subtitle">Use of images</head>
               <p>The terms of use and circulation of the images are defined by the libraries that hold the documents. We invite users to refer to the notices for each edition to find out the licence used (in the ‘Metadata’ section).</p>
            </div>
@@ -100,7 +110,7 @@
            <div>
               <head type="static_subtitle">Updates</head>
               <p>The project SETAF makes every effort to ensure that the information on its website is accurate at the time it is put online, and that it is regularly updated. However, we do not guarantee the absence of omissions or errors, and we thank you in advance for your feedback and suggestions to enrich the data provided. The project reserves the right to modify the content of the website at any time and without prior notice.</p>
-              <p>Last update of terms and conditions: 17/09/2025</p>
+              <p>Last update of terms and conditions: 21/10/2025</p>
            </div>
         </div>
      </body>

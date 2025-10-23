@@ -3,12 +3,118 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Les faitz de Jésus Christ et du pape : Édition critique</title>
+            <respStmt>
+               <resp>Direction du projet SETAF.</resp>
+               <persName xml:id="DSC">
+                  <forename>Daniela</forename>
+                  <surname>Solfaroli Camillocci</surname>
+                  <ptr type="orcid" target="0000-0002-2601-668X"/>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Supervision et modélisation de l’édition, encodage du texte et des métadonnées.</resp>
+               <persName xml:id="GG">
+                  <forename>Geneviève</forename>
+                  <surname>Gross</surname>
+                  <ptr type="orcid" target="0009-0006-5367-4262"/>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Mise en ligne de l’édition via TEI Publisher et accompagnement à l’encodage.</resp>
+               <persName xml:id="EL">
+                  <forename>Elina</forename>
+                  <surname>Leblanc</surname>
+                  <ptr type="orcid" target="0009-0009-4556-8840"/>
+               </persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <publisher>Projet SETAF</publisher>
+            <authority>Institut Histoire de la Réformation (IHR), université de Genève</authority>
+            <address>
+               <addrLine>22 boulevard des Philosophes</addrLine>
+               <addrLine>CH-1211 Genève</addrLine>
+            </address>
+            <availability status="restricted" n="CC-BY">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+               <p>Creative Commons Attribution 4.0 CC BY 4.0</p>
+            </availability>
+            <date when="2023-10-27"/>
          </publicationStmt>
          <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>Suisse</country>
+                  <settlement>Genève</settlement>
+                  <institution>Musée historique de la Réformation</institution>
+                  <idno type="shelfmark">MHR K LUT 8</idno>
+               </msIdentifier>
+               <msContents>
+                  <p>
+                     <biblStruct>
+                        <monogr>
+                           <!-- AUTEUR -->
+                           <author>
+                              <persName>
+                                 <surname>Anonyme</surname>
+                              </persName>
+                           </author>
+                           <!-- TITRE -->
+                           <title type="complete_title">Les faitz de Jésus Christ et du pape, par lesquelz chascun pourra facilement congnoistre la grande différence d'entre eulx, nouvellement reveuz, corrigez, et augmentez selon la verité de la saincte Escripture, et des droictz canons, par le lecteur du sainct Palais.</title>
+                           <title type="short_title">Les faitz de Jésus Christ et du pape.</title>
+                           <imprint>
+                              <!-- LIEU DE PUBLICATION ET IMPRIMEUR -->
+                              <pubPlace cert="medium" ref="geonames:2660646">Genève</pubPlace>
+                              <respStmt>
+                                 <resp>Imprimeur</resp>
+                                 <persName>
+                                    <surname>Michel</surname>
+                                    <forename>Jean</forename>
+                                 </persName>
+                              </respStmt>
+                              <!-- DATE DE PUBLICATION -->
+                              <date cert="low">1538/44</date>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                  </p>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <dim>In-4°</dim>
+                           <signatures>A-M4</signatures>
+                        </support>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <additional>
+                  <surrogates>
+                     <bibl>
+                        <ref target="https://www.e-rara.ch/mhr_g/content/titleinfo/3930463"/>
+                        <relatedItem type="original">
+                           <ref>e-rara</ref>
+                        </relatedItem>
+                        <availability>
+                           <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en"/>
+                           <p>Images : Public Domain Mark (e-rara)</p>
+                           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                           <p>Édition : CC BY</p>
+                        </availability>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>
+                        <ref target="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=1406">
+                           <orgName>GLN 15-16</orgName>
+                           <idno>1406</idno>
+                        </ref>
+                     </bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
             <listWit>
                <witness xml:id="LatW1521">
                   <msDesc>
