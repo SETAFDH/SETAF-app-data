@@ -177,7 +177,7 @@
                       <title type="manchette"/>
                       <dim unit="mm">118 x 96</dim>
                       <locus type="page">Aij</locus>
-                      <objectType>gravure sur bois </objectType>
+                      <objectType>gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00086460">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
                         <author role="artiste">Lucas Cranach</author>
@@ -442,7 +442,7 @@
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb10150230">
                         <title type="titre_ouvrage">Rosarius, Antitheses de praeclaris Christi et indignis antichristi, in Johannes Wolf, Lectionum memorabilium et reconditarum centenarii</title>
                         <author role="artiste"/>
-                        <publisher>Leonhard Reinmichel </publisher>
+                        <publisher>Leonhard Reinmichel</publisher>
                         <pubPlace>Lauingen</pubPlace>
                         <date>1600</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+W+4211">VD16 W 4211</idno>

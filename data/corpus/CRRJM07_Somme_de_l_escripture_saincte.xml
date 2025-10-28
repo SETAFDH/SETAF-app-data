@@ -117,6 +117,7 @@
                   <surrogates>
                      <bibl>
                         <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k328613m"/>
+                        <ptr target="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k328613m/manifest.json"/>
                         <relatedItem type="original">
                            <ref target="#BNF_8-T-5341_1">Gallica</ref>
                         </relatedItem>

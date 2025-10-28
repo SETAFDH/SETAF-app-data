@@ -13,7 +13,7 @@
         </respStmt>
         <respStmt>
           <name xml:id="EL">Elina Leblanc</name>
-          <resp>Encodage TEI et mise en ligne des données</resp>
+          <resp>Encodage TEI et mise en ligne des données.</resp>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -57,7 +57,7 @@
                       <locus type="page">Freiburg, Universitätsbibliothek, Hs 334, f. 15v</locus>
                       <objectType>enluminure</objectType>
                       <bibl source="https://dl.ub.uni-freiburg.de/diglit/hs334/0033">
-                        <title type="titre_ouvrage">Bilderbibel </title>
+                        <title type="titre_ouvrage">Bilderbibel</title>
                         <author role="artiste"/>
                         <publisher/>
                         <pubPlace>Alsace</pubPlace>
@@ -102,14 +102,14 @@
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm"/>
-                      <locus type="page"/>
+                      <locus type="page">Paris, BnF, fr. 177, f. 282v</locus>
                       <objectType>enluminure</objectType>
                       <bibl source="ark:/12148/btv1b10520115p">
                         <title type="titre_ouvrage">Ludolphe de Saxe, Vie de Jésus Christ</title>
                         <author role="artiste">Jean Bourdichon</author>
                         <publisher/>
                         <pubPlace/>
-                        <date>None</date>
+                        <date>[s.d.]</date>
                         <availability>
                           <licence>Source gallica.bnf.fr / Bibliothèque nationale de France, Département des Manuscrits, Français 177 - Public Domain</licence>
                         </availability>

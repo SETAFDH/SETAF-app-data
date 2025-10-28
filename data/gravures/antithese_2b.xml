@@ -258,11 +258,11 @@
                       <title type="manchette"/>
                       <dim unit="mm"/>
                       <locus type="page">XIv</locus>
-                      <objectType>gravure sur bois </objectType>
+                      <objectType>gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb10196497">
-                        <title type="titre_ouvrage">Ulrich von Richental, Das Concilium so zu Constantz </title>
+                        <title type="titre_ouvrage">Ulrich von Richental, Das Concilium so zu Constantz</title>
                         <author role="artiste">Jörg Breu l'Ancien</author>
-                        <publisher>Heinrich  Steiner</publisher>
+                        <publisher>Heinrich Steiner</publisher>
                         <pubPlace>Augsburg</pubPlace>
                         <date>1536</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+2202">VD16 R 2202</idno>

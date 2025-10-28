@@ -126,6 +126,7 @@
                   <surrogates>
                      <bibl>
                         <ref target="https://onb.digital/result/10338742"/>
+                        <ptr target="https://api.onb.ac.at/iiif/presentation/v3/manifest/10338742"/>
                         <relatedItem type="original">
                            <ref target="#NB_79.H.47">ONB</ref>
                         </relatedItem>

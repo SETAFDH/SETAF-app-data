@@ -117,6 +117,7 @@
                   <surrogates>
                      <bibl>
                         <ref target="https://onb.digital/result/1091C9D3"/>
+                        <ptr target="https://api.onb.ac.at/iiif/presentation/v3/manifest/1091C9D3"/>
                         <relatedItem type="original">
                            <ref target="#NB_79_K_60">ÖNB Digital</ref>
                         </relatedItem>

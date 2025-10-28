@@ -110,6 +110,7 @@
                   <surrogates>
                      <bibl>
                         <ref target="https://onb.digital/result/103BE0A8"/>
+                        <ptr target="https://api.onb.ac.at/iiif/presentation/v3/manifest/103BE0A8"/>
                         <relatedItem type="original">
                            <ref target="#NB_48.V.87">ÖNB Digital</ref>
                         </relatedItem>

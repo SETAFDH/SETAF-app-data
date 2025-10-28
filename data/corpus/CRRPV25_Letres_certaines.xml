@@ -126,6 +126,7 @@
                   <surrogates>
                      <bibl>
                         <ref target="https://digitale-sammlungen.de/en/view/bsb10194057"/>
+                        <ptr target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10194057/manifest"/>
                         <relatedItem type="original">
                            <ref target="#SB_Polem._1608">Münchener Digitalisierungszentrum (MDZ)</ref>
                         </relatedItem>

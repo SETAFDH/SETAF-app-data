@@ -116,6 +116,7 @@
                   <surrogates>
                      <bibl>
                         <ref target="https://luna.manchester.ac.uk/luna/servlet/detail/Manchester~91~1~425957~192597"/>
+                        <ptr target="https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~425957~192597/manifest"/>
                         <relatedItem type="original">
                            <ref target="#UML_R166109">The University of Manchester Library</ref>
                         </relatedItem>
