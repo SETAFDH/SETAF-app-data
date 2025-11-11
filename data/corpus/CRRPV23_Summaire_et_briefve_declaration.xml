@@ -69,8 +69,8 @@
             </respStmt>
          </titleStmt>
          <extent>
-            <measure unit="total_images" n="218"/>
-            <measure unit="processed_images" n="208"/>
+            <measure unit="total_images" n="p. 218"/>
+            <measure unit="processed_images" n="p. 208"/>
          </extent>
          <publicationStmt>
             <publisher>Projet SETAF</publisher>
@@ -87,11 +87,11 @@
          </publicationStmt>
          <sourceDesc>
             <msDesc>
-               <msIdentifier xml:id="BGE_Bc_3379">
+               <msIdentifier xml:id="BGE_BGE_Bc_3379">
                   <country>Suisse</country>
                   <settlement>Genève</settlement>
                   <institution>Bibliothèque de Genève</institution>
-                  <idno type="shelfmark">Bc 3379</idno>
+                  <idno type="shelfmark">BGE Cth 2508 / BGE Bc 3379</idno>
                </msIdentifier>
                <msContents>
                   <p>
@@ -133,10 +133,9 @@
                <additional>
                   <surrogates>
                      <bibl>
-                        <ref target="http://dx.doi.org/10.3931/e-rara-5944"/>
-                        <ptr target="https://www.e-rara.ch/i3f/v20/1751692/manifest"/>
+                        <ref target="https://doi.org/10.3931/e-rara-5944"/>
                         <relatedItem type="original">
-                           <ref target="#BGE_Bc_3379">e-rara</ref>
+                           <ref target="#BGE_BGE_Bc_3379">e-rara</ref>
                         </relatedItem>
                         <availability>
                            <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en"/>
@@ -167,15 +166,16 @@
       <encodingDesc>
          <projectDesc>
             <p>Ce corpus numérique s'inscrit dans le cadre du projet SETAF <ref target="https://www.unige.ch/setaf/"/>, dirigé par la Prof·e Daniela Solfaroli Camillocci (IHR) 
-               et financé par le FNS : <ref target="https://data.snf.ch/grants/grant/205056"/>. </p>
+               et financé par le FNS : <ref target="https://data.snf.ch/grants/grant/205056"/>.</p>
          </projectDesc>
          <editorialDecl>
             <correction>
                <p>Voir le guide de transcription du projet SETAF : <ref target="https://hal.science/hal-04281804"/>. La segmentation a été produite manuellement 
-                  et la transcription issue de l'OCR a été vérifiée. </p>
+                  et la transcription issue de l'OCR a été vérifiée.</p>
             </correction>
             <normalization>
-               <p>Un guide de normalisation est en cours de publication. Concernant la normalisation intermédiaire ou semi-diplomatique, cette transcription a été normalisée.</p>
+               <p>Pour les règles de normalisation, voir l'article suivant : <ref target="https://hal.science/hal-05137564"/>. Concernant la normalisation intermédiaire ou semi-diplomatique, 
+                  cette transcription a été normalisée.</p>
             </normalization>
          </editorialDecl>
          <appInfo>
@@ -214,14 +214,14 @@
                <term type="intermediary_reg_quality">gold</term>
                <term type="advanced_reg_quality">not applicable</term>
                <term type="ling_annotation">oui</term>
-               <term type="ling_annotation_quality">not applicable</term>
+               <term type="ling_annotation_quality">silver</term>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
          <change when="2023-11-24" who="#SS">Création du fichier TEI P5.</change>
-         <change when="2023-04-25" who="#MD">Normalisation intermédiaire terminée.</change>
-         <change when="2025-05-02" who="#SS">Révision des métadonnées.</change>
+         <change when="2023-04-25" who="#MD">Normalisation intermédiaire ou semi-diplomatique terminée.</change>
+         <change when="2025-05-15" who="#SS">Révision des métadonnées.</change>
       </revisionDesc>
    </teiHeader>
    <sourceDoc>
