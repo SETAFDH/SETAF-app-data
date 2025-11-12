@@ -20,7 +20,7 @@
                </persName>
             </respStmt>
             <respStmt>
-               <resp>Analyse de mise en page (zonage), révision de l’OCR et ncodage des métadonnées.</resp>
+               <resp>Analyse de mise en page (zonage), révision de l’OCR et encodage des métadonnées.</resp>
                <persName xml:id="MD">
                   <forename>Mylène</forename>
                   <surname>Dejouy</surname>
@@ -53,8 +53,8 @@
             </respStmt>
          </titleStmt>
          <extent>
-            <measure unit="total_images" n="p. 1"/>
-            <measure unit="processed_images" n="p. 1"/>
+            <measure unit="total_images" n="1 p."/>
+            <measure unit="processed_images" n="1 p."/>
          </extent>
          <publicationStmt>
             <publisher>Projet SETAF</publisher>
@@ -122,7 +122,12 @@
                         <relatedItem type="original">
                            <ref target="#BPUN_BPUN_ZU_292">RERO Doc</ref>
                         </relatedItem>
-                        <!-- Droits de diffusion à demander et IIIF avec Hedera -->
+                        <availability>
+                           <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en"/>
+                           <p>Images : Public Domain Mark (RERO Doc)</p>
+                           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                           <p>Édition : CC BY</p>
+                        </availability>                     
                      </bibl>
                   </surrogates>
                   <listBibl>

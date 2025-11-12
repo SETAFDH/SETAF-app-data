@@ -45,8 +45,8 @@
             </respStmt>
          </titleStmt>
          <extent>
-            <measure unit="total_images" n="p. 863"/>
-            <measure unit="processed_images" n="p. 22"/>
+            <measure unit="total_images" n="863 p."/>
+            <measure unit="processed_images" n="22 p."/>
          </extent>
          <publicationStmt>
             <publisher>Projet SETAF</publisher>
@@ -79,7 +79,7 @@
                                  <forename>Matthieu</forename>
                               </persName>
                            </author>
-                           <title type="complete_title">Indice des principales matieres contenues en la Bible en laquelle les lecteurs pourront trouver et practiquer plusieurs lieux communs</title>
+                           <title type="complete_title">Indice des principales matieres contenues en la Bible en laquelle les lecteurs pourront trouver et practiquer plusieurs lieux communs.</title>
                            <title type="short_title">Indice des principales matieres contenues en la Bible.</title>
                            <imprint>
                               <pubPlace cert="high" ref="geonames:2659496">Neuchâtel</pubPlace>
