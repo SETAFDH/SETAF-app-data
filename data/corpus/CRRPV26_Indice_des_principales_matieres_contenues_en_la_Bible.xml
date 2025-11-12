@@ -18389,11 +18389,13 @@
                   <reg type="intermediary">¶ Amour de nous envers</reg>
                </choice>
             </hi>
-            <lb type="DefaultLine" corresp="#f2_eSc_line_aaccd3ee_ligne_48"/>
-            <choice>
-               <orig>nostre prochain.</orig>
-               <reg type="intermediary">nostre prochain.</reg>
-            </choice>
+            <hi>
+               <lb type="HeadingLine" corresp="#f2_eSc_line_aaccd3ee_ligne_48"/>
+               <choice>
+                  <orig>nostre prochain.</orig>
+                  <reg type="intermediary">nostre prochain.</reg>
+               </choice>
+            </hi>
             <lb type="DefaultLine" corresp="#f2_eSc_line_6b59bab8_ligne_49"/>
             <choice>
                <orig>Tous animaulx ayment leurs sembla</orig>
@@ -35269,11 +35271,13 @@
                   <reg type="intermediary">¶ Sacrificateurs/</reg>
                </choice>
             </hi>
-            <lb type="DefaultLine" corresp="#f19_eSc_line_5a90177f_ligne_7"/>
-            <choice>
-               <orig>ou prebstres.</orig>
-               <reg type="intermediary">ou prebstres.</reg>
-            </choice>
+            <hi>
+               <lb type="HeadingLine" corresp="#f19_eSc_line_5a90177f_ligne_7"/>
+               <choice>
+                  <orig>ou prebstres.</orig>
+                  <reg type="intermediary">ou prebstres.</reg>
+               </choice>
+            </hi>
             <lb type="DefaultLine" corresp="#f19_eSc_line_924a247c_ligne_8"/>
             <choice>
                <orig>Des sacrificateurs/ uoyez Leuiti.x.b</orig>
