@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="antithèse_1a">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Antithese_1a">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>antithèse_1a </title>
+        <title>Antithèse 1a</title>
         <respStmt>
           <name xml:id="BR">Brigitte Roux</name>
           <resp>Sélection et description des gravures. Supervision des recherches et de la mise en ligne.</resp>
@@ -28,8 +28,9 @@
             <graphic url="https://www.e-rara.ch/i3f/v20/4518839/full/full/0/default.jpg"/>
             <figDesc>
               <title type="titre_gravure">Le Christ refuse la couronne du royaume terrestre</title>
-              <title type="titre_courant">Jesus Christ fuyt le royaume terrien. </title>
-              <title type="manchette">Rengna fugit Christus </title>
+              <title type="titre_courant">Jesus Christ fuyt le royaume terrien.</title>
+              <title type="manchette">Rengna fugit Christus</title>
+              
               <dim unit="mm">116 x 96</dim>
               <locus type="page">[12]</locus>
               <objectType>gravure sur bois</objectType>
@@ -49,7 +50,7 @@
               <list type="exemplaires_similaires">
                 <item n="1">
                   <figure>
-                    <graphic url="resources/images/gravures/1a_Bilderbibel.webp"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/bilderbibel_f15v.jpg/full/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -73,14 +74,14 @@
                 
                 <item n="2">
                   <figure>
-                    <graphic url="resources/images/gravures/1a_Hussitencodex.webp"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/hussitencodex_f18v.jpg/full/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 18v</locus>
                       <objectType>enluminure</objectType>
-                      <bibl source="#">
+                      <bibl source="SUB Göttingen- Copie numérique achetée - Droits obtenus">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -101,10 +102,10 @@
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
-                      <dim unit="mm"/>
+                      <dim unit="mm">430 x 310 mm (f. enti</dim>
                       <locus type="page">Paris, BnF, fr. 177, f. 282v</locus>
                       <objectType>enluminure</objectType>
-                      <bibl source="ark:/12148/btv1b10520115p">
+                      <bibl source="https://gallica.bnf.fr/ark:/12148/btv1b10520115p?rk=21459;2">
                         <title type="titre_ouvrage">Ludolphe de Saxe, Vie de Jésus Christ</title>
                         <author role="artiste">Jean Bourdichon</author>
                         <publisher/>
@@ -121,15 +122,15 @@
                 
                 <item n="4">
                   <figure>
-                    <graphic url="resources/images/gravures/1a_JenaCodex.webp"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/ienacodex_f13v.png/full/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm">313 x 213</dim>
                       <locus type="page">Praha, Národní muzeum, IV B 24, f. 13v</locus>
                       <objectType>enluminure</objectType>
-                      <bibl source="https://www.esbirky.cz/predmet/180453">
-                        <title type="titre_ouvrage">Jena Codex </title>
+                      <bibl source="https://new.manuscriptorium.com/hub/catalog/default/detail/single/manuscriptorium%7CAIPDIG-NMP___IV_B_24_____3TQMIOE-cs?lang=en">
+                        <title type="titre_ouvrage">Jena Codex</title>
                         <author role="artiste"/>
                         <publisher/>
                         <pubPlace/>
@@ -139,7 +140,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Les quatre  évangélistes, debout sur une bande de terre, déroulent des phylactères inscrits d'extraits des évangiles en tchèque (Mc 10, Lc 12, Jn 8, Mt 7), qui tous témoignent de l'humilité et de la pauvreté du Christ. Ceux-ci rappellent qu'il a refusé d'être couronné roi du monde. Cette enluminure suit la satire hussite de Göttingen. Deux citations bibliques sur ces phylactères sont identiques à celles des Faits (Lc 12 et Jn 8).</note>
+                    <note type="commentaire">Les quatre  évangélistes, debout sur une bande de terre, déroulent des phylactères inscrits d'extraits des évangiles en tchèque (Mc 10, Lc 12, Jn 8, Mt 7), qui tous témoignent de l'humilité et de la pauvreté du Christ. Ceux-ci rappellent qu'il a refusé d'être couronné roi du monde. Cette enluminure suit la satire hussite de Göttingen. Deux citations bibliques sur ces phylactères sont identiques à celles des Faits (Lc 12 et Jn 8). Bibliographie: Kamil Boldan (ed.), The Jena Codex, Prague, 2009, p. 109.</note>
                   </figure>
                 </item>
                 
@@ -150,22 +151,22 @@
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm">118 x 96</dim>
-                      <locus type="page"> [Av]</locus>
+                      <locus type="page">[Av]</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00086460">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
-                        <author role="artiste"/>
+                        <author role="artiste">Lucas Cranach</author>
                         <publisher>[Johann Rhau-Grunenberg]</publisher>
                         <pubPlace>[Wittenberg]</pubPlace>
                         <date>[1521]</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 L 5584</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC 683162</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 n° L 5584</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC n° 683162</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek,  Res/4 H.eccl. 870,11, urn:nbn:de:bvb:12-bsb00086460-6 - Public Domain</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Un groupe composé d'hommes et de femmes, ainsi que des disciples, suit le Christ pour lui offrir une couronne. Celui-ci s'en détourne pour s'enfuir dans un bois. </note>
+                    <note type="commentaire">Un groupe composé d'hommes et de femmes vêtus à la mode contemporaine, ainsi que des disciples, suivent le Christ pour lui offrir une couronne. Celui-ci s'en détourne pour s'enfuir dans un bois voisin. </note>
                   </figure>
                 </item>
                 
@@ -173,8 +174,8 @@
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00088259_00004/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">Regna fugit Christus</title>
-                      <title type="manchette">Christus flog das irdisch Reich.</title>
+                      <title type="titre_courant">Christus flog das irdisch Reich.</title>
+                      <title type="manchette">Regna fugit Christus</title>
                       <dim unit="mm">118 x 96</dim>
                       <locus type="page">[Av]</locus>
                       <objectType>gravure sur bois</objectType>
@@ -184,14 +185,14 @@
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
                         <date>1521</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 L 5582</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC 683166</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek, Res/4 H.eccl. 870, 9, urn:nbn:de:bvb:12-bsb00088259-3 - Public Domain</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Reprise de la gravure du Passional de Wittenberg, mais inversée et simplifiée. La gravure des Faits s'en inspire directement tout en modifiant la représentation du ciel et les physionomies, et en raidissantt les hachures. </note>
+                    <note type="commentaire">Reprise de la gravure du Passional de Wittenberg, mais inversée et simplifiée. La gravure des Faits s'en inspire directement tout en modifiant la représentation du ciel et les physionomies, et en raidissantt le système de hachures. </note>
                   </figure>
                 </item>
                 
@@ -199,8 +200,8 @@
                   <figure>
                     <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bd6t53789915t/f10/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">Jesus Christ fuyt le royaume terrien.</title>
+                      <title type="titre_courant">Jesus Christ fuyt le royaume terrien. </title>
+                      <title type="manchette"/>
                       <dim unit="mm">116 x 96</dim>
                       <locus type="page">[Aiijv]</locus>
                       <objectType>gravure sur bois</objectType>
@@ -210,7 +211,7 @@
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
                         <date>[1534]</date>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC 9471</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN-4486</idno>
                         <availability>
                           <licence>Source gallica.bnf.fr / Bibliothèque de l'histoire du protestantisme français - Public Domain</licence>
@@ -222,7 +223,7 @@
                 </item>
                 
                 <item n="faits">
-                    <graphic url="https://www.e-rara.ch/i3f/v20/4518839/full/full/0/default.jpg"/>
+                  <graphic url="https://www.e-rara.ch/i3f/v20/4518839/full/full/0/default.jpg"/>
                 </item>
                 
                 <item n="8">
@@ -235,19 +236,19 @@
                       <locus type="page">p. LXXXVIII</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb11059013">
-                        <title type="titre_ouvrage">Evangelien und Episteln des Newen Testament </title>
+                        <title type="titre_ouvrage">Evangelien und Episteln des Newen Testament</title>
                         <author role="artiste"/>
                         <publisher>Bartholomäus Grüninger</publisher>
                         <pubPlace>Colmar</pubPlace>
                         <date>1543</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+E+4468">VD16 E 4468</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/654810">USTC 654810</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+E+4468">VD16 n° E 4468</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/654810">USTC n° 654810</idno>
                         <availability>
                           <licence>Regensburg, Staatliche Bibliothek, 999/2Script.339, urn:nbn:de:bvb:12-bsb11059013-2 - No Copyright - Non-commercial Use Only</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure du Passional imprimé à Strasbourg en 1521, dans un contexte non polémique: pour illustrer le passage de Jn 8, comme dans les Faits. </note>
+                    <note type="commentaire">Remploi de la gravure du Passional (Strasbourg, 1521), dans un contexte non polémique: pour illustrer le passage de Jn 8, comme dans les Faits. </note>
                   </figure>
                 </item>
                 
@@ -255,9 +256,9 @@
                   <figure>
                     <graphic url="https://www.e-rara.ch/i3f/v20/11282327/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">In celsis latuit locis Iesus / Quum Regem hunc populus creare vellet.</title>
-                      <dim unit="mm">40 x 65</dim>
+                      <title type="titre_courant">In celsis latuit locis Iesus / Quum Regem hunc populus creare vellet.</title>
+                      <title type="manchette"/>
+                      <dim unit="mm">45 x 60</dim>
                       <locus type="page">p. 9</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
@@ -266,7 +267,7 @@
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
                         <date>1557</date>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/450469">USTC 450469</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/450469">USTC n° 450469</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-2028">GLN-2028</idno>
                         <availability>
                           <licence>Source e-rara.ch / Bibliothèque de Genève, BGE Cth 2566 BGE Bc 3499 - Public Domain</licence>
@@ -281,18 +282,18 @@
                   <figure>
                     <graphic url="https://www.e-rara.ch/i3f/v20/11943185/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">Iesus voulant sur la terre estre,/ Fuit, pour n'estre fait roy terrestre.</title>
-                      <dim unit="mm">60 x 45</dim>
+                      <title type="titre_courant">Iesus voulant sur la terre estre,/ Fuit, pour n'estre fait roy terrestre.</title>
+                      <title type="manchette"/>
+                      <dim unit="mm">45 x 60</dim>
                       <locus type="page">p. 9</locus>
                       <objectType>gravure sur bois</objectType>
-                      <bibl source="https://doi.org/10.3931/e-rara-33085">
+                      <bibl source="https://doi.org/10.3931/e-rara-33085 ">
                         <title type="titre_ouvrage">Antithese des faicts de Jesus Christ et du pape</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>[Zacharie Durant]</publisher>
                         <pubPlace>[Genève]</pubPlace>
                         <date>1560</date>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/41782">USTC 41782</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/41782">USTC n° 41782</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-2150">GLN-2150</idno>
                         <availability>
                           <licence>Source e-rara.ch / BPU Neuchâtel, Bibliothèque des Pasteurs, PA P.100.3.18 - Public Domain</licence>
@@ -307,9 +308,9 @@
                   <figure>
                     <graphic url="https://digi.ub.uni-heidelberg.de/diglitData/image/rosarius1560/4/00_017.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">Da man wolt Christ zum kuͤnig welen / Heymlich thut er sich davon stelen.</title>
-                      <dim unit="mm">45 x 55</dim>
+                      <title type="titre_courant">Da man wolt Christ zum kuͤnig welen / Heymlich thut er sich davon stelen.</title>
+                      <title type="manchette"/>
+                      <dim unit="mm">45 x 58 </dim>
                       <locus type="page">p. 17</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
@@ -318,8 +319,8 @@
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
                         <date>[1558 ou 1560?]</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 R 3100</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC 611941</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
                           <licence>Universitätsbibliothek Heidelberg - Public Domain</licence>
                         </availability>
@@ -333,8 +334,8 @@
                   <figure>
                     <graphic url="https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~425957~192597page11/full/!1024,1024/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">Iesus Christ fuyt le Royaume terrien. </title>
+                      <title type="titre_courant">Iesus Christ fuyt le Royaume terrien. </title>
+                      <title type="manchette"/>
                       <dim unit="mm">116 x 96</dim>
                       <locus type="page">[A4v]</locus>
                       <objectType>gravure sur bois</objectType>
@@ -344,6 +345,7 @@
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
                         <date>1562</date>
+                        <idno type="USTC"/>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -357,9 +359,9 @@
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00034957_00030/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">Christus kein koͤnigliche Kron / Noch sein Reich will auff erden han.</title>
-                      <dim unit="mm">47 x 55</dim>
+                      <title type="titre_courant">Christus kein Koͤnigliche Kron / Noch sein Reich will auff erden han.</title>
+                      <title type="manchette"/>
+                      <dim unit="mm">45 x 58 </dim>
                       <locus type="page">p. 13</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb00034957">
@@ -368,8 +370,8 @@
                         <publisher>Johannes Mayer</publisher>
                         <pubPlace>Heidelberg</pubPlace>
                         <date>1563</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3101">VD16 R 3101</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611940">USTC 611940</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3101">VD16 n° R 3101</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611940">USTC n° 611940</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek, Polem. 95, urn:nbn:de:bvb:12-bsb00034957-6 - Public Domain</licence>
                         </availability>
@@ -385,17 +387,17 @@
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
-                      <dim unit="mm">112 x 97</dim>
+                      <dim unit="mm">118 x 96</dim>
                       <locus type="page">44v</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="http://dx.doi.org/10.25673/opendata2-4005">
                         <title type="titre_ouvrage">Passional Christi und Antichristi, in Der erste Theil Der Bücher, Schrifften, und Predigten des Ehrwirdigen Herrn, D. Martin Luthers</title>
-                        <author role="artiste"/>
+                        <author role="artiste">Lucas Cranach</author>
                         <publisher>Urban Gaubisch</publisher>
                         <pubPlace>Eisleben</pubPlace>
                         <date>1564</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+3357">VD16 L 3357</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/633247">USTC 633247</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+3357">VD16 n° L 3357</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/633247">USTC n° 633247</idno>
                         <availability>
                           <licence>Halle, Universitäts- und Landesbibliothek Sachsen-Anhalt - Public Domain</licence>
                         </availability>
@@ -407,10 +409,10 @@
                 
                 <item n="15">
                   <figure>
-                    <graphic url="resources/images/gravures/1a_RosierTeghenstellinghe1583.webp"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/teghenstellinghe_A7v.png/full/max/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">Jesus niet soechend eertsche saken / Vloodt alsmen hem Coninck won maken.</title>
+                      <title type="titre_courant">Jesus niet soechend eertsche saken / Vloodt als men hem Coninck wou maken.</title>
+                      <title type="manchette"/>
                       <dim unit="mm"/>
                       <locus type="page">[A7v]</locus>
                       <objectType>gravure sur bois</objectType>
@@ -420,13 +422,13 @@
                         <publisher>[Gillis van den Rade]</publisher>
                         <pubPlace>[Anvers]</pubPlace>
                         <date>1583</date>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/414609">USTC 414609</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/414609">USTC n° 414609</idno>
                         <availability>
                           <licence>Bruxelles, KBR, Réserve précieuse, II 28.595 A - Reproduction published with permission</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Adaptation de la gravure de l'Antithesis de praeclaris Christi et indignis Papae facinoribus (1557), avec quelques modifications de détail par rapport à la composition d'Eskrich.</note>
+                    <note type="commentaire">Adaptation de la gravure de l'Antithesis de praeclaris Christi et indignis Papae facinoribus (1557), avec quelques modifications mineures.</note>
                   </figure>
                 </item>
                 
@@ -434,8 +436,8 @@
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10150230_00736/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">In celsis latuit locis Iesus, / Cum Regem hunc populus creare vellet.</title>
+                      <title type="titre_courant">In celsis latuit locis Iesus, / Cum Regem hunc populus creare vellet.</title>
+                      <title type="manchette"/>
                       <dim unit="mm"/>
                       <locus type="page">t. II, p. 674 [p. 716]</locus>
                       <objectType>gravure sur bois</objectType>
@@ -445,8 +447,8 @@
                         <publisher>Leonhard Reinmichel </publisher>
                         <pubPlace>Lauingen</pubPlace>
                         <date>1600</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+W+4211">VD16 W 4211</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/667979">USTC 667979</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+W+4211">VD16 n° W 4211</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/667979">USTC n° 667979</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek, 2 Var. 57-2, urn:nbn:de:bvb:12-bsb10150230-5 - No Copyright - Non-commercial Use Only</licence>
                         </availability>
@@ -460,18 +462,18 @@
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11118482_00094/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">Jesus sich gar hoch ther verhaͤlen / Als Volck ihn wolt zum Koͤnig wehlen.</title>
+                      <title type="titre_courant">Jesus sich gar hoch ther verhaͤlen / Als Volck ihn wolt zum Koͤnig wehlen.</title>
+                      <title type="manchette"/>
                       <dim unit="mm"/>
                       <locus type="page">p. 72</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb11118482">
-                        <title type="titre_ouvrage">Antithesis und Gegensatz Christi und des Antichrists (en vers), in Johann von Münster, Parallela christiana et antichristiana</title>
-                        <author role="artiste"/>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis und Gegensatz Christi und des Antichrists (en vers), in Johann von Münster, Parallela christiana et antichristiana</title>
+                        <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>Johann Lancelot</publisher>
                         <pubPlace>Heidelberg</pubPlace>
                         <date>1619</date>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/2109152">USTC 2109152</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/2109152">USTC n° 2109152</idno>
                         <availability>
                           <licence>Regensburg, Staatliche Bibliothek, 999/Theol.syst.694, urn:nbn:de:bvb:12-bsb11118482-7 - No Copyright - Non-commercial Use Only</licence>
                         </availability>
@@ -487,7 +489,7 @@
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
-                      <dim unit="mm"/>
+                      <dim unit="mm">118 x 96</dim>
                       <locus type="page">f. 598</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb11059700">
@@ -496,7 +498,7 @@
                         <publisher>Johann Michael</publisher>
                         <pubPlace>Altenburg</pubPlace>
                         <date>1661</date>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/2562861">USTC 2562861</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/2562861">USTC n° 2562861</idno>
                         <availability>
                           <licence>Regensburg, Staatliche Bibliothek, 999/2Theol.syst.138(1, urn:nbn:de:bvb:12-bsb11059700-7 - No Copyright - Non commercial Use Only</licence>
                         </availability>
@@ -507,8 +509,7 @@
                 </item>
               </list>
             </figDesc>
-            
-            <note>Un groupe d'hommes (dont l'apôtre Pierre) s’approche du Christ pour lui tendre une couronne. Celui-ci la refuse et s’en détourne. La scène se déroule dans un paysage semé d’arbres, couronné d’un château à l’arrière-plan. Par rapport au Passional, les Faits éliminent les figures féminines du groupe de suiveurs du Christ et simplifient le paysage. </note>
+            <note>Un groupe d'hommes, les uns vêtus de manière contemporaine, les autres de façon intemporelle (en tête desquels l'apôtre Pierre?), s’approche du Christ pour lui tendre une couronne. Celui-ci la refuse et s’en détourne. La scène se déroule dans un paysage semé d’arbres, avec une colline à l'arrière-plan couronnée d’un château. Par rapport au Passional, les Faits éliminent les figures féminines du groupe de suiveurs du Christ et simplifient la représentation de la végétation.</note>
           </figure>
         </p>
       </sourceDesc>

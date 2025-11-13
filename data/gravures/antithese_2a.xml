@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="antithèse_2a">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="antithese_2a">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>antithèse_2a</title>
+        <title>Antithèse 2a</title>
         <respStmt>
           <name xml:id="BR">Brigitte Roux</name>
           <resp>Sélection et description des gravures. Supervision des recherches et de la mise en ligne.</resp>
@@ -13,7 +13,7 @@
         </respStmt>
         <respStmt>
           <name xml:id="EL">Elina Leblanc</name>
-          <resp>Encodage TEI et mise en ligne des données</resp>
+          <resp>Encodage TEI et mise en ligne des données.</resp>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -30,6 +30,7 @@
               <title type="titre_gravure">Le couronnement d'épines</title>
               <title type="titre_courant">Jesus despine si est couronne piteusement.</title>
               <title type="manchette">Spinosam christus.</title>
+              
               <dim unit="mm">116 x 96</dim>
               <locus type="page">[16]</locus>
               <objectType>gravure sur bois</objectType>
@@ -49,15 +50,15 @@
               <list type="exemplaires_similaires">
                 <item n="1">
                   <figure>
-                    <graphic url="resources/images/gravures/2a_Bilderbibel.webp"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/bilderbibel_f3v.jpg/full/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm">295 x 215</dim>
                       <locus type="page">Freiburg, Universitätsbibliothek, Hs 334, f. 34v</locus>
                       <objectType>enluminure</objectType>
-                      <bibl source="https://dl.ub.uni-freiburg.de/diglit/hs334/0071  ">
-                        <title type="titre_ouvrage">Bilderbibel </title>
+                      <bibl source="https://dl.ub.uni-freiburg.de/diglit/hs334/0071">
+                        <title type="titre_ouvrage">Bilderbibel</title>
                         <author role="artiste"/>
                         <publisher/>
                         <pubPlace>Alsace</pubPlace>
@@ -73,7 +74,7 @@
                 
                 <item n="2">
                   <figure>
-                    <graphic url="resources/images/gravures/2a_Hussitencodex.webp"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/hussitencodex_f12v.jpg/full/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -97,7 +98,7 @@
                 
                 <item n="3">
                   <figure>
-                    <graphic url="https://sammlungenonline.albertina.at/iiif%2Fimages%2fDG1926_694.JPG/full/full/0/native.jpg"/>
+                    <graphic url="https://sammlungenonline.albertina.at/apis/iiif/image/v2/47950/full/full/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -105,7 +106,7 @@
                       <locus type="page"/>
                       <objectType>gravure sur cuivre</objectType>
                       <bibl source="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[DG1926/694]&amp;showtype=record">
-                        <title type="titre_ouvrage">Couronnement d'épines (tiré de la série de la  Passion du Christ)</title>
+                        <title type="titre_ouvrage">Couronnement d'épines (tiré de la série de la Passion du Christ)</title>
                         <author role="artiste">Meister E.S.</author>
                         <publisher/>
                         <pubPlace/>
@@ -121,7 +122,7 @@
                 
                 <item n="4">
                   <figure>
-                    <graphic url="https://sammlungenonline.albertina.at/iiif%2Fimages%2fDG1926_1457.JPG/full/full/0/native.jpg"/>
+                    <graphic url="https://sammlungenonline.albertina.at/apis/iiif/image/v2/48095/full/full/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -145,7 +146,7 @@
                 
                 <item n="5">
                   <figure>
-                    <graphic url="resources/images/gravures/2a_JenaCodex.webp"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/ienacodex_f29v.png/full/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -153,7 +154,7 @@
                       <locus type="page">Praha, Národní muzeum, IV B 24, f. 29v</locus>
                       <objectType>enluminure</objectType>
                       <bibl source="https://www.esbirky.cz/predmet/180453">
-                        <title type="titre_ouvrage">Jena Codex </title>
+                        <title type="titre_ouvrage">Jena Codex</title>
                         <author role="artiste"/>
                         <publisher/>
                         <pubPlace/>
@@ -163,13 +164,15 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">L'enluminure représente le Christ de face, enveloppé dans un manteau de couleur rouge/pourpre. Assis sur un siège rectangulaire (évoquant un tombeau?), il est couronné d'épines par deux bourreaux.  Comme dans le Hussitencodex, cette image fait face à la représentation de deux canonistes, Johannes Andreae et Bartolomeo da Brescia qui portent des textes évoquant le luxe des vêtements des lettrés et des docteurs (f. 30r).</note>
+                    <note type="commentaire">L'enluminure représente le Christ de face, enveloppé dans un manteau de couleur rouge/pourpre. Assis sur un siège rectangulaire (évoquant un tombeau?), il est couronné d'épines par deux bourreaux.  Comme dans le Hussitencodex, cette image fait face à la représentation de deux canonistes, Johannes Andreae et Bartolomeo da Brescia qui portent des textes évoquant le luxe des vêtements des lettrés et des docteurs (f. 30r).
+
+Bibliographie: Kamil Boldan (ed.), The Jena Codex, Prague, 2009, p. 127. </note>
                   </figure>
                 </item>
                 
                 <item n="6">
                   <figure>
-                    <graphic url="https://sammlungenonline.albertina.at/iiif%2Fimages%2fDG1929_134.JPG/full/full/0/native.jpg"/>
+                    <graphic url="https://sammlungenonline.albertina.at/apis/iiif/image/v2/48327/full/full/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -182,7 +185,6 @@
                         <publisher/>
                         <pubPlace/>
                         <date>1509</date>
-                        
                         <availability>
                           <licence>Wien, Albertina, DG1929/134 - Public Domain</licence>
                         </availability>
@@ -202,25 +204,25 @@
                       <locus type="page">[Biij]</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="https://ub-itb.ub.unibas.ch/fr/detail/itbdruck_9927808970105504">
-                        <title type="titre_ouvrage">Betrachtung des Leidens Jesu Christi</title>
+                        <title type="titre_ouvrage">Disz ist ein schöne und fast nutzbar betrachchtung des lidens Jesu Christi</title>
                         <author role="artiste"/>
                         <publisher>[Nicolaus Lamparter]</publisher>
                         <pubPlace>[Basel]</pubPlace>
                         <date>1509</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+Z+ 4516">VD16 ZV 4516</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/640279">USTC 640279</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+Z+ 4516">VD16 n° ZV 4516</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/640279">USTC n° 640279</idno>
                         <availability>
                           <licence>Source e-rara.ch / Universitätsbibliothek Basel, UBH FP VI 19:2 - Public Domain</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Insérée dans un ouvrage sur la contemplation des souffrances du Christ, cette gravure représente la dérision du Christ: assis de face, il subit les assauts des bourreaux disposés autour de lui comme dans les Faits . </note>
+                    <note type="commentaire">Insérée dans un ouvrage sur la contemplation des souffrances du Christ, cette gravure représente la dérision du Christ: assis de face, il subit les assauts des bourreaux disposés autour de lui comme dans les Faits.</note>
                   </figure>
                 </item>
                 
                 <item n="8">
                   <figure>
-                    <graphic url="https://sammlungenonline.albertina.at/iiif%2Fimages%2fDG1934_220.JPG/full/full/0/native.jpg"/>
+                    <graphic url="https://sammlungenonline.albertina.at/apis/iiif/image/v2/50081/full/full/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -228,7 +230,7 @@
                       <locus type="page"/>
                       <objectType>gravure sur bois </objectType>
                       <bibl source="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[DG1934/220]&amp;showtype=record">
-                        <title type="titre_ouvrage">Couronnement d'épines (tiré de la Petite  Passion)</title>
+                        <title type="titre_ouvrage">Couronnement d'épines (tiré de la Petite Passion)</title>
                         <author role="artiste">Albrecht Dürer</author>
                         <publisher/>
                         <pubPlace/>
@@ -251,7 +253,7 @@
                       <dim unit="mm">163 x 96</dim>
                       <locus type="page">Gand, Musée des Beaux-Arts</locus>
                       <objectType>huile sur bois</objectType>
-                      <bibl source="https://mskgent.be/collection/work/data/1913-S ">
+                      <bibl source="https://mskgent.be/collection/work/data/1913-S">
                         <title type="titre_ouvrage">Le Couronnement d'épines</title>
                         <author role="artiste">Maître du retable Pflock</author>
                         <publisher/>
@@ -262,7 +264,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le couronnement d'épines est un épisode de la Passion du Christ. La composition est assez traditionnelle : au centre, on voit le Christ assis sur une pierre, les mains menottées et le corps couvert de plaies. Il maîtrise les moqueries et les tortures de ses bourreaux. Deux d'entre eux appuient des bâtons en croix sur sa tête. Il s'agit d'une métaphore du Christ dans le pressoir, où le Christ est "pressé" comme une grappe de raisin mystique. Il s'agit également d'une référence claire à l'Eucharistie. Les types populaires, presque caricaturaux, des bourreaux et l'utilisation de couleurs vives sont typiques de l'art médiéval allemand. L'œuvre rappelle Lucas Cranach, l'un des plus importants artistes allemands, à qui elle était autrefois attribuée. Tiré du site du musée de Gand. REPRENDRE</note>
+                    <note type="commentaire">Au centre, le Christ assis sur une marche en pierre, les mains liées  et le corps couvert de plaies de la flagellation est torturé par des bourreaux aux traits caricaturaux, les uns se moquent de lui, les autres le couronnent d'épines, dans une composition proche des compositions de Lucas Cranach.</note>
                   </figure>
                 </item>
                 
@@ -274,21 +276,21 @@
                       <title type="manchette"/>
                       <dim unit="mm">118 x 96</dim>
                       <locus type="page">[Aijv]</locus>
-                      <objectType>gravure sur bois </objectType>
+                      <objectType>gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00086460">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
                         <author role="artiste">Lucas Cranach</author>
                         <publisher>[Johann Rhau-Grunenberg]</publisher>
                         <pubPlace>[Wittenberg]</pubPlace>
                         <date>1521</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 L 5584</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC 683162</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 n° L 5584</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC n° 683162</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek,  Res/4 H.eccl. 870,11, urn:nbn:de:bvb:12-bsb00086460-6 - Public Domain</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Lucas Cranach reprend la composition d'ensemble de la dérision du Christ de sa série de la Passion (1509). Toutefois, il modifie l'espace, diminue le nombre de participants, et circonscrit la vue sur le Christ soumis aux outrages, avec un chien à ses pieds (que les Faits ôtent de la gravure, tout comme ils rapprochent la scène du premier plan). </note>
+                    <note type="commentaire">Lucas Cranach reprend la composition d'ensemble de la dérision du Christ de sa série de la Passion (1509). Toutefois, il modifie l'espace, diminue le nombre de participants, et circonscrit la vue sur le Christ soumis aux outrages, avec un chien à ses pieds (que les Faits suppriment de la gravure, tout comme ils rapprochent la scène du premier plan). </note>
                   </figure>
                 </item>
                 
@@ -296,8 +298,8 @@
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00088259_00006/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">Spinosam Christus</title>
-                      <title type="manchette">Christo ein dornen kronen bereit.</title>
+                      <title type="titre_courant">Christo ein dornen kron bereit.</title>
+                      <title type="manchette">Spinosam Christus</title>
                       <dim unit="mm">118 x 96</dim>
                       <locus type="page">[Aijv]</locus>
                       <objectType>gravure sur bois</objectType>
@@ -307,14 +309,14 @@
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
                         <date>1521</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 L 5582</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC 683166</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek, Res/4 H.eccl. 870, 9, urn:nbn:de:bvb:12-bsb00088259-3 - Public Domain</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le graveur s'éloigne du Passional de Cranach en inscrivant la scène dans une architecture courbe, en modifiant la pose du Christ, désormais représenté de trois-quart, et en rapprochant celui-ci du bord de l'image. Il s'inspire en partie de la même scène dans la Petite Passion de Dürer, par exemple pour le personnage agenouillé tendant un roseau, ou dans la manière de tordre la couronne d'épines. Il s'agit de la gravure dont dérive directement les Faits.</note>
+                    <note type="commentaire">Le graveur s'éloigne du Passional de Cranach en inscrivant la scène dans une architecture courbe, en modifiant la pose du Christ, désormais représenté de trois-quart, et en rapprochant celui-ci du bord de l'image. Il s'inspire en partie de la gravure de la Petite Passion de Dürer, par exemple pour le personnage agenouillé tendant un roseau, ou dans la manière de tordre la couronne d'épines. Il s'agit de la gravure dont dérivent directement les Faits.</note>
                   </figure>
                 </item>
                 
@@ -322,8 +324,8 @@
                   <figure>
                     <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bd6t53789915t/f12/full/full/0/native.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">Spinosam Christus.</title>
-                      <title type="manchette">Jesus despine si est couronne piteusement.</title>
+                      <title type="titre_courant">Jesus despine si est couronne piteusement.</title>
+                      <title type="manchette">Spinosam Christus.</title>
                       <dim unit="mm">116 x 96</dim>
                       <locus type="page">[Aiiijv]</locus>
                       <objectType>gravure sur bois</objectType>
@@ -333,7 +335,7 @@
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
                         <date>[1534]</date>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC 9471</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN-4486</idno>
                         <availability>
                           <licence>Source gallica.bnf.fr / Bibliothèque de l'histoire du protestantisme français - Public Domain</licence>
@@ -345,16 +347,16 @@
                 </item>
                 
                 <item n="faits">
-                  <graphic url="https://www.e-rara.ch/i3f/v20/4518843/full/full/0/default.jpg"/>
+                  <graphic url="https://www.e-rara.ch/i3f/v20/4518839/full/full/0/default.jpg"/>
                 </item>
                 
                 <item n="13">
                   <figure>
                     <graphic url="https://www.e-rara.ch/i3f/v20/11282371/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">Spinosa tegitur pius corona:/ Rideturque malis parens Iesus.</title>
-                      <dim unit="mm">60 x 45</dim>
+                      <title type="titre_courant">Spinosa tegitur pius corona:/ Rideturque malis parens Iesus.</title>
+                      <title type="manchette"/>
+                      <dim unit="mm">45 x 60</dim>
                       <locus type="page">p. 53</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
@@ -363,7 +365,7 @@
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
                         <date>1557</date>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/450469">USTC 450469</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/450469">USTC n° 450469</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-2028">GLN-2028</idno>
                         <availability>
                           <licence>Source e-rara.ch / Bibliothèque de Genève, BGE Cth 2566 BGE Bc 3499 - Public Domain</licence>
@@ -378,9 +380,9 @@
                   <figure>
                     <graphic url="https://www.e-rara.ch/i3f/v20/11943229/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">De Iesus Christ le chef tresdigne / Est couronné d'une aspre espine.</title>
-                      <dim unit="mm">60 x 45</dim>
+                      <title type="titre_courant">De Iesus Christ le chef tresdigne / Est couronné d'une aspre espine.</title>
+                      <title type="manchette"/>
+                      <dim unit="mm">45 x 60</dim>
                       <locus type="page">p. 53</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.3931/e-rara-33085 ">
@@ -389,7 +391,7 @@
                         <publisher>[Zacharie Durant]</publisher>
                         <pubPlace>[Genève]</pubPlace>
                         <date>1560</date>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/41782">USTC 41782</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/41782">USTC n° 41782</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-2150">GLN-2150</idno>
                         <availability>
                           <licence>Source e-rara.ch / BPU Neuchâtel, Bibliothèque des Pasteurs, PA P.100.3.18 - Public Domain</licence>
@@ -404,9 +406,9 @@
                   <figure>
                     <graphic url="https://digi.ub.uni-heidelberg.de/diglitData/image/rosarius1560/4/00_105.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">Christus mit einer doͤrnen kron / Wird kroͤnt verlacht mit spot und hon.</title>
-                      <dim unit="mm">45 x 55</dim>
+                      <title type="titre_courant">Christus mit einer doͤrnen kron / Wird kroͤnt, verlacht mit spot und hon.</title>
+                      <title type="manchette"/>
+                      <dim unit="mm">45 x 58 </dim>
                       <locus type="page">p. 105</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
@@ -415,8 +417,8 @@
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
                         <date>[1558 ou 1560?]</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 R 3100</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC 611941</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
                           <licence>Universitätsbibliothek Heidelberg - Public Domain</licence>
                         </availability>
@@ -430,8 +432,8 @@
                   <figure>
                     <graphic url="https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~425957~192597page15/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">Iesus d'espine si est couronné piteusement.</title>
+                      <title type="titre_courant">Iesus d'espine si est couronné piteusement.</title>
+                      <title type="manchette"/>
                       <dim unit="mm">116 x 96</dim>
                       <locus type="page">[B2v]</locus>
                       <objectType>gravure sur bois</objectType>
@@ -454,9 +456,9 @@
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00034957_00096/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">Christo mit grossem Spot und hon / Auffs haupt wirdt gsezt ein doͤrnen Kron.</title>
-                      <dim unit="mm">47 x 55</dim>
+                      <title type="titre_courant">Christo mit grossem spot und hon / Auffs haupt wirdt gsezt ein doͤrnen Kron.</title>
+                      <title type="manchette"/>
+                      <dim unit="mm">45 x 58 </dim>
                       <locus type="page">p. 79</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb00034957">
@@ -465,8 +467,8 @@
                         <publisher>Johannes Mayer</publisher>
                         <pubPlace>Heidelberg</pubPlace>
                         <date>1563</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3101">VD16 R 3101</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611940">USTC 611940</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3101">VD16 n° R 3101</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611940">USTC n° 611940</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek, Polem. 95, urn:nbn:de:bvb:12-bsb00034957-6 - Public Domain</licence>
                         </availability>
@@ -478,36 +480,38 @@
                 
                 <item n="18">
                   <figure>
-                    <graphic url="resources/images/gravures/2a_Teghenstellinghe1583.webp"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/teghenstellinghe_D5v.png/full/max/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">Ghecroont wert Christus hooft seer schoone / Met doornen scherp als met een croone.</title>
+                      <title type="titre_courant">Ghecroo[n]t wert Christus hooft seer schoone / Met doornen scherp als met een croone.</title>
+                      <title type="manchette"/>
                       <dim unit="mm"/>
                       <locus type="page">[D5v]</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="https://opac.kbr.be/LIBRARY/doc/SYRACUSE/11842130">
                         <title type="titre_ouvrage">Teghenstellinghe oft Verghelyckinghe der Wercken Jesu Christi ende des paus </title>
-                        <author role="artiste">d'après le modèle de Bernard Salomon</author>
+                        <author role="artiste">[d'après le modèle de Bernard Salomon]</author>
                         <publisher>[Gillis van den Rade]</publisher>
                         <pubPlace>[Anvers]</pubPlace>
                         <date>1583</date>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/414609">USTC 414609</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/414609">USTC n° 414609</idno>
                         <availability>
                           <licence>Bruxelles, KBR, Réserve précieuse, II 28.595 A - Reproduction published with permission</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dérision et couronement d'épines qui ne dérive pas du modèle de l'Antithesis de praeclaris Christi et indignis Papae facinoribus (1557) comme la plupart des gravures de cette traduction en néerlandais, mais des Figures du Nouveau Testament, paru pour la 1e fois à Lyon chez Jean de Tournes en 1554, gravées par Bernard Salomon. Il s'inspire ici de la Petite Passion de Dürer (1509/1511). Le Christ est placé de profil sur le côté gauche, assailli par trois hommes, dont l'un agenouillé à ses pieds, lui tend un roseau pour sceptre. Un groupe de témoins est représenté au fond de la salle, à gauche. </note>
+                    <note type="commentaire">La gravure représentant la dérision et le couronement d'épines ne dérive pas du modèle de l'Antithesis de praeclaris Christi et indignis Papae facinoribus (1557) comme la plupart des celles illustrant cette traduction en néerlandais, mais est un remploi des Figures du Nouveau Testament, paru pour la première fois à Lyon chez Jean de Tournes en 1554, gravées par Bernard Salomon. La compositin s'inspire de la Petite Passion de Dürer (1509/1511). Le Christ est placé de profil sur le côté gauche, assailli par trois hommes, dont l'un agenouillé à ses pieds lui tend un roseau pour sceptre. Un groupe de témoins est représenté au fond de la salle, à gauche. 
+
+Bibliographie: Peter Sharratt, Bernard Salomon, illustrateur lyonnais, Genève, Droz, 2005, pp. 129-150.</note>
                   </figure>
                 </item>
                 
                 <item n="19">
                   <figure>
-                    <graphic url="https://content.staatsbibliothek-berlin.de/dc/821752456-0084/full/full/0/default.jpg"/>
+                    <graphic url="https://content.staatsbibliothek-berlin.de/dc/821752456-0086/full/full/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
-                      <dim unit="mm">136 x 93</dim>
+                      <dim unit="mm">100 x 67</dim>
                       <locus type="page">[Evijv]</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="http://resolver.staatsbibliothek-berlin.de/SBB0001988600000000">
@@ -516,8 +520,8 @@
                         <publisher>Johann Balhorn</publisher>
                         <pubPlace>Lübeck</pubPlace>
                         <date>1599</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+B+4881">VD16 B 4881</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683172">USTC 683172</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+B+4881">VD16 n° B 4881</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683172">USTC n° 683172</idno>
                         <availability>
                           <licence>Staatsbibliothek zu Berlin, Preußischer Kulturbesitz - Public Domain</licence>
                         </availability>
@@ -531,9 +535,9 @@
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10150230_00758/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">Spinosas tegitur pius coronas / Rideturque malis parens Iesus.</title>
-                      <dim unit="mm"/>
+                      <title type="titre_courant">Spinosas tegitur pius coronas / Rideturque malis parens Iesus.</title>
+                      <title type="manchette"/>
+                      <dim unit="mm">106 x 68 </dim>
                       <locus type="page">t. II, p. 738</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb10150230">
@@ -542,8 +546,8 @@
                         <publisher>Leonhard Reinmichel </publisher>
                         <pubPlace>Lauingen</pubPlace>
                         <date>1600</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+ + 4211">VD16  W 4211</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/667979">USTC 667979</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+ + 4211">VD16 n°  W 4211</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/667979">USTC n° 667979</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek, 2 Var. 57-2, urn:nbn:de:bvb:12-bsb10150230-5 - No Copyright - Non-commercial Use Only</licence>
                         </availability>
@@ -557,18 +561,18 @@
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11118482_00160/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette">Mit einer doͤrnin Cron, den Herrn / Croͤnens, und ihn auffs hoͤchst unehrn.</title>
+                      <title type="titre_courant">Mit einer doͤrnin Cron, den Herrn / Croͤnens, und ihn auffs hoͤchst vnehrn.</title>
+                      <title type="manchette"/>
                       <dim unit="mm"/>
                       <locus type="page">p. 138</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb11118482">
-                        <title type="titre_ouvrage">Antithesis und Gegensatz Christi und des Antichrists (en vers), in Johann von Münster, Parallela christiana et antichristiana </title>
-                        <author role="artiste"/>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis und Gegensatz Christi und des Antichrists (en vers), in Johann von Münster, Parallela christiana et antichristiana </title>
+                        <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>Johann Lancelot</publisher>
                         <pubPlace>Heidelberg</pubPlace>
                         <date>1619</date>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/2109152">USTC 2109152</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/2109152">USTC n° 2109152</idno>
                         <availability>
                           <licence>Regensburg, Staatliche Bibliothek, 999/Theol.syst.694, urn:nbn:de:bvb:12-bsb11118482-7 - No Copyright - Non-commercial Use Only</licence>
                         </availability>
@@ -584,7 +588,7 @@
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
-                      <dim unit="mm"/>
+                      <dim unit="mm">118 x 96</dim>
                       <locus type="page">[f. 600]</locus>
                       <objectType>gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb11059700">
@@ -593,7 +597,7 @@
                         <publisher>Johann Michael</publisher>
                         <pubPlace>Altenburg</pubPlace>
                         <date>1661</date>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/2562861">USTC 2562861</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/2562861">USTC n° 2562861</idno>
                         <availability>
                           <licence>Regensburg, Staatliche Bibliothek, 999/2Theol.syst.138(1, urn:nbn:de:bvb:12-bsb11059700-7 - No Copyright - Non commercial Use Only</licence>
                         </availability>
@@ -605,7 +609,7 @@
               </list>
             </figDesc>
             
-            <note>Trois bourreaux avec des bâtons entrecroisés couronnent le Christ d’épines, vêtu d’un manteau de pourpre, tandis qu'un quatrième homme agenouillé à ses pieds lui tend un roseau en guise de sceptre. Cette gravure dérive directement de la version strasbourgeoise du Passional de 1521.</note>
+            <note>Trois bourreaux avec des bâtons entrecroisés couronnentd'épines le Christ, vêtu d’un manteau de pourpre, tandis qu'un quatrième homme agenouillé à ses pieds lui tend un roseau en guise de sceptre. Cette gravure dérive directement de la version strasbourgeoise du Passional de 1521.</note>
           </figure>
         </p>
       </sourceDesc>
