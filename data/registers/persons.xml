@@ -15,14 +15,61 @@
    </teiHeader>
    <standOff>
       <listPerson>
-         <person xml:id="Boniface">
-            <!-- deux alternatives au choix: ref ou ptr -->
+         <person xml:id="Barnabas"> <!-- A COMPLETER -->
+            <name>Barnabas, Barnabé</name>
+            <persName/>
+            <birth/>
+            <death/>
+            <note/>
+            <ptr target="https://d-nb.info/gnd/118652559"/>
+         </person>
+         <person xml:id="Bertrand">
+            <name>Clément V</name>
+            <persName role="pope">Bertrand de Got</persName>
+            <birth>1264</birth>
+            <death>1314</death>
+            <note>élu au pontificat en 1305</note>
+            <ptr target="https://isni.org/isni/0000000454756495"/>
+         </person>
+         <person xml:id="Boniface"> <!-- deux alternatives au choix: ref ou ptr -->
             <name>Boniface VIII</name>
             <persName role="pope">Benedetto Caetani</persName>
             <birth>ca.1235/1240</birth>
             <death>1303</death>
             <note>élu au pontificat en 1294</note>
             <ptr target="https://isni.org/isni/0000000121242007"/>
+         </person>
+         <person xml:id="Caiphe"> <!-- A COMPLETER -->
+            <name>Caïphe</name>
+            <persName/>
+            <birth/>
+            <death/>
+            <note/>
+            <ptr target="https://d-nb.info/gnd/129446424"/>
+         </person>
+         <person xml:id="Corneille"> <!-- A COMPLETER -->
+            <name>Corneille, Cornelius</name>
+            <persName/>
+            <birth/>
+            <death/>
+            <note/>
+            <ptr target="https://d-nb.info/gnd/1192479599"/>
+         </person>
+         <person xml:id="Constantin"><!-- A COMPLETER -->
+            <name>Constantin Ier</name>
+            <persName/>
+            <birth/>
+            <death/>
+            <note/>
+            <ptr target="https://www.idref.fr/0304098109"/>
+         </person>
+         <person xml:id="Eusebe"><!-- A COMPLETER -->
+            <name>Eusèbe de Césarée</name>
+            <persName/>
+            <birth/>
+            <death/>
+            <note/>
+            <ptr target="isni:0000000122758806"/>
          </person>
          <person xml:id="Paul">
             <name>Pietro Barbo</name>
@@ -35,7 +82,8 @@
          <person xml:id="Gregoire">
             <name>Hildebrand</name>
             <persName role="pope">Grégoire VII</persName>
-            <birth>1020 <placeName>Soana</placeName>
+            <birth>1020
+               <placeName>Soana</placeName>
                <country>Italie</country>
             </birth>
             <death>1085</death>
@@ -48,8 +96,9 @@
             <note> titre crée par Louis XII en 1498</note>
             <birth>1475</birth>
             <death>1507</death>
-            <note>César Borgia, dit « le Valentinois », est le fils aîné naturel de Rodrigo Borgia
-               (pape sous le nom d'Alexandre VI) et de Vannozza Cattanei, patricienne romaine</note>
+            <note>César Borgia, dit « le Valentinois »,
+               est le fils aîné naturel de Rodrigo Borgia (pape sous le nom d'Alexandre VI) et 
+               de Vannozza Cattanei, patricienne romaine</note>
          </person>
          <person xml:id="Jean">
             <name>Jacques Duèze (ou d'Euse)</name>
@@ -57,6 +106,19 @@
             <birth>1249</birth>
             <death>1334</death>
             <note>élu au pontificat en 1316</note>
+            <note type="editor">Jacques Duèze est élu pape à Lyon pour succéder à Clément V sous le nom de Jean XXII. 
+               Il fait d'Avignon la résidence permanente du Saint-Siège. Son pontificat est marqué par la controverse au sein de l'ordre franciscain, opposant
+               les Spirituels, partisan de l'observance stricte de la règle de pauvreté absolue de saint François d'Assise, aux Conventuels. Jean XXII prend le parti des Conventuels.
+               Le pontificat de Jean XXII est également marqué par la question de la primauté pontificale qu'illustre l'intervention du pape dans le règlement du conflit opposant l'empereur Louis IV de Bavière et Frédéric d'Autriche au sujet
+               de la couronne du Saint-Empire romain germanique. En 1322, Louis de Bavière sort victorieux sur son adversaire Frédéric d'Autriche de la bataille de Mühldorf. Toutefois,
+               Jean XXII lui interdit d'exercer le pouvoir jusqu'à ce qu'il statue lui-même, en sa qualité de souverain pontife. Jean XXII affirme ainsi
+               la prééminence de la papauté sur les élections impériales. Louis de Bavière réagit et lance l'Appel de Sachsenhausnen en 1324 et avec la contribution et le soutien
+               qu'il offre à Marsile de Padoue, il défend la vision de la supérioriét de l'autorité du concile face à celle du pape. Jean XXII riposte par l'excommunication de Louis de Bavière (mars 1324)
+               Couronné empereur à Rome en 1328, Louis de Bavière dépose Jean XXII. Le franciscain spirituel Pierre de Corbière (Pietro Rainalducci) devient antipape sous le nom de Nicolas V <bibl><ref target="https://www.universalis.fr/encyclopedie/jacques-jean-xxii/"/></bibl></note>
+            <note type="editor">La bulle Unam sanctam (1302) proclame la primauté du pape et insiste sur la soumission du pouvoir temporel au pouvoir spirituel.
+               Seul le glaive spirituel peut gouverner le glaive temporel, le pape se définissant en tant que vicaire du Christ: il est nécessaire de lui être soumis.
+               La bulle s'appuie sur la théorie médiévale des « deux glaives », que possèdent le Christ. 
+               <ref>Cette bulle est cité dans l'antithèse 3, fol. C1r°</ref>.</note>
             <ptr target="https://isni.org/isni/0000000449165295"/>
          </person>
          <person xml:id="Jules">
@@ -80,7 +142,8 @@
          <person xml:id="Clement">
             <name>Jules de Médicis</name>
             <persName role="pope">Clément VII</persName>
-            <birth>1478 <placeName>Florence</placeName>
+            <birth>1478
+               <placeName>Florence</placeName>
             </birth>
             <death>1534</death>
             <note>élu au pontificat en 1523</note>
@@ -100,10 +163,44 @@
             <persName>Albert Ier</persName>
             <birth>1248</birth>
             <death>1308</death>
-            <note>roi des Romains et duc d’Autriche, fils aîné de l’empereur Rodolphe de Habsbourg
-               (1255-1308)</note>
+            <note>roi des Romains et duc d’Autriche, fils aîné de l’empereur Rodolphe de Habsbourg (1255-1308)</note>
             <ptr target="https://isni.org/isni/0000000024857405"/>
             <ptr target="https://www.idref.fr/190452730"/>
+         </person>
+         <person xml:id="Macedonius">
+            <persName>Macédonios (ou Macédonius) Ier</persName>
+            <birth/>
+            <death/>
+            <occupation>évêque de Constantinople</occupation>
+            <ptr target="https://portail.biblissima.fr/ark:/43093/descc143d39d9e592abd0dfa450286ff03d07e592804"/>
+            <ptr target="https://fr.wikipedia.org/wiki/Mac%C3%A9donios_Ier_de_Constantinople"/>
+            <note/>
+         </person>
+         <person xml:id="Lucien"> <!-- A COMPLETER -->
+            <name>Lucien de Samosate</name>
+            <persName/>
+            <birth>125</birth>
+            <death>192</death>
+            <note><bibl>Billault, Alain. “Lucien de Samosate et son œuvre”. Mixis, edited by Émeline Marquis and Alain Billault, Demopolis, 2017, <ref target="https://books.openedition.org/demopolis/2127"/>.</bibl></note>
+            <ptr target="https://www.idref.fr/026997460"/>
+            <ptr target="https://isni.org/isni/0000000355081330"/>
+         </person>
+         <person xml:id="Hus"> <!-- A COMPLETER -->
+            <name>Jan Hus</name>
+            <persName/>
+            <birth/>
+            <death/>
+            <note><bibl/></note>
+            <ptr target="https://www.idref.fr/029313570"/>
+         </person>
+         <person xml:id="Prague"> <!-- A COMPLETER -->
+            <name>Jerôme de Prague</name>
+            <persName/>
+            <birth/>
+            <death/>
+            <note><bibl>Première biogrpahie de Jérôme de Prague en allemand:<ref>https://www.unifr.ch/theo/fr/actus/news/22812/premiere-biographie-scientifique-de-jerome-de-prague-en-langue-allemande/</ref></bibl></note>
+            <ptr target="https://www.idref.fr/073682950"/>
+            <ptr target="https://isni.org/isni/0000000447108123"/>
          </person>
       </listPerson>
    </standOff>
