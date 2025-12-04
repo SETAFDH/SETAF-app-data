@@ -4761,7 +4761,7 @@
          <zone xml:id="f42_eSc_textblock_9d0edd7f" type="MainZone" n="3" ulx="54" uly="96" lrx="718" lry="1052" points="54,96 54,1052 509,1052 718,736 714,96 " source="https://iiif.onb.ac.at/images/ABO/Z167383706/00000044/54,96,664,956/full/0/default.jpg" rotate="0">
             <zone xml:id="f42_eSc_line_c400b765" type="DefaultLine" n="2" ulx="88" uly="89" lrx="695" lry="139" points="89,125 88,131 104,137 105,137 106,137 125,133 140,137 141,137 142,137 301,133 314,138 315,138 316,138 338,132 350,137 351,137 395,138 395,138 396,138 407,132 426,136 427,136 428,136 440,132 450,136 451,136 451,136 504,133 513,138 513,138 514,138 515,139 586,139 586,138 586,138 587,138 595,133 695,133 695,125 695,94 675,91 675,91 674,91 662,98 637,98 621,90 620,90 598,90 598,90 566,98 549,90 548,90 515,90 514,90 513,90 501,97 482,97 471,90 471,90 470,90 458,90 457,90 436,94 425,90 424,90 424,90 423,90 404,98 363,98 336,90 335,90 335,90 334,90 319,98 305,98 288,96 278,89 277,89 276,89 244,89 243,89 202,97 167,97 156,91 156,91 155,91 154,91 154,91 145,97 115,97 101,90 100,90 100,90 89,91 89,125 " source="https://iiif.onb.ac.at/images/ABO/Z167383706/00000044/88,89,607,50/full/0/default.jpg" rotate="0">
                <path n="2" xml:id="f42_eSc_line_c400b765_baseline_2" type="baseline" points="89,125 250,122 695,125 "/>
-               <line xml:id="f42_eSc_line_c400b765_ligne_2">Par luy plaiſant deuant Dieu l’homme eſt$</line>
+               <line xml:id="f42_eSc_line_c400b765_ligne_2">Par luy plaiſant deuant Dieu l’homme eſt</line>
             </zone>
             <zone xml:id="f42_eSc_line_71d6aa81" type="DefaultLine" n="3" ulx="597" uly="128" lrx="693" lry="181" points="598,161 597,175 616,181 617,181 618,181 619,181 620,181 627,174 652,174 691,181 693,162 693,135 670,128 669,128 668,128 667,128 652,134 631,128 630,128 629,128 598,133 598,161 " source="https://iiif.onb.ac.at/images/ABO/Z167383706/00000044/597,128,96,53/full/0/default.jpg" rotate="0">
                <path n="3" xml:id="f42_eSc_line_71d6aa81_baseline_3" type="baseline" points="599,162 694,163 "/>
@@ -36968,8 +36968,8 @@
          <ab corresp="#f42_eSc_textblock_9d0edd7f" type="MainZone">
             <lb type="DefaultLine" corresp="#f42_eSc_line_c400b765_ligne_2"/>
             <choice>
-               <orig>Par luy plaiſant deuant Dieu l’homme eſt$</orig>
-               <reg type="intermediary">Par luy plaisant deuant Dieu l’homme est$</reg>
+               <orig>Par luy plaiſant deuant Dieu l’homme eſt</orig>
+               <reg type="intermediary">Par luy plaisant deuant Dieu l’homme est</reg>
             </choice>
             <lb type="DefaultLine" corresp="#f42_eSc_line_71d6aa81_ligne_3"/>
             <choice>
