@@ -94,7 +94,7 @@
                               <pubPlace cert="medium" ref="geonames:2660646">Genève</pubPlace>
                               <respStmt>
                                  <resp>Imprimeur</resp>
-                                 <persName>
+                                 <persName role="presumed_printer">
                                     <surname>Michel</surname>
                                     <forename>Jean</forename>
                                  </persName>
