@@ -57,7 +57,7 @@
                       <dim unit="mm">295 x 215</dim>
                       <locus type="page">Freiburg, Universitätsbibliothek, Hs 334, f. 34v</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="https://dl.ub.uni-freiburg.de/diglit/hs334/0071  ">
+                      <bibl source="https://dl.ub.uni-freiburg.de/diglit/hs334/0071">
                         <title type="titre_ouvrage">Bilderbibel</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -68,7 +68,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dans la bible illustrée en allemand, les deux scènes superposées représentent en haut le couronnement d'épines, en bas la dérision du Christ. Elles distinguent deux moments contrairement aux Faits qui les réunit en une seule composition. Inscriptions: "man seczet iheu ein dörnin crone uf sin benedigetes houbt"; "Pylatus giht was sol man unserne kunige tun – ihesu – crucige in – crucige – crucige in".</note>
+                    <note type="commentaire">Dans la bible illustrée en allemand, les deux scènes superposées représentent en haut le couronnement d'épines, en bas la dérision du Christ. Elles distinguent deux moments contrairement aux <title>Faits</title> qui les réunit en une seule composition. Inscriptions: "man seczet iheu ein dörnin crone uf sin benedigetes houbt"; "Pylatus giht was sol man unserne kunige tun – ihesu – crucige in – crucige – crucige in".</note>
                   </figure>
                 </item>
                 
@@ -92,7 +92,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Deux bourreaux raillent et battent le Christ, assis de face et couronné d'épines. Cette scène est encadrée par des banderoles aux longues inscriptions (He 11,37-38, Jn 19,2, Dt 32,15 et Tim 6,8). Contrairement aux Faits, le couronnement d'épines est associé à la représentation de deux canonistes, Johannes Andreae et Bartolomeo da Brescia, dont les textes inscrits sur des phylactères critiquent le luxe des vêtements des lettrés et des docteurs (f. 13).</note>
+                    <note type="commentaire">Deux bourreaux raillent et battent le Christ, assis de face et couronné d'épines. Cette scène est encadrée par des banderoles aux longues inscriptions (He 11,37-38, Jn 19,2, Dt 32,15 et Tim 6,8). Contrairement aux <title>Faits</title>, le couronnement d'épines est associé à la représentation de deux canonistes, Johannes Andreae et Bartolomeo da Brescia, dont les textes inscrits sur des phylactères critiquent le luxe des vêtements des lettrés et des docteurs (f. 13).</note>
                   </figure>
                 </item>
                 
@@ -116,7 +116,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La petite gravure sur cuivre de Maître ES met en scène quatre bourreaux qui s'attaquent au Christ. Trois d'entre eux tordent de leur bâton la couronne d'épines, tandis que le quatrième parodie le don du sceptre royal en tendant un roseau au Christ assis de face. Il s'agit d'une iconographie traditionnelle déjà présente dans la bible allemande illustrée.  </note>
+                    <note type="commentaire">La petite gravure sur cuivre de Maître ES met en scène quatre bourreaux qui s'attaquent au Christ. Trois d'entre eux tordent de leur bâton la couronne d'épines, tandis que le quatrième parodie le don du sceptre royal en tendant un roseau au Christ assis de face. Il s'agit d'une iconographie traditionnelle déjà présente dans la bible allemande illustrée.</note>
                   </figure>
                 </item>
                 
@@ -164,8 +164,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">L'enluminure représente le Christ de face, enveloppé dans un manteau de couleur rouge (pour évoquer la pourpre de son vêtement). Assis sur un siège rectangulaire (évoquant un tombeau?), il est couronné d'épines par deux bourreaux. Comme dans le Hussitencodex, cette image fait face à la représentation de deux canonistes, Johannes Andreae et Bartolomeo da Brescia qui portent des textes évoquant le luxe des vêtements des lettrés et des docteurs (f. 30r).</note>
-                    <note type="biblio">Bibliographie: Kamil Boldan (ed.), The Jena Codex, Prague, 2009, p. 127. </note>
+                    <note type="commentaire">L'enluminure représente le Christ de face, enveloppé dans un manteau de couleur rouge (pour évoquer la pourpre de son vêtement). Assis sur un siège rectangulaire (évoquant un tombeau?), il est couronné d'épines par deux bourreaux. Comme dans le <title>Hussitencodex</title>, cette image fait face à la représentation de deux canonistes, Johannes Andreae et Bartolomeo da Brescia qui portent des textes évoquant le luxe des vêtements des lettrés et des docteurs (f. 30r).</note>
+                    <note type="biblio">Bibliographie: Kamil Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 127. </note>
                   </figure>
                 </item>
                 
@@ -215,7 +215,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Insérée dans un ouvrage sur la contemplation des souffrances du Christ, cette gravure représente la dérision du Christ: assis de face, il subit les assauts des bourreaux disposés autour de lui comme dans les Faits.</note>
+                    <note type="commentaire">Insérée dans un ouvrage sur la contemplation des souffrances du Christ, cette gravure représente la dérision du Christ: assis de face, il subit les assauts des bourreaux disposés autour de lui comme dans les <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
@@ -239,7 +239,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dans la Petite Passion de Dürer, le Christ est vu de profil, attaqué et moqué par trois bourreaux. A l'arrière de la salle voûtée se tiennent deux témoins de la scène. </note>
+                    <note type="commentaire">Dans la <title>Petite Passion</title> de Dürer, le Christ est vu de profil, attaqué et moqué par trois bourreaux. A l'arrière de la salle voûtée se tiennent deux témoins de la scène.</note>
                   </figure>
                 </item>
                 
@@ -289,7 +289,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Lucas Cranach reprend la composition de la dérision du Christ de sa série de la Passion (1509). Toutefois, il modifie l'espace, diminue le nombre de participants, et circonscrit la vue sur le Christ, vu désormais de face, soumis aux outrages, avec un chien à ses pieds (que la gravure des Faits supprime, tout comme elle rapproche la scène du premier plan). </note>
+                    <note type="commentaire">Lucas Cranach reprend la composition de la dérision du Christ de sa série de la Passion (1509). Toutefois, il modifie l'espace, diminue le nombre de participants, et circonscrit la vue sur le Christ, vu désormais de face, soumis aux outrages, avec un chien à ses pieds (que la gravure des Faits supprime, tout comme elle rapproche la scène du premier plan).</note>
                   </figure>
                 </item>
                 
@@ -315,7 +315,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le couronnement d'épines se déroule dans une architecture courbe. Le Christ est représenté de trois-quart, au premier plan de l'image. La gravure s'inspire en partie de la Petite Passion de Dürer, par exemple pour le personnage agenouillé tendant un roseau, ou dans la manière de tordre la couronne d'épines. Elle sert de modèle direct aux Faits.</note>
+                    <note type="commentaire">Le couronnement d'épines se déroule dans une architecture courbe. Le Christ est représenté de trois-quart, au premier plan de l'image. La gravure s'inspire en partie de la <title>Petite Passion</title> de Dürer, par exemple pour le personnage agenouillé tendant un roseau, ou dans la manière de tordre la couronne d'épines. Elle sert de modèle direct aux <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
@@ -341,8 +341,12 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Première édition des Faits.</note>
+                    <note type="commentaire">Première édition des <title>Faits</title>.</note>
                   </figure>
+                </item>
+                
+                <item n="faits">
+                  <graphic url="https://www.e-rara.ch/i3f/v20/4518847/full/full/0/default.jpg"/>
                 </item>
                 
                 <item n="13">
@@ -367,7 +371,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Adaptation (notamment dans l'historicisation de la scène perceptible dans les costumes des soldats romains et dans le recours à un lexique architectural classique) et miniaturisation de la gravure des Faits. L'espace se prolonge par la perspective offerte par un long couloir situé à gauche de l'image. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
+                    <note type="commentaire">Adaptation (notamment dans l'historicisation de la scène perceptible dans les costumes des soldats romains et dans le recours à un lexique architectural classique) et miniaturisation de la gravure des <title>Faits</title>. L'espace se prolonge par la perspective offerte par un long couloir situé à gauche de l'image. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
                   </figure>
                 </item>
                 
@@ -393,7 +397,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'Antithesis de praeclaris Christi et indignis Papae facinoribus (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library,  *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library,  *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
                   </figure>
                 </item>
                 
@@ -419,7 +423,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Adaptation de la gravure de l'Antithesis de praeclaris Christi et indignis Papae facinoribus (1557).</note>
+                    <note type="commentaire">Adaptation de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557).</note>
                   </figure>
                 </item>
                 
@@ -443,7 +447,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Troisième édition des Faits. </note>
+                    <note type="commentaire">Troisième édition des <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
@@ -469,7 +473,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Adaptation de la gravure de l'Antithesis Christi et Antichristi allemande en vers. La réédition sous le titre, Abdanck des neulich in Teutschland ... angestellten Jubel- oder Gnadenjars, [Johann Mayer], [Heidelberg], 1576, [https://mdz-nbn-resolving.de/details:bsb10192945], réutilise le même bois.</note>
+                    <note type="commentaire">Adaptation de la gravure de l'<title>Antithesis Christi et Antichristi</title> allemande en vers. La réédition sous le titre, <title>Abdanck des neulich in Teutschland ... angestellten Jubel- oder Gnadenjars</title>, [Johann Mayer], [Heidelberg], 1576, [https://mdz-nbn-resolving.de/details:bsb10192945], réutilise le même bois.</note>
                   </figure>
                 </item>
                 
@@ -494,8 +498,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure représentant la dérision et le couronement d'épines ne dérive pas du modèle de l'Antithesis de praeclaris Christi et indignis Papae facinoribus (1557) comme la plupart des celles illustrant cette traduction en néerlandais, mais est un remploi d'une des gravures de Bernard Salomon pour les Figures du Nouveau Testament de Charles Fontaine, paru pour la première fois à Lyon chez Jean de Tournes en 1554. La composition de Salomon s'inspire de la Petite Passion de Dürer (1509/1511). Le Christ est placé de profil sur le côté gauche, assailli par trois hommes, dont l'un agenouillé à ses pieds lui tend un roseau. Un groupe de témoins est représenté au fond de la salle, à gauche.</note>
-                    <note type="biblio">Bibliographie: Peter Sharratt, Bernard Salomon, illustrateur lyonnais, Genève, Droz, 2005, pp. 129-150.</note>
+                    <note type="commentaire">La gravure représentant la dérision et le couronement d'épines ne dérive pas du modèle de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557) comme la plupart des celles illustrant cette traduction en néerlandais, mais est un remploi d'une des gravures de Bernard Salomon pour les <title>Figures du Nouveau Testament</title> de Charles Fontaine, paru pour la première fois à Lyon chez Jean de Tournes en 1554. La composition de Salomon s'inspire de la <title>Petite Passion</title> de Dürer (1509/1511). Le Christ est placé de profil sur le côté gauche, assailli par trois hommes, dont l'un agenouillé à ses pieds lui tend un roseau. Un groupe de témoins est représenté au fond de la salle, à gauche.</note>
+                    <note type="biblio">Bibliographie: Peter Sharratt, <title>Bernard Salomon, illustrateur lyonnais</title>, Genève, Droz, 2005, pp. 129-150.</note>
                   </figure>
                 </item>
                 
@@ -521,7 +525,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Intitulé Passional, l'ouvrage ne se bâtit pas sur des couples d'antithèses comme son illustre prédécesseur de 1521. Il relate la passion du Christ illustrée de bois gravés, ainsi que de prières. Le couronnement d'épines s'inscrit dans la descendance directe de la composition de Dürer dans la Petite Passion. </note>
+                    <note type="commentaire">Intitulé <title>Passional</title>, l'ouvrage ne se bâtit pas sur des couples d'antithèses comme son illustre prédécesseur de 1521. Il relate la passion du Christ illustrée de bois gravés, ainsi que de prières. Le couronnement d'épines s'inscrit dans la descendance directe de la composition de Dürer dans la <title>Petite Passion</title>.</note>
                   </figure>
                 </item>
                 
@@ -547,7 +551,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Reprise de l'iconographie de l'Antithesis de praeclaris Christi et indignis Papae facinoribus (1557), avec une inversion du sens de l'image et une modification du format qui entraîne un rétrécissement de l'espace.</note>
+                    <note type="commentaire">Reprise de l'iconographie de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), avec une inversion du sens de l'image et une modification du format qui entraîne un rétrécissement de l'espace.</note>
                   </figure>
                 </item>
                 
@@ -572,7 +576,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Adaptation de la gravure de l'Antithesis de praeclaris Christi et indignis Papae facinoribus (1557). </note>
+                    <note type="commentaire">Adaptation de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557).</note>
                   </figure>
                 </item>
                 
@@ -597,7 +601,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Inversion de la gravure du Passional Christi und Antichristi de Wittenberg (1521), reprise dans l'édition de Eisleben (1564) [http://dx.doi.org/10.25673/opendata2-4005], et ajout d’un épais cadre ornemental.</note>
+                    <note type="commentaire">Inversion de la gravure du <title>Passional Christi und Antichristi de Wittenberg</title> (1521), reprise dans l'édition de Eisleben (1564) [http://dx.doi.org/10.25673/opendata2-4005], et ajout d’un épais cadre ornemental.</note>
                   </figure>
                 </item>
               </list>
