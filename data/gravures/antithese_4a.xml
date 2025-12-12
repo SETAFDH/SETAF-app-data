@@ -50,7 +50,7 @@
               <list type="exemplaires_similaires">
                 <item n="1">
                   <figure>
-                    <graphic url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/v46jqd77nosi/full/full/0/default.jpg"/>
+                    <graphic type="large" url="https://iiif.irht.cnrs.fr/iiif/ark:/63955/v46jqd77nosi/full/full/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -147,7 +147,7 @@
                 
                 <item n="5">
                   <figure>
-                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/VitaChristi_invRP-P-OB-2068.png/full/max/0/default.jpg"/>
+                    <graphic type="large" url="https://iiif.hedera.unige.ch/iiif/3/setaf/VitaChristi_invRP-P-OB-2068.png/full/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
