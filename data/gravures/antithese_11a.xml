@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="antithese_5a">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="antithese_11a">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Antithèse 5a</title>
+        <title>Antithèse 11a</title>
         <respStmt>
           <name xml:id="BR">Brigitte Roux</name>
           <resp>Sélection et description des gravures. Supervision des recherches et de la mise en ligne.</resp>
@@ -25,13 +25,13 @@
       <sourceDesc>
         <p>
           <figure>
-            <graphic url="https://www.e-rara.ch/i3f/v20/4518855/full/full/0/default.jpg"/>
+            <graphic url="https://www.e-rara.ch/i3f/v20/4518879/full/full/0/default.jpg"/>
             <figDesc>
-              <title type="titre_gravure">Le Christ guérit les malades</title>
-              <title type="titre_courant">Christ humble aux malades / donne guerison.</title>
-              <title type="manchette">Langores sanat.</title>
+              <title type="titre_gravure">Le Christ dispute avec les docteurs de la Loi</title>
+              <title type="titre_courant">Jesus aux choses externes / point ne sarreste.</title>
+              <title type="manchette">Quas leges dedit is.</title>
               <dim unit="mm">116 x 96</dim>
-              <locus type="page">sign. C4v</locus>
+              <locus type="page">sign. F4v</locus>
               <objectType>Gravure sur bois</objectType>
               
               <bibl source="http://dx.doi.org/10.3931/e-rara-12688">
@@ -49,38 +49,85 @@
               <list type="exemplaires_similaires">
                 <item n="1">
                   <figure>
-                    <graphic url="https://www.e-rara.ch/i3f/v20/7571023/full/full/0/default.jpg"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/bilderbibel_f24v.jpg/0,0,798,1125/700,/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
-                      <dim unit="mm">36 x 30</dim>
-                      <locus type="page">f. 13</locus>
-                      <objectType>Gravure sur bois</objectType>
-                      <bibl source="https://doi.org/10.3931/e-rara-24362">
-                        <title type="titre_ouvrage">Guilelmus Parisiensis, Postilla super epistolas et evangelia</title>
-                        <author role="artiste">Urs Graf</author>
-                        <publisher>[Michael Furter]</publisher>
-                        <pubPlace>[Basel]</pubPlace>
-                        <date>[1513]</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+E+4384">VD16 n° E 4384</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/685177">USTC n° 685177</idno>
+                      <dim unit="mm">295 x 215</dim>
+                      <locus type="page">Freiburg, Universitätsbibliothek, Hs 334, f. 24v</locus>
+                      <objectType>Enluminure</objectType>
+                      <bibl source="https://dl.ub.uni-freiburg.de/diglit/hs334/0051">
+                        <title type="titre_ouvrage">Bilderbibel</title>
+                        <author role="artiste"/>
+                        <publisher/>
+                        <pubPlace>Alsace</pubPlace>
+                        <date>vers 1410</date>
                         <availability>
-                          <licence>Source e-rara.ch / Zentralbibliothek Zürich, Rm 162 - Public Domain</licence>
+                          <licence>Freiburg, Universitätsbibliothek - Public Domain</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Pour illustrer le sermon sur la guérison du lépreux (Mt 8,1-4), la gravure représente le Christ, accompagné des apôtres, qui bénit un homme agenouillé devant eux. La scène se passe en plein air, avec un bourg figuré à l'arrrière plan. La composition est divisée par un arbre central, au pied duquel se trouve le monogramme de l'artiste, Urs Graf. Les <title>Faits</title> citent également Mt 8 dans cette partie de l'antithèse portant sur la guérison des malades.</note>
+                    <note type="commentaire">Au registre inférieur est représentée la dispute entre le Christ et saint Pierre, guidés par l'enseignement des évangiles (trois des quatre symbole des évangélistes sont figurés), contre des Juifs. L'enluminure illustre le passage de Matthieu 22,15-22 où les pharisiens interpellent le Christ au sujet du denier de César. Ce passage est absent de l'antithèse des <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
                 <item n="2">
                   <figure>
-                    <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00086460_00012/full/full/0/default.jpg"/>
+                    <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10520115p/f625/full/full/0/native.jpg"/>
+                    <figDesc>
+                      <title type="titre_courant"/>
+                      <title type="manchette"/>
+                      <dim unit="mm">143 x 172</dim>
+                      <locus type="page">Paris, BnF, fr. 177, f. 322</locus>
+                      <objectType>Enluminure</objectType>
+                      <bibl source="https://gallica.bnf.fr/ark:/12148/btv1b10520115p">
+                        <title type="titre_ouvrage">Ludolphe de Saxe, Vie de Jésus Christ (tr. fr.)</title>
+                        <author role="artiste">Jean Colombe</author>
+                        <publisher/>
+                        <pubPlace/>
+                        <date>1480-1485</date>
+                        <availability>
+                          <licence>Source gallica.bnf.fr / Bibliothèque nationale de France, Département des Manuscrits, Français 177 - Public Domain</licence>
+                        </availability>
+                      </bibl>
+                    </figDesc>
+                    <note type="commentaire">Le Christ, installé à une longue table où sont assis les disciples et les docteurs de la loi, dispute avec ces derniers au sujet des règles.</note>
+                  </figure>
+                </item>
+                
+                <item n="3">
+                  <figure>
+                    <graphic type="large" url="https://iiif.hedera.unige.ch/iiif/3/setaf/ditEsDlevenOnsLiefs.png/full/max/0/default.jpg"/>
+                    <figDesc>
+                      <title type="titre_courant"/>
+                      <title type="manchette"/>
+                      <dim unit="mm">142 x 98</dim>
+                      <locus type="page">Amsterdam, Rijksmuseum, inv. RP-P-OB-2060</locus>
+                      <objectType>Gravure sur bois</objectType>
+                      <bibl source="https://id.rijksmuseum.nl/200124611">
+                        <title type="titre_ouvrage">Ludolfus de Saxonia, Dit es dleven ons liefs heeren Jhesu Cristi</title>
+                        <author role="artiste">Master of Delft ?</author>
+                        <publisher>Henrick Eckert van Homberch</publisher>
+                        <pubPlace>Anvers</pubPlace>
+                        <date>1503</date>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/407294">USTC n° 407294</idno>
+                        <availability>
+                          <licence>Rijksmuseum Amsterdam - Public Domain</licence>
+                        </availability>
+                      </bibl>
+                    </figDesc>
+                    <note type="commentaire">La gravure découpée est issue d'un volume contenant la traduction flamande de la <title>Vita Christi</title> de Ludolphe de Saxe. Elle illustre la dispute du Christ et des pharisiens au sujet des traditions à observer au sujet des repas. Le Christ est représenté deux fois, à table et près des hommes de loi se lavant les mains.</note>
+                  </figure>
+                </item>
+                
+                <item n="4">
+                  <figure>
+                    <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00086460_00024/full/full/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm">118 x 96</dim>
-                      <locus type="page">sign. Bv</locus>
+                      <locus type="page">sign. C3v</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00086460">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
@@ -95,18 +142,18 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Christ se tient debout dans un paysage. Entouré des disciples, il prie les mains jointes pour les pauvres et les malades qui, se trouvant à ses pieds, implorent son aide. Cette gravure a servi de modèle indirect à celle des <title>Faits</title>, qui inverse le sens et simplifie la représentation du paysage, des personnages, etc.</note>
+                    <note type="commentaire">Jésus converse avec un groupe d'hommes pour lesquels une table a été dressée au second plan. L'un de ceux-ci se lave les mains, tandis qu’un autre dispute avec le Christ. Derrière lui, ses disciples sont assis à une autre table, attendant d'être servis. L'image se rapporte au passage de l'évangile de Mt 15, cité dans le <title>Passional</title>, et repris dans les <title>Faits</title> avec un ensemble d'autres citations.</note>
                   </figure>
                 </item>
                 
-                <item n="3">
+                <item n="5">
                   <figure>
-                    <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00088259_00012/full/full/0/default.jpg"/>
+                    <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00088259_00024/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">Christus in demůt wonet bey den armen.</title>
-                      <title type="manchette"> Pauper erat</title>
+                      <title type="titre_courant">Christus nichts hielt vff vsserliche berden.</title>
+                      <title type="manchette"> Quas leges deditis.</title>
                       <dim unit="mm">118 x 96</dim>
-                      <locus type="page">sign. Bv</locus>
+                      <locus type="page">sign. C3v</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00088259">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
@@ -121,74 +168,20 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Inversion et simplification de la gravure du <title>Passional</title> de Wittenberg. Elle sert de modèle direct à la gravure des <title>Faits</title>, qui s'en distingue principalement dans la réalisation des visages et des drapés.</note>
-                  </figure>
-                </item>
-                
-                <item n="4">
-                  <figure>
-                    <graphic url="https://www.e-rara.ch/i3f/v20/557820/full/full/0/default.jpg"/>
-                    <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette"/>
-                      <dim unit="mm">126 x 85</dim>
-                      <locus type="page">page de titre</locus>
-                      <objectType>Gravure sur métal</objectType>
-                      <bibl source="https://doi.org/10.3931/e-rara-1766">
-                        <title type="titre_ouvrage">Ulrich Zwingli, Der Hirt</title>
-                        <author role="artiste">Hans Holbein</author>
-                        <publisher>Christoph Froschauer</publisher>
-                        <pubPlace>Zürich</pubPlace>
-                        <date>1524</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+Z+859">VD16 n° Z 859</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/633565">USTC n° 633565</idno>
-                        <availability>
-                          <licence>Source e-rara.ch / Zentralbibliothek Zürich, 18.45,10 - Public Domain</licence>
-                        </availability>
-                      </bibl>
-                    </figDesc>
-                    <note type="commentaire">Dans l'ouvrage de Zwingli, <title>der Hirt</title>, le pasteur évangélique est identifié à la figure du bon berger. La page de titre est entourée d'une bordure ornementale de style Renaissance, à l'exception de la bande horizontale inférieure. Celle-ci représente la rencontre dans un paysage du Christ, accompagné de ses disciples, avec un groupe de pauvres et de malades. Il s'agit de la mise en image de la devise de l'imprimeur Christoph Froschauer (Mt 11,28 : "Venite ad me omnes qui laboratis et onerati estis, et ego requiem vobis praestabo"/ "Kummend zu mir alle die arbeytend und beladen sind / und ich wil üch růw geben"). Cette bordure est également utilisée dans <title>Das gantz nüw Testament recht grüntlich vertütscht</title>, paru cette même année chez Froschauer [https://doi.org/10.3931/e-rara-2010].</note>
-                    <note type="biblio">Bibliographie: <title>Zürcher Kunst nach der Reformation Hans Asper und seine Zeit</title>, cat. expo., Zürich, 1981, n° 148.</note>
-                  </figure>
-                </item>
-                
-                <item n="5">
-                  <figure>
-                    <graphic url="https://www.e-rara.ch/i3f/v20/279262/full/full/0/default.jpg"/>
-                    <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette"/>
-                      <dim unit="mm">57 x 71</dim>
-                      <locus type="page">page de titre</locus>
-                      <objectType>Gravure sur bois</objectType>
-                      <bibl source="https://doi.org/10.3931/e-rara-1021 ">
-                        <title type="titre_ouvrage">Ulrich Zwingli, Welche Ursach gebind ze Ufrůren</title>
-                        <author role="artiste"/>
-                        <publisher>Christoph Froschauer</publisher>
-                        <pubPlace>Zürich</pubPlace>
-                        <date>1525</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+Z+934">VD16 n° Z 934</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/706332">USTC n° 706332</idno>
-                        <availability>
-                          <licence>Source e-rara.ch / Zentralbibliothek Zürich, 6.173,2 - Public Domain</licence>
-                        </availability>
-                      </bibl>
-                    </figDesc>
-                    <note type="commentaire"> Le sujet de la gravure de la page de titre de cet ouvrage se réfère directement à la devise de l'imprimeur Christoph Froschauer (Mtt 11,28: "Kummend zu mir alle die arbeytend und beladen sind / und ich wil üch růw geben"). La composition diffère de celle de Hans Holbein en page de titre de l'ouvrage de Zwingli, <title>der Hirt</title>, paru une année plus tôt. Deux groupes de personnes se font face: à gauche des malades et des pauvres, à droite le Christ accompagné de ses disciples. Cette gravure apparaît à l'identique dans un deuxième ouvrage issu des presses de Froschauer cette même année, <title>Ad Ioannis Bugenhagii Pomerani Epistolam Responsio Hulrychi Zvinglii</title>. [https://doi.org/10.3931/e-rara-591]</note>
-                    <note type="biblio">Bibliographie: <title>Zürcher Kunst nach der Reformation Hans Asper und seine Zeit</title>, cat. expo., Zürich, 1981, n° 149.</note>
+                    <note type="commentaire">Jésus converse avec un groupe d'hommes pour lesquels une table a été dressée au second plan. L'un de ceux-ci se lave les mains, tandis qu’un autre dispute avec le Christ. Derrière lui, ses disciples sont assis à une autre table, attendant d'être servis. Cette gravure imite, sans l'inverser, celle du <title>Passional</title> de Wittenberg. C'est elle qui sert de modèle direct à celle ces <title>Faits</title> (voir par exemple la position du serviteur placé à droite). Les différences majeures se situent dans la réalisation des hachures, plus raides et non croisées dans les <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
                 <item n="6">
                   <figure>
-                    <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bd6t53789915t/f18/full/full/0/native.jpg"/>
+                    <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bd6t53789915t/f30/full/full/0/native.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">Christ humble aux malades donne guerison.</title>
-                      <title type="manchette">Languores sanat.</title>
+                      <title type="titre_courant">Jesus aux choses externes point ne se arreste.</title>
+                      <title type="manchette">Quas leges dedit is.</title>
                       <dim unit="mm">116 x 96</dim>
-                      <locus type="page">sign. B3v</locus>
+                      <locus type="page">sign. Dv</locus>
                       <objectType>Gravure sur bois</objectType>
-                      <bibl source="https://gallica.bnf.fr/ark:/12148/bd6t53789915t/f18">
+                      <bibl source="https://gallica.bnf.fr/ark:/12148/bd6t53789915t/f30">
                         <title type="titre_ouvrage">Faictz de Jesus Christ et du pape</title>
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
@@ -205,44 +198,69 @@
                   </figure>
                 </item>
                 
+                <item n="faits">
+                  <graphic url="https://www.e-rara.ch/i3f/v20/4518879/full/full/0/default.jpg"/>
+                </item>
+                
                 <item n="7">
                   <figure>
-                    <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00075240_00046/full/full/0/default.jpg"/>
+                    <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8706209k/f166/full/full/0/native.jpg"/>
                     <figDesc>
-                      <title type="titre_courant"/>
+                      <title type="titre_courant">Jesus reprend les juifs de leur institution</title>
                       <title type="manchette"/>
                       <dim unit="mm"/>
-                      <locus type="page">sign. F3v</locus>
+                      <locus type="page">f. 71v</locus>
                       <objectType>Gravure sur bois</objectType>
-                      <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00075240">
-                        <title type="titre_ouvrage">Doctrina, vita et passio Jesu Christi, juxta Novi Testamenti fidem</title>
-                        <author role="artiste">Hans Schäufelein</author>
-                        <publisher>Christian Egenolff</publisher>
-                        <pubPlace>Frankfurt</pubPlace>
-                        <date>1537</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+S+2228">VD16 n° S 2228</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/641093">USTC n° 641093</idno>
+                      <bibl source="https://gallica.bnf.fr/view3if/ga/ark:/12148/bpt6k8706209k">
+                        <title type="titre_ouvrage">Guillelmus de Branteghem, La vie de nostre seigneur Jesus Christ</title>
+                        <author role="artiste"/>
+                        <publisher>Conrad Néobar</publisher>
+                        <pubPlace>Paris</pubPlace>
+                        <date>1540</date>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/40015">USTC n° 40015</idno>
                         <availability>
-                          <licence>München, Bayerische Staatsbibliothek, ESlg/4 Germ.g. 90#Beibd.2, urn:nbn:de:bvb:12-bsb00075240-5 - Public Domain</licence>
+                          <licence>Source gallica.bnf.fr / Bibliothèque nationale de France, département Réserve des livres rares, D-80436 - Public Domain</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dans ce livre illustré, la guérison du lépreux est encadrée de deux citations de Mt 8, l'une en latin, l'autre en allemand. Debout près  d'un arbre, Jésus touche le front d'un homme malade agenouillé devant lui, en présence de deux de ses disciples. Contrairement aux <title>Faits</title> où le Christ est représenté en prière, c'est par son toucher qu'il effectue ici le miracle de guérison, conformément à l'iconographie traditionnelle de ce genre de miracles.</note>
+                    <note type="commentaire">Au premier plan d'un paysage, un groupe de Juifs disputent avec le Christ suivi d'un de ses disciples, pour illustrer le passage de l'évangile de Matthieu 15, qui est également cité dans les <title>Faits</title>. À l'arrière-plan, figure une scène d'exorcisme.</note>
                   </figure>
-                </item>
-                
-                <item n="faits">
-                  <graphic url="https://www.e-rara.ch/i3f/v20/4518855/full/full/0/default.jpg"/>
                 </item>
                 
                 <item n="8">
                   <figure>
-                    <graphic url="https://www.e-rara.ch/i3f/v20/11282343/full/full/0/default.jpg"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/Leyen1540.jpg/full/360,/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">Morborum generi medetur omni / Agnis Christus, opem ferens tenellis.</title>
+                      <title type="titre_courant"/>
+                      <title type="manchette"/>
+                      <dim unit="mm">73 x 73</dim>
+                      <locus type="page">p. 94</locus>
+                      <objectType>Gravure sur bois</objectType>
+                      <bibl source="#">
+                        <title type="titre_ouvrage">Leien Bibel</title>
+                        <author role="artiste">Heinrich Vogtherr</author>
+                        <publisher>Wendelin Rihel</publisher>
+                        <pubPlace>Strasbourg</pubPlace>
+                        <date>1540</date>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/708627">USTC n° 708627</idno>
+                        <availability>
+                          <licence>reproduit d'après Richard Gassen, Die Leien Bibel des Strassburger Druckers Wendelin Rihel. Kunst, Religion, Pädagogik und Buchdruck in der Reformation, Memminger Geschichtsblätter, Jh. 1983/84.</licence>
+                        </availability>
+                      </bibl>
+                    </figDesc>
+                    <note type="commentaire">Dans un intérieur voûté, le Christ, suivi de ses disciples, dispute avec un groupe d'hommes au sujet de la loi. La gravure est encadrée par deux citations, en prose au-dessus, en vers au-dessous, se rapportant toutes deux à l'évangile de Matthieu 15.</note>
+                    <note type="biblio">Bibliographie: Richard Gassen, <title>Die Leien Bibel des Strassburger Druckers Wendelin Rihel. Kunst, Religion, Pädagogik und Buchdruck in der Reformation</title>, Memminger Geschichtsblätter, 1983/84.</note>
+                  </figure>
+                </item>
+                
+                <item n="9">
+                  <figure>
+                    <graphic url="https://www.e-rara.ch/i3f/v20/11282335/full/full/0/default.jpg"/>
+                    <figDesc>
+                      <title type="titre_courant">Refert exterius parum lauari: / At lotis animis oportet esse.</title>
                       <title type="manchette"/>
                       <dim unit="mm">46 x 60</dim>
-                      <locus type="page">p. 25</locus>
+                      <locus type="page">p. 17</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
                         <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
@@ -257,18 +275,18 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">L'iconographie de cette gravure dérive de celle des <title>Faits</title>, mais selon une composition différente: au centre le Christ, tout auréolé, tient d'une main le poignet d'un malade, et de l'autre il exorcise un possédé. La scène se déroule à l'extérieur, dans un décor de collines construit d'architectures classiques. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
+                    <note type="commentaire">La gravure reprend la composition des <title>Faits</title>: à gauche les disciples sont attablés, à droite se tient un groupe de docteurs de la loi. L'un d'eux se lave les mains, un autre dispute avec le Christ debout devant lui. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
                   </figure>
                 </item>
                 
-                <item n="9">
+                <item n="10">
                   <figure>
-                    <graphic url="https://www.e-rara.ch/i3f/v20/11943201/full/full/0/default.jpg"/>
+                    <graphic url="https://www.e-rara.ch/i3f/v20/11943193/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">Christ aux malades santé donne / Et à tous bien faire s'adonne.</title>
+                      <title type="titre_courant">Christ à la chose exterieure / Arresté ne s'est aucun'heure</title>
                       <title type="manchette"/>
                       <dim unit="mm">46 x 60</dim>
-                      <locus type="page">p. 25</locus>
+                      <locus type="page">p. 17</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.3931/e-rara-33085 ">
                         <title type="titre_ouvrage">Antithese des faicts de Jesus Christ et du pape</title>
@@ -283,18 +301,18 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library,  *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library, *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
                   </figure>
                 </item>
                 
-                <item n="10">
+                <item n="11">
                   <figure>
-                    <graphic url="https://digi.ub.uni-heidelberg.de/diglitData/image/rosarius1560/4/00_049.jpg"/>
+                    <graphic url="https://digi.ub.uni-heidelberg.de/diglitData/image/rosarius1560/4/00_033.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">Christus macht alle kranckheyt gsundt / Sein Schefflein hilfft er alle stundt.</title>
+                      <title type="titre_courant">Hend waschen das macht nicht rein / Das gwissen das sol sauber sein.</title>
                       <title type="manchette"/>
                       <dim unit="mm">46 x 60 </dim>
-                      <locus type="page">p. 49</locus>
+                      <locus type="page">p. 33</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
                         <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
@@ -309,18 +327,18 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Copie rapide et schématique (en particulier les visages) de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557).</note>
+                    <note type="commentaire">Copie très fidèle de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557).</note>
                   </figure>
                 </item>
                 
-                <item n="11">
+                <item n="12">
                   <figure>
-                    <graphic url="https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~425957~192597page27/full/!1024,1024/0/default.jpg"/>
+                    <graphic url="https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~425957~192597page51/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">Christ humble aux malades / donne guerison.</title>
-                      <title type="manchette">Langores sanat. </title>
+                      <title type="titre_courant">Iesus aux choses externes / point ne s'arreste.</title>
+                      <title type="manchette">Quas leges dedit is.</title>
                       <dim unit="mm">116 x 96</dim>
-                      <locus type="page">sign. C4v</locus>
+                      <locus type="page">sign. F4v</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source=" https://luna.manchester.ac.uk/luna/servlet/s/4h4t5v">
                         <title type="titre_ouvrage">Faitz de Jesus Christ et du pape</title>
@@ -337,14 +355,14 @@
                   </figure>
                 </item>
                 
-                <item n="12">
+                <item n="13">
                   <figure>
-                    <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00034957_00054/full/full/0/default.jpg"/>
+                    <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00034957_00042/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">Christus die krancken macht gesundt / Heylet was der feind hat verwundt.</title>
+                      <title type="titre_courant">Hendt weschen macht daß hertz nicht Rein / Ein gutz gewissen hab allein.</title>
                       <title type="manchette"/>
-                      <dim unit="mm">46 x 60</dim>
-                      <locus type="page">p. 37</locus>
+                      <dim unit="mm">46 x 60 </dim>
+                      <locus type="page">p. 25</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb00034957">
                         <title type="titre_ouvrage">Antithesis d.i. kurtze Beschreibung (en prose)</title>
@@ -363,18 +381,18 @@
                   </figure>
                 </item>
                 
-                <item n="13">
+                <item n="14">
                   <figure>
-                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/teghenstellinghe_B7v.png/full/max/0/default.jpg"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/teghenstellinghe_B3v.png/full/max/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">Christus de crancke maeckt ghesont / End' heelt elck een die is ghewont.</title>
+                      <title type="titre_courant">Op eerden Christus niet en acht / D’uytwendich schijn dach nochte nacht.</title>
                       <title type="manchette"/>
-                      <dim unit="mm">68 x 45</dim>
-                      <locus type="page">sign. B7v</locus>
+                      <dim unit="mm">60 x 48</dim>
+                      <locus type="page">sign. B3v</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://opac.kbr.be/LIBRARY/doc/SYRACUSE/11842130">
                         <title type="titre_ouvrage">Teghenstellinghe oft Verghelyckinghe der Wercken Jesu Christi ende des paus</title>
-                        <author role="artiste"/>
+                        <author role="artiste">[d'ap. Bernard Salomon]</author>
                         <publisher>[Gillis van den Rade]</publisher>
                         <pubPlace>[Anvers]</pubPlace>
                         <date>1583</date>
@@ -384,23 +402,23 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Au lieu d'adapter la gravure de l'<title>Antithesis</title> (1557) comme dans la majeure partie des cas de la traduction de ce texte en flamand, remploi d'une gravure publiée dans Guillelmus van Branteghem, <title>Vie de nostre Seigneur Jesus Christ par figures</title>, Anvers, Jean Richard, 1544 (p. ciiij), dont le sujet est la résurrection de Lazare.</note>
+                    <note type="commentaire">La gravure ne suit pas le modèle de l'<title>Antithesis</title> (1557) contrairement à la majeure partie d'entre elles, mais il s'agit du remploi d'une gravure de Bernard Salomon des <title>Figures du Nouveau Testament</title> de Charles Fontaine, Lyon, Jean de Tournes, 1554,  pour illustrer les passages de Mt 22, Mc 12 et Lc 20. La dispute se déroule dans un intérieur et oppose le Christ accompagné d'un disciple à des juifs. Cette gravure sera réutilisée dans une bible illustrée en néerlandais, <title>Biblia sacra dat is de geheele heylighe schrifture bedeylt int oudt ende nieu testament</title>, Anvers, Jan I Moretus et Jan van Keerberghen, 1599 (USTC: 402496), au chapitre XXVII de l'évangile de Matthieu.</note>
                   </figure>
                 </item>
                 
-                <item n="14">
+                <item n="15">
                   <figure>
-                    <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10150230_00744/full/full/0/default.jpg"/>
+                    <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10150230_00740/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">Morborum generi medetur omni / Agnis Christus, opem ferens tenellis.</title>
+                      <title type="titre_courant">Refert exterius parum lauari: / At lotis animis oportet esse.</title>
                       <title type="manchette"/>
                       <dim unit="mm">109 x 69</dim>
-                      <locus type="page">t. II, p. 724</locus>
+                      <locus type="page">t. II, p. 720</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb10150230">
                         <title type="titre_ouvrage">Rosarius, Antitheses de praeclaris Christi et indignis antichristi, in Johannes Wolf, Lectionum memorabilium et reconditarum centenarii</title>
                         <author role="artiste"/>
-                        <publisher>Leonhard Reinmichel </publisher>
+                        <publisher>Leonhard Reinmichel</publisher>
                         <pubPlace>Lauingen</pubPlace>
                         <date>1600</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+W+4211">VD16 n° W 4211</idno>
@@ -414,14 +432,14 @@
                   </figure>
                 </item>
                 
-                <item n="15">
+                <item n="16">
                   <figure>
-                    <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11118482_00118/full/full/0/default.jpg"/>
+                    <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11118482_00106/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">Christus mancherley schwachheit heylt. / Und seyn Schaͤflein mit huͤlff zu eylt.</title>
+                      <title type="titre_courant">Inwendig solt sein huͤbsch und rein / Eusserlichs bad ist nur ein schein.</title>
                       <title type="manchette"/>
-                      <dim unit="mm">46 x 60</dim>
-                      <locus type="page">p. 96</locus>
+                      <dim unit="mm">46 x 60 </dim>
+                      <locus type="page">p. 84</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb11118482">
                         <title type="titre_ouvrage">Simon Rosarius, Antithesis und Gegensatz Christi und des Antichrists (en vers), in Johann von Münster, Parallela christiana et antichristiana</title>
@@ -435,18 +453,18 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'édition de l'<title>Antithesis</title> allemande en vers.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis</title> allemande en vers.</note>
                   </figure>
                 </item>
                 
-                <item n="16">
+                <item n="17">
                   <figure>
-                    <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11059700_00660/full/full/0/default.jpg"/>
+                    <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11059700_00672/full/full/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm">118 x 96</dim>
-                      <locus type="page">f. 603v</locus>
+                      <locus type="page">f. 609v</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb11059700">
                         <title type="titre_ouvrage">Passional Christi und Antichristi, in Martin Luther, Der 1. Teil aller Deutschen Bücher und Schrifften</title>
@@ -466,7 +484,7 @@
               </list>
             </figDesc>
             
-            <note>Le Christ se tient debout dans un paysage. Entouré des disciples, il prie les mains jointes pour les pauvres et les malades qui, se trouvant à ses pieds, implorent son aide. Aucun miracle de guérison n'est représenté: c'est la prière du seigneur pour les siens qui est le sujet de la gravure. </note>
+            <note>Jésus converse vivement avec un groupe d'hommes pour lesquels une table a été dressée au second plan. L'un de ceux-ci se lave les mains, tandis qu’un autre dispute avec le Christ. Derrière lui, ses disciples nimbés sont assis à une autre table, attendant d'être servis. Cette image se rapporte au passage de l'évangile de Mt 15, cité dans les Faits, qui rapporte la discussion que les pharisiens et les scribes ont avec le Christ au sujet du respect des traditions. </note>
           </figure>
         </p>
       </sourceDesc>

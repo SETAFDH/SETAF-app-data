@@ -40,7 +40,7 @@
                 <pubPlace>[Genève]</pubPlace>
                 <date cert="medium">[1539-1540]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
-                <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN-1406</idno>
+                <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
                   <licence>Source e-rara.ch / Genève, Musée historique de la Réformation, MHR K LUT 8 - Public Domain</licence>
                 </availability>
@@ -213,7 +213,7 @@
                         <pubPlace>[Neuchâtel]</pubPlace>
                         <date>[1534]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
-                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN-4486</idno>
+                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
                         <availability>
                           <licence>Source gallica.bnf.fr / Bibliothèque de l'histoire du protestantisme français - Public Domain</licence>
                         </availability>
@@ -250,7 +250,7 @@
                 </item>
                 
                 <item n="faits">
-                  <graphic url="https://www.e-rara.ch/i3f/v20/4518847/full/full/0/default.jpg"/>
+                  <graphic url="https://www.e-rara.ch/i3f/v20/4518849/full/full/0/default.jpg"/>
                 </item>
                 
                 <item n="9">
@@ -261,7 +261,7 @@
                       <title type="manchette"/>
                       <dim unit="mm">76 x 50</dim>
                       <locus type="page">HAldegrever AB 3.125</locus>
-                      <objectType>Gravure sur cuivre </objectType>
+                      <objectType>Gravure sur cuivre</objectType>
                       <bibl source="http://kk.haum-bs.de/?id=h-aldegrever-ab3-0125">
                         <title type="titre_ouvrage">Totentanz (d'ap. Holbein)</title>
                         <author role="artiste">Heinrich Aldegrever</author>
@@ -318,7 +318,7 @@
                         <pubPlace>[Genève]</pubPlace>
                         <date>1557</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/450469">USTC n° 450469</idno>
-                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-2028">GLN-2028</idno>
+                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-2028">GLN 15-16 n° 2028</idno>
                         <availability>
                           <licence>Source e-rara.ch / Bibliothèque de Genève, BGE Cth 2566 BGE Bc 3499 - Public Domain</licence>
                         </availability>
@@ -344,7 +344,7 @@
                         <pubPlace>[Genève]</pubPlace>
                         <date>1557</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/4285">USTC n° 4285</idno>
-                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1615">GLN-1615</idno>
+                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1615">GLN 15-16 n° 1615</idno>
                         <availability>
                           <licence>Source e-rara.ch / Bibliothèque de Genève, BGE Ctd 8265 BGE Su 480 - Public Domain</licence>
                         </availability>
@@ -370,7 +370,7 @@
                         <pubPlace>[Genève]</pubPlace>
                         <date>1560</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/41782">USTC n° 41782</idno>
-                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-2150">GLN-2150</idno>
+                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-2150">GLN 15-16 n° 2150</idno>
                         <availability>
                           <licence>Source e-rara.ch / BPU Neuchâtel, Bibliothèque des Pasteurs, PA P.100.3.18 - Public Domain</licence>
                         </availability>
@@ -446,7 +446,7 @@
                         <pubPlace>[Genève]</pubPlace>
                         <date>1562</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/566">USTC n° 566</idno>
-                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1685">GLN-1685</idno>
+                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1685">GLN 15-16 n° 1685</idno>
                         <availability>
                           <licence>Source e-rara.ch / Bibliothèque de Genève, BGE Cta 8758 BGE Ba 3058 - Public Domain</licence>
                         </availability>

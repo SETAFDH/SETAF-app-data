@@ -41,7 +41,7 @@
                 <pubPlace>[Genève]</pubPlace>
                 <date cert="medium">[1539-1540]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
-                <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN-1406</idno>
+                <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
                   <licence>Source e-rara.ch / Genève, Musée historique de la Réformation, MHR K LUT 8 - Public Domain</licence>
                 </availability>
@@ -111,7 +111,7 @@
                         <publisher>Anton Sorg</publisher>
                         <pubPlace>Augsburg</pubPlace>
                         <date>2 sept. 1483</date>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/(ISTC: M38152)">USTC n° (ISTC: M38152)</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/748554">USTC n° 748554</idno>
                         <availability>
                           <licence>SLUB Dresden, Ink.60(2), urn:nbn:de:bsz:14-db-id3671369530 - Public Domain</licence>
                         </availability>
@@ -129,7 +129,7 @@
                       <title type="manchette"/>
                       <dim unit="mm">118 x 96</dim>
                       <locus type="page">sign. A3</locus>
-                      <objectType>Gravure sur bois </objectType>
+                      <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00086460">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
                         <author role="artiste">Lucas Cranach</author>
@@ -181,7 +181,7 @@
                       <title type="manchette"/>
                       <dim unit="mm">175 x 120</dim>
                       <locus type="page">page de titre</locus>
-                      <objectType>Gravure sur bois </objectType>
+                      <objectType>Gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb10204087">
                         <title type="titre_ouvrage">Martin Luther, Von der Beycht ob die der Bapst macht hab zu gebieten</title>
                         <author role="artiste"/>
@@ -242,7 +242,7 @@
                         <pubPlace>[Neuchâtel]</pubPlace>
                         <date>[1534]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
-                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN-4486</idno>
+                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
                         <availability>
                           <licence>Source gallica.bnf.fr / Bibliothèque de l'histoire du protestantisme français - Public Domain</licence>
                         </availability>
@@ -253,7 +253,7 @@
                 </item>
                 
                 <item n="faits">
-                  <graphic url="https://www.e-rara.ch/i3f/v20/4518847/full/full/0/default.jpg"/>
+                  <graphic url="https://www.e-rara.ch/i3f/v20/4518845/full/full/0/default.jpg"/>
                 </item>
                 
                 <item n="9">
@@ -272,7 +272,7 @@
                         <pubPlace>[Genève]</pubPlace>
                         <date>1557</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/450469">USTC n° 450469</idno>
-                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-2028">GLN-2028</idno>
+                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-2028">GLN 15-16 n° 2028</idno>
                         <availability>
                           <licence>Source e-rara.ch / Bibliothèque de Genève, BGE Cth 2566 BGE Bc 3499 - Public Domain</licence>
                         </availability>
@@ -298,7 +298,7 @@
                         <pubPlace>[Genève]</pubPlace>
                         <date>1560</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/41782">USTC n° 41782</idno>
-                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-2150">GLN-2150</idno>
+                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-2150">GLN 15-16 n° 2150</idno>
                         <availability>
                           <licence>Source e-rara.ch / BPU Neuchâtel, Bibliothèque des Pasteurs, PA P.100.3.18 - Public Domain</licence>
                         </availability>
@@ -374,7 +374,7 @@
                         <pubPlace>[Genève]</pubPlace>
                         <date>1562</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/566">USTC n° 566</idno>
-                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1685">GLN-1685</idno>
+                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1685">GLN 15-16 n° 1685</idno>
                         <availability>
                           <licence>Source e-rara.ch / Bibliothèque de Genève, BGE Cta 8758 BGE Ba 3058 - Public Domain</licence>
                         </availability>
