@@ -102,7 +102,7 @@
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
-                      <dim unit="mm">98 x 72 mm (sans encadreme</dim>
+                      <dim unit="mm">98 x 72 (sans encadrement)</dim>
                       <locus type="page">sign. A</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://books.google.ch/books?id=R85baRzy4lgC&amp;hl=fr&amp;source=gbs_navlinks_s">
@@ -152,7 +152,7 @@
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
-                      <dim unit="mm">98 x 72 mm (sans encadreme</dim>
+                      <dim unit="mm">98 x 72 (sans encadrement)</dim>
                       <locus type="page">f. XVI</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb10149025">
@@ -235,7 +235,7 @@
                         <publisher>Lucas Antonio de Giunta</publisher>
                         <pubPlace>Venise</pubPlace>
                         <date>1519</date>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/???">USTC n° ???</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/820267">USTC n° 820267</idno>
                         <availability>
                           <licence>Wien, Österreichische Nationalbibliothek - No Copyright - Non-commercial Use Only</licence>
                         </availability>

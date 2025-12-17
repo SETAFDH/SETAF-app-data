@@ -86,7 +86,7 @@
                         <publisher>[Michael Furter]</publisher>
                         <pubPlace>[Basel]</pubPlace>
                         <date>1501-1517</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+Z+ 22089">VD16 n° ZV 22089</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+ZV+22089">VD16 n° ZV 22089</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/745496">USTC n° 745496</idno>
                         <availability>
                           <licence>Source e-rara.ch / Universitätsbibliothek Basel, UBH Inc 762:1 - Public Domain</licence>
@@ -114,7 +114,7 @@
                         <pubPlace>[Strasbourg]</pubPlace>
                         <date>1507</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+B+4694">VD16 n° B 4694</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/None">USTC n° None</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683068">USTC n° 683068</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek, Rar. 2059#Beibd.1, urn:nbn:de:bvb:12-bsb00021725-3 - Public Domain</licence>
                         </availability>
@@ -165,7 +165,7 @@
                         <publisher>[Symphorian Reinhart]</publisher>
                         <pubPlace>[Wittenberg]</pubPlace>
                         <date>[1512]</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+Z+ 86">VD16 n° ZV 86</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+ZV+86">VD16 n° ZV 86</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/646886">USTC n° 646886</idno>
                         <availability>
                           <licence>Universitätsbibliothek Heidelberg - Public Domain</licence>
