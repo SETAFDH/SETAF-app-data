@@ -117,6 +117,7 @@
                   <surrogates>
                      <bibl>
                         <ref target="https://opac.kbr.be/LIBRARY/doc/SYRACUSE/17967252"/>
+                        <ptr target="https://iiif.hedera.unige.ch/iiif/3/setaf/CRRJM08.pdf_page_1.png/info.json"/>
                         <relatedItem type="original">
                            <ref target="#KBR_VH_2_021_A_3_RP">KBR</ref>
                         </relatedItem>
