@@ -39,6 +39,15 @@
               <p>Depuis le catalogue du Corpus, il est possible de restreindre le nombre de documents affichés en utilisant les facettes à gauche de l’écran. Lorsque plusieurs cases sont sélectionnées dans une même catégorie, les résultats affichent soit l’un, soit l’autre, soit les deux.</p>
               <p>Lorsque plusieurs cases sont sélectionnées dans des catégories différentes, seuls les documents qui remplissent tous les critères sélectionnés sont affichés. Exemple : Pour consulter les documents qui ont été imprimés par Pierre de Vingle en 1533, les cases « Pierre de Vingle » dans la catégorie « Imprimeurs » et « 1533 » dans la catégorie « Dates » doivent être cochées.</p>
            </div>
+           
+           <div>
+              <head type="static_subtitle">La recherche via les annotations linguistiques</head>
+              
+              <p>Si la version <hi rend="italic">normalisée</hi> des textes facilite la recherche de mots-clés, il est possible d’aller encore plus loin avec les annotations linguistiques. Pour la plupart des textes, un bouton « Annotations linguistiques » renvoie à un dépôt GitHub, depuis lequel il est possible de télécharger un fichier contenant le corps du texte lemmatisé (lemmes) et annoté (syntaxe et morphologie).</p>
+              <p>Dans le français du XVIe siècle, un même mot peut présenter un grand nombre de formes graphiques. La lemmatisation permet d’identifier un seul lemme pour toutes les variantes graphiques d’un mot.</p>
+              <p>L’étiquetage syntaxique, aussi connu sous le nom de « POS tagging » (« part-of-speech tagging »), consiste à attribuer à chaque lemme une étiquette indiquant sa partie du discours (nom, verbe, adjectif, etc.). L’étiquetage morphologique, quant à lui, attribue à chaque lemme une étiquette indiquant sa morphologie (genre, nombre, temps, etc.). Grâce au contexte grammatical d’apparition d’un lemme, il est possible de fournir plus d’informations et, par exemple, de lever l’ambiguïté sur les homographes. Ce n’est qu’une des possibilités offertes par l’étiquetage des lemmes.</p>
+              <p>Pour plus de détails, voir le dépôt GitHub « <ref type="static_link" target="https://github.com/SETAFDH/Annotation-linguistique-SETAF">Annotation-linguistique-SETAF</ref> ».</p>
+           </div>
         </div>
         
         <div xml:lang="en">
@@ -62,6 +71,15 @@
               
               <p>From the Corpus catalogue, you can restrict the number of documents displayed by using the facets on the left of the screen. When several boxes are selected in the same category, the results display either one or the other, or both.</p>
               <p>When several boxes are selected in different categories, only the documents that match all the selected criteria are displayed. Example : To view documents printed by Pierre de Vingle in 1533, check the boxes "Pierre de Vingle" in the "Printers" category and "1533" in the "Dates" category.</p>
+           </div>
+           
+           <div>
+              <head type="static_subtitle">Searching via linguistic annotations</head>
+              
+              <p>While the <hi rend="italic">normalised</hi> version of the texts facilitates keyword searches, it is possible to go even further with linguistic annotations. For most texts, a ‘Linguistic annotations’ button links to a GitHub repository, from which it is possible to download a file containing the lemmatised (lemmas) and annotated (syntax and morphology) body of the text.</p>
+              <p>In 16th-century French, a single word could have many different spellings. Lemmatisation allows a single lemma to be identified for all the different spellings of a word.</p>
+              <p>Syntactic tagging, also known as POS tagging (part-of-speech tagging), consists of assigning each lemma a tag indicating its part of speech (noun, verb, adjective, etc.). Morphological tagging, on the other hand, assigns each lemma a tag indicating its morphology (gender, number, tense, etc.). Thanks to the grammatical context in which a lemma appears, it is possible to provide more information and, for example, to resolve ambiguity in homographs. This is just one of the possibilities offered by lemma tagging.</p>
+              <p>For further details, see the GitHub repository "<ref type="static_link" target="https://github.com/SETAFDH/Annotation-linguistique-SETAF">Annotation-linguistique-SETAF</ref>".</p>
            </div>
         </div>
      </body>

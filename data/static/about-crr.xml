@@ -17,15 +17,103 @@
   <text>
      <body xml:id="static">
         <div xml:lang="fr">
-           <head>À propos du Corpus Réformé Romand (CRR)</head>
+           <head type="static_main_title">À propos du Corpus Réformé Romand (CRR)</head>
            
-           <p>En construction</p>
+           <p><graphic url="../resources/images/static/tours.svg" height="150px" rend="left"/>Le Corpus Réformé Romand (CRR) numérique comprend une quarantaine de textes imprimés entre les années 1530 et 1560, principalement à Neuchâtel et Genève.</p>
+           <p>Il est organisé en quatre sous-corpus : l’un consacré aux publications de l’imprimeur Pierre de Vingle (PV), un autre à celles de Jean Michel (JM), un troisième à celles de Jean Girard (JG) et un dernier regroupant les publications issues des presses d’autres imprimeurs du réseau réformé (par exemple, Wygand Koeln, WK, ou Antoine Cercia, AC). Chaque édition est associée à un identifiant unique, construit en fonction du sous-corpus auquel il appartient : ainsi, CRRPV16 désigne la seizième édition du sous-corpus PV. Un seul exemplaire est sélectionné pour chaque édition.</p>
+           <p>Le CRR a été conçu pour permettre l’étude de l’intertextualité à l’œuvre dans la première édition des Faits ([1534 ?]), imprimée par Pierre de Vingle. C’est pourquoi il inclut l’essentiel des publications genevoises et neuchâteloises de cet imprimeur, à quelques exceptions près (voir notre catalogue). Le corpus intègre également les deux autres éditions connues des Faits ([1540 ?] et [1560 ?]), dont l’édition critique est présentée sur la page « <ref type="static_link" target="about-edition.xml">À propos des Faits</ref> ». En outre, le CRR a été élargi à d’autres textes relevant de ce même espace éditorial, en fonction des axes de recherche de l’équipe.</p>
+           <p>Pour plus d’informations, voir notre catalogue : <hi rend="italic">Catalogue du Corpus Réformé Romand (CRR) - Projet FNS SETAF (2022-2026)</hi>, prochainement disponible sur HAL.</p>
+            
+           <div>
+              <head type="static_subtitle">Accéder au corpus et effectuer des recherches</head>
+              
+              <p>Le CRR est accessible depuis l’onglet « <ref type="static_link" target="../index.html?collection=corpus">Accès au corpus</ref> ». Dans la colonne de gauche, des facettes permettent de restreindre l’affichage des textes selon différents critères : « Auteurs/Autrices », « Imprimeurs », « Lieux de publication », « Fausses adresses », « Dates » et « Lieux de conservation ».</p>
+              <p>La page « <ref type="static_link" target="aide.xml">Aide à la recherche</ref> » fournit les informations pour effectuer des recherches en plein texte dans l’ensemble du corpus et présente les possibilités de recherche avancée.</p>
+           </div>
+           
+           <div>
+              <head type="static_subtitle">Consulter les textes</head>
+              
+              <p>Les textes se présentent sous la forme d’une édition numérique de type documentaire, avec la transcription de chaque page à gauche et l’image correspondante de l’exemplaire numérisé à droite.</p>
+              <p>Deux options de consultation sont proposées : une transcription graphématique, disponible pour l’ensemble des textes, et une transcription normalisée, accessible pour la plupart d’entre eux. La transcription graphématique est produite à l’aide d’un modèle de reconnaissance optique de caractères (OCR), puis révisée par l’équipe du projet. L’option normalisée donne accès à une version semi-diplomatique de cette transcription graphématique.</p>
+              <p>Les choix de transcription et de normalisation du corpus sont détaillés sur la page « <ref type="static_link" target="criteres-corpus.xml">Critères d’édition du corpus</ref> ».</p>
+           </div>
+           
+           <div>
+              <head type="static_subtitle">Consulter les métadonnées</head>
+              
+              <p>Les métadonnées de chaque édition numérique sont accessibles via le bouton « Métadonnées ». Cet onglet précise également l’état d’avancement du traitement du texte (correction de l’OCR et normalisation du texte : oui/non).</p>
+           </div>
+           
+           <div>
+              <head type="static_subtitle">Citer les éditions</head>
+              
+              <p>L’onglet « Citation » fournit deux formats de référencement des éditions numériques du CRR. Pour plus d’informations, voir la page « <ref type="static_link" target="comment-citer.xml">Comment citer ?</ref> ».</p>
+           </div>
+           
+           <div>
+              <head type="static_subtitle">Consulter les annotations linguistiques </head>
+              
+              <p>Pour la plupart des textes, un bouton « Annotations linguistiques » renvoie à un dépôt GitHub, depuis lequel il est possible de télécharger un fichier contenant le corps du texte lemmatisé (lemmes) et annoté (syntaxe et morphologie).</p>
+              <p>Pour plus de détails, voir la page « <ref type="static_link" target="aide.xml">Aide à la recherche</ref> » et le dépôt GitHub « <ref type="static_link" target="https://github.com/SETAFDH/Annotation-linguistique-SETAF">Annotation-linguistique-SETAF</ref> ».</p>
+           </div>
+           
+           <div>
+              <head type="static_subtitle">Télécharger les textes</head>
+              
+              <p>Les textes peuvent être téléchargés aux formats PDF ou XML-TEI en cliquant sur les icônes correspondantes. Lorsque le texte est disponible à la fois en transcription graphématique et normalisée, seule cette dernière est proposée au téléchargement au format PDF.</p>
+              <p>Pour plus d’informations sur l’encodage XML-TEI du CRR et sur sa chaîne de traitement numérique, voir la page « <ref type="static_link" target="aspects-techniques.xml">Aspects techniques</ref> ».</p>
+           </div>
         </div>
         
         <div xml:lang="en">
-           <head>About the Corpus Réformé Romand (CRR)</head>
+           <head type="static_main_title">About the Corpus Réformé Romand (CRR)</head>
            
-           <p>In progress</p>
+           <p><graphic url="../resources/images/static/tours.svg" height="150px" rend="left"/>Le Corpus Réformé Romand (CRR) numérique comprend une quarantaine de textes imprimés entre les années 1530 et 1560, principalement à Neuchâtel et Genève.</p>
+           <p>Il est organisé en quatre sous-corpus : l’un consacré aux publications de l’imprimeur Pierre de Vingle (PV), un autre à celles de Jean Michel (JM), un troisième à celles de Jean Girard (JG) et un dernier regroupant les publications issues des presses d’autres imprimeurs du réseau réformé (par exemple, Wygand Koeln, WK, ou Antoine Cercia, AC). Chaque édition est associée à un identifiant unique, construit en fonction du sous-corpus auquel il appartient : ainsi, CRRPV16 désigne la seizième édition du sous-corpus PV. Un seul exemplaire est sélectionné pour chaque édition.</p>
+           <p>Le CRR a été conçu pour permettre l’étude de l’intertextualité à l’œuvre dans la première édition des Faits ([1534 ?]), imprimée par Pierre de Vingle. C’est pourquoi il inclut l’essentiel des publications genevoises et neuchâteloises de cet imprimeur, à quelques exceptions près (voir notre catalogue). Le corpus intègre également les deux autres éditions connues des Faits ([1540 ?] et [1560 ?]), dont l’édition critique est présentée sur la page « <ref type="static_link" target="about-edition.xml">À propos des Faits</ref> ». En outre, le CRR a été élargi à d’autres textes relevant de ce même espace éditorial, en fonction des axes de recherche de l’équipe.</p>
+           <p>Pour plus d’informations, voir notre catalogue : <hi rend="italic">Catalogue du Corpus Réformé Romand (CRR) - Projet FNS SETAF (2022-2026)</hi>, prochainement disponible sur HAL.</p>
+           
+           <div>
+              <head type="static_subtitle">Accéder au corpus et effectuer des recherches</head>
+              
+              <p>Le CRR est accessible depuis l’onglet « <ref type="static_link" target="../index.html?collection=corpus">Accès au corpus</ref> ». Dans la colonne de gauche, des facettes permettent de restreindre l’affichage des textes selon différents critères : « Auteurs/Autrices », « Imprimeurs », « Lieux de publication », « Fausses adresses », « Dates » et « Lieux de conservation ».</p>
+              <p>La page « <ref type="static_link" target="aide.xml">Aide à la recherche</ref> » fournit les informations pour effectuer des recherches en plein texte dans l’ensemble du corpus et présente les possibilités de recherche avancée.</p>
+           </div>
+           
+           <div>
+              <head type="static_subtitle">Consulter les textes</head>
+              
+              <p>Les textes se présentent sous la forme d’une édition numérique de type documentaire, avec la transcription de chaque page à gauche et l’image correspondante de l’exemplaire numérisé à droite.</p>
+              <p>Deux options de consultation sont proposées : une transcription graphématique, disponible pour l’ensemble des textes, et une transcription normalisée, accessible pour la plupart d’entre eux. La transcription graphématique est produite à l’aide d’un modèle de reconnaissance optique de caractères (OCR), puis révisée par l’équipe du projet. L’option normalisée donne accès à une version semi-diplomatique de cette transcription graphématique.</p>
+              <p>Les choix de transcription et de normalisation du corpus sont détaillés sur la page « <ref type="static_link" target="criteres-corpus.xml">Critères d’édition du corpus</ref> ».</p>
+           </div>
+           
+           <div>
+              <head type="static_subtitle">Consulter les métadonnées</head>
+              
+              <p>Les métadonnées de chaque édition numérique sont accessibles via le bouton « Métadonnées ». Cet onglet précise également l’état d’avancement du traitement du texte (correction de l’OCR et normalisation du texte : oui/non).</p>
+           </div>
+           
+           <div>
+              <head type="static_subtitle">Citer les éditions</head>
+              
+              <p>L’onglet « Citation » fournit deux formats de référencement des éditions numériques du CRR. Pour plus d’informations, voir la page « <ref type="static_link" target="comment-citer.xml">Comment citer ?</ref> ».</p>
+           </div>
+           
+           <div>
+              <head type="static_subtitle">Consulter les annotations linguistiques </head>
+              
+              <p>Pour la plupart des textes, un bouton « Annotations linguistiques » renvoie à un dépôt GitHub, depuis lequel il est possible de télécharger un fichier contenant le corps du texte lemmatisé (lemmes) et annoté (syntaxe et morphologie).</p>
+              <p>Pour plus de détails, voir la page « <ref type="static_link" target="aide.xml">Aide à la recherche</ref> » et le dépôt GitHub « <ref type="static_link" target="https://github.com/SETAFDH/Annotation-linguistique-SETAF">Annotation-linguistique-SETAF</ref> ».</p>
+           </div>
+           
+           <div>
+              <head type="static_subtitle">Télécharger les textes</head>
+              
+              <p>Les textes peuvent être téléchargés aux formats PDF ou XML-TEI en cliquant sur les icônes correspondantes. Lorsque le texte est disponible à la fois en transcription graphématique et normalisée, seule cette dernière est proposée au téléchargement au format PDF.</p>
+              <p>Pour plus d’informations sur l’encodage XML-TEI du CRR et sur sa chaîne de traitement numérique, voir la page « <ref type="static_link" target="aspects-techniques.xml">Aspects techniques</ref> ».</p>
+           </div>
         </div>
      </body>
   </text>

@@ -17,15 +17,141 @@
   <text>
      <body xml:id="static">
         <div xml:lang="fr">
-           <head>Aspects techniques</head>
+           <head type="static_main_title">Aspects techniques</head>
            
-           <p>En construction</p>
+           <div>
+              <head type="static_subtitle">Aspects techniques du corpus</head>
+              
+              <div>
+                 <head>❧ Chaîne de traitement numérique du corpus</head>
+                 
+                 <p rend="center">
+                    <graphic url="../resources/images/static/workflow_corpus.png" height="180px"/>
+                 </p>
+                 <p>Cette figure est tirée de la publication suivante : <hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Dejouy</hi>, Mylène, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia et <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, « <ref type="static_link" target="https://hal.science/hal-05137564">Normaliser le moyen français : du graphématique au semi-diplomatique</ref> », Marseille, France, Actes de la conférence CORIA-TALN-RJCRI-RECITAL 2025, 2025.
+                    <lb/>Pour la présentation du corpus, voir la page « <ref type="static_link" target="about-crr.xml">À propos du CRR</ref> ».
+                 </p>
+              </div>
+              
+              <div>
+                 <head>❧ Acquisition du corpus : analyse de mise en page et OCR</head>
+                 
+                 <p><graphic url="../resources/images/static/papeLoup.png" height="150px" rend="left"/>Les textes du corpus ont été traités à l’aide de l’instance eScriptorium de l’Université de Genève, <ref type="static_link" target="https://www.unige.ch/lettres/humanites-numeriques/recherche/projets/projets-de-la-chaire/fondue">FoNDUE</ref>, et des outils d’intégration continue du projet <ref type="static_link" target="https://htr-united.github.io/">HTR-United</ref>. L’analyse de la mise en page (ou zonage) suit les normes du vocabulaire <ref type="static_link" target="https://segmonto.github.io/">SegmOnto</ref>, tandis que la transcription graphématique respecte les règles décrites dans notre guide.</p>
+                 <p>
+                    La transcription a été obtenue grâce à des modèles d’OCR (Optical Character Recognition) : pour les imprimés en caractères romains, on a eu recours au modèle Gallicorpora+ ; pour les caractères gothiques, on a d’abord utilisé Cortado 2.0.0, puis une version fine-tunée de CATMuS 1.0.0, nommée <ref type="static_link" target="https://zenodo.org/records/10599911">CATMuS Gothic Print</ref>. Toutes les transcriptions ont été révisées par l’équipe du projet afin de garantir une qualité gold des données.
+                    <lb/>Pour plus de détails, voir :
+                    <list>
+                       <item><hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Gabay</hi>, Simon, <hi rend="small-caps">Gross</hi>, Geneviève, <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia et <hi rend="small-caps">Solfaroli Camillocci</hi>, Daniela, « <ref type="static_link" target="https://hal.science/hal-04281804">Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques</ref> », HAL, document de travail, version A, 2023.</item>
+                       <item><hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Gabay</hi>, Simon, <hi rend="small-caps">Humeau</hi>, Maxime, <hi rend="small-caps">Pinche</hi>, Ariane, <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia, <hi rend="small-caps">Gross</hi>, Geneviève et <hi rend="small-caps">Solfaroli Camillocci</hi>, Daniela, « <ref type="static_link" target="https://hal.science/hal-04555002">Océriser les imprimés du XVIe siècle en langue française : le cas d’un corpus romand en caractères gothiques</ref> », Meknès, Maroc, Actes du colloque Humanistica 2024, Association francophone des humanités numériques, coll. OCR, 2024.</item>
+                       <item>Les dépôts GitHub comprenant les données OCR du CRR : <ref type="static_link" target="https://github.com/SETAFDH">https://github.com/SETAFDH</ref>.</item>
+                    </list>
+                 </p>
+              </div>
+              
+              <div>
+                 <head>❧ Encodage en XML-TEI du corpus</head>
+                 
+                 <p>
+                    Le CRR est encodé au format XML-TEI, selon un schéma personnalisé. L’encodage de base a été généré par des scripts XSLT, à partir des fichiers ALTO produits dans eScriptorium. Certains éléments et les métadonnées du &lt;teiHeader&gt;, en revanche, ont été encodés manuellement.
+                    <lb/>Pour plus de détails, voir :
+                    <list>
+                       <item><hi rend="italic">Guide d’encodage XML-TEI du Corpus Réformé Romand (CRR) - Projet FNS SETAF (2022-2026)</hi>, prochainement disponible sur HAL.</item>
+                       <item>L’ODD du CRR : <ref type="static_link" target="https://github.com/SETAFDH/TEI-SETAF/tree/main/schema">https://github.com/SETAFDH/TEI-SETAF/tree/main/schema</ref>.</item>
+                       <item>Les dépôts GitHub comprenant les données TEI du CRR : <ref type="static_link" target="https://github.com/SETAFDH">https://github.com/SETAFDH</ref>.</item>
+                    </list>
+                 </p>
+                 
+                 <p>
+                    <lb/>Les choix de transcription et de normalisation du corpus sont détaillés sur la page « <ref type="static_link" target="criteres-corpus.xml">Critères d’édition du corpus</ref> ».
+                    <lb/>Pour plus de détails sur les annotations linguistiques du corpus, voir la page « <ref type="static_link" target="aide.xml">Aide à la recherche</ref> » et le dépôt GitHub « <ref type="static_link" target="https://github.com/SETAFDH/Annotation-linguistique-SETAF">Annotation-linguistique-SETAF</ref> ».
+                 </p>
+              </div>
+           </div>
+           
+           <div>
+              <head type="static_subtitle">Le site web</head>
+              
+              <p>Le site web a été réalisé avec l’application TEI-Publisher (version 9.1.0). Les fichiers XML TEI des éditions et des gravures disponibles sur le site sont séparés de l’application principale. Sur le GitHub du projet, le code du site est disponible dans le dépôt <ref type="static_link" target="https://github.com/SETAFDH/SETAF-app">setaf-app</ref> et les données dans le dépôt <ref type="static_link" target="https://github.com/SETAFDH/SETAF-app-data">setaf-app-data</ref>.</p>
+              <p>
+                 Spécifications techniques :
+                 <list>
+                    <item>eXist-DB : 6.4.0</item>
+                    <item>eXist-DB HTML Templating Library : 1.2.1</item>
+                    <item>Tei-publisher-lib : 4.0.3</item>
+                    <item>Router : 1.9.1</item>
+                    <item>OAS-Router : 0.5.1</item>
+                 </list>
+              </p>
+           </div>
         </div>
         
         <div xml:lang="en">
-           <head>Technical aspects</head>
+           <head type="static_main_title">Technical aspects</head>
            
-           <p>In progress</p>
+           <div>
+              <head type="static_subtitle">Aspects techniques du corpus</head>
+              
+              <div>
+                 <head>❧ Chaîne de traitement numérique du corpus</head>
+                 
+                 <p rend="center">
+                    <graphic url="../resources/images/static/workflow_corpus.png" height="180px"/>
+                 </p>
+                 <p>Cette figure est tirée de la publication suivante : <hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Dejouy</hi>, Mylène, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia et <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, « <ref type="static_link" target="https://hal.science/hal-05137564">Normaliser le moyen français : du graphématique au semi-diplomatique</ref> », Marseille, France, Actes de la conférence CORIA-TALN-RJCRI-RECITAL 2025, 2025.
+                    <lb/>Pour la présentation du corpus, voir la page « <ref type="static_link" target="about-crr.xml">À propos du CRR</ref> ».
+                 </p>
+              </div>
+              
+              <div>
+                 <head>❧ Acquisition du corpus : analyse de mise en page et OCR</head>
+                 
+                 <p><graphic url="../resources/images/static/papeLoup.png" height="150px" rend="left"/>Les textes du corpus ont été traités à l’aide de l’instance eScriptorium de l’Université de Genève, <ref type="static_link" target="https://www.unige.ch/lettres/humanites-numeriques/recherche/projets/projets-de-la-chaire/fondue">FoNDUE</ref>, et des outils d’intégration continue du projet <ref type="static_link" target="https://htr-united.github.io/">HTR-United</ref>. L’analyse de la mise en page (ou zonage) suit les normes du vocabulaire <ref type="static_link" target="https://segmonto.github.io/">SegmOnto</ref>, tandis que la transcription graphématique respecte les règles décrites dans notre guide.</p>
+                 <p>
+                    La transcription a été obtenue grâce à des modèles d’OCR (Optical Character Recognition) : pour les imprimés en caractères romains, on a eu recours au modèle Gallicorpora+ ; pour les caractères gothiques, on a d’abord utilisé Cortado 2.0.0, puis une version fine-tunée de CATMuS 1.0.0, nommée <ref type="static_link" target="https://zenodo.org/records/10599911">CATMuS Gothic Print</ref>. Toutes les transcriptions ont été révisées par l’équipe du projet afin de garantir une qualité gold des données.
+                    <lb/>Pour plus de détails, voir :
+                    <list>
+                       <item><hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Gabay</hi>, Simon, <hi rend="small-caps">Gross</hi>, Geneviève, <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia et <hi rend="small-caps">Solfaroli Camillocci</hi>, Daniela, « <ref type="static_link" target="https://hal.science/hal-04281804">Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques</ref> », HAL, document de travail, version A, 2023.</item>
+                       <item><hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Gabay</hi>, Simon, <hi rend="small-caps">Humeau</hi>, Maxime, <hi rend="small-caps">Pinche</hi>, Ariane, <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia, <hi rend="small-caps">Gross</hi>, Geneviève et <hi rend="small-caps">Solfaroli Camillocci</hi>, Daniela, « <ref type="static_link" target="https://hal.science/hal-04555002">Océriser les imprimés du XVIe siècle en langue française : le cas d’un corpus romand en caractères gothiques</ref> », Meknès, Maroc, Actes du colloque Humanistica 2024, Association francophone des humanités numériques, coll. OCR, 2024.</item>
+                       <item>Les dépôts GitHub comprenant les données OCR du CRR : <ref type="static_link" target="https://github.com/SETAFDH">https://github.com/SETAFDH</ref>.</item>
+                    </list>
+                 </p>
+              </div>
+              
+              <div>
+                 <head>❧ Encodage en XML-TEI du corpus</head>
+                 
+                 <p>
+                    Le CRR est encodé au format XML-TEI, selon un schéma personnalisé. L’encodage de base a été généré par des scripts XSLT, à partir des fichiers ALTO produits dans eScriptorium. Certains éléments et les métadonnées du &lt;teiHeader&gt;, en revanche, ont été encodés manuellement.
+                    <lb/>Pour plus de détails, voir :
+                    <list>
+                       <item><hi rend="italic">Guide d’encodage XML-TEI du Corpus Réformé Romand (CRR) - Projet FNS SETAF (2022-2026)</hi>, prochainement disponible sur HAL.</item>
+                       <item>L’ODD du CRR : <ref type="static_link" target="https://github.com/SETAFDH/TEI-SETAF/tree/main/schema">https://github.com/SETAFDH/TEI-SETAF/tree/main/schema</ref>.</item>
+                       <item>Les dépôts GitHub comprenant les données TEI du CRR : <ref type="static_link" target="https://github.com/SETAFDH">https://github.com/SETAFDH</ref>.</item>
+                    </list>
+                 </p>
+                 
+                 <p>
+                    <lb/>Les choix de transcription et de normalisation du corpus sont détaillés sur la page « <ref type="static_link" target="criteres-corpus.xml">Critères d’édition du corpus</ref> ».
+                    <lb/>Pour plus de détails sur les annotations linguistiques du corpus, voir la page « <ref type="static_link" target="aide.xml">Aide à la recherche</ref> » et le dépôt GitHub « <ref type="static_link" target="https://github.com/SETAFDH/Annotation-linguistique-SETAF">Annotation-linguistique-SETAF</ref> ».
+                 </p>
+              </div>
+           </div>
+           
+           <div>
+              <head type="static_subtitle">Le site web</head>
+              
+              <p>Le site web a été réalisé avec l’application TEI-Publisher (version 9.1.0). Les fichiers XML TEI des éditions et des gravures disponibles sur le site sont séparés de l’application principale. Sur le GitHub du projet, le code du site est disponible dans le dépôt <ref type="static_link" target="https://github.com/SETAFDH/SETAF-app">setaf-app</ref> et les données dans le dépôt <ref type="static_link" target="https://github.com/SETAFDH/SETAF-app-data">setaf-app-data</ref>.</p>
+              <p>
+                 Spécifications techniques :
+                 <list>
+                    <item>eXist-DB : 6.4.0</item>
+                    <item>eXist-DB HTML Templating Library : 1.2.1</item>
+                    <item>Tei-publisher-lib : 4.0.3</item>
+                    <item>Router : 1.9.1</item>
+                    <item>OAS-Router : 0.5.1</item>
+                 </list>
+              </p>
+           </div>
         </div>
      </body>
   </text>

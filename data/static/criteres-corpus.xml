@@ -17,15 +17,67 @@
   <text>
      <body xml:id="static">
         <div xml:lang="fr">
-           <head>Critères d'édition</head>
+           <head type="static_main_title">Critères d'édition</head>
            
-           <p>En construction</p>
+           <p>Chaque texte du Corpus Réformé Romand (CRR) se présente sous la forme d’une édition numérique de type <hi rend="italic">documentaire</hi>, comme mentionné sur la page « <ref type="static_link" target="about-crr.xml">À propos du CRR</ref> », avec la transcription de chaque page à gauche et l’image correspondante de l’exemplaire numérisé à droite.</p>
+           <p>Deux options de consultation sont proposées : une transcription <hi rend="italic">graphématique</hi>, disponible pour l’ensemble des textes, et une transcription <hi rend="italic">normalisée</hi>, accessible pour la plupart d’entre eux.</p>
+           
+           <div>
+              <head type="static_subtitle">Option de consultation graphématique : de l’image à la transcription</head>
+              <p>L’option graphématique permet de consulter une transcription graphématique du texte, produite à l’aide d’un modèle de reconnaissance optique de caractères (OCR), puis révisée par l’équipe du projet.</p>
+              <p>
+                 Pour plus de détails, voir les publications suivantes :
+                 <list>
+                    <item><hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Gabay</hi>, Simon, <hi rend="small-caps">Gross</hi>, Geneviève, <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia et <hi rend="small-caps">Solfaroli Camillocci</hi>, Daniela, « <ref type="static_link" target="https://hal.science/hal-04281804">Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques</ref> », HAL, document de travail, version A, 2023.</item>
+                    <item><hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Gabay</hi>, Simon, <hi rend="small-caps">Humeau</hi>, Maxime, <hi rend="small-caps">Pinche</hi>, Ariane, <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia, <hi rend="small-caps">Gross</hi>, Geneviève et <hi rend="small-caps">Solfaroli Camillocci</hi>, Daniela, « <ref type="static_link" target="https://hal.science/hal-04555002">Océriser les imprimés du XVIe siècle en langue française : le cas d’un corpus romand en caractères gothiques</ref> », Meknès, Maroc, Actes du colloque Humanistica 2024, Association francophone des humanités numériques, coll. OCR, 2024.</item>
+                 </list>
+              </p>
+           </div>
+           
+           <div>
+              <head type="static_subtitle">Option de consultation normalisée : une version semi-diplomatique</head>
+              <p>L’option <hi rend="italic">normalisée</hi> donne accès à une version semi-diplomatique du texte, obtenue à partir de la transcription graphématique, qui est normalisée selon des critères définis.</p>
+              <p>Les règles de normalisation semi-diplomatique que nous proposons sont moins interventionnistes que celles traditionnellement en usage dans les éditions critiques, mais ces dernières peuvent être appliquées dans un second temps, à partir de notre normalisation.</p>
+              <p>
+                 Pour plus de détails, voir la publication suivante :
+                 <list>
+                    <item><hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Dejouy</hi>, Mylène, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia et <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, « <ref type="static_link" target="https://hal.science/hal-05137564">Normaliser le moyen français : du graphématique au semi-diplomatique</ref> », Marseille, France, Actes de la conférence CORIA-TALN-RJCRI-RECITAL 2025, 2025.</item>
+                 </list>
+                 Pour plus d’informations sur l’encodage XML-TEI du CRR et sur sa chaîne de traitement numérique, voir la page « <ref type="static_link" target="aspects-techniques.xml">Aspects techniques</ref> ».
+              </p>
+           </div>
         </div>
         
         <div xml:lang="en">
-           <head>Editorial principles</head>
+           <head type="static_main_title">Editorial principles</head>
            
-           <p>In progress</p>
+           <p>Chaque texte du Corpus Réformé Romand (CRR) se présente sous la forme d’une édition numérique de type <hi rend="italic">documentaire</hi>, comme mentionné sur la page « <ref type="static_link" target="about-crr.xml">À propos du CRR</ref> », avec la transcription de chaque page à gauche et l’image correspondante de l’exemplaire numérisé à droite.</p>
+           <p>Deux options de consultation sont proposées : une transcription <hi rend="italic">graphématique</hi>, disponible pour l’ensemble des textes, et une transcription <hi rend="italic">normalisée</hi>, accessible pour la plupart d’entre eux.</p>
+           
+           <div>
+              <head type="static_subtitle">Option de consultation graphématique : de l’image à la transcription</head>
+              <p>L’option graphématique permet de consulter une transcription graphématique du texte, produite à l’aide d’un modèle de reconnaissance optique de caractères (OCR), puis révisée par l’équipe du projet.</p>
+              <p>
+                 Pour plus de détails, voir les publications suivantes :
+                 <list>
+                    <item><hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Gabay</hi>, Simon, <hi rend="small-caps">Gross</hi>, Geneviève, <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia et <hi rend="small-caps">Solfaroli Camillocci</hi>, Daniela, « <ref type="static_link" target="https://hal.science/hal-04281804">Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques</ref> », HAL, document de travail, version A, 2023.</item>
+                    <item><hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Gabay</hi>, Simon, <hi rend="small-caps">Humeau</hi>, Maxime, <hi rend="small-caps">Pinche</hi>, Ariane, <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia, <hi rend="small-caps">Gross</hi>, Geneviève et <hi rend="small-caps">Solfaroli Camillocci</hi>, Daniela, « <ref type="static_link" target="https://hal.science/hal-04555002">Océriser les imprimés du XVIe siècle en langue française : le cas d’un corpus romand en caractères gothiques</ref> », Meknès, Maroc, Actes du colloque Humanistica 2024, Association francophone des humanités numériques, coll. OCR, 2024.</item>
+                 </list>
+              </p>
+           </div>
+           
+           <div>
+              <head type="static_subtitle">Option de consultation normalisée : une version semi-diplomatique</head>
+              <p>L’option <hi rend="italic">normalisée</hi> donne accès à une version semi-diplomatique du texte, obtenue à partir de la transcription graphématique, qui est normalisée selon des critères définis.</p>
+              <p>Les règles de normalisation semi-diplomatique que nous proposons sont moins interventionnistes que celles traditionnellement en usage dans les éditions critiques, mais ces dernières peuvent être appliquées dans un second temps, à partir de notre normalisation.</p>
+              <p>
+                 Pour plus de détails, voir la publication suivante :
+                 <list>
+                    <item><hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Dejouy</hi>, Mylène, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia et <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, « <ref type="static_link" target="https://hal.science/hal-05137564">Normaliser le moyen français : du graphématique au semi-diplomatique</ref> », Marseille, France, Actes de la conférence CORIA-TALN-RJCRI-RECITAL 2025, 2025.</item>
+                 </list>
+                 Pour plus d’informations sur l’encodage XML-TEI du CRR et sur sa chaîne de traitement numérique, voir la page « <ref type="static_link" target="aspects-techniques.xml">Aspects techniques</ref> ».
+              </p>
+           </div>
         </div>
      </body>
   </text>
