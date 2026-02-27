@@ -39,7 +39,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
@@ -57,7 +57,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 19</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="numérisation achetée à la bibl.">
+                      <bibl source="http://id.bildindex.de/thing/0001335580">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -69,6 +69,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">L'empereur Constantin occupe la pleine page. Il tient une large et longue banderole où il est question de la "donation de Constantin", comme l'indique également la rubrique placée au haut de la page. L'association de cette enluminure avec celle qui lui fait face réitère la thématique du <title>Passional</title>, et après lui des <title>Faits</title> : refus du royaume terrestre par le Christ d'un côté vs. donation des insignes du pouvoir temporel au pape de l'autre.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
                   </figure>
                 </item>
                 
@@ -123,7 +124,7 @@
                 
                 <item n="4">
                   <figure>
-                    <graphic type="large" url="https://iiif.hedera.unige.ch/iiif/3/setaf/rencontre3vifs3morts.jpg/full/max/0/default.jpg"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/rencontre3vifs3morts.jpg/full/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -186,7 +187,7 @@
                         <author role="artiste">Lucas Cranach</author>
                         <publisher>[Johann Rhau-Grunenberg]</publisher>
                         <pubPlace>[Wittenberg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 n° L 5584</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC n° 683162</idno>
                         <availability>
@@ -195,6 +196,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">À l’entrée d'une ville papale, fermée par une chaîne cadenassée, le pape accompagné des membres du clergé et d’une armée de lansquenets refuse l’accès de cette cité à l’empereur et sa suite, en armure et à cheval. La gravure des <title>Faits</title> dérive directement de cette composition, mais montre un certain raidissement des hachures tracées plus mécaniquement, particulièrement visible dans la réalisation du ciel.</note>
+                    <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 148-152; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 10-13.</note>
                   </figure>
                 </item>
                 
@@ -209,10 +211,10 @@
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00088259">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
-                        <author role="artiste"/>
+                        <author role="artiste">[d'ap. Lucas Cranach]</author>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
@@ -238,7 +240,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
                         <availability>
@@ -264,7 +266,7 @@
                       <locus type="page">p. 10</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -282,14 +284,14 @@
                 
                 <item n="10">
                   <figure>
-                    <graphic type="large" url="https://iiif.hedera.unige.ch/iiif/3/setaf/derNarrAlsWarner.jpg/full/max/0/default.jpg"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/derNarrAlsWarner.jpg/full/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm">179 x 280</dim>
                       <locus type="page">feuille volante</locus>
                       <objectType>Gravure sur bois</objectType>
-                      <bibl source="https://www.stiftung-friedenstein.de/sammlungen">
+                      <bibl source="https://www.friedensteine.de/sammlung?item=D497F8C4436DEF1ADCED8EBA4070F187">
                         <title type="titre_ouvrage">Hans Sachs, Der Narr als Warner</title>
                         <author role="artiste"/>
                         <publisher>[Anthony Corthoys?]</publisher>
@@ -301,7 +303,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure intitulée "der warnet Narr" (le bouffon, lanceur d'alerte) représente un face à face entre les représentants de l'état ecclésiastique, emmenés par le pape, et ceux du pouvoir temporel emmenés par l'empereur. Entre les deux se tient un bouffon qui, tourné vers l'empereur, discourt sur les religieux qu'il désigne de sa main. Le contenu de son discours est livré par le texte de Hans Sachs imprimé au-dessous. Par leur apparence sacrée, les premiers auraient en quelque sorte le pouvoir sur le peuple, mais ils ne s'intéressent qu'à accroître les trésors que les autorités temporelles leur accordent. Le fou exhorte donc les princes à se tourner vers la doctrine pure, les Saintes Écritures.</note>
+                    <note type="commentaire">La gravure intitulée "der warnet Narr" (le bouffon, le lanceur d'alerte) représente un face à face entre les représentants de l'état ecclésiastique emmenés par le pape, et ceux du pouvoir temporel emmenés par l'empereur. Entre les deux se tient un bouffon qui, tourné vers l'empereur, discourt sur les religieux qu'il désigne de sa main. Le contenu de son discours est livré par le texte de Hans Sachs imprimé au-dessous. Par leur apparence sacrée, les premiers auraient en quelque sorte le pouvoir sur le peuple, mais ils ne s'intéressent qu'à accroître les trésors que les autorités temporelles leur accordent. Le fou exhorte donc les princes à se tourner vers la doctrine pure, les Saintes Écritures.</note>
                     <note type="biblio">Bibliographie: B. Schäfer, U. Eydinger, M. Rekow, <title>Fliegende Blätter. Die Sammlung der Einblattholzschnitte des 15. und 16. Jahrhunderts der Stiftung Schloss Friedenstein Gotha</title>, Gotha, arnoldsche Art Publishers, 2016, Bd. I, n° 417.</note>
                   </figure>
                 </item>
@@ -328,7 +330,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library,  *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -342,11 +344,11 @@
                       <locus type="page">p. 18</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -372,7 +374,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -404,7 +406,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), dans <title>l'histoire de l'église</title> de Jean de Hainaut. La gravure sert à illustrer un événement ayant eu lieu sous le pape Grégoire III, en 735. Elle est utilisée seule sans son vis-à-vis antithétique comme dans les <title>Faits</title>.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), dans l' <title>Histoire de l'église</title> de Jean de Hainaut. Elle sert à illustrer un événement ayant eu lieu sous le pape Grégoire III, en 735. Elle est utilisée seule, sans vis-à-vis antithétique comme le font les <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
@@ -531,13 +533,13 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Inversion de la gravure du <title>Passional Christi und Antichristi de Wittenberg</title> (1521), reprise dans l'édition de Eisleben (1564) [http://dx.doi.org/10.25673/opendata2-4005], et ajout d’un épais cadre ornemental.</note>
+                    <note type="commentaire">Inversion de la gravure du <title>Passional Christi und Antichristi</title> de Wittenberg (1521), reprise dans l'édition de Eisleben (1564) [http://dx.doi.org/10.25673/opendata2-4005], et ajout d’un épais cadre ornemental.</note>
                   </figure>
                 </item>
               </list>
             </figDesc>
             
-            <note>À l’entrée d'une ville papale, fermée par une chaîne cadenassée, le pape accompagné des membres du clergé et d'une armée de lansquenets refuse l’accès de cette cité à l’empereur et sa suite, en armure et à cheval. </note>
+            <note>À l’entrée d'une ville papale, fermée par une chaîne cadenassée, le pape accompagné des membres du clergé (cardinaux, évêques) et d'une armée de lansquenets refuse l’accès de cette cité à l’empereur et sa suite, en armure et à cheval. </note>
           </figure>
         </p>
       </sourceDesc>

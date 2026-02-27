@@ -38,7 +38,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
@@ -56,7 +56,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 17v</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="numérisation achetée à la bibl.">
+                      <bibl source="http://id.bildindex.de/thing/0001335580">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -67,7 +67,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Sur le feuillet en partie déchiré est représenté le Christ portant la croix. La rubrique indique qu'en tant qu'exemple d'humilité, il porte sa croix lui-même, excluant de ce fait Simon de Cyrène. Cette version privilégiée par Luther n'est ni suivie dans le <title>Passional</title>, ni dans les <title>Faits</title>. La paire que cette enluminure forme avec l'image du pape porté en procession est en revanche imitée dans les <title>Faits</title>.</note>
+                    <note type="commentaire">Sur le feuillet en partie déchiré est représenté le Christ portant la croix. La rubrique indique qu'en tant qu'exemple d'humilité, il porte sa croix lui-même, excluant de ce fait Simon de Cyrène. Cette lecture privilégiée par Luther n'est ni suivie dans le <title>Passional</title>, ni dans les <title>Faits</title>. La paire que cette enluminure forme avec l'image du pape porté en procession est en revanche imitée dans les <title>Faits</title>.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
                   </figure>
                 </item>
                 
@@ -140,7 +141,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Cranach réalise une série de 14 gravures pour illustrer la Passion, dont l'une représentant le portement de croix. Au premier plan, le Christ est tombé à terre sous le poids de la croix. Il est pressé par des personnages menaçants et armés pour la plupart,  groupés autour de lui. Pilate et le grand prêtre chevauchent à l'arrière-plan, tandis que la Vierge, des femmes et saint Jean se tiennent encore plus loin sous une porche.</note>
+                    <note type="commentaire">Cranach réalise une série de 14 gravures pour illustrer la Passion, dont l'une représentant le portement de croix. Au premier plan, le Christ est tombé à terre sous le poids de la croix. Il est pressé par des personnages menaçants et armés pour la plupart, groupés autour de lui. Pilate et le grand prêtre chevauchent à l'arrière-plan, tandis que la Vierge, des femmes et saint Jean se tiennent groupés encore plus loin sous un porche.</note>
                   </figure>
                 </item>
                 
@@ -158,7 +159,7 @@
                         <author role="artiste">Lucas Cranach</author>
                         <publisher>[Johann Rhau-Grunenberg]</publisher>
                         <pubPlace>[Wittenberg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 n° L 5584</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC n° 683162</idno>
                         <availability>
@@ -167,6 +168,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Aidé par Simon de Cyrène, le Christ tombe à terre sous le poids de a croix qu'il porte au calvaire, sous le regard d'un groupe de personnages armés.</note>
+                    <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 200-205; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 31-32.</note>
                   </figure>
                 </item>
                 
@@ -181,10 +183,10 @@
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00088259">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
-                        <author role="artiste"/>
+                        <author role="artiste">[d'ap. Lucas Cranach]</author>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
@@ -218,7 +220,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Christ tient une croix dans la main, et tous ceux qui l'entourent l'imitent. Ils représentent différentes classes sociales, divers âges, des hommes et des femmes. Cette gravure entre en écho avec la citation biblique (Mt 11,28) - qui se retrouvera dans tous les écrits de Zwingli jusqu'en 1529 -, qui est une invitation à suivre l'exemple du Christ. Le <title>Passional</title> et les <title>Faits</title> s'inscrivent dans cette même ligne où l'exemple du Christ est à suivre, et celui du pape à refuser.</note>
+                    <note type="commentaire">Le Christ tient une croix dans la main, comme tous ceux qui l'entourent. Ils représentent différentes classes sociales, divers âges, des hommes et des femmes. Cette gravure entre en écho avec la citation biblique (Mt 11,28) - rerpoduite dans tous les écrits de Zwingli jusqu'en 1529 -, qui est une invitation à suivre l'exemple du Christ. Le <title>Passional</title> et les <title>Faits</title> s'inscrivent dans cette même ligne où l'exemple du Christ est à suivre, et celui du pape à fuire.</note>
                     <note type="biblio">Bibliographie: <title>Iconoclasme. Vie et mort de l'image médiévale</title>, cat. expo., Paris, Somogy, 2001, n° 142.</note>
                   </figure>
                 </item>
@@ -237,7 +239,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
                         <availability>
@@ -263,7 +265,7 @@
                       <locus type="page">p. 61</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -275,7 +277,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le portement de croix se déroule dans un paysage de murailles et de collines. Le Christ porte tout seul sa croix, et il est frappé vigoureusement par deux hommes armés de bâtons. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
+                    <note type="commentaire">Le portement de croix se déroule dans un paysage de murailles et de collines. Le Christ porte tout seul sa croix, et il est violemment frappé par deux hommes armés de bâtons. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
                   </figure>
                 </item>
                 
@@ -301,7 +303,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library, *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -315,11 +317,11 @@
                       <locus type="page">p. 121</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -345,7 +347,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -402,7 +404,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Au lieu d'adapter la gravure de l'<title>Antithesis</title> (1557) comme dans la majeure partie des cas de la traduction de ce texte en flamand, remploi d'une gravure publiée  dans Guillelmus van Branteghem, <title>Vie de nostre Seigneur Jesus Christ par figures</title>, Anvers, Jean Richard, 1544 (p. cli). La gravure propose la représentation simultanée de deux épisodes de la Passion: le portement de croix au premier plan et la Crucifixion à l'arrière-plan.</note>
+                    <note type="commentaire">Au lieu d'adapter la gravure de l'<title>Antithesis</title> (1557) comme dans la majeure partie des cas de la traduction de ce texte en néerlandais, remploi d'une gravure dans Guillelmus van Branteghem, <title>Vie de nostre Seigneur Jesus Christ par figures</title>, Anvers, Jean Richard, 1544. Elle propose la représentation simultanée de deux épisodes de la Passion: le portement de croix au premier plan et la Crucifixion à l'arrière-plan.</note>
                   </figure>
                 </item>
                 

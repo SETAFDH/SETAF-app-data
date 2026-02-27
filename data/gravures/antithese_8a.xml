@@ -38,7 +38,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
@@ -56,7 +56,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 11v</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="#">
+                      <bibl source="http://id.bildindex.de/thing/0001335580">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -67,7 +67,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Deux scènes indépendantes sont représentées sur ce folio pour illustrer le thème de la pauvreté: le martyre de saint Martin d'une part, et la Nativité de l'autre. Le texte surmontant la Vierge en adoration devant l'Enfant gisant dans une crèche souligne l'indigence de cette naissance en citant Lc 2,7 - comme dans les <title>Faits</title> - et un passage d'un texte de Bernard de Clairvaux.</note>
+                    <note type="commentaire">Deux scènes indépendantes sont représentées sur ce folio pour illustrer le thème de la pauvreté: le martyre de saint Martin d'une part, et la Nativité de l'autre. Le texte surmontant la Vierge en adoration devant l'Enfant gisant dans une crèche souligne l'indigence de cette naissance en citant Lc 2,7 - comme dans les <title>Faits</title> - ainisi qu'un passage d'un texte de Bernard de Clairvaux.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
                   </figure>
                 </item>
                 
@@ -91,14 +92,14 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La Vierge à genoux adore l'Enfant gisant sur le sol, gardé par l'âne et le boeuf. Au premier plan, saint Martin, lui aussi agenouillé, se tient devant l'autel où est déposé un calice (illustrant un épisode miraculeux relaté dans la <title>Légende Dorée</title>). Les <title>Faits</title> renoncent à la figure de saint Martin pour illustrer le thème de la pauvreté du Christ.</note>
-                    <note type="biblio">Bibliographie: Kamil Boldan (ed.), The Jena Codex, Prague, 2009, p. 125-126.</note>
+                    <note type="commentaire">La Vierge à genoux adore l'Enfant gisant sur le sol, gardé par l'âne et le boeuf. Au premier plan, saint Martin, lui aussi agenouillé, se tient devant l'autel où est déposé un calice (illustrant un épisode miraculeux relaté dans la <title>Légende Dorée</title>). Les <title>Faits</title> renoncent à la figure de saint Martin pour illustrer le thème de la pauvreté du Christ, en représentant exclusivement l'adoration du nouveau-né.</note>
+                    <note type="biblio">Bibliographie: Kamil Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 125-126.</note>
                   </figure>
                 </item>
                 
                 <item n="3">
                   <figure>
-                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/vitaChristi_fA4.png/full/max/0/default.jpg"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/Ludolfe1510.jpg/full/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -127,7 +128,7 @@
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
-                      <dim unit="mm">98 x 72 mm (sans encadreme</dim>
+                      <dim unit="mm">98 x 72 (sans encadrement)</dim>
                       <locus type="page">f. 7v</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.google.ch/books/edition/Missale_ad_usum_Lugdunensis_ecclesie/5YcU3ceIxs0C?hl=fr&amp;gbpv=0">
@@ -142,7 +143,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de la <title>Vita Christi</title>, pour illuster un missel. Dans les marges latérale et inférieure, les vignettes représentent l'Annonciation, des saintes (Catherine, Barbe, et  Marguerite), et des martyres de saintes. Dans cet exemplaire, la gravure a été colorisée.</note>
+                    <note type="commentaire">Remploi de la gravure de la <title>Vita Christi</title>, pour illuster un missel. Dans les marges latérale et inférieure, les vignettes représentent l'Annonciation, des saintes (Catherine, Barbe, et Marguerite), et des martyres de saintes.</note>
                   </figure>
                 </item>
                 
@@ -192,7 +193,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Gravure qui s'inspire de la <title>Vita Christi</title> et du missel de 1510. L'iconographie figurant l'adoration de l'enfant avec les anges portant les instruments de la Passion est identique, mais le décor a changé avec l'insertion de la représentation d'une étable, et l'abandon du cadre de colonnes.</note>
+                    <note type="commentaire">Gravure qui s'inspire de la <title>Vita Christi</title> et du missel de 1510. L'iconographie figurant l'adoration de l'Enfant avec les anges portant les instruments de la Passion est identique, mais le décor a changé avec l'insertion de la représentation d'une étable.</note>
                   </figure>
                 </item>
                 
@@ -259,7 +260,7 @@
                         <author role="artiste">Lucas Cranach</author>
                         <publisher>[Johann Rhau-Grunenberg]</publisher>
                         <pubPlace>[Wittenberg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 n° L 5584</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC n° 683162</idno>
                         <availability>
@@ -268,6 +269,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Marie et Joseph s'agenouillent devant l'enfant Jésus dans la crèche, protégé par l'âne et le boeuf. À l'arrière-plan se déroule l'Annonce aux bergers.</note>
+                    <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 223-227; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 38-39.</note>
                   </figure>
                 </item>
                 
@@ -285,7 +287,7 @@
                         <author role="artiste"/>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
@@ -293,7 +295,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La Vierge prie agenouillée devant son fils qui repose à terre sur sa robe. Derrière elle, Joseph tient un cierge allumé, et dans le ciel des anges chantent la naissance du Christ qu'observent les bergers, situés derrière un mur.</note>
+                    <note type="commentaire">La Vierge prie agenouillée devant son fils placé à terre sur sa robe. Derrière elle, Joseph tient un cierge allumé, et dans le ciel des anges chantent la naissance du Christ qu'observent les bergers, situés derrière un mur. C'est ici que la deuxième édition strasbourgeoise du Passional, toujours en 1521, chez Johann Prüss (?), présente la seule différence de toute la série de gravures, avec des bordures ornementales différentes (https://doi.org/10.3931/e-rara-18720).</note>
                   </figure>
                 </item>
                 
@@ -311,7 +313,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
                         <availability>
@@ -337,7 +339,7 @@
                       <locus type="page">p. 1</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -349,7 +351,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Contrairement aux <title>Faits</title>, Eskrich réalise une Nativité traditionnelle.La Vierge et Joseph s'affairent autour de l'Enfant qui vient de naître, tandis qu'au-delà du bâtiment où ils se trouvent, on distingue l'Annonce aux bergers. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
+                    <note type="commentaire">Contrairement aux <title>Faits</title>, Eskrich réalise une Nativité traditionnelle. La Vierge et Joseph s'affairent autour de l'Enfant qui vient de naître, tandis qu'au-delà du bâtiment où ils se trouvent, on distingue l'Annonce aux bergers. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
                   </figure>
                 </item>
                 
@@ -375,7 +377,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library, *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -389,11 +391,11 @@
                       <locus type="page">p. 1</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -419,7 +421,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -487,11 +489,11 @@
                     <figDesc>
                       <title type="titre_courant">Doen Christus werd’ op d’eerd’ gheboren / Heeft paeys end bred’ terstont doen horen.</title>
                       <title type="manchette"/>
-                      <dim unit="mm">68 x 45</dim>
+                      <dim unit="mm">60 x 46</dim>
                       <locus type="page">sign. A3v</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://opac.kbr.be/LIBRARY/doc/SYRACUSE/11842130">
-                        <title type="titre_ouvrage">[Simon du Rosier,] tr. fl. Teghenstellinghe oft Verghelyckinghe der Wercken Jesu Christi ende des paus</title>
+                        <title type="titre_ouvrage">Teghenstellinghe oft Verghelyckinghe der Wercken Jesu Christi ende des paus</title>
                         <author role="artiste"/>
                         <publisher>[Gillis van den Rade]</publisher>
                         <pubPlace>[Anvers]</pubPlace>
@@ -502,7 +504,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Au lieu d'adapter la gravure de l'<title>Antithesis</title> (1557) comme dans la plupart des cas, remploi d'une gravure publiée dans le Nouveau Testament, Anvers, Guillaume du Mont, 1540 (H5v), et dans Guillelmus van Branteghem, <title>Vie de nostre Seigneur Jesus Christ par figures</title>, Anvers, Jean Richard, 1544 (Viijv). Plusieurs scènes sont représentées dans la gravure: la Nativité où la Vierge et Joseph adorent l'Enfant posé par terre. À l'arrière-plan, se déroulent l'annonce aux bergers et l'adoration de l'Enfant par ceux-ci.</note>
+                    <note type="commentaire">Au lieu d'adapter la gravure de l'<title>Antithesis</title> (1557) comme dans la plupart des cas, remploi d'une gravure publiée dans le <title>Nouveau Testament</title>, Anvers, Guillaume du Mont, 1540, et dans Guillelmus van Branteghem, <title>Vie de nostre Seigneur Jesus Christ par figures</title>, Anvers, Jean Richard, 1544. Plusieurs scènes sont représentées dans la gravure: la Vierge et Joseph adorent l'Enfant posé par terre, tandis qu'à l'arrière-plan, se déroulent l'annonce aux bergers et l'adoration de l'Enfant par ceux-ci.</note>
                   </figure>
                 </item>
                 
@@ -584,7 +586,7 @@
               </list>
             </figDesc>
             
-            <note>La Vierge agenouillée prie l’Enfant Jésus couché par terre sur un pan de sa robe. Les anges placés tout autour d'eux prient pour les uns, et portent pour les autres les instruments de la Passion (couronne d’épines, croix, lance, colonne et clous). La scène est dotée d’un cadre architectural constitué de deux colonnes, reliées entre elles par une chaîne où se croisent un sabre et une flèche, surmontée de grotesques. Cette gravure dérive directement et étroitement de celle qui apparaît pour la première fois dans une Vita Christi et un missel, parus tous deux à Lyon en 1510. </note>
+            <note>La Vierge agenouillée prie l’Enfant Jésus couché par terre sur un pan de sa robe. Les anges placés tout autour d'eux prient pour les uns, et portent pour les autres les instruments de la Passion (couronne d’épines, croix, lance, colonne et clous). La scène est dotée d’un cadre architectural constitué de deux colonnes, reliées entre elles par une chaîne où se croisent un sabre et une flèche, surmontée de grotesques. Cette gravure dérive directement et étroitement de celle qui apparaît pour la première fois dans une <title>Vita Christi</title> et un missel, parus tous deux à Lyon en 1510. </note>
           </figure>
         </p>
       </sourceDesc>

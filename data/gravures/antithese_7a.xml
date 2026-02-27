@@ -38,7 +38,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
@@ -56,7 +56,7 @@
                       <dim unit="mm">102 x 67</dim>
                       <locus type="page">Paris, BnF, lat. 1775, fol. 141v</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="ark:/12148/btv1b10527644s">
+                      <bibl source="https://gallica.bnf.fr/ark:/12148/btv1b10527644s">
                         <title type="titre_ouvrage">Livre d'heures</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -67,7 +67,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dans un paysage, saint Jean-Baptiste doté de ses attributs traditionnels prêche à ses ouailles assises par terre. L'iconographie de Jean-Baptiste prêchant sert de modèle aux scènes de prédication en général, et du Christ en particulier.</note>
+                    <note type="commentaire">Dans un paysage, saint Jean-Baptiste doté de ses attributs traditionnels (agneau, peau de bête, longue barbe) prêche à ses ouailles assises par terre. L'iconographie de Jean-Baptiste prêchant sert de modèle aux scènes de prédication en général, et du Christ en particulier.</note>
                   </figure>
                 </item>
                 
@@ -82,7 +82,7 @@
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb00036978">
                         <title type="titre_ouvrage">Sebastian Brant, Narrenschiff</title>
-                        <author role="artiste"/>
+                        <author role="artiste">Albrecht Dürer</author>
                         <publisher>Johann Bergmann</publisher>
                         <pubPlace>Basel</pubPlace>
                         <date>1494</date>
@@ -118,7 +118,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La page de titre des Postilles sur les évangiles et les épitres représente le Christ qui prêche à une foule d'hommes debout et de femmes assises. Tout autour de cette scène sont figurés les symboles des évangélistes, ainsi que Daniel, Pierre, Jacques et Paul, tenant tous un livre ouvert inscrit devant eux.</note>
+                    <note type="commentaire">La page de titre des <title>Postilles sur les évangiles et les épitres</title> représente le Christ qui prêche à une foule d'hommes debout et de femmes assises. Tout autour de cette scène sont figurés les symboles des évangélistes, ainsi que Daniel, Pierre, Jacques et Paul, tenant tous un livre ouvert devant eux.</note>
+                    <note type="biblio">Bibliographie: F. Hieronymus, <title>Basler Buchillustration 1500-1545 (Oberrheinische Buchillustration 2)</title>, Basel 1984, S. 62, Nr. 73.</note>
                   </figure>
                 </item>
                 
@@ -133,7 +134,7 @@
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.lakenhal.nl/nl/collectie/1783">
                         <title type="titre_ouvrage">Thomas de Cantimpré, Hier beghint der byen boeck ende is tracterende vanden prelaten ende den ondersaten</title>
-                        <author role="artiste"/>
+                        <author role="artiste">Lucas van Leyden</author>
                         <publisher>Jan Seversz</publisher>
                         <pubPlace>Leiden</pubPlace>
                         <date>1515</date>
@@ -169,7 +170,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Jean-Baptiste prêche à une foule d'hommes, de femmes et d'enfants venus l'écouter dans une forêt. La prédication en plein air annonce un thème de la première réforme selon lequel la vraie foi se pratique hors de l'église où se déroulent les rituels et les cérémonies religieuses qu'ils condamnent.</note>
-                    <note type="biblio">Bibliographie: Luther und die Folgen für die Kunst, cat. expo., München, Prestel, 1983, n° 104.</note>
+                    <note type="biblio">Bibliographie: <title>Luther und die Folgen für die Kunst</title>, cat. expo., München, Prestel, 1983, n° 104.</note>
                   </figure>
                 </item>
                 
@@ -187,7 +188,7 @@
                         <author role="artiste">Lucas Cranach</author>
                         <publisher>[Johann Rhau-Grunenberg]</publisher>
                         <pubPlace>[Wittenberg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 n° L 5584</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC n° 683162</idno>
                         <availability>
@@ -195,7 +196,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Christ, adossé à un arbre, prêche à la foule rassemblée devant lui. Les disciples et d'autres hommes  se tiennent debout, alors que les femmes et les enfants sont assis par terre.</note>
+                    <note type="commentaire">Le Christ, adossé à un arbre, prêche à la foule rassemblée devant lui. Les disciples et d'autres hommes se tiennent debout, alors que les femmes et les enfants sont assis par terre.</note>
+                    <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 212-216; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, p. 35.</note>
                   </figure>
                 </item>
                 
@@ -210,10 +212,10 @@
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00088259">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
-                        <author role="artiste"/>
+                        <author role="artiste">[d'ap. Lucas Cranach]</author>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
@@ -221,7 +223,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Inversion et schématisation de la gravure du <title>Passional Christi und Antichristi</title> de Wittenberg (1521). Cette gravure sert de modèle direct à celle des Faits, qui la reproduit fidèlement mais en raidissant légèrement les contours, les hachures.</note>
+                    <note type="commentaire">Inversion et schématisation de la gravure du <title>Passional Christi und Antichristi</title> de Wittenberg (1521). Cette gravure sert de modèle direct à celle des <title>Faits</title>, qui la reproduit fidèlement mais en raidissant légèrement les contours et les hachures.</note>
                   </figure>
                 </item>
                 
@@ -299,7 +301,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">En 1527, Cranach réalise une suite de gravures pour illustrer les 10 commandements pour un traité de Melanchthon qui ne sera jamais publié. Elles seront utilisées le cathéchisme de Luther en 1529. Pour le 3e commandement ("Tu sanctifieras le jour de repos"), la représentation montre un prédicateur en chaire, à l'extérieur d'un édifice de culte, qui s'adresse à son auditoire. À l'arrière-plan, un paysan ramasse du bois, en référence à Nb 15, 23-26, contrevenant ainsi au commandement. Dans un état précédent de la gravure, il y avait aussi la représentation du Christ crucifié placée entre le prédicateur et les fidèles comme en attestent les restes du périsionium visibles sur le mur intérieur de la cour.</note>
+                    <note type="commentaire">En 1527, Cranach réalise une suite de gravures pour illustrer les dix commandements pour un traité de Melanchthon qui ne sera jamais publié. Elles seront utilisées le cathéchisme de Luther en 1529. Pour le 3e commandement ("Tu sanctifieras le jour de repos"), la représentation montre un prédicateur en chaire, à l'extérieur d'un édifice de culte, qui s'adresse à son auditoire. À l'arrière-plan, un paysan ramasse du bois, en référence à Nb 15, 23-26, contrevenant ainsi au commandement. Dans un état précédent de la gravure, il y avait aussi la représentation du Christ crucifié placée entre le prédicateur et les fidèles comme en attestent les restes du périsionium visibles sur le mur intérieur de la cour.</note>
                   </figure>
                 </item>
                 
@@ -343,7 +345,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
                         <availability>
@@ -377,7 +379,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure du <title>Passional</title> de Strasbourg (1521), pour illustrer un passage de l'évangile de Matthieu sur les faux prophètes (7, 15-20), différant de toutes les citations bibliques des <title>Faits</title> pour cette antithèse.</note>
+                    <note type="commentaire">Remploi de la gravure du <title>Passional</title> de Strasbourg (1521), pour illustrer un passage de l'évangile de Matthieu sur les faux prophètes (7, 15-20). Cette citation biblique est absente de l'antithèse correspondante des <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
@@ -403,8 +405,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Les Postilles de Luther ont paru dans 33 éditions sous 10 titres différents. Au lieu du commentaire sur le passage de Matthieu 4, 23, également convoqué dans les <title>Faits</title>, la gravure représente le Christ prêchant devant un auditoire attentif, tandis qu'un pape, un cardinal et un évêque brandissent une lance et une hallebarde contre lui.</note>
-                    <note type="biblio">Bibliographie: Birgit Ulrike Münch, <title>Luthers Passion. Kontinuitäten und Zäsuren im druckgraphischen Bild der Passio Christi: Passional, Katechismen, Postillen und Evangelienharmonie</title>, p. 249-250.</note>
+                    <note type="commentaire">Les Postilles de Luther ont paru dans 33 éditions sous 10 titres différents. Au lieu du commentaire sur le passage de Matthieu 4,23, également convoqué dans les <title>Faits</title>, cette gravure représente le Christ prêchant devant un auditoire attentif, tandis qu'un pape, un cardinal et un évêque brandissent une lance et une hallebarde contre lui.</note>
+                    <note type="biblio">Bibliographie: Birgit Ulrike Münch, "Luthers Passion. Kontinuitäten und Zäsuren im druckgraphischen Bild der Passio Christi: Passional, Katechismen, Postillen und Evangelienharmonie", p. 249-250.</note>
                   </figure>
                 </item>
                 
@@ -452,7 +454,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>

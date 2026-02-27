@@ -38,7 +38,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n°1406</idno>
                 <availability>
@@ -56,7 +56,7 @@
                       <dim unit="mm"/>
                       <locus type="page">sign. A4v</locus>
                       <objectType>Gravure sur bois</objectType>
-                      <bibl source="ark:/12148/bpt6k8710544g ">
+                      <bibl source="https://gallica.bnf.fr/ark:/12148/bpt6k8710544g">
                         <title type="titre_ouvrage">Robert Gobin, Les loups ravissans</title>
                         <author role="artiste"/>
                         <publisher>Jean Vérard</publisher>
@@ -68,7 +68,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure s'insère après le prologue du doctrinal satirique de Jean Gobin et met en scène les différents protagonistes de ce texte. L'auteur, assis et éveillé dans son lit, tient un livre en main. À ses côtés sont représentés "Saincte Doctrine" et "Archilupus". La première est figurée comme une bergère assise dans un enclos auprès de son troupeau de moutons, le second est un loup vêtu en docteur, assis dans une chaire, qui enseigne à ses petits élèves, des louveteaux ayant tous revêtus une toison d'agneau. Dans les vers adjacents, Sainte Doctrine cite le passage de Matthieu (7,15): "Attendite a falsis prophetis qui veniunt ad vos in vestimentis ovium intrinsecus autem sunt lupi rapaces", un passage qui se retrouve dans les <title>Faits</title>.</note>
+                    <note type="commentaire">La gravure s'insère après le prologue du doctrinal satirique de Jean Gobin et met en scène les différents protagonistes de ce texte. L'auteur, assis et éveillé dans son lit, tient un livre en main. À ses côtés sont représentés "Saincte Doctrine" et "Archilupus". La première est figurée comme une bergère assise dans un enclos auprès de son troupeau de moutons, le second est un loup vêtu en docteur, assis dans une chaire, qui enseigne à ses petits élèves, des louveteaux ayant tous revêtus une toison d'agneau. Dans les vers adjacents, Sainte Doctrine cite le passage de Matthieu (7,15): "Attendite a falsis prophetis qui veniunt ad vos in vestimentis ovium intrinsecus autem sunt lupi rapaces", une citation qui se retrouve dans les <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
@@ -84,9 +84,9 @@
                       <bibl source="http://resolver.staatsbibliothek-berlin.de/SBB0001D18D00000000 ">
                         <title type="titre_ouvrage">Ein erdocht falsch history etlicher Prediger münch</title>
                         <author role="artiste">Urs Graf</author>
-                        <publisher>Bartholomäus Gregor</publisher>
-                        <pubPlace>Basel</pubPlace>
-                        <date>1509</date>
+                        <publisher>[Gregor Bartholomäus]</publisher>
+                        <pubPlace>[Basel]</pubPlace>
+                        <date>[1509]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+D+421">VD16 n° D 421</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/643235">USTC n° 643235</idno>
                         <availability>
@@ -94,8 +94,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Cette gravure appartient à une série d'images illustrant l'affaire Jetzer. Celle-ci se produisit au couvent des dominicains de Berne en 1507, impliquant quatre frères, auteurs de faux miracles pour soutenir leur position maculiste. L'épisode représenté dans cette gravure montre Hans Jetzer attaché à une table, entouré des quatre dominicains. L'un essaie de lui faire avaler une hostie (probablement celle miraculeuse teintée de rouge), deux autres lui peignent des stigmates sur les pieds, et le quatrième s'essaie à la magie noire. Les images du pape-loup du <title>Passional</title> de Strasbourg et des <title>Faits</title> montrent des échos de cette scène de torture de l'affaire Jetzer.</note>
-                    <note type="biblio">Bibliographie: Kathrin Utz-Tremp, Warum Maria blutige Tränen weinte. Der Jetzerhandel und die Jetzerprozesse in Bern (1507-1509), Wiesbaden, Harrassowitz, 2022, Abb. 13.</note>
+                    <note type="commentaire">Cette gravure appartient à une série d'images illustrant l'affaire Jetzer. Celle-ci se produisit au couvent des dominicains de Berne en 1507, impliquant quatre frères, auteurs de faux miracles pour soutenir leur position maculiste. L'épisode représenté dans cette gravure montre Hans Jetzer attaché à une table, entouré des quatre dominicains. L'un essaie de lui faire avaler une hostie (probablement l'"hostie miraculeuse" teintée de rouge), deux autres lui peignent des stigmates sur les pieds, et le quatrième s'essaie à la magie noire. Les images du pape-loup du <title>Passional</title> de Strasbourg et des <title>Faits</title> montrent des échos de cette scène de torture de l'affaire Jetzer.</note>
+                    <note type="biblio">Bibliographie: Kathrin Utz-Tremp, <title>Warum Maria blutige Tränen weinte. Der Jetzerhandel und die Jetzerprozesse in Bern (1507-1509)</title>, Wiesbaden, Harrassowitz, 2022, Abb. 13.</note>
                   </figure>
                 </item>
                 
@@ -121,7 +121,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dans ce texte, le bain est pour Murner une métaphore de la rémission des péchés. Une série de gravures illustre les différentes étapes de ce bain que le Christ lui-même donne à un franciscain (probablement Murner lui-même). L'une de ces étapes montre le frère dévêtu et allongé sur une table, que le Christ fouette avec un bouquet de feuilles. Activer ainsi la circulation sanguine vise symboliquement à susciter la repentance du pécheur. Dans les <title>Faits</title>, le bouquet de feuilles sert désormais à activer les dons pécuniers.</note>
+                    <note type="commentaire">Dans ce texte, le bain est pour Murner une métaphore de la rémission des péchés. Une série de gravures illustre les différentes étapes de ce bain que le Christ lui-même donne à un franciscain (probablement Murner). L'une des étapes montre le frère dévêtu et allongé sur une table, que le Christ fouette avec un bouquet de feuilles. Activer ainsi la circulation sanguine vise symboliquement à susciter la repentance du pécheur. Dans les <title>Faits</title>, le bouquet de feuilles sert désormais à activer les dons pécuniers de la proie du pape et de ses sbires.</note>
                   </figure>
                 </item>
                 
@@ -147,7 +147,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le corps de l'évêque défunt Robert  de Bavière git sur une table autour de laquelle se tiennent des personnages de haut rang, et en bout de table l'auteur de l'ouvrage, Johann Geiler von Kaysersberg. La composition générale de cette image n'est pas sans rappeler celle des <title>Faits</title>.</note>
+                    <note type="commentaire">Le corps de l'évêque défunt Robert de Bavière gît sur une table autour de laquelle se tiennent des personnages de haut rang, et en bout de table l'auteur de l'ouvrage, Johann Geiler von Kaysersberg. La composition générale de cette image n'est pas sans rappeler celle des <title>Faits</title>.</note>
                     <note type="biblio">Bibliographie: J.C. Wey et L. Naas, <title>Jean Geiler de Kaysersberg. Trésors iconographiques humanistes</title>, Barr, 2021.</note>
                   </figure>
                 </item>
@@ -174,13 +174,13 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dans ce pamphlet visant les femmes, une  gravure représente l'une d'elle derrière une table où git un homme, qu'elle gave d'une main et fouette avec un bouquet de feuilles de l'autre. La situation dépeinte n'est pas sans rappeler celle, déplacée du côté de la critique de l'Église, des <title>Faits</title>.</note>
+                    <note type="commentaire">Dans ce pamphlet visant les femmes, une  gravure représente l'une d'elle derrière une table où gît un homme, qu'elle gave d'une main et fouette avec un bouquet de feuilles de l'autre. La situation dépeinte rappelle celle que l'on rencontre dans les <title>Faits</title>, mais déplacée du côté de la critique de l'Église.</note>
                   </figure>
                 </item>
                 
                 <item n="6">
                   <figure>
-                    <graphic type="large" url="https://ids.lib.harvard.edu/ids/iiif/18772296/full/full/0/default.jpg"/>
+                    <graphic type="large" url="https://iiif.hedera.unige.ch/iiif/3/setaf/PapstlicheWolfe1520.jpg/full/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -229,7 +229,7 @@
                 
                 <item n="8">
                   <figure>
-                    <graphic url="https://nat.museum-digital.de/apis/iiif-image/705566/full/full/0/default.jpg"/>
+                    <graphic type="large" url="https://iiif.hedera.unige.ch/iiif/3/setaf/SehetAuff1521.jpg/full/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -239,7 +239,7 @@
                       <bibl source="https://nat.museum-digital.de/singleimage?imagenr=705566">
                         <title type="titre_ouvrage">Sehet auff/ das ist eyn seltzams thier</title>
                         <author role="artiste"/>
-                        <publisher>Johann Schöffer</publisher>
+                        <publisher>Johann Schöffer?</publisher>
                         <pubPlace>Mainz</pubPlace>
                         <date>c. 1521</date>
                         <availability>
@@ -248,6 +248,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Un cardinal-loup et un pape-loup pourchassent des brebis se réfugiant au pieds de la crucifixion. Les apôtres Paul et Pierre regardent de loin cette poursuite. Dans l'angle inférieur droit apparaît Luther, vêtu comme un moine et coiffé d'un chapeau de docteur, qui tient une bible et une plume. La figure de Luther est une adjonction par rapport à la gravure "Die päpstliche Wölfe".</note>
+                    <note type="biblio">Bibliographie: E. Pietrzak et M. Schilling, <title>Die Sammlung des Kunstmuseums Moritzburg in Halle a. S.</title> (Deutsche Illustrierte Flugblätter des 16. und 17. Jahrhunderts), Bd. IX, De Gruyter, 2018, p. 188-189.</note>
                   </figure>
                 </item>
                 
@@ -273,7 +274,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Comme page de titre de ce pamphlet instruisant sur la façon de reconnaître les loups spirituels, la gravure représente le pape (trônant en haut au centre), les cardinaux et autres clercs, tous avec des visages de loup, qui lancent leur filet pour attraper des oies pieuses tenant un rosaire dans leur bec.</note>
+                    <note type="commentaire">Comme page de titre de ce pamphlet instruisant sur la façon de reconnaître les loups spirituels, la gravure représente le pape (trônant en haut au centre), des cardinaux et d'autres clercs, ayant tous des visages de loup, qui lancent leur filet pour attraper des oies pieuses tenant un rosaire dans leur bec.</note>
                     <note type="biblio">Bibliographie: R.W. Scribner, <title>For the sake of the simple folk. Popular propaganda for the German Reformation</title>, Cambridge University Press, 1981, p. 76.</note>
                   </figure>
                 </item>
@@ -292,7 +293,7 @@
                         <author role="artiste"/>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+ + 5582">VD16 n°  L 5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
@@ -326,7 +327,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dans la réédition du <title>Wolffgesang</title>, la gravure de la page de titre est inversée par rapport à l'édition de 1521: le pape et les hauts ecclésiastiques jettent un filet pour s'emparer des oies dévotes.</note>
+                    <note type="commentaire">Dans la réédition du <title>Wolffgesang</title>, la gravure de la page de titre est inversée par rapport à l'édition de 1521: le pape et les hauts ecclésiastiques, à têtes de loup, jettent un filet pour s'emparer des oies dévotes.</note>
                   </figure>
                 </item>
                 
@@ -352,7 +353,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Au cours d'un repas d'enterrement, les convives (le pape, un évêque, un domincain, une nonne et une courtisane) découpent un cadavre posé sur la table devant eux. La sœur suce un os du mort - todtenbein - soit une relique - qui n'est pas sans évoquer les os que portent les tourmenteurs dans la gravure du pape-loup des Faits. Dans la partie inférieure trois hommes (un paysan, un noble et un curé) discutent en se détournant du sinistre banquet. La métaphore du cannibalisme vise à dénoncer la pratique de l'intercession pour le salut des âmes. Et la présence de douze personnages avec un cadavre parodie la Cène et l'Eucharistie. En outre, la ressemblance de ce banquet avec une leçon d'anatomie sert à Gengenbach de moyen pour mettre à nu la nature dévoyée et la violence du clergé romain.</note>
+                    <note type="commentaire">Au cours d'un repas d'enterrement, les convives (le pape, un évêque, un dominicain, une nonne et une courtisane) découpent un cadavre posé sur la table devant eux. La sœur suce un os du mort - <title>todtenbein</title> - soit une relique - qui n'est pas sans évoquer les os que portent les tourmenteurs dans la gravure du pape-loup des <title>Faits</title>. Dans la partie inférieure trois hommes (un paysan, un noble et un curé) discutent en se détournant du sinistre banquet. La métaphore du cannibalisme vise à dénoncer la pratique de l'intercession pour le salut des âmes. Et la présence de douze personnages avec un cadavre parodie la Cène et l'Eucharistie. En outre, la ressemblance de ce banquet avec une leçon d'anatomie sert à dévoiler la nature dévoyée et la violence du clergé romain.</note>
                     <note type="biblio">Bibliographie: <title>Iconoclasme. Vie et mort de l'image médiévale</title>, cat. expo., Paris, Somogy, 2001, n° 135.</note>
                   </figure>
                 </item>
@@ -385,7 +386,7 @@
                 
                 <item n="14">
                   <figure>
-                    <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11204849_00219/full/full/0/default.jpg"/>
+                    <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11204848_00232/full/full/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -405,7 +406,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Pour commenter le passage de Matthieu 7, également cités dans les <title>Faits</title>, la gravure représente le Christ qui prêche sur les loups ravissants, lesquels sont représentés à gauche de l'image coiffés de chapeaux illustrant leur rang dans la hiérarchie ecclésiastique (tiare, chapeau cardinalice et barrette), et couverts sous une peau de mouton.</note>
+                    <note type="commentaire">Pour commenter le passage de Matthieu 7, également cité dans les <title>Faits</title>, la gravure représente le Christ qui prêche sur les loups ravissants, lesquels sont représentés à gauche de l'image coiffés de chapeaux illustrant leur rang dans la hiérarchie ecclésiastique (tiare, chapeau cardinalice et barrette), et couverts sous une peau de mouton.</note>
                   </figure>
                 </item>
                 
@@ -423,7 +424,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n°4486</idno>
                         <availability>
@@ -457,7 +458,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">En tête du sermon d'Urbanus Rhegius sur Matthieu 7,15 , la gravure du frontispice représente deux clercs-loups, identifiés comme un canonicus et un monachus, qui dévorent un agneau symbolisant tous les chrétiens abandonnés par l'Église romaine.</note>
+                    <note type="commentaire">En tête du sermon d'Urbanus Rhegius sur Matthieu 7,15, la gravure du frontispice représente deux clercs-loups, identifiés comme un <title>canonicus</title> et un <title>monachus</title>, qui dévorent un agneau symbolisant tous les chrétiens abandonnés par l'Église romaine.</note>
                     <note type="biblio">Bibliographie: <title>Enfer ou paradis. Aux sources de la caricature XVIe-XVIIIe siècles</title>, cat. expo., Gollion, Infolio, 2013, n° 26.</note>
                   </figure>
                 </item>
@@ -468,14 +469,14 @@
                 
                 <item n="17">
                   <figure>
-                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/Leienbibel_papeLoup.jpg/full/max/0/default.jpg"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/Leienbibel_papeLoup.jpg/full/600,/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm">73 x 73</dim>
                       <locus type="page">p. 77</locus>
                       <objectType>Gravure sur bois</objectType>
-                      <bibl source="photocopie">
+                      <bibl source="https://catalogue.bl.uk/permalink/44BL_MAIN/n6kovr/alma990003418350109251">
                         <title type="titre_ouvrage">Leien Bibel</title>
                         <author role="artiste">Heinrich Vogtherr</author>
                         <publisher>Wendelin Rihel</publisher>
@@ -487,8 +488,9 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">En tête d'un groupe d'hommes et de femmes, le Christ montre comme son voisin trois loups couverts d'une peau de mouton et coiffés, l'un d'une tiare, l'autre d'une barette de cardinal. Cette gravure illustre le passage de l'évangile de Matthieu invitant à se méfier des faux prophètes, également cité dans les <title>Faits</title> (Mt 7).</note>
+                    <note type="commentaire">En tête d'un groupe d'hommes et de femmes, le Christ montre comme son voisin trois loups couverts d'une peau de mouton et coiffés, l'un d'une tiare, l'autre d'une barette de cardinal. Cette gravure illustre les vers placés au-dessus d'elle: "Der Herr verwarnet uns für den falschen propheten, welche under hüpschen schein selenmord anrichten", qui s'apparentent au passage de l'évangile de Matthieu (7) également cité dans les <title>Faits</title> (Mt 7).</note>
                   </figure>
+                  <note type="biblio">Bibliographie: F. Muller, "Le thème du Pape-Antéchrist dans la polémique visuelle anticatholique dans le Rhin supérieur au XVIe siècle", <title>Simpliciana. Schriften der Grimmelshausen-Gesellschaft</title>, XXII, 2000, p. 81.</note>
                 </item>
                 
                 <item n="18">
@@ -537,13 +539,13 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Représentation d'un pape sous les traits d'un ours couronné d'une tiare et portant la cape pontificale. L'homme-animal se tient debout près d'une église. Bien qu'isolée de son contexte, cette gravure semble représenter le miracle advenu sur le corps du pape défunt Benoît IX tel qu'il est relaté chez Lykostenes, <title>Prodigiorum ac ostentorum chronicon</title>.</note>
+                    <note type="commentaire">Représentation d'un pape sous les traits d'un ours couronné d'une tiare et portant la cape pontificale. L'homme-animal se tient debout près d'une église. Bien qu'isolée de son contexte, cette gravure semble représenter le miracle advenu sur le corps du pape défunt Benoît IX tel qu'il est relaté chez Conrad Lykostenes, <title>Prodigiorum ac ostentorum chronicon</title>.</note>
                   </figure>
                 </item>
                 
                 <item n="20">
                   <figure>
-                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/lambeSpeaketh.jpg/full/max/0/default.jpg"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/lambeSpeaketh.jpg/20,20,915,1245/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -587,21 +589,21 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Cette gravure satirique représente un évêque-loup - l'évêque de Winchester - qui assure l'office de la messe, en mordant le cou d'un agenau suspendu sur l'autel. Le sang qui en jaillit remplit les calices des membres du clergé catholique aux têtes lupines. Les laïcs tentent soit de retenir l'évêque, soit sont attachés à lui. Enfin sur le sol gisent des agneaux qui représentent, selon la légende, les "prédicateurs emprisonnés d'Angleterre", suivie de leurs noms. Bien que concernant l'état de l'Église en Angleterre, le texte qui accompagne la gravure est en allemand, probablement en provenance d'Angleterre. Il s'agit en effet du modèle inversé de la gravure anglaise "The Lambe speaketh".</note>
+                    <note type="commentaire">Cette gravure satirique représente un évêque-loup - l'évêque de Winchester - qui assure l'office de la messe, en mordant le cou d'un agenau suspendu sur l'autel. Le sang qui en jaillit remplit les calices des membres du clergé catholique aux têtes lupines. Les laïcs tentent soit de retenir l'évêque, soit sont attachés à lui. Enfin sur le sol gisent des agneaux qui représentent, selon la légende, les "prédicateurs emprisonnés d'Angleterre", complétée par leurs noms. Bien que concernant l'état de l'Église en Angleterre, le texte qui accompagne la gravure est en allemand, probablement en provenance d'Angleterre. Il s'agit en effet du modèle inversé de la gravure anglaise "The Lambe speaketh".</note>
                     <note type="biblio">Bibliographie: <title>Enfer ou paradis. Aux sources de la caricature XVIe-XVIIIe siècles</title>, cat. expo., Gollion, Infolio, 2013, n° 12 ; W. Harms, <title>Deutsche illustrierte Flugblätter des 16. und 17. Jahrhunderts</title>, Wolfenbüttel, München, 1980, vol. II,  n° II,8.</note>
                   </figure>
                 </item>
                 
                 <item n="22">
                   <figure>
-                    <graphic url="https://sammlungenonline.albertina.at/iiif%2Fimages%2fDG2002_209_4.jpg/full/full/0/native.jpg"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/Spottbild1556.jpg/full/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm">165 mm diam</dim>
                       <locus type="page">Wien, Albertina, inv. DG2002/209</locus>
                       <objectType>Gravure sur bois </objectType>
-                      <bibl source="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[DG2002/209]&amp;showtype=record">
+                      <bibl source="https://sammlungenonline.albertina.at/en/objects/123839/spottbild-auf-die-wechselnden-gesichter-der-kirche">
                         <title type="titre_ouvrage">Spottbild auf die wechselnden Gesichter der Kirche</title>
                         <author role="artiste">Hans Rudolf Manuel Deutsch</author>
                         <publisher/>
@@ -612,7 +614,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure se compose de deux disques superposés mobiles. Sur le disque supérieur, avec un segment manquant où aurait dû être figurée une tête, est représenté un corps vêtu de riches vêtement liturgiques. Le disque inférieur, qui est mobile, permet de compléter ce corps de huit visages différents (moine, évêque, cardinal, pape, etc.). Ces combinaisons visent toutes à moquer les représentants de l'Église romaine par leur hybridation avec des animaux (reptile, loup, chouette) ou des créatures fantastiques. Dans le cas précis, un évêque mitré est figuré avec une tête de loup et un agneau miniature dans sa gueule.</note>
+                    <note type="commentaire">La gravure se compose de deux disques superposés mobiles. Sur le disque supérieur est représenté un corps vêtu de riches vêtement liturgiques, avec un segment manquant à l'emplacement de la tête. Le disque inférieur, qui est mobile, permet de compléter ce corps de huit visages différents (moine, évêque, cardinal, pape, etc.). Ces combinaisons visent toutes à moquer les représentants de l'Église romaine par leur hybridation avec des animaux (reptile, loup, chouette) ou des créatures fantastiques. Dans le cas précis, un évêque mitré est figuré avec une tête de loup tenant un agneau miniature dans sa gueule.</note>
                   </figure>
                 </item>
                 
@@ -631,7 +633,7 @@
                         <publisher>Heinrich Petri</publisher>
                         <pubPlace>Basel</pubPlace>
                         <date>1557</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+W+314">VD16 n° W4314</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+W+4314">VD16 n° W4314</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/606384">USTC n° 606384</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek, 4 L.impr.c.n.mss. 11, urn:nbn:de:bvb:12-bsb00087675-3 - Public Domain</licence>
@@ -652,7 +654,7 @@
                       <locus type="page">p. 30</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -664,7 +666,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure s'inspire étroitement de celle des <title>Faits</title>, en omettant certains motifs, par exemple les ovins. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
+                    <note type="commentaire">La gravure s'inspire étroitement de celle des <title>Faits</title>, en omettant certains motifs, notamment les ovins. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
                   </figure>
                 </item>
                 
@@ -690,7 +692,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library, *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -704,11 +706,11 @@
                       <locus type="page">p. 58</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -734,7 +736,7 @@
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -790,7 +792,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Afin d'illustrer les dissensions au coeur du protestantisme, la gravure représente le cadavre de Luther, couché sur une table, examiné par un groupe de réformateurs qui prélèvent ses membres. Les réformateurs sont reconnaissables à leurs portraits, et sont nommés dans le texte (Viret, Zwingli, Calvin, Spangenberg, etc.). Derrière la scène principale, quatre hommes se disputent aux dés les vêtements de Luther (à gauche), et d'autres cuisinent (à droite). La composition montre des parallèles avec la Cène où le corps du Christ est divisé symboliquement. Cette gravure est réutilisée dans un texte en allemand de Johann Nas (paru en 1568 à Ingolstadt).</note>
+                    <note type="commentaire">Afin d'illustrer les dissensions au coeur du protestantisme, la gravure représente le cadavre de Luther, couché sur une table, examiné par un groupe de réformateurs qui prélèvent ses membres. Les réformateurs sont reconnaissables à leurs portraits, et sont nommés dans le texte (Viret, Zwingli, Calvin, Spangenberg, etc.). Derrière la scène principale, quatre hommes disputent aux dés les vêtements de Luther (à gauche), et d'autres cuisinent (à droite). La composition montre des parallèles avec la Cène où le corps du Christ est divisé symboliquement. Cette gravure est réutilisée dans un texte en allemand de Johann Nas (paru en 1568 à Ingolstadt).</note>
                     <note type="biblio">Bibliographie: <title>Illustrierte Flugblätter aus den Jahrhunderten der Reforamtion und der Glaubenskämpfe</title>, hg. W. Harms, Veste Coburg, 1983, n° 30.</note>
                   </figure>
                 </item>
@@ -801,7 +803,7 @@
                     <figDesc>
                       <title type="titre_courant">De Paus van giericheyt schier stickt / Die zijns selfs volck bijt, eet, en siickt.</title>
                       <title type="manchette"/>
-                      <dim unit="mm">40 x 60</dim>
+                      <dim unit="mm">46 x 60</dim>
                       <locus type="page">sign. C2</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://opac.kbr.be/LIBRARY/doc/SYRACUSE/11842130">

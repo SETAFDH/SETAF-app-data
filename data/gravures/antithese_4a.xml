@@ -39,7 +39,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
@@ -57,8 +57,8 @@
                       <dim unit="mm">65 x 73</dim>
                       <locus type="page">Paris, Bibliothèque Sainte-Geneviève, ms. 1130, f. 198v</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="ark:/63955/md91sf26942m">
-                        <title type="titre_ouvrage">Guillaume de Deguileville, Pèlerinage de Jésus-Christ</title>
+                      <bibl source="https://arca.irht.cnrs.fr/ark:/63955/md91sf26942m">
+                        <title type="titre_ouvrage">Guillaume de Deguileville, Pèlerinage de Jésus Christ</title>
                         <author role="artiste"/>
                         <publisher/>
                         <pubPlace/>
@@ -68,7 +68,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">L'enluminure du Pèlerinage de Jésus Christ de Guillaume de Deguileville représente le Christ, se tenant debout derrière l'apôtre Pierre. Celui-ci a lancé sa canne pour pêcher le poisson, résumant de cette façon le passage de l'évangile de Matthieu (17, 24-27), qui est également utilisé dans les <title>Faits</title>.</note>
+                    <note type="commentaire">L'enluminure du <title>Pèlerinage de Jésus Christ</title> de Guillaume de Deguileville représente le Christ se tenant debout derrière l'apôtre Pierre. Celui-ci a lancé sa canne pour pêcher le poisson, résumant ainsi le passage du tribut de saint Pierre de l'évangile de Matthieu (17, 24-27), qui est également cité dans les <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
@@ -92,8 +92,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La pleine page de la bible allemande illustrée superpose deux scènes: au registre supérieur, la guérison du fils d'un juif, et au registre inférieur, le tribut de saint Pierre, décrit  ainsi : "Jesus sprichet petre nim den visch und in sime munde vindestu die muntze die du dem zoller gist – der zoller" (Mt. 17,24-27). Sous le regard du Christ, l'apôtre récupère la pièce de monnaie dans la gueule d'un poisson pour la donner au receveur d'impôts, assis dans un édicule étroit.</note>
-                    <note type="biblio">Bibliographie: Deutsche Bilderbible aus den späten Mittelalter: Handschrift 334 der Universitätsbibliothek Freiburg i. Br. und M. 719-720 der Pierpont Morgan Library New York, Konstanz, 1960.</note>
+                    <note type="commentaire">La pleine page de la bible allemande illustrée superpose deux scènes: au registre supérieur, la guérison du fils d'un juif, et au registre inférieur, le tribut de saint Pierre, décrit  ainsi : "Jesus sprichet petre nim den visch und in sime munde vindestu die muntze die du dem zoller gist – der zoller" (Mt 17,24-27). Sous le regard du Christ, l'apôtre récupère la pièce de monnaie dans la gueule d'un poisson pour la donner au receveur d'impôts, assis dans un édicule étroit.</note>
+                    <note type="biblio">Bibliographie: <title>Deutsche Bilderbible aus den späten Mittelalter: Handschrift 334 der Universitätsbibliothek Freiburg i. Br. und M. 719-720 der Pierpont Morgan Library New York</title>, Konstanz, 1960.</note>
                   </figure>
                 </item>
                 
@@ -141,7 +141,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dans ce psautier marial, l'un des 150 bois illustrés représente le tribut de saint Pierre. Deux scènes successives sont figurées, la pêche et le découpage du poisson pour en sortir le statère que Pierre tend au receveur d'impôt installé dans sa boutique. Le cadre ornemental contient une Annonciation, ainsi que la représentation des dévots du rosaire en prière.</note>
+                    <note type="commentaire">Dans ce psautier marial, l'un des 150 bois illustrés représente le tribut de saint Pierre. Deux scènes successives sont figurées, la pêche et le découpage du poisson pour en sortir le statère que Pierre tend au receveur d'impôts installé dans sa boutique. Le cadre ornemental contient une Annonciation, ainsi que la représentation des dévots du rosaire en prière.</note>
                   </figure>
                 </item>
                 
@@ -183,7 +183,7 @@
                         <author role="artiste">Lucas Cranach</author>
                         <publisher>[Johann Rhau-Grunenberg]</publisher>
                         <pubPlace>[Wittenberg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 n° L 5584</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC n° 683162</idno>
                         <availability>
@@ -191,7 +191,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Entouré de ses disciples, le Christ ordonne à Pierre d’extraire le statère de la gueule du poisson afin de payer le percepteur d’impôt qui se tient debout à l’entrée d’une ville. Cette gravure n'est pas le modèle direct de celle des <title>Faits</title>, qui s'inspire directement du <title>Passional</title> de Strasbourg.</note>
+                    <note type="commentaire">Entouré de ses disciples, le Christ ordonne à Pierre d’extraire le statère de la gueule du poisson afin de payer le percepteur d’impôt qui se tient debout à l’entrée d’une ville. Cette gravure n'est pas le modèle direct de celle des <title>Faits</title>, qui s'inspire du <title>Passional</title> de Strasbourg.</note>
+                    <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 177-180; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 22-23.</note>
                   </figure>
                 </item>
                 
@@ -206,10 +207,10 @@
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00088259">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
-                        <author role="artiste"/>
+                        <author role="artiste">[d'ap. Lucas Cranach]</author>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
@@ -235,7 +236,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
                         <availability>
@@ -261,7 +262,7 @@
                       <locus type="page">p. 21</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -273,7 +274,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Adaptation et miniaturisation de la gravure des <title>Faits</title>. Le collecteur d'impôts, situé à gauche de la gravure comme dans les <title>Faits</title>, ne se tient plus à la porte d'entrée de la ville, qui se développe à l'arrière-plan. Pierre est isolé du reste des disciples emmenés par le Christ qui pointe un doigt vers le ciel. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
+                    <note type="commentaire">Adaptation et miniaturisation de la gravure des <title>Faits</title>. Le collecteur d'impôts, situé à gauche de la gravure comme dans les <title>Faits</title>, ne se tient plus à la porte d'entrée de la ville. Pierre est isolé du reste des disciples emmenés par le Christ qui pointe un doigt vers le ciel. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
                   </figure>
                 </item>
                 
@@ -299,7 +300,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library,  *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -313,11 +314,11 @@
                       <locus type="page">p. 41</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -343,7 +344,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -357,7 +358,7 @@
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00034957_00048/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">Der Koͤnig aller Koͤnig groß / Demuͤtigt sich, gibt zoll und schoß</title>
+                      <title type="titre_courant">Der Koͤnig aller Koͤnig groß / Demuͤtigt sich, gibt zoll und schoß.</title>
                       <title type="manchette"/>
                       <dim unit="mm">46 x 60 </dim>
                       <locus type="page">p. 31</locus>
@@ -411,7 +412,7 @@
                     <figDesc>
                       <title type="titre_courant">Jesus en heeft niet willen falen / Schot ende lot oock te betalen.</title>
                       <title type="manchette"/>
-                      <dim unit="mm">40 x 60</dim>
+                      <dim unit="mm">46 x 60</dim>
                       <locus type="page">sign. B5v</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://opac.kbr.be/LIBRARY/doc/SYRACUSE/11842130">
@@ -452,7 +453,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Adaptation de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557),  avec une inversion du sens de l'image et une modification du format qui entraîne le rapprochement des différents acteurs de cette scène.</note>
+                    <note type="commentaire">Adaptation de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), avec une inversion du sens de l'image et une modification du format qui entraîne le rapprochement des différents acteurs de cette scène.</note>
                   </figure>
                 </item>
                 
@@ -502,7 +503,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'édition de l'<title>Antithesis</title> en vers.</note>
+                    <note type="commentaire">Remploi de la gravure de l'édition de l'<title>Antithesis</title> allemande en vers.</note>
                   </figure>
                 </item>
                 

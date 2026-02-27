@@ -38,7 +38,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n°1406</idno>
                 <availability>
@@ -61,7 +61,7 @@
                         <author role="artiste"/>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
@@ -69,7 +69,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le pape debout, avec la férule et un bâton de taille (ou bâton de comptage) dans les mains, observe la procession qui passe devant lui. Celle-ci est emmenée par un servant de messe sonnant des clochettes, suivi par un prêtre tenant en mains le saint sacrement et deux clercs portant, l’un un buste-reliquaire, l’autre un bras-reliquaire. Un modeste fidèle agenouillé, vu de dos, présente ses offrandes, un coq et un cochon. Au pied du pape, se trouvent un coffre rempli d’argent et un sac plein d’indulgences avec une inscription en allemand: « Um Geld ein Sack vol Ablass ». Cette gravure a servi de modèle direct à celle des <title>Faits</title> où se notent des modifications, par exemple disparition du ciel ou ajout de la traduction française de l'inscription sur le sac d'indulgences.</note>
+                    <note type="commentaire">Le pape debout, avec la férule et un bâton de taille (ou bâton de comptage) dans les mains, observe la procession qui passe devant lui. Celle-ci est emmenée par un servant de messe sonnant des clochettes, suivi par un prêtre tenant en mains le saint sacrement et deux clercs portant, l’un un buste-reliquaire, l’autre un bras-reliquaire. Un modeste fidèle agenouillé, vu de dos, présente ses offrandes, un coq et un cochon. Au pied du pape, se trouvent un coffre rempli d’argent et un sac plein d’indulgences avec une inscription en allemand: « Um Geld ein Sack vol Ablass ». Cette gravure a servi de modèle direct à celle des <title>Faits</title> où se notent des modifications, par exemple la disparition du ciel ou l'ajout de la traduction française de l'inscription sur le sac d'indulgences.</note>
                   </figure>
                 </item>
                 
@@ -136,7 +136,7 @@
                       <locus type="page">feuille volante</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.3931/e-rara-36173 ">
-                        <title type="titre_ouvrage">Thomas Murner, Der Lutherischen, evangelischen Kirchendieb…</title>
+                        <title type="titre_ouvrage">Thomas Murner, Der Lutherischen, Evangelischen Kirchen Dieb und Ketzer Kalender</title>
                         <author role="artiste">Thomas Murner</author>
                         <publisher>[s.n.]</publisher>
                         <pubPlace>Lucerne</pubPlace>
@@ -166,7 +166,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n°4486</idno>
                         <availability>
@@ -200,7 +200,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">La bête papale à sept têtes naît d'un coffre pour l'argent obtenu par la vente des indulgences. L'une de ces indulgences est clouée à la place du titulus de la crucifixion et reproduit la même inscription que celle du sac d'argent du <title>Passional</title> de Strasbourg, des <title>Faits</title> et de l'<title>Antithesis</title>, "Umb gelt ein sack vol ablas".</note>
-                    <note type="biblio">Bibliographie: <title>Iconoclash</title>, cat. expo., Karlsruhe, 2002, p. 184-188.</note>
+                    <note type="biblio">Bibliographie: <title>Iconoclash</title>, cat. expo., Karlsruhe, 2002, pp. 184-188.</note>
                   </figure>
                 </item>
                 
@@ -217,11 +217,11 @@
                       <dim unit="mm">165 x 247</dim>
                       <locus type="page">feuille volante</locus>
                       <objectType>Gravure sur bois </objectType>
-                      <bibl source="https://www.stiftung-friedenstein.de/sammlungen">
+                      <bibl source="https://www.friedensteine.de/sammlung?item=720347894811E2A6A922BCB6544574C6">
                         <title type="titre_ouvrage">Hans Sachs, Fuchsschwanz und Brillenladen</title>
                         <author role="artiste"/>
-                        <publisher/>
-                        <pubPlace/>
+                        <publisher>[s.n]</publisher>
+                        <pubPlace>[s.n.]</pubPlace>
                         <date>1546</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/752544">USTC n° 752544</idno>
                         <availability>
@@ -230,7 +230,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Le poème satirique de Hans Sachs, portant sur l'hypocrisie du clergé, est illustré d'une gravure représentant une boutique où sont vendues des queues de renard et des lunettes. Les acheteurs, pour la plupart des ecclésiastiques, se sont rassemblés à droite et à gauche de l'étal et prennent la parole les uns après les autres dans le texte au-dessous (en ordre alphabétique). Le premier d'entre eux, le pape, estime que la plus grande queue de renard lui revient, car il gouverne le clergé. Il en a besoin pour éblouir l'empereur, le roi et les princes. La queue de renard était considérée comme un symbole de malhonnêteté et de fausseté : elle désignait ceux qui la portaient comme des hypocrites, entièrement dévoués à leur égoïsme et à leur cupidité.</note>
-                    <note type="biblio">Bibliographie: B. Schäfer, U. Eydinger, M. Rekow, Fliegende Blätter. Die Sammlung der Einblattholzschnitte des 15. und 16. Jahrhunderts der Stiftung Schloss Friedenstein Gotha, Gotha, arnoldsche Art Publishers, 2016, Bd. 1, n° 419.</note>
+                    <note type="biblio">Bibliographie: B. Schäfer, U. Eydinger, M. Rekow, <title>Fliegende Blätter. Die Sammlung der Einblattholzschnitte des 15. und 16. Jahrhunderts der Stiftung Schloss Friedenstein Gotha</title>, Gotha, arnoldsche Art Publishers, 2016, Bd. 1, n° 419.</note>
                   </figure>
                 </item>
                 
@@ -244,7 +244,7 @@
                       <locus type="page">p. 34</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -282,7 +282,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Remplacement de l'inscription latine sur le sac d'indulgences par la traduction française approximative : "Tout pour argent au Temple du Pape" qui diffère de celle des <title>Faits</title>. Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library, *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Remplacement de l'inscription latine sur le sac d'indulgences par la traduction française approximative : "Tout pour argent au Temple du Pape" qui diffère de celle des <title>Faits</title>. Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Toutefois, dès l'édition de 1578, l'inscription sur le sac d'argent est légèrement modifiée en: "Tout pour argent en l'eglise papale". Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>. </note>
                   </figure>
                 </item>
                 
@@ -296,11 +296,11 @@
                       <locus type="page">p. 66</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -313,6 +313,30 @@
                 </item>
                 
                 <item n="11">
+                  <figure>
+                    <graphic url="https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~425957~192597page61/full/full/0/default.jpg"/>
+                    <figDesc>
+                      <title type="titre_courant">Sur terre ne demande / lautre que or.</title>
+                      <title type="manchette">Lucri hic ardore tabescit.</title>
+                      <dim unit="mm">116 x 96</dim>
+                      <locus type="page">sign. Hv</locus>
+                      <objectType>Gravure sur bois</objectType>
+                      <bibl source=" https://luna.manchester.ac.uk/luna/servlet/s/4h4t5v">
+                        <title type="titre_ouvrage">Faitz de Jesus Christ et du pape</title>
+                        <author role="artiste"/>
+                        <publisher>[Jean Saugrain?]</publisher>
+                        <pubPlace>[Lyon]</pubPlace>
+                        <date>[1560?]</date>
+                        <availability>
+                          <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
+                        </availability>
+                      </bibl>
+                    </figDesc>
+                    <note type="commentaire">Troisième édition des <title>Faits</title>.</note>
+                  </figure>
+                </item>
+                
+                <item n="12">
                   <figure>
                     <graphic url="https://www.e-rara.ch/i3f/v20/4454491/full/full/0/default.jpg"/>
                     <figDesc>
@@ -337,31 +361,7 @@
                     <note type="commentaire">Remploi de la gravure de l'<title>Antithese des faicts de Jesus Christ et du pape</title> (1560) hors d'un contexte antithétique. Elle sert à illustrer un passage de l'<title>Estat de l'Eglise</title> de Jean de Hainaut consacré à Léon X. La gravure surmonte directement un texte incriminant les actions du pape: "Leon ayant assemblé une grand somme d'argent de ses pardons qu'il vendait a beaux deniers comptant: il enrichit ses parents bancquiers &amp; les esleva en grande dignitez."</note>
                   </figure>
                 </item>
-                
-                <item n="12">
-                  <figure>
-                    <graphic url="https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~425957~192597page61/full/full/0/default.jpg"/>
-                    <figDesc>
-                      <title type="titre_courant">Sur terre ne demande / lautre que or.</title>
-                      <title type="manchette">Lucri hic ardore tabescit.</title>
-                      <dim unit="mm">116 x 96</dim>
-                      <locus type="page">sign. Hv</locus>
-                      <objectType>Gravure sur bois</objectType>
-                      <bibl source=" https://luna.manchester.ac.uk/luna/servlet/s/4h4t5v">
-                        <title type="titre_ouvrage">Faitz de Jesus Christ et du pape</title>
-                        <author role="artiste"/>
-                        <publisher>[Jean Saugrain?]</publisher>
-                        <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
-                        <availability>
-                          <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
-                        </availability>
-                      </bibl>
-                    </figDesc>
-                    <note type="commentaire">Troisième édition des <title>Faits</title>.</note>
-                  </figure>
-                </item>
-                
+               
                 <item n="13">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00034957_00067/full/full/0/default.jpg"/>
@@ -394,7 +394,7 @@
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
-                      <dim unit="mm">aller BGE</dim>
+                      <dim unit="mm">in 8°</dim>
                       <locus type="page">page de titre</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001100541957">
@@ -405,7 +405,7 @@
                         <date>1564</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/499">USTC n° 499</idno>
                         <availability>
-                          <licence>Bibliothèque municipale de Lyon, Rés B 509285 - Licence Ouverte / Open License by Etalab (Qualité mauvaise filtre)!!! est à la BGE éventuellement faire image et demander droits</licence>
+                          <licence>Bibliothèque municipale de Lyon, Rés B 509285 - Licence Ouverte / Open License by Etalab</licence>
                         </availability>
                       </bibl>
                     </figDesc>
@@ -419,7 +419,7 @@
                     <figDesc>
                       <title type="titre_courant">In s Paus kerck is gants niet te crygen / Dan met goet gelt oor stuypen nyghen.</title>
                       <title type="manchette"/>
-                      <dim unit="mm">40 x 60</dim>
+                      <dim unit="mm">46 x 60</dim>
                       <locus type="page">sign. C4</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://opac.kbr.be/LIBRARY/doc/SYRACUSE/11842130">

@@ -38,7 +38,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n°1406</idno>
                 <availability>
@@ -87,7 +87,7 @@
                         <author role="artiste"/>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
@@ -121,7 +121,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure du <title>Passional Christi und Antichristi</title> de Strasbourg (1521). Le texte de Zell est le premier ouvrage réformateur écrit à Strasbourg. La gravure du Christ en bon pasteur est l'unique illustration de ce volume à l'exception de la page de titre. Elle apparaît à la fin de l'ouvrage au-dessus du colophon. </note>
+                    <note type="commentaire">Remploi de la gravure du <title>Passional Christi und Antichristi</title> de Strasbourg (1521). Le texte de Zell est le premier ouvrage réformateur écrit à Strasbourg. La gravure du Christ en bon pasteur est l'unique illustration de ce volume à l'exception de la page de titre. Elle apparaît à la fin de l'ouvrage avec le colophon. </note>
                   </figure>
                 </item>
                 
@@ -173,7 +173,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La page de titre de ce sermon de Luther sur Jn 10 se compose de plusieurs gravures. Le bandeau supérieur représente un berger qui ne se soucie pas de ses brebis guettée par un loup. Dans les bandes verticales se trouve les portraits du Christ et des douze apôtres. La vignette centrale représente le Christ debout dans un paysage avec un agneau sur les épaules. Le passage de l'évangile de Jean, objet du sermon, est également utilisée dans les <title>Faits</title>.</note>
+                    <note type="commentaire">La page de titre de ce sermon de Luther sur Jean 10 se compose de plusieurs gravures. Le bandeau supérieur représente un berger qui ne se soucie pas de ses brebis guettée par un loup. Dans les bandes verticales se trouve les portraits du Christ et des douze apôtres. La vignette centrale représente le Christ debout dans un paysage avec un agneau sur les épaules. La citation de l'évangile de Jean, objet du sermon, est également utilisée dans les <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
@@ -269,7 +269,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n°4486</idno>
                         <availability>
@@ -348,7 +348,7 @@
                       <objectType>Gravure sur bois </objectType>
                       <bibl source="https://www.britishmuseum.org/collection/object/P_1895-0122-142?selectedImageId=1613803785">
                         <title type="titre_ouvrage">Der gut Hirt und bös Hirt</title>
-                        <author role="artiste">monogrammiste MS (av. Beham)</author>
+                        <author role="artiste">monogrammiste MS</author>
                         <publisher/>
                         <pubPlace/>
                         <date>1545</date>
@@ -357,7 +357,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Reprenant le motif de la bergerie du Christ, cette gravure en précise les visées polémiques. Le pape, par exemple, est figuré, sur le toit de la bergerie commandant à ses adeptes de s'attaquer à ce bâtiment. Dans l'arrière-plan,  on distingue la crucifixion, entourée par des agneaux, qui sont menacés par un loup.</note>
+                    <note type="commentaire">Reprenant le motif de la bergerie du Christ, cette gravure en précise les visées polémiques. Le pape, par exemple, est figuré, sur le toit de la bergerie commandant à ses adeptes de s'attaquer à ce bâtiment. Dans l'arrière-plan, on distingue la crucifixion, entourée d'agneaux qui sont menacés par un loup.</note>
                   </figure>
                 </item>
                 
@@ -371,7 +371,7 @@
                       <locus type="page">p. 29</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -391,7 +391,7 @@
                   <figure>
                     <graphic url="https://www.e-rara.ch/i3f/v20/11943205/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">Christ et ses brebis paist et supporte, / Et sur son dos les foibles porte.</title>
+                      <title type="titre_courant">Christ ses brebis paist et supporte, / Et sur son dos les foibles porte.</title>
                       <title type="manchette"/>
                       <dim unit="mm">46 x 60</dim>
                       <locus type="page">p. 29</locus>
@@ -409,7 +409,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library,  *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -423,11 +423,11 @@
                       <locus type="page">p. 57</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -453,7 +453,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -495,7 +495,7 @@
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
-                      <dim unit="mm">223 x </dim>
+                      <dim unit="mm">223 x 293</dim>
                       <locus type="page">feuille volante</locus>
                       <objectType>Gravure sur cuivre</objectType>
                       <bibl source="https://www.metmuseum.org/art/collection/search/383049">
@@ -534,7 +534,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure diffère complètement de celle des <title>Faits</title>, mais le titre courant dit en substance la même chose. Elle représente au premier plan le Christ avec un agneau sur les épaules devant lequel un homme est prière. Au second plan, le retour du fils prodigue est représenté. Il s'agit du remploi issu du Nouveau Testament paru à Anvers, chez Jean Richard, en 1543 pour illustrer le chapitre 15 de l'évangile de Luc qui relate la parabole de la brebis égarée, de la drachme égarée et du fils prodigue.</note>
+                    <note type="commentaire">La gravure diffère complètement de celle des <title>Faits</title>, mais le titre courant dit en substance la même chose. Elle représente au premier plan le Christ avec un agneau sur les épaules devant lequel un homme est prière. Au second plan, le retour du fils prodigue est représenté. Il s'agit du remploi d'une gravure issue du <title>Nouveau Testament</title> paru à Anvers, Antoine des Gois pour Guillaume du Mont, 1540, également utilisée dans le <title>Nouveau testament</title> paru à Anvers, chez Jean Richard, en 1544 pour illustrer le chapitre 15 de l'évangile de Luc qui relate la parabole de la brebis égarée, de la drachme égarée et du fils prodigue.</note>
                   </figure>
                 </item>
                 
@@ -558,8 +558,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Sur cette feuille volante figure le Christ en bon pasteur. Avec un agneau sur les épaules, il se tient debout sur le seuil d'une bergerie. Des clercs et des laïcs tentent de s'y introduire par les murs latéraux et le toit. Un troupeau d'ovins s'avancent vers le Christ, ainsi que le pape-antéchrist, monté sur la bête à sept têtes de l'Apocalypse, qui tire une charette avec un cardinal, un évêque et une nonne. Au second plan, le Christ défend son troupeau contre un loup, et au premier plan, une gueule d'enfer ouverte contient les sept collines de Rome, ainsi que l'antéchrist.</note>
-                    <note type="biblio">Bibliographie: E. L.E. Janssens, "World of wickedness: a remarkable 16th c. print of the parable of the good shepherd", <title>Simiolus</title>, 2013-2014, vol. 37, p. 170-186.</note>
+                    <note type="commentaire">Sur cette feuille volante figure le Christ en bon pasteur. Avec un agneau sur les épaules, il se tient debout sur le seuil d'une bergerie. Des clercs et des laïcs tentent de s'y introduire par les murs latéraux et le toit. Un troupeau d'ovins s'avance vers le Christ, ainsi que le pape-antéchrist monté sur la bête à sept têtes de l'Apocalypse, laquelle tire une charette avec un cardinal, un évêque et une nonne. Au second plan, le Christ défend son troupeau contre un loup, et au premier plan, une gueule d'enfer ouverte contient les sept collines de Rome, ainsi que l'antéchrist.</note>
+                    <note type="biblio">Bibliographie: E. L.E. Janssens, "World of wickedness: a remarkable 16th c. print of the parable of the good shepherd", <title>Simiolus</title>, 2013-2014, vol. 37, pp. 170-186.</note>
                   </figure>
                 </item>
                 

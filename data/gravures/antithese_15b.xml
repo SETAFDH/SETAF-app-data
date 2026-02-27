@@ -67,7 +67,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Parmi les nombreuses enluminures figurant la messe, celles-ci issues d'un traité dédié à ce thème représente en plusieurs vignettes successives, le moment de l'élévation (réparti sur la double page, les clercs et les laïcs sont séparés), puis la prière du Notre-Père devant l'autel.</note>
+                    <note type="commentaire">Parmi les nombreuses enluminures figurant la messe, celles-ci issues d'un traité dédié à ce thème représentent en plusieurs vignettes successives, d'abord le moment de l'élévation (développée sur la double page, permettant de séparer les clercs et les laïcs), puis la prière du Notre-Père devant l'autel.</note>
                   </figure>
                 </item>
                 
@@ -104,7 +104,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 10</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="numérisation achetée à la bibl.">
+                      <bibl source="http://id.bildindex.de/thing/0001335580">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -116,6 +116,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Dans une chapelle, occupant la partie droite du folio, se déroule la "nova missa": le prêtre, placé devant l'autel, procède à l'élévation de l'hostie. Des clercs et d'autres personnes agenouillées participent à la cérémonie. Devant cet édifice, un groupe emmené par un religieux paraît se détourner de l'église pour aller danser comme le précise la rubrique ("Der Pfarrer führt den Tanz an"). Cette enluminure fait face à une représentation de la Cène (f. 9v), formant une antithèse identique à celle du <title>Passional</title> et des <title>Faits</title>.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
                   </figure>
                 </item>
                 
@@ -140,7 +141,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">À l'endroit du troisième commandement du Décalogue, la gravure représente une messe. Placé devant l'autel, le prêtre élève l'hostie. Le sacristain agenouillé derrière lui sonne une clochette et porte un cierge, tandis que deux fidèles, les mains jointes et agenouillés, participent à la cérémonie.</note>
+                    <note type="commentaire">À l'endroit du troisième commandement du Décalogue ("tu sanctifieras le jour du seigneur", la gravure représente une messe. Placé devant l'autel, le prêtre élève l'hostie. Le sacristain agenouillé derrière lui sonne une clochette et porte un cierge, tandis que deux fidèles, les mains jointes et agenouillés, participent à la cérémonie.</note>
                   </figure>
                 </item>
                 
@@ -180,7 +181,7 @@
                       <bibl source="https://books.google.ch/books?id=dGnexRF44rgC&amp;hl=fr&amp;source=gbs_navlinks_s">
                         <title type="titre_ouvrage">Missale ad usum Lugdunensis ecclesiae</title>
                         <author role="artiste">Guillaume II Le Roy?</author>
-                        <publisher>Claude Davost</publisher>
+                        <publisher>Claude Davost pour Jean Huguetan et Etienne Gueynard</publisher>
                         <pubPlace>Lyon</pubPlace>
                         <date>1510</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/155077">USTC n° 155077</idno>
@@ -189,7 +190,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Devant l'autel, le prêtre, représenté de dos, élève l'hostie, aidé par deux acolytes agenouillés, dont l'un porte sa chasuble. Les fidèles se répartissent symétriquement sur les côtés. La gravure est encadrée de piles rectangulaires ornées, ainsi que de bandeaus horizontaux ornés du motif de bois noueux, caractéristique des éditions lyonnaises du début du XVIe siècle. Il illustre la fête du corpus christi. Ce bois est remployé dans les <title>Faits</title>.</note>
+                    <note type="commentaire">Devant l'autel, le prêtre, représenté de dos, élève l'hostie, aidé par deux acolytes agenouillés, dont l'un porte sa chasuble. Les fidèles se répartissent symétriquement sur les côtés. La gravure est encadrée de piles rectangulaires ornées, ainsi que de bandeaux horizontaux ornés du motif de bois noueux, caractéristique des éditions lyonnaises du début du XVIe siècle. Il illustre la fête du corpus christi. Ce bois est remployé dans les <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
@@ -240,7 +241,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Pour illustrer le troisième commandement, la gravure figure le moment de l'élévation pendant la messe. Le prêtre fait face à l'autel, orné d'une retable peint. Un homme agenouillé, un chapelet en main, soulève sa chasuble, devant trois fidèles également agenouillés. La position du prêtre le situe comme intermédiaire entre les fidèles et la divinité.</note>
+                    <note type="commentaire">Pour illustrer le troisième commandement, la gravure figure le moment de l'élévation pendant la messe. Le prêtre fait face à l'autel, orné d'une retable peint. Un homme agenouillé, un chapelet en main, soulève sa chasuble, devant trois fidèles également agenouillés. La position du prêtre le situe comme intermédiaire entre les fidèles et Dieu.</note>
                     <note type="biblio">Bibliographie: F. Muller, <title>Images polémiques, images dissidentes. Art et Réforme à Strasbourg (1520-vers 1550)</title>, Baden-Baden, 2017, p. 26.</note>
                   </figure>
                 </item>
@@ -260,6 +261,7 @@
                         <publisher>Gottardo da Ponte</publisher>
                         <pubPlace>Milan</pubPlace>
                         <date>1516</date>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/836642">USTC n° 836642</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek, Res/2 Conc.c. 61#Beibd.1, urn:nbn:de:bvb:12-bsb10196522-4 - No Copyright - Non-commercial Use Only</licence>
                         </availability>
@@ -308,7 +310,7 @@
                         <title type="titre_ouvrage">Hieronymus Emser, Canonis missae contra Zwinglium</title>
                         <author role="artiste"/>
                         <publisher>[Emserpresse]</publisher>
-                        <pubPlace>Dresden</pubPlace>
+                        <pubPlace>[Dresden]</pubPlace>
                         <date>1524</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+E+1104">VD16 n° E 1104</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/617877">USTC n° 617877</idno>
@@ -317,14 +319,14 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dans cet ouvrage de Hieronymus Emser contre les positions de Zwingli sur la messe, la page de titre représente la messe de saint Grégoire, un motif iconographique caractéristique de la piété depuis la fin du Moyen Âge. Au cours de cette messe, le pain et le vin se transforment dans le Christ en homme de douleurs, prouvant ainsi la transsubstantiation, qui est refusée par les tenants de la Réforme. Le pape et d'autres diginitaires officient devant l'autel où se produit le miracle.</note>
+                    <note type="commentaire">Dans cet ouvrage de Hieronymus Emser contre les positions de Zwingli sur la messe, la page de titre représente la messe de saint Grégoire, un motif iconographique caractéristique de la piété depuis la fin du Moyen Âge. Au cours de cette messe, le pain et le vin se transforment dans le Christ en homme de douleurs, prouvant ainsi la transsubstantiation. Le pape et d'autres diginitaires officient devant l'autel où se produit le miracle.</note>
                     <note type="biblio">Bibliographie: Thomas Thibault Döring/Thomas Fuchs, <title>Bildwechsel. Buchillustration in der Reformationszeit</title>, Wien, 2017, p. 16.</note>
                   </figure>
                 </item>
                 
                 <item n="12">
                   <figure>
-                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/missaleSecundum_pageTitre.png/full/max/0/default.jpg"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/Missale_1525.jpg/0,0,2500,3800/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -356,12 +358,12 @@
                       <dim unit="mm">350 x 240 mm (folio entier)</dim>
                       <locus type="page">Paris, Bibliothèque Sainte-Geneviève, ms 98, f. 1</locus>
                       <objectType>Gravure sur bois </objectType>
-                      <bibl source="https://arca.irht.cnrs.fr/ark:/63955/rfrxl8wvzmjj">
+                      <bibl source="https://arca.irht.cnrs.fr/ark:/63955/vx1587cou2vf">
                         <title type="titre_ouvrage">Missel</title>
                         <author role="artiste"/>
                         <publisher/>
                         <pubPlace/>
-                        <date>2e quart 16e?</date>
+                        <date>2e quart du 16e siècle?</date>
                         <availability>
                           <licence>Source arca.irht.cnrs.fr / Paris, Bibliothèque Sainte-Geneviève - CC BY-NC 3.0</licence>
                         </availability>
@@ -381,7 +383,7 @@
                       <locus type="page">f. 1v</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://babel.hathitrust.org/cgi/pt?id=ucm.532077898x&amp;seq=6">
-                        <title type="titre_ouvrage">Gabriel Biel, Super canone misse cum additioni.</title>
+                        <title type="titre_ouvrage">Gabriel Biel, Super canone misse cum additioni</title>
                         <author role="artiste"/>
                         <publisher>Jean Crespin et Jacques Giunta</publisher>
                         <pubPlace>Lyon</pubPlace>
@@ -410,7 +412,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n°4486</idno>
                         <availability>
@@ -462,7 +464,7 @@
                       <locus type="page">p. 46</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -474,7 +476,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure s'inspire étroitement de celle des <title>Faits</title>, mais modifie entièrement l'espace dans lequel se déroule la messe. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois. Elle est aussi remployée dans l'ouvrage de Mainardo, Anatomie de la messe, paru chez Jean Crespin à Genève (1557). </note>
+                    <note type="commentaire">La gravure s'inspire étroitement de celle des <title>Faits</title>, mais modifie entièrement l'espace dans lequel se déroule la messe. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois. Elle est aussi remployée dans l'ouvrage de Mainardo, <title>Anatomie de la messe</title>, paru chez Jean Crespin à Genève (1557). </note>
                   </figure>
                 </item>
                 
@@ -494,7 +496,7 @@
                         <pubPlace>[Genève]</pubPlace>
                         <date>1557</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/4887">USTC n° 4887</idno>
-                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1609">GLN 15-16 n°1609</idno>
+                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1609">GLN 15-16 n° 1609</idno>
                         <availability>
                           <licence>Source e-rara.ch / Bibliothèque de Genève, BGE Cth 2554 BGE Bc 3445 - Public Domain</licence>
                         </availability>
@@ -519,7 +521,7 @@
                         <publisher>Christian Egenolff</publisher>
                         <pubPlace>Frankfurt</pubPlace>
                         <date>1558</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+S+588">VD16 n° S1588</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+S+1588">VD16 n° S 1588</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/692049">USTC n° 692049</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek, Res/V.ss.c. 305 p, urn:nbn:de:bvb:12-bsb00086060-5 - Public Domain</licence>
@@ -552,7 +554,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library, *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>. Les éditions parues chez Vignon remploient cette gravure représentant la messe en tête de la "Description gentille et véritable de l'idole de la messse..." (p. 104), également connue sous le titre de <title>La légende véritable de Jean le Blanc</title>.</note>
                   </figure>
                 </item>
                 
@@ -566,11 +568,11 @@
                       <locus type="page">p. 90</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -596,7 +598,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -703,8 +705,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">De Rhoemse Kercke (L’Eglise romaine) est une feuille volante satirique anti-romaine qui représente une procession bigarrée se dirigeant vers une église dans l'intéreur de laquelle toutes sortes d’activités ecclésiales sont caricaturées. La gravure était accompagnée par un poème, longtemps présumé perdu et attribué au théologien Paulus de Kempenaer (ca. 1554-1618?), qui commente les actions dévoyées des clercs, et les comportements pervertis des fidèles (exemplaire conservé au Muséum Boijmans Van Beuningen, Rotterdam). L'écho de l'antithèse 15b des <title>Faits</title> figure dans la représentation des plusieurs messes, dont l'une est particulièrement osée, le célébrant de dos, exposant ses fesses nues aux fidèles dans la travée tout près de l'entrée de l'église.</note>
-                    <note type="biblio">Bibliographie: Eva L.E. Janssens, « Oh, what sights to behold in this church turned upside down », <title>Paulus de Kempenaer’s Reckoning with the Roman Catholic Excesses</title>, RIHA Journal, 2024 [DOI: https://doi.org/10.11588/riha.2024.1.103891]</note>
+                    <note type="commentaire"><title>De Rhoemse Kercke</title> (L’Eglise romaine) est une feuille volante satirique anti-romaine qui représente une procession bigarrée se dirigeant vers une église dans l'intéreur de laquelle toutes sortes d’activités ecclésiales sont caricaturées. La gravure était accompagnée par un poème, longtemps présumé perdu et attribué au théologien Paulus de Kempenaer (ca. 1554-1618?), qui commente les actions dévoyées des clercs, et les comportements pervertis des fidèles (exemplaire conservé au Museum Boijmans Van Beuningen, Rotterdam). L'écho de l'antithèse 15b des <title>Faits</title> figure dans la représentation des plusieurs messes, dont l'une est particulièrement osée, le célébrant de dos, exposant ses fesses nues aux fidèles dans la travée tout près de l'entrée de l'église.</note>
+                    <note type="biblio">Bibliographie: Eva L.E. Janssens, « Oh, what sights to behold in this church turned upside down »,Paulus de Kempenaer’s Reckoning with the Roman Catholic Excesses,  <title>RIHA Journal</title>, 2024 [DOI: https://doi.org/10.11588/riha.2024.1.103891]</note>
                   </figure>
                 </item>
                 

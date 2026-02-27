@@ -38,7 +38,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
@@ -101,7 +101,7 @@
                 
                 <item n="3">
                   <figure>
-                    <graphic type="large" url="https://iiif.hedera.unige.ch/iiif/3/setaf/himmelswagenHollenwagen.png/100,0,2100,1324/max/0/default.jpg"/>
+                    <graphic type="large" url="https://iiif.hedera.unige.ch/iiif/3/setaf/himmelswagenHollenwagen.png/480,100,1350,1090/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -120,7 +120,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Divisée en deux registres superposés, la gravure montre dans la partie supérieure un char emmené en direction de la croix, dans la partie inférieure le char avance dans le sens inverse en direction de la gueule de l'enfer.</note>
-                    <note type="biblio">Bibliographie: Lyndal Roper et Jennifer Spinks, <title>Karlstadt’s Wagen: The First Visual Propaganda for the Reformation</title>, Art History, 2017, p. 256-285.</note>
+                    <note type="biblio">Bibliographie: Lyndal Roper et Jennifer Spinks, "Karlstadt’s Wagen: The First Visual Propaganda for the Reformation", <title>Art History</title>, 2017, p. 256-285.</note>
                   </figure>
                 </item>
                 
@@ -138,7 +138,7 @@
                         <author role="artiste">Lucas Cranach</author>
                         <publisher>[Johann Rhau-Grunenberg]</publisher>
                         <pubPlace>[Wittenberg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 n° L 5584</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC n° 683162</idno>
                         <availability>
@@ -147,6 +147,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Le pape chevauche un coursier à la tête d'un groupe d'évêques et de cardinaux, emmené par deux soldats portant des hallebardes. Caché par une colline, l'enfer où brûlent des damnés les attend à l'arrière-plan. Cette gravure sert de modèle direct à celle des <title>Faits</title>, avec des différences mineures.</note>
+                    <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 237-245; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 45-46.</note>
                   </figure>
                 </item>
                 
@@ -164,7 +165,7 @@
                         <author role="artiste"/>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
@@ -172,7 +173,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Inversion de la gravure du <title>Passional</title> de Wittenberg (1521).</note>
+                    <note type="commentaire">Inversion de la gravure du <title>Passional</title> de Wittenberg (1521), mais en conserve tous les motifs.</note>
                   </figure>
                 </item>
                 
@@ -224,7 +225,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Sur la marge supérieure de la page de titre, représentation d'un tournoi opposant le Christ monté sur un âne et muni d'une croix au  pape en armure sur un cheval. Conseillé par un diable, il perd sa lance de la main qui tenait une bulle papale, ce qui signifie que le Christ vainc les condamnations papales. À ce tournoi fait écho la scène de la marge inférieure, qui représente un jeu, le "Strebkatz" où deux adversaires s'affrontent en tirant des cordes entre leurs dents. De fait, ces deux combats redoublent celui que rapporte le texte au sujet d'une dispute entre l'évêque de Meissen et le pasteur du château de Lochau. Celui-ci, ayant administré la communion sous les deux espèces et marié un moine, devait en répondre devant l'évêque.</note>
+                    <note type="commentaire">Sur la marge supérieure de la page de titre, représentation d'un tournoi opposant le Christ monté sur un âne et muni d'une croix au  pape en armure sur un cheval. Conseillé par un diable, il perd sa lance de la main qui tenait une bulle papale, ce qui signifie que le Christ vainc les condamnations papales. À ce tournoi fait écho la scène de la marge inférieure, qui représente un jeu, le "Strebkatz", où deux adversaires s'affrontent en tirant des cordes entre leurs dents. De fait, ces deux combats redoublent celui que rapporte le texte au sujet d'une dispute entre l'évêque de Meissen et le pasteur du château de Lochau. Celui-ci, ayant administré la communion sous les deux espèces et marié un moine, devait en répondre devant l'évêque.</note>
                     <note type="biblio">Bibliographie: Thomas Thibault Döring/Thomas Fuchs, <title>Bildwechsel. Buchillustration in der Reformationszeit</title>, Wien, 2017, p. 45 ; R.W. Scribner, <title>For the sake of the simple folk. Popular propaganda for the German Reformation</title>, Cambridge University Press, 1981, p. 61-62.</note>
                   </figure>
                 </item>
@@ -249,7 +250,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le pape à cheval tire derrière lui un chariot rempli de religieux. Il se dirige vers des maisons bondées d'ecclésiastiques (dont un 2e pape - sic), lesquelles brûlent des feux de l'enfer. Le thème de la gravure dérive des tableaux de carnaval créés à Nuremberg, au cours de ces mêmes années. Traditionnellement identifiée comme le voyage du pape vers l'enfer, la gravure a été ré-interprétée plus récemment, sur la base de la lecture du texte du pamphlet et de son lien avec l'image, comme la représentation du règne de l'Antéchrist (2011).</note>
+                    <note type="commentaire">Le pape à cheval tire derrière lui un chariot rempli de religieux. Il se dirige vers des maisons bondées d'ecclésiastiques (dont un deuxième pape - sic), lesquelles brûlent des feux de l'enfer. Le thème de la gravure dérive des tableaux de carnaval créés à Nuremberg, au cours de ces mêmes années. Traditionnellement identifiée comme le voyage du pape vers l'enfer, la gravure a été ré-interprétée plus récemment, sur la base de la lecture du texte du pamphlet et de son lien avec l'image, comme la représentation du règne de l'Antéchrist.</note>
                     <note type="biblio">Bibliographie: <title>Die gottlosen Maler von Nürnberg Konvention und Subersion in der Druckgrafik der Beham-Brüder</title>, Emsdetten, Edition Imorde, 2011, n° 35 ; R.W. Scribner, <title>For the sake of the simple folk. Popular propaganda for the German Reformation</title>, Cambridge University Press, 1981, p. 71.</note>
                   </figure>
                 </item>
@@ -302,7 +303,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure représente le pape en habit d'apparat, montant un cheval richement harnaché, et accompagné par un lansquenet. Elle illustre la légende : "Hye reitet der Bapst uff ein schoͤnen weissen hengst, bekleydt mit rosyn farb scharlach, und dem bessten lynwodt". Cette image contraste avec la représentation du Christ monté sur un âne, situé à la page suivante (sign. D2v, reproduite en 9a). Le texte, qui est une traduction en allemand du <title>De anatomia Christi</title> paru l'année précédente à Strasbourg chez Schott, et l'image reproduisent la même opposition que celle du <title>Passional</title> (1521), reprise dans les <title>Faits</title>. Dans ce cas, contrairement à l'image du Christ, il s'agit d'un remploi de l'édition de 1524.</note>
+                    <note type="commentaire">La gravure représente le pape en habit d'apparat, montant un cheval richement harnaché, et accompagné par un lansquenet. Elle illustre la légende : "Hye reitet der Bapst uff ein schoͤnen weissen hengst, bekleydt mit rosyn farb scharlach, und dem bessten lynwodt". Cette image contraste avec la représentation du Christ monté sur un âne, situé à la page suivante (sign. D2v, reproduite en 9a). Le texte, qui est une traduction en allemand du <title>De anatomia Christi</title> paru l'année précédente à Strasbourg chez Schott, et l'image reproduisent la même opposition que celle du <title>Passional</title> (1521), reprise dans les <title>Faits</title>. Dans ce cas, contrairement à la gravure du Christ, il s'agit d'un remploi de l'édition de 1524.</note>
                   </figure>
                 </item>
                 
@@ -345,7 +346,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
                         <availability>
@@ -359,7 +360,7 @@
                 
                 <item n="13">
                   <figure>
-                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/derBreiteWegZurHolle.png/full/max/0/default.jpg"/>
+                    <graphic type="large" url="https://iiif.hedera.unige.ch/iiif/3/setaf/swartVoieLarge.png/full/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -400,7 +401,7 @@
                         <author role="artiste">[Barthel Beham ?]</author>
                         <publisher/>
                         <pubPlace/>
-                        <date>?</date>
+                        <date>[s.d.]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/752508">USTC n° 752508</idno>
                         <availability>
                           <licence>Public Domain</licence>
@@ -421,7 +422,7 @@
                       <locus type="page">p. 38</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -459,7 +460,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library, *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -473,11 +474,11 @@
                       <locus type="page">p. 74</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -503,7 +504,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -571,7 +572,7 @@
                     <figDesc>
                       <title type="titre_courant">Als hem de Paus wat gaet vermeyen / Op rijdt op enext oft hacqueneyen.</title>
                       <title type="manchette"/>
-                      <dim unit="mm">40 x 60</dim>
+                      <dim unit="mm">46 x 60</dim>
                       <locus type="page">sign. C6</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://opac.kbr.be/LIBRARY/doc/SYRACUSE/11842130">
@@ -610,7 +611,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Sur cette feuille volante, la gravure oppose le Christ monté sur un âne, accompagné de son petit, face au pape, juché sur un cheval richement harnaché. La mise en regard dans le même espace de représentation, et non en deux gravures indépendantes, reproduit l'antithèse des Faits entre l'Entrée à Jérusalem et la chevauchée du pape vers l'enfer. Le texte au-dessous développe l'opposition entre les deux personnages, et recourt à un certain nombre de citations bibliques, dont celle de Mt 21 déjà citée dans les <title>Faits</title>.</note>
+                    <note type="commentaire">Sur cette feuille volante, la gravure oppose le Christ monté sur un âne, accompagné de son petit, face au pape, juché sur un cheval richement harnaché. La mise en regard dans le même espace de représentation, et non en deux gravures indépendantes, reproduit l'antithèse des <title>Faits</title> entre l'Entrée à Jérusalem et la chevauchée du pape vers l'enfer. Le texte au-dessous développe l'opposition entre les deux personnages, et recourt à un certain nombre de citations bibliques, dont celle de Mt 21 déjà citée dans les <title>Faits</title>.</note>
                   </figure>
                 </item>
                 

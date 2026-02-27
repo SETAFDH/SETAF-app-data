@@ -38,7 +38,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
@@ -56,7 +56,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 18</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl>
+                      <bibl source="http://id.bildindex.de/thing/0001335580">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -68,6 +68,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Sur le feuillet en partie déchiré, il ne reste qu'une partie de la représentation du pape monté sur un cheval qu'un page conduit. Cette représentation fait face au portement de croix (f. 17v), formant la même paire antithétique que dans les <title>Faits</title>.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
                   </figure>
                 </item>
                 
@@ -86,13 +87,13 @@
                         <publisher>Anton Sorg</publisher>
                         <pubPlace>Augsburg</pubPlace>
                         <date>1483</date>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/(ISTC: M38152)">USTC n° (ISTC: M38152)</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/748554">USTC n° 748554</idno>
                         <availability>
                           <licence>SLUB Dresden, Ink.60(2), urn:nbn:de:bsz:14-db-id3671369530 - Public Domain</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Procession emmenant du concile de Constance le pape Martin V monté sur un cheval. Il est accompagné par l'empereur et une foule de de personnages portant des cierges, ainsi qu'un dais pour le protéger.</note>
+                    <note type="commentaire">Procession emmenant du concile de Constance le pape Martin V monté sur un cheval. Protégé par un dais, il est accompagné par l'empereur et une foule de de personnages portant des cierges.</note>
                   </figure>
                 </item>
                 
@@ -144,6 +145,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Le pape est transporté par cinq hommes en robe sur une chaise à porteurs vers une porte timbrée des armes pontificales. Il a revêtu ses habits de cérémonie, porte la tiare, tient la férule dans la main gauche, et bénit de la droite. Cette gravure sert de modèle direct à celle des <title>Faits</title>, avec quelques changements mineurs (par exemple, pantoufles noires des porteurs).</note>
+                    <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 206-211; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 33-34.</note>
                   </figure>
                 </item>
                 
@@ -158,7 +160,7 @@
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00088259">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
-                        <author role="artiste">Hans Baldung Grien?</author>
+                        <author role="artiste">Hans Baldung Grien? [d'ap. Lucas Cranach]</author>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
                         <date>1521</date>
@@ -187,7 +189,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
                         <availability>
@@ -213,7 +215,7 @@
                       <locus type="page">p. 62</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -225,7 +227,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Adaptation de la composition générale du <title>Passional</title> et des <title>Faits</title>, avec l'ajout de dévots agenouillés devant le palanquin, ainsi qu'inscription de la scène dans une vaste ville. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
+                    <note type="commentaire">Adaptation de la composition générale du <title>Passional</title> et des <title>Faits</title>, avec l'ajout de dévots agenouillés devant le palanquin, ainsi que par l'inscription de la scène dans une vaste ville. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
                   </figure>
                 </item>
                 
@@ -251,7 +253,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library, *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -265,11 +267,11 @@
                       <locus type="page">p. 122</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -295,7 +297,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -379,7 +381,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dans cet ouvrage qui fait l'inventaire de tous les membres de la société, le pape est représenté avec les attributs pontificaux. De plus, il est juché sur une chaise à porteurs, accompagnés de personnes portant des cierges ou des hallebardes.</note>
+                    <note type="commentaire">Dans cet ouvrage qui fait l'inventaire de tous les membres de la société, le pape est représenté avec les attributs pontificaux. De plus, il est juché sur une chaise à porteurs, accompagné par des personnes portant des cierges ou des hallebardes.</note>
                   </figure>
                 </item>
                 
@@ -389,7 +391,7 @@
                     <figDesc>
                       <title type="titre_courant">De Paus wordt in een throon vol baghen / Dan zijn Cappaerts te hals gedraghen.</title>
                       <title type="manchette"/>
-                      <dim unit="mm">40 x 60</dim>
+                      <dim unit="mm">46 x 60</dim>
                       <locus type="page">sign. E2</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://opac.kbr.be/LIBRARY/doc/SYRACUSE/11842130">
@@ -480,7 +482,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Inversion de la gravure du <title>Passional Christi und Antichristi de Wittenberg</title> (1521), reprise dans l'édition de Eisleben (1564) [http://dx.doi.org/10.25673/opendata2-4005], et ajout d’un épais cadre ornemental.</note>
+                    <note type="commentaire">Inversion de la gravure du <title>Passional Christi und Antichristi</title> de Wittenberg (1521), reprise dans l'édition de Eisleben (1564) [http://dx.doi.org/10.25673/opendata2-4005], et ajout d’un épais cadre ornemental.</note>
                   </figure>
                 </item>
               </list>

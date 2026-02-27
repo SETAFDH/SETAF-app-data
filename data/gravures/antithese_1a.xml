@@ -25,9 +25,11 @@
       <sourceDesc>
         <p>
           <figure>
+            <!-- URL de la gravure des Faits -->
             <graphic url="https://www.e-rara.ch/i3f/v20/4518839/full/full/0/default.jpg"/>
             
             <figDesc>
+              <!-- Description de la gravure -->
               <title type="titre_gravure">Le Christ refuse la couronne du royaume terrestre</title>
               <title type="titre_courant">Jesus Christ fuyt / le royaume terrien.</title>
               <title type="manchette">Rengna fugit Christus.</title>
@@ -35,11 +37,12 @@
               <locus type="page">sign. A4v</locus>
               <objectType>Gravure sur bois</objectType>
               
-              <bibl source="http://dx.doi.org/10.3931/e-rara-12688">
+              <!-- Description de la source -->
+              <bibl source="http://dx.doi.org/10.3931/e-rara-12688"> <!-- Lien vers la bibliothèque d'origine (Permet de créer le titre cliquable sur le site) -->
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
@@ -48,16 +51,20 @@
               </bibl>
               
               <list type="exemplaires_similaires">
+                <!-- Chaque gravure de comparaison est décrite dans un <item> -->
                 <item n="1">
                   <figure>
+                    <!-- Lien vers l'image de comparaison -->
                     <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/bilderbibel_f15v.jpg/0,0,798,1125/max/0/default.jpg"/>
                     <figDesc>
+                      <!-- Description de la gravure -->
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm">295 x 215</dim>
                       <locus type="page">Freiburg, Universitätsbibliothek, Hs 334, f. 15v</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="https://dl.ub.uni-freiburg.de/diglit/hs334/0033">
+                      <!-- Description de la source de la gravure -->
+                      <bibl source="https://dl.ub.uni-freiburg.de/diglit/hs334/0033"> <!-- Lien vers la bibliothèque d'origine (Permet de créer le titre cliquable sur le site) -->
                         <title type="titre_ouvrage">Bilderbibel</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -68,6 +75,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
+                    <!-- Commentaire sur la gravure de comparaison -->
                     <note type="commentaire">Au registre supérieur de l'enluminure, le Christ fuit devant un groupe de personnes (dénommées "Judei"), composé d'hommes, de femmes et d'enfants. Un homme barbu en tête de ce groupe tend au Christ une couronne. L'inscription, tirée de l'évangile de Jean (6,15) décrit littéralement la scène: "Judei – hie wellent die iuden iesum ein kunig machen – do tömütiget sich iesus unde wil sin nit". Au registre inférieur, Jésus marche sur l'eau.</note>
                   </figure>
                 </item>
@@ -81,7 +89,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 18v</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="SUB Göttingen- Copie numérique achetée - Droits obtenus">
+                      <bibl source="http://id.bildindex.de/thing/0001335580">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -93,6 +101,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Les évangélistes portent des phylactères inscrits d'extraits d'évangiles. Le feuillet étant déchiré, seuls Jean et Matthieu sont visibles, ainsi que leurs phylactères (Jn 6, Mt 8). Par comparaison avec le <title>Codex Jena</title> qui l'imite, on peut reconstituer l'ensemble de la scène, où les textes évangéliques louent l'humilité du Christ. L'association de cette enluminure avec la donation de Constantin sur le folio adjacent, compose la même antithèse que celle des <title>Faits</title>.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
                   </figure>
                 </item>
                 
@@ -105,8 +114,8 @@
                       <dim unit="mm">430 x 310 [fol. entier]</dim>
                       <locus type="page">Paris, BnF, fr. 177, f. 282v</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="ark:/12148/btv1b10520115p">
-                        <title type="titre_ouvrage">Ludolphe de Saxe, Vie de Jésus Christ</title>
+                      <bibl source="https://gallica.bnf.fr/ark:/12148/btv1b10520115p">
+                        <title type="titre_ouvrage">Ludolphe de Saxe, Vie de Jésus Christ (tr. fr.)</title>
                         <author role="artiste">Jean Bourdichon</author>
                         <publisher/>
                         <pubPlace/>
@@ -140,7 +149,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Les quatre  évangélistes, debout sur une bande de terre, déroulent des phylactères inscrits d'extraits des évangiles en tchèque (Mc 10, Lc 12, Jn 8, Mt 7), qui témoignent tous de l'humilité et de la pauvreté du Christ. Ceux-ci rappellent qu'il a refusé d'être couronné roi du monde. Cette enluminure suit la satire hussite de Göttingen. Deux des citations bibliques sur ces phylactères sont identiques à celles des <title>Faits</title> (Lc 12 et Jn 8).</note>
+                    <note type="commentaire">Les quatre évangélistes, debout sur une bande de terre, déroulent des phylactères inscrits d'extraits des évangiles en tchèque (Mc 10, Lc 12, Jn 8, Mt 7), qui témoignent tous de l'humilité et de la pauvreté du Christ. Ceux-ci rappellent qu'il a refusé d'être couronné roi du monde. Cette enluminure suit la satire hussite de Göttingen. Deux des citations bibliques sur ces phylactères sont identiques à celles des <title>Faits</title> (Lc 12 et Jn 8).</note>
                     <note type="biblio">Bibliographie : Kamil Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 109.</note>
                   </figure>
                 </item>
@@ -168,6 +177,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Dans un paysage, un groupe composé d'hommes et de femmes vêtus à la mode contemporaine, ainsi que des disciples, suivent le Christ pour lui offrir une couronne. Celui-ci s'en détourne pour s'enfuir dans un bois voisin.</note>
+                    <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 144-147; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 7-9.</note>
                   </figure>
                 </item>
                 
@@ -182,10 +192,10 @@
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00088259">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
-                        <author role="artiste"/>
+                        <author role="artiste">[d'ap. Lucas Cranach]</author>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
@@ -211,7 +221,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
                         <availability>
@@ -223,6 +233,7 @@
                   </figure>
                 </item>
                 
+                <!-- Ne pas toucher : nécessaire pour des besoins d'affichage -->
                 <item n="faits">
                   <graphic url="https://www.e-rara.ch/i3f/v20/4518839/full/full/0/default.jpg"/>
                 </item>
@@ -249,7 +260,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure du <title>Passional</title> de Strasbourg, 1521, dans un contexte non polémique: pour illustrer le passage de Jn 8, qui est également cité dans les <title>Faits</title>.</note>
+                    <note type="commentaire">Remploi de la gravure du <title>Passional</title> de Strasbourg (1521), dans un contexte non polémique: pour illustrer le passage de Jn 8, qui est également cité dans les <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
@@ -263,7 +274,7 @@
                       <locus type="page">p. 9</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -301,7 +312,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library,  *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -315,11 +326,11 @@
                       <locus type="page">p. 17</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -345,7 +356,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -509,8 +520,8 @@
                 </item>
               </list>
             </figDesc>
-            
-            <note>Un groupe d'hommes, les uns vêtus de manière contemporaine, les autres de façon intemporelle (en tête desquels l'apôtre Pierre), s’approche du Christ pour lui tendre une couronne. Celui-ci la refuse et s’en détourne. La scène se déroule dans un paysage semé d’arbres, avec une colline à l'arrière-plan couronnée d’un château. Par rapport au Passional, les Faits éliminent les figures féminines du groupe de suiveurs du Christ et simplifient la représentation de la végétation. </note>
+            <!-- Commentaire sur la gravure des Faits -->
+            <note>Un groupe d'hommes, les uns vêtus de manière contemporaine, les autres de façon intemporelle (en tête desquels l'apôtre Pierre), s’approche du Christ pour lui tendre une couronne. Celui-ci la refuse et s’en détourne. La scène se déroule dans un paysage semé d’arbres, avec une colline à l'arrière-plan couronnée d’un château. Par rapport au <title>Passional</title>, la gravure des <title>Faits</title> élimine les figures féminines du groupe de suiveurs du Christ et simplifie la représentation de la végétation. </note>
           </figure>
         </p>
       </sourceDesc>

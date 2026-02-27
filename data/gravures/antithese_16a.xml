@@ -38,7 +38,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n°1406</idno>
                 <availability>
@@ -56,19 +56,19 @@
                       <dim unit="mm"/>
                       <locus type="page">p. 4</locus>
                       <objectType>Gravure sur bois</objectType>
-                      <bibl source="ark:/12148/bpt6k87117981 ">
+                      <bibl source="https://gallica.bnf.fr/ark:/12148/bpt6k87117981">
                         <title type="titre_ouvrage">Entekrist leven</title>
                         <author role="artiste"/>
                         <publisher>[Johann Prüss?]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
                         <date>vers 1480</date>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/ISTC: ia00768300">USTC n° ISTC: ia00768300</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/739908">USTC n° 739908</idno>
                         <availability>
                           <licence>Source gallica.bnf.fr / Bibliothèque nationale de France, département Réserve des livres rares, D-1074 - Public Domain</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Comme la vie de l'Antéchrist se modèle sur celle du Christ, la représentation de sa mort se construit sur le modèle de l'Ascension du Christ. Elle a lieu sur une montagne, devant des témoins qui l'adorent. Mais au lieu de s'élever, l'antéchrist est au contraire poussé vers le bas par des anges qui lui défendent l'entrée des cieux.</note>
+                    <note type="commentaire">Comme la vie de l'Antéchrist se modèle sur celle du Christ, la représentation de sa mort se construit sur le modèle de l'Ascension du Christ. Elle a lieu sur une montagne, devant des témoins qui l'adorent. Mais au lieu de s'élever, l'Antéchrist est au contraire poussé vers le bas par des anges qui lui interdisent l'entrée des cieux.</note>
                   </figure>
                 </item>
                 
@@ -110,7 +110,7 @@
                       <bibl source="https://babel.hathitrust.org/cgi/pt?id=ucm.5322471443&amp;seq=5&amp;view=1up">
                         <title type="titre_ouvrage">Johann Herolt, Sermones discipuli de tempore</title>
                         <author role="artiste">Guillaume II Le Roy</author>
-                        <publisher>Jean Hugetan</publisher>
+                        <publisher>Jean Huguetan</publisher>
                         <pubPlace>Lyon</pubPlace>
                         <date>1518</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/123476">USTC n° 123476</idno>
@@ -119,7 +119,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Christ ressuscité, qui a laissé la marque de ses pieds sur la coline d'où il est parti, flotte dans le ciel sous le regard des apôtres, suivant l'iconographie traditionnelle de l'Ascension.</note>
+                    <note type="commentaire">Le Christ ressuscité, qui a laissé la marque de ses pieds sur la colline d'où il est parti, flotte dans le ciel sous le regard des apôtres, suivant l'iconographie traditionnelle de l'Ascension.</note>
                   </figure>
                 </item>
                 
@@ -137,7 +137,7 @@
                         <author role="artiste">Lucas Cranach</author>
                         <publisher>[Johann Rhau-Grunenberg]</publisher>
                         <pubPlace>[Wittenberg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 n° L 5584</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC n° 683162</idno>
                         <availability>
@@ -146,6 +146,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Le Christ monte au ciel, en faisant un geste de bénédiction de la main droite et tenant un étendard de la gauche. Il ne laisse que les empreintes de ses pieds sur la montagne d'où il s'élève. Une ville est représentée à droite, tandis qu’en bas à gauche, les apôtres et la Vierge assistent à ce miracle, adoré par quatre anges, répartis symétriquement dans les cieux. Cette gravure sert de modèle à celle des <title>Faits</title>, qui ajoute des auréoles aux témoins de l'Ascension, ainsi que des stries horizontales dans le ciel.</note>
+                    <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 271-273; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 60-61.</note>
                   </figure>
                 </item>
                 
@@ -160,10 +161,10 @@
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00088259">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
-                        <author role="artiste"/>
+                        <author role="artiste">[d'ap. Lucas Cranach]</author>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
@@ -171,7 +172,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Cette gravure s'inspire directement de celle du <title>Passional</title> de Wittenberg, en y apportant quelques modifications, tel que l'ajout d'auréoles aux témoins de l'Ascension, des stries horizontales dans le ciel, un rapetissement de la figure du Christ. C'est précisément de cette édition  du Passional que s'inspire celle des <title>Faits</title>.</note>
+                    <note type="commentaire">Cette gravure s'inspire directement de celle du <title>Passional</title> de Wittenberg, en y apportant quelques modifications, tel que l'ajout d'auréoles aux témoins de l'Ascension, des stries horizontales dans le ciel, un rapetissement de la figure du Christ. C'est précisément de cette édition  du <title>Passional</title> que s'inspire celle des <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
@@ -185,7 +186,7 @@
                       <locus type="page">page de titre</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb10909930">
-                        <title type="titre_ouvrage">Judas Nazarei (alias Vadianus?), Vom alten und nüen Gott und Ler</title>
+                        <title type="titre_ouvrage">Judas Nazarei, Vom alten und nüen Gott und Ler</title>
                         <author role="artiste">Hans Vogtherr?</author>
                         <publisher>[Adam Petri]</publisher>
                         <pubPlace>[Basel]</pubPlace>
@@ -197,7 +198,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Divisée en deux parties égales, la gravure de la page de titre reproduit la bipartition du texte entre les anciens et nouveaux dieux. La composition montre à gauche le pape, transformé en une marionnette, porté par des cardinaux, un moine et un philosophe, et survolé par des petits démons. Dans le compartiment inférieur, les opposants de Luther sont représentés. À droite, sont représentés le Christ de l'Ascension, survolé par le Saint Esprit et Dieu le père, et entouré de Moïse et Aaron, les symboles des évangélistes, saint Paul ainsi que Luther en moine.</note>
+                    <note type="commentaire">Divisée en deux parties égales, la gravure de la page de titre reproduit la bipartition du texte entre les anciens et nouveaux dieux. La composition montre à gauche le pape, transformé en une marionnette et porté par des cardinaux, un moine et un philosophe. Dans le compartiment inférieur, les opposants de Luther sont représentés. À droite, se trouve le Christ de l'Ascension, survolé par le Saint Esprit et Dieu le père, flanqué par Moïse et Aaron, les symboles des évangélistes, saint Paul ainsi que Luther en moine.</note>
                     <note type="biblio">Bibliographie: F. Hieronymus, <title>1488 Petri - Schwabe 1988 : eine traditionsreiche Basler Offizin im Spiegel ihrer frühen Drucke</title>, Basel, Schwabe, 1997, n° 123.</note>
                   </figure>
                 </item>
@@ -212,7 +213,7 @@
                       <locus type="page">page de titre</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb10992788">
-                        <title type="titre_ouvrage">Judas Nazarei (alias Vadianus?), Unterschyd zu erkennen den almechtigen got</title>
+                        <title type="titre_ouvrage">Judas Nazarei, Unterschyd zu erkennen den almechtigen got</title>
                         <author role="artiste">Hans Vogtherr?</author>
                         <publisher>[Melchior Ramminger]</publisher>
                         <pubPlace>[Augsburg]</pubPlace>
@@ -243,7 +244,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n°4486</idno>
                         <availability>
@@ -269,7 +270,7 @@
                       <locus type="page">p. 65</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -281,7 +282,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La représentation de l'Ascension suit la formulation traditionnelle où seul le bas du corps du Christ demeure visible. Autour de la montagne se trouvent les témoins de son Ascension, et dans les nuées célestes, deux prophètes - Elie et Moïse - montrent le corps du Christ disparaissant. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
+                    <note type="commentaire">La représentation de l'Ascension suit l'iconographie traditionnelle où seul le bas du corps du Christ demeure visible. Autour de la montagne se trouvent les témoins de son Ascension, et dans les nuées célestes, deux prophètes - Elie et Moïse - qui désignent le corps du Christ disparaissant. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
                   </figure>
                 </item>
                 
@@ -307,7 +308,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library, *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -321,11 +322,11 @@
                       <locus type="page">p. 129</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://data.onb.ac.at/rep/1068CBAD">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -351,7 +352,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -408,7 +409,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure représentant l'Ascension n'est pas une copie d'après l'<title>Antithesis</title> (1557), mais la copie fidèle d'une gravure de Bernard Salomon dans les <title>Figures du Nouveau Testament</title> de Charles Fontaine, Lyon, Jean de Tournes, 1554. Le Christ enveloppé dans une mandorle se tient sur une nuée avec Elie et Moïse, alors que quelques apôtres restés au sol s'émerveillent de le voir s'envoler vers les cieux.</note>
+                    <note type="commentaire">La gravure représentant l'Ascension n'est pas une copie d'après l'<title>Antithesis</title> (1557), mais la copie fidèle d'une gravure de Bernard Salomon dans les <title>Figures du Nouveau Testament</title> de Charles Fontaine, Lyon, Jean de Tournes, 1554, pour illustrer Mt 17, Mc 9, Lc 9. Le Christ enveloppé dans une mandorle se tient sur une nuée avec Elie et Moïse, alors que quelques apôtres restés au sol s'émerveillent de le voir s'envoler vers les cieux. Cette gravure est réutilisée dans une bible illustrée en néerlandais, <title>Biblia sacra dat is de geheele heylighe schrifture bedeylt int oudt ende nieu testament</title>, Anvers, Jan I Moretus et Jan van Keerberghen, 1599.</note>
                   </figure>
                 </item>
                 
@@ -484,13 +485,13 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Inversion de la gravure du <title>Passional Christi und Antichristi</title> de Wittenberg (1521), reprise dans l'édition de Eisleben (1564) [http://dx.doi.org/10.25673/opendata2-4005], et ajout d'un épais cadre ornemental.</note>
+                    <note type="commentaire">Inversion de la gravure du <title>Passional</title> de Wittenberg (1521), reprise dans l'édition de Eisleben (1564) [http://dx.doi.org/10.25673/opendata2-4005], et ajout d'un épais cadre ornemental.</note>
                   </figure>
                 </item>
               </list>
             </figDesc>
             
-            <note>Le Christ monte au ciel, en faisant un geste de bénédiction de la main droite et tenant un étendard de la gauche. Il ne laisse que les empreintes de ses pieds sur la montagne d'où il s'élève. Une ville est représentée à droite, tandis qu’en bas à gauche, les apôtres et la Vierge assistent à ce miracle, adoré par quatre anges, répartis symétriquement dans les cieux.</note>
+            <note>Adoré par quatre anges, le Christ monte au ciel, en faisant un geste de bénédiction de la main droite et tenant un étendard de la gauche. Il ne laisse que les empreintes de ses pieds sur la montagne d'où il s'élève. Une ville est représentée à droite, tandis qu’en bas à gauche, les apôtres et la Vierge assistent à ce miracle.</note>
           </figure>
         </p>
       </sourceDesc>

@@ -41,7 +41,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
@@ -104,7 +104,7 @@
                       une ronde. Ils sont observés par quelques spectateurs depuis un balcon. Cette
                       gravure appartient à un projet de livre inachevé pour l'empereur Maximilien,
                       mettant en scène les diverses épreuves (danse, tournoi) qu'un jeune homme doit
-                      pratiquer pour réussir en société.</note>
+                      affronter pour réussir en société.</note>
                   </figure>
                 </item>
 
@@ -122,7 +122,7 @@
                         <author role="artiste">Lucas Cranach</author>
                         <publisher>[Johann Rhau-Grunenberg]</publisher>
                         <pubPlace>[Wittenberg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 n° L
                           5584</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC n°
@@ -135,9 +135,10 @@
                     </figDesc>
                     <note type="commentaire">Le pape placé au centre d’une tribune surélevée,
                       entouré de religieux, ainsi que de courtisanes à gauche et de musiciens à
-                      droite, assiste à un tournoi entre deux chevaliers se déroulant en contrebas.
-                      Cette gravure sert de modèle direct à celle des Faits qui ne montre que des
+                      droite, assiste à un combat entre deux chevaliers se déroulant en contrebas.
+                      Cette gravure sert de modèle direct à celle des <title>Faits</title> qui ne montre que des
                       différences mineures. </note>
+                    <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 191-196; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 28-29.</note>
                   </figure>
                 </item>
 
@@ -153,10 +154,10 @@
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00088259">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
-                        <author role="artiste"/>
+                        <author role="artiste">[d'ap. Lucas Cranach]</author>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L
                           5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n°
@@ -219,7 +220,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n°
                           9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
@@ -298,13 +299,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris
-                      Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises
-                      successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à
-                      Harvard, Houghton Library, *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578
-                      [https://doi.org/10.3931/e-rara-6371], 1584
-                      [https://doi.org/10.3931/e-rara-6515], 1600
-                      [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
 
@@ -356,7 +351,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and
                             Library - CC BY-NC-SA 4.0</licence>
@@ -440,7 +435,7 @@
                       <title type="titre_courant">De Paus in tornoy end' in steken / Mach wel sien
                         hals en beenen breken.</title>
                       <title type="manchette"/>
-                      <dim unit="mm">40 x 60</dim>
+                      <dim unit="mm">46 x 60</dim>
                       <locus type="page">sign. B8</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://opac.kbr.be/LIBRARY/doc/SYRACUSE/11842130">
@@ -467,7 +462,7 @@
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10150230_00745/full/full/0/default.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">Non visit miseros tyrannus aegros: / At contram
+                      <title type="titre_courant">Non visit miseros tyrannus aegros: / At contra
                         iocus est videre caedes.</title>
                       <title type="manchette"/>
                       <dim unit="mm">109 x 69</dim>
@@ -561,7 +556,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Inversion de la gravure du <title>Passional Christi und
-                      Antichristi de Wittenberg</title> (1521), reprise dans l'édition de Eisleben (1564)
+                      Antichristi</title> de Wittenberg (1521), reprise dans l'édition de Eisleben (1564)
                       [http://dx.doi.org/10.25673/opendata2-4005], et ajout d’un épais cadre
                       ornemental.</note>
                   </figure>

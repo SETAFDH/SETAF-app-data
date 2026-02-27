@@ -38,7 +38,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
@@ -56,7 +56,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 39v</locus>
                       <objectType>Enluminure (abîmée)</objectType>
-                      <bibl source="numérisation achetée à la bibl.">
+                      <bibl source="http://id.bildindex.de/thing/0001335580">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -68,6 +68,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Feuillet déchiré. Ce sont les inscriptions qui renseignent sur la scène qui était représentée (en particulier Jn 13 - également citée dans les <title>Faits</title>): le lavement des pieds des apôtres par le Christ. De plus, son association au baiser de la pantoufle du pape sur le folio adjacent (f. 40) constitue la même antithèse que celle des <title>Faits</title>.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
                   </figure>
                 </item>
                 
@@ -111,7 +112,7 @@
                         <publisher>[Ulrich Pinder]</publisher>
                         <pubPlace>Nürnberg</pubPlace>
                         <date>1507</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+P+807">VD16 n° P2807</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+P+2807">VD16 n° P 2807</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/694281">USTC n° 694281</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek, Rar. 871, urn:nbn:de:bvb:12-bsb00011596-5 - Public Domain</licence>
@@ -144,7 +145,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dans un encadrement imitant les cadres enluminés de la fin du XVe siècle, on voit la scène du lavement des pieds des apôtres. Le Christ agenouillé tient la jambe de Pierre, tandis que les autres disciples s'occupent diversement en  attendant leur tour.</note>
+                    <note type="commentaire">Dans un encadrement imitant les cadres enluminés flamands de la fin du XVe siècle, on voit la scène du lavement des pieds des apôtres. Le Christ agenouillé tient et lave la jambe de Pierre, tandis que les autres disciples s'occupent diversement en  attendant leur tour.</note>
                   </figure>
                 </item>
                 
@@ -162,7 +163,7 @@
                         <author role="artiste">Lucas Cranach</author>
                         <publisher>[Johann Rhau-Grunenberg]</publisher>
                         <pubPlace>[Wittenberg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 n° L 5584</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC n° 683162</idno>
                         <availability>
@@ -171,6 +172,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Le Christ lave et baise le pied de l'un de ses disciples, probablement Pierre, tandis que les autres observent la scène. Le baiser du pied par le Christ constitue une nouveauté iconographique, certainement encouragée par l'écho direct et antithétique qu'il forme  avec le baiser de la pantoufle du pape. </note>
+                    <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 164-168; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 18-19.</note>
                   </figure>
                 </item>
                 
@@ -185,10 +187,10 @@
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00088259">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
-                        <author role="artiste"/>
+                        <author role="artiste">[d'ap. Lucas Cranach]</author>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
@@ -196,7 +198,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Christ lave et embrasse le pied de l'un de ses disciples, probablement Pierre, tandis que les autres observent la scène. Cette gravure cite le <title>Passional</title> de Wittenberg, mais l'inverse. De même, elle en modifie le décor architectural.  Elle sert de modèle direct à la gravure des <title>Faits</title> qui discipline les hachures vigoureuses de son modèle, en particulier sur le mur du fond.</note>
+                    <note type="commentaire">Le Christ lave et embrasse le pied de l'un de ses disciples, probablement Pierre, tandis que les autres observent la scène. Cette gravure cite le <title>Passional</title> de Wittenberg, mais l'inverse. De même, elle en modifie le décor architectural. Elle sert de modèle direct à la gravure des <title>Faits</title> qui discipline les hachures vigoureuses de son modèle, en particulier sur le mur du fond.</note>
                   </figure>
                 </item>
                 
@@ -214,7 +216,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
                         <availability>
@@ -266,7 +268,7 @@
                       <locus type="page">p. 49</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -304,7 +306,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library, *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -318,11 +320,11 @@
                       <locus type="page">p. 97</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -348,7 +350,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -368,7 +370,7 @@
                       <locus type="page">p. 73</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb00034957">
-                        <title type="titre_ouvrage">Antithesis d.i. kurtze Beschreibung en prose)</title>
+                        <title type="titre_ouvrage">Antithesis d.i. kurtze Beschreibung (en prose)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>Johannes Mayer</publisher>
                         <pubPlace>Heidelberg</pubPlace>
@@ -412,14 +414,14 @@
                 
                 <item n="15">
                   <figure>
-                    <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k792751/f81/full/full/0/native.jpg"/>
+                    <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k792751/f81/340,0,1800,2600/full/0/native.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm">60 x 84</dim>
                       <locus type="page">sign. Ee8v</locus>
                       <objectType>Gravure sur bois</objectType>
-                      <bibl source="ark:/12148/bpt6k792751 ">
+                      <bibl source="https://gallica.bnf.fr/ark:/12148/bpt6k792751 ">
                         <title type="titre_ouvrage">Claude Pontoux, Figures du nouveau testament, illustrées de huictains français</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Guillaume Rouillé</publisher>
@@ -427,11 +429,11 @@
                         <date>1570</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/5135">USTC n° 5135</idno>
                         <availability>
-                          <licence>Photo personnelle / Source gallica.bnf.fr / Bibliothèque municipale de Lyon, FC085 - Public Domain</licence>
+                          <licence>Source gallica.bnf.fr / Bibliothèque municipale de Lyon, FC085 - Public Domain</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Christ à genoux lave les pieds du premier de ses disciples, tandis que les autres attendent leur tour. La scène se situe après la Cène qui est évoquée, à droite de l'image, par une grande table jonchée de restes du repas. La gravure est surmontée de la référence biblique, Jean XIII, qui se trouve également dans les <title>Faits</title>.</note>
+                    <note type="commentaire">Le Christ à genoux lave les pieds du premier de ses disciples, tandis que les autres attendent leur tour. La scène a lieu après la Cène qui est évoquée, à droite de l'image, par une grande table jonchée de restes du repas. La gravure est surmontée de la référence biblique, "S. Iean Chap. XIII", qui se trouve également citée dans les <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
@@ -445,7 +447,7 @@
                       <locus type="page">sign. D3v</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://opac.kbr.be/LIBRARY/doc/SYRACUSE/11842130">
-                        <title type="titre_ouvrage">[Simon du Rosier], Teghenstellinghe oft Verghelyckinghe der Wercken Jesu Christi ende des paus (tr. fl.)</title>
+                        <title type="titre_ouvrage">[Simon du Rosier], Teghenstellinghe oft Verghelyckinghe der Wercken Jesu Christi ende des paus</title>
                         <author role="artiste">[d'ap. Bernard Salomon]</author>
                         <publisher>[Gillis van den Rade]</publisher>
                         <pubPlace>[Anvers]</pubPlace>
@@ -456,7 +458,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure ne suit pas le modèle d'Eskrich, mais est une copie fidèle d'une gravure de Bernard Salomon issue des <title>Figures du Nouveau Testament</title> de Charles Fontaine, Lyon, Jean de Tournes, 1554. La gravure comme les vers de Charles Fontaine ne retiennent pas le motif du baiser des pieds des apôtes ("Iesus second en Trinité/ Laua aux Apotres les piez, /Montrant à toute autorité /Le droit chemin d'humilité:/ Et apres qu'il les eut lauez /Encor les a il essuyez.")</note>
+                    <note type="commentaire">La gravure ne suit pas le modèle de l'<title>Antithesis</title> (1557), mais il s'agit d'une copie fidèle d'une gravure de Bernard Salomon pour les <title>Figures du Nouveau Testament</title> de Charles Fontaine (Lyon, Jean de Tournes, 1554), pour illustrer Jn 13. La gravure, comme les vers de Charles Fontaine, ignorent le motif du baiser des pieds des apôtres ("Iesus second en Trinité/ Laua aux Apotres les piez,/ Montrant à toute autorité/ Le droit chemin d'humilité:/ Et apres qu'il les eut lauez/ Encor les a il essuyez"). Elle est remployée dans la <title>Biblia sacra dat is de geheele heylighe schrifture bedeylt</title>, Antwerpen, Jan I Moretus et Jan van Keerberghen, 1599.</note>
                   </figure>
                 </item>
                 
@@ -482,7 +484,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Intitulé <title>Passional</title>, l'ouvrage ne se bâtit pas sur des couples d'antithèses comme son illustre prédécesseur de 1521. Il relate la passion du Christ illustrée de bois gravés, et contient aussi des prières. L'iconographie est semblable au <title>Passional</title> et aux <title>Faits</title>, mais la composition diffère, notamment en articulant la scène autour d'une colonne.</note>
+                    <note type="commentaire">Intitulé <title>Passional</title>, l'ouvrage ne se bâtit pas sur des couples d'antithèses comme l'ouvrage éponyme de 1521. Il relate la passion du Christ illustrée de bois gravés, et contient aussi des prières. L'iconographie est semblable à celle du <title>Passional</title> et des <title>Faits</title>, mais la composition diffère, notamment en articulant la scène autour d'une colonne.</note>
                   </figure>
                 </item>
                 
@@ -564,7 +566,7 @@
               </list>
             </figDesc>
             
-            <note>Dans un intérieur, le Christ agenouillé lave et baise les pieds de l'un de ses disciples, probablement Pierre, sous le regard attentif de ses compagnons se tenant près  d'eux.</note>
+            <note>Dans un intérieur, le Christ agenouillé lave et baise les pieds de l'un de ses disciples, probablement Pierre, sous le regard attentif de ses compagnons se tenant près d'eux.</note>
           </figure>
         </p>
       </sourceDesc>

@@ -38,7 +38,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
@@ -61,7 +61,7 @@
                         <author role="artiste">Lucas Cranach</author>
                         <publisher>[Johann Rhau-Grunenberg]</publisher>
                         <pubPlace>[Wittenberg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 n° L 5584</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC n° 683162</idno>
                         <availability>
@@ -70,6 +70,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Le pape trônant signe et vend des indulgences à un groupe d'hommes et de femmes. Ceux-ci se pressent vers la table où est entreposée une pile d’indulgences, et y déposent l'argent nécessaire pour en acquérir. Quatre hauts religieux se tiennent près du pape pour surveiller ces transactions. La gravure sert de modèle direct à celle des <title>Faits</title> qui en donne une version très fidèle.</note>
+                    <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 265-270; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 57-59.</note>
                   </figure>
                 </item>
                 
@@ -84,10 +85,10 @@
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00088259">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
-                        <author role="artiste"/>
+                        <author role="artiste">[d'ap. Lucas Cranach]</author>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
@@ -113,15 +114,16 @@
                         <author role="artiste">Heinrich Vogtherr</author>
                         <publisher>[Melchior Ramminger]</publisher>
                         <pubPlace>[Augsburg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+O+527">VD16 n° O 527</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/679558">USTC n° 679558</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek, Res/4 Polem. 3365,33, urn:nbn:de:bvb:12-bsb10910499-3 - No Copyright - Non-commercial Use Only</licence>
                         </availability>
                       </bibl>
                     </figDesc>
                     <note type="commentaire">La page de titre représente une vente d'indulgences dans une église ornée des armes du pape Léon X. Depuis la chaire, un domincain lit à des femmes assises à ses pieds une bulle d'indulgence. D'autres personnes se pressent à une table pour en acheter, tandis qu'un dernier d'entre eux glisse directement de l'argent dans le coffre placé au pied de la croix. Un moine (Luther?) et un paysan (Karsthans) figurent dans une attitude similaire à celle du Christ chassant les marchands du temple. La même gravure orne la page de titre du <title>Beclagung aines Leyens</title>, paru la même année, chez le même éditeur [https://mdz-nbn-resolving.de/details:bsb11227362].</note>
-                    <note type="biblio">Bibliographie: <title>Iconoclasme. Vie et mort de l'image médiévale</title>, cat. expo., Paris, Somogy, 2001, n° 194 ;  F. Muller, <title>Heinrich Vogtherr l’Ancien: un artiste entre Renaissance et Réforme</title>, Wiesbaden, Harrassowitz, 1997, n° 64.</note>
+                    <note type="biblio">Bibliographie: <title>Iconoclasme. Vie et mort de l'image médiévale</title>, cat. expo., Paris, Somogy, 2001, n° 194;  F. Muller, <title>Heinrich Vogtherr l’Ancien: un artiste entre Renaissance et Réforme</title>, Wiesbaden, Harrassowitz, 1997, n° 64.</note>
                   </figure>
                 </item>
                 
@@ -146,7 +148,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">En 1522, un veau à la peau déchirée en lambeaux et aussi tonsuré ("veau-moine") est  né à Freiberg, en Saxe. Luther lui consacre un texte où il le considère comme un signe miraculeux pour révéler l'hypocrisie et la fausseté du monachisme, un texte opposé à celui que Melanchthon dédie à une deuxième figure miraculeuse, un âne-pape (<title>Deutung der czwo grewlichen Figuren, Bapstesels czu Rom und Munchkalbs zu Freyberg ynn Meyysszen funden</title>, [Basel] : [Valentin Curio], [1523]). Sur cette feuille volante, le veau-moine est présenté au pape Hadrien VI par Luther. La composition générale de cette scène ressemble à celle qui représente le pape vendant des indulgences.</note>
+                    <note type="commentaire">En 1522, un veau à la peau déchirée en lambeaux et aussi tonsuré ("veau-moine") est né à Freiberg, en Saxe. Luther lui consacre un texte où il le considère comme un signe miraculeux pour révéler l'hypocrisie et la fausseté du monachisme, un texte opposé à celui que Melanchthon dédie à une deuxième figure miraculeuse, un âne-pape (<title>Deutung der czwo grewlichen Figuren, Bapstesels czu Rom und Munchkalbs zu Freyberg ynn Meyysszen funden</title>, [Basel] : [Valentin Curio], [1523]). Sur cette feuille volante, le veau-moine est présenté au pape Hadrien VI par Luther. La composition générale de cette scène ressemble à celle qui représente le pape vendant des indulgences.</note>
                     <note type="biblio">Bibliographie: J. Wirth, "Luther et le dogme de l'image : Luther et l’iconographie", <title>Revue de l’art</title>, 1981 (52), p. 9-23 (ici p. 15) ; <title>Enfer ou paradis. Aux sources de la caricature XVIe-XVIIIe siècles</title>, cat. expo., Gollion, Infolio, 2013, p. 79.</note>
                   </figure>
                 </item>
@@ -183,7 +185,7 @@
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm">83 x 270</dim>
-                      <locus type="page">New York, Metropolitan Museum, inv. 36.77</locus>
+                      <locus type="page">(New York, Metropolitan Museum, inv. 36.77)</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.metmuseum.org/art/collection/search/383168">
                         <title type="titre_ouvrage">Die wahre und falsche Vergebung der Sünden</title>
@@ -197,7 +199,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">La gravure en forme de frise oppose la rémission des péchés (à l'extérieur) et le commerce des indulgences (à l'intérieur de l'Église romaine). Tandis que Dieu (avec une couronne impériale) accueille David, Manassé et le "pécheur public" (Offen Synder) à bras ouverts, le pardon papal (à travers son représentant Léon X, cf. armes des Médicis) se monnaie de tous côtés (confessions et achat d'indulgences).</note>
-                    <note type="biblio">Bibliographie: <title>Luther und die Folgen für die Kunst</title>, München, Prestel, 1983, n° 59 ; R.W. Scribner, <title>For the sake of the simple folk. Popular propaganda for the German Reformation</title>, Cambridge University Press, 1981, p. 45 ; F. Hieronymus, <title>Basler Buchillustration 1500-1545 (Oberrheinische Buchillustration 2)</title>, Basel 1984, S. 366, Nr. 355.</note>
+                    <note type="biblio">Bibliographie: <title>Luther und die Folgen für die Kunst</title>, München, Prestel, 1983, n° 59; R.W. Scribner, <title>For the sake of the simple folk. Popular propaganda for the German Reformation</title>, Cambridge University Press, 1981, p. 45; F. Hieronymus, <title>Basler Buchillustration 1500-1545 (Oberrheinische Buchillustration 2)</title>, Basel 1984, S. 366, Nr. 355.</note>
                   </figure>
                 </item>
                 
@@ -215,7 +217,7 @@
                         <author role="artiste"/>
                         <publisher>[Jakob Schmidt]</publisher>
                         <pubPlace>[Speyer]</pubPlace>
-                        <date>1525</date>
+                        <date>[1525]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+S+3678">VD16 n° S 3678</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/646700">USTC n° 646700</idno>
                         <availability>
@@ -242,7 +244,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
                         <availability>
@@ -268,7 +270,7 @@
                       <locus type="page">Berlin, Kupferstichkabinett, inv. 707-115</locus>
                       <objectType>Gravure sur bois </objectType>
                       <bibl source="https://recherche.smb.museum/detail/1048344/">
-                        <title type="titre_ouvrage">Unterscheid zwischen der waren Religion Christi / und falschen Abgöttischen lehr des Antichrists in den fürnemsten stücken</title>
+                        <title type="titre_ouvrage">Unterscheid zwischen der waren Religion Christi und falschen Abgöttischen lehr des Antichrists in den fürnemsten stücken</title>
                         <author role="artiste">Lucas Cranach le Jeune</author>
                         <publisher/>
                         <pubPlace/>
@@ -284,7 +286,7 @@
                 
                 <item n="10">
                   <figure>
-                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/allegorieIndulgences.jpg/full/max/0/default.jpg"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/allegorieIndulgences.jpg/0,0,1850,2900/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -292,7 +294,7 @@
                       <locus type="page">Braunschweig, Herzog Anton Museum, MGerung WB 3.46</locus>
                       <objectType>Gravure sur bois </objectType>
                       <bibl source="http://kk.haum-bs.de/?id=m-gerung-wb3-0046">
-                        <title type="titre_ouvrage">Allégorie sur le commerce des indulgences (série Apocalypse)</title>
+                        <title type="titre_ouvrage">Allégorie sur le commerce des indulgences</title>
                         <author role="artiste">Mathias Gerung</author>
                         <publisher/>
                         <pubPlace/>
@@ -316,7 +318,7 @@
                       <locus type="page">p. 42</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -354,7 +356,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library, *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -368,11 +370,11 @@
                       <locus type="page">p. 82</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -398,7 +400,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -466,7 +468,7 @@
                     <figDesc>
                       <title type="titre_courant">S’Paus cremery’ is al te te hoope / In zyne kerck altijt te coope.</title>
                       <title type="manchette"/>
-                      <dim unit="mm">40 x 60</dim>
+                      <dim unit="mm">46 x 60</dim>
                       <locus type="page">sign. C8</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://opac.kbr.be/LIBRARY/doc/SYRACUSE/11842130">
@@ -557,8 +559,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">De Rhoemse Kercke (L’Eglise romaine) est une feuille volante satirique anti-romaine qui représente une procession bigarrée se dirigeant vers une église dans l'intéreur de laquelle toutes sortes d’activités ecclésiales sont caricaturées. La gravure était accompagnée par un poème, longtemps présumé perdu et attribué au théologien Paulus de Kempenaer (ca. 1554-1618?), qui commente les actions dévoyées des clercs, et les comportements pervertis des fidèles (exemplaire conservé au Muséum Boijmans Van Beuningen, Rotterdam). L'écho de l'antithèse 12b des Faits figure dans la deuxième travée de l'édifice, où la personnification de Simonie (avec ses nombreux bras) vend des indulgences, mais aussi dans les travées suivantes: avec une table soutenant une croix d'indulgences, et plus loin encore avec la vente de cierges, d'ex-votos et de reliquaires, faisant de l'ensemble de l'église un temple rempli de marchandises.</note>
-                    <note type="biblio">Bibliographie: Eva L.E. Janssens, « Oh, what sights to behold in this church turned upside down », <title>Paulus de Kempenaer’s Reckoning with the Roman Catholic Excesses</title>, RIHA Journal, 2024 [DOI: https://doi.org/10.11588/riha.2024.1.103891]</note>
+                    <note type="commentaire"><title>De Rhoemse Kercke</title> (L’Eglise romaine) est une feuille volante satirique anti-romaine qui représente une procession bigarrée se dirigeant vers une église dans l'intéreur de laquelle toutes sortes d’activités ecclésiales sont caricaturées. La gravure était accompagnée par un poème, longtemps présumé perdu et attribué au théologien Paulus de Kempenaer (ca. 1554-1618?), qui commente les actions dévoyées des clercs, et les comportements pervertis des fidèles (exemplaire conservé au Museum Boijmans Van Beuningen, Rotterdam). L'écho de l'antithèse 12b des <title>Faits</title> figure dans la deuxième travée de l'édifice, où la personnification de Simonie (avec ses nombreux bras) vend des indulgences, mais aussi dans les travées suivantes: avec une table soutenant une croix d'indulgences, et plus loin encore avec la vente de cierges, d'ex-votos et de reliquaires, faisant de l'ensemble de l'église un temple rempli de marchandises.</note>
+                    <note type="biblio">Bibliographie: Eva L.E. Janssens, « Oh, what sights to behold in this church turned upside down », Paulus de Kempenaer’s Reckoning with the Roman Catholic Excesses, <title>RIHA Journal</title>, 2024 [DOI: https://doi.org/10.11588/riha.2024.1.103891]</note>
                   </figure>
                 </item>
                 

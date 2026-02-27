@@ -38,7 +38,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n°1406</idno>
                 <availability>
@@ -56,7 +56,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 9v</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="#">
+                      <bibl source="http://id.bildindex.de/thing/0001335580">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -68,6 +68,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Suivant l'iconographie traditionnelle de la Cène, Jésus préside au centre d'une table rectangulaire son dernier repas avec ses douze compagnons (Pierre à sa droite et Jean à sa gauche). Cette enluminure fait face à une représentation de la messe (f. 10), formant une antithèse identique à celle du <title>Passional</title> et des <title>Faits</title>.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
                   </figure>
                 </item>
                 
@@ -75,9 +76,9 @@
                   <figure>
                     <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k87106064/f310/full/full/0/native.jpg"/>
                     <figDesc>
-                      <title type="titre_courant">(réutilisation éd. bâloise 1476, Richel)</title>
+                      <title type="titre_courant"/>
                       <title type="manchette"/>
-                      <dim unit="mm">28 x 85</dim>
+                      <dim unit="mm">128 x 85</dim>
                       <locus type="page">f. 161v</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://gallica.bnf.fr/ark:/12148/bpt6k87106064/f310.item">
@@ -86,12 +87,13 @@
                         <publisher>[Martin Huss]</publisher>
                         <pubPlace>Lyon</pubPlace>
                         <date>1478</date>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/70687">USTC n° 70687</idno>
                         <availability>
                           <licence>Source gallica.bnf.fr / Bibliothèque nationale de France, département Réserve des livres rares, A-1241 - Public Domain</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dans la traduction française du Speculum humanae salvationis, deux scènes de banquet apparaissent sur la même page, la première pour illustrer le repas festif qu'Assuérus offre à Esther, la seconde celui des enfants de Job, dont la composition évoque dans les deux cas la Cène.</note>
+                    <note type="commentaire">Dans la traduction française du <title>Speculum humanae salvationis</title>, deux scènes de banquet apparaissent sur la même page, la première pour illustrer le repas festif qu'Assuérus offre à Esther, la seconde celui des enfants de Job, dont la composition évoque dans les deux cas la Cène. Les gravures sont des remplois de l'édition bâloise de Richel, en 1476.</note>
                   </figure>
                 </item>
                 
@@ -110,12 +112,13 @@
                         <publisher/>
                         <pubPlace/>
                         <date>1490-1510</date>
+                        
                         <availability>
                           <licence>Source eSbirky.cz / Praha, Národní muzeum - CC-BY-NC-ND 4.0</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La dernière Cène se déroule autour d'une table ronde où se tiennent les douze disciples du Christ (Pierre à sa gauche, Jean  endormi contre sa poitrine). Judas, dans un vêtement jaune le désignant comme traitre, cache quelque chose dans son dos. L'enluminure est opposée, comme dans le codex hussite, à une représentation de la messe (f. 68), et forme la même antithèse que dans les <title>Faits</title>.</note>
+                    <note type="commentaire">La dernière Cène se déroule autour d'une table ronde où se tiennent les douze disciples du Christ (Pierre à sa gauche, Jean  endormi contre sa poitrine). Judas, dans un vêtement jaune le désignant comme traitre, cache sa bourse dans son dos. Il s'agit d'une dérivation de la gravure du même thème de Wolgemut et Pleydenwurff parue dans le <title>Schatzbehalter</title>, à Nuremberg, chez Anton Koberger en 1491. L'enluminure est opposée, comme dans le <title>Hussitencodex</title>, à une représentation de la messe (f. 68), et forme la même antithèse que dans les <title>Faits</title>.</note>
                     <note type="biblio">Bibliographie: Kamil Boldan (éd.), <title>The Jena Codex</title>, Prague, 2009, p. 157.</note>
                   </figure>
                 </item>
@@ -134,7 +137,7 @@
                         <author role="artiste">Hans Wechtlin</author>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1506</date>
+                        <date>[1506]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+S+4586">VD16 n° S 4586</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683081">USTC n° 683081</idno>
                         <availability>
@@ -161,7 +164,7 @@
                         <publisher>[Nickel Schmidt]</publisher>
                         <pubPlace>[Leipzig]</pubPlace>
                         <date>1525</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+Z+ 13199">VD16 n° ZV 13199</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+ZV+13199">VD16 n° ZV 13199</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/703004">USTC n° 703004</idno>
                         <availability>
                           <licence>Wien, Österreichische Nationalbibliothek - No Copyright - Non-commercial Use Only</licence>
@@ -213,7 +216,7 @@
                         <publisher>Hans Hager</publisher>
                         <pubPlace>Zurich</pubPlace>
                         <date>1526</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+ + 868">VD16 n°  Z 868</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+Z+868">VD16 n°  Z 868</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/648718">USTC n° 648718</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek, Res/4 Polem. 2457#Beibd.25, urn:nbn:de:bvb:12-bsb00026075-8 - Public Domain</licence>
@@ -238,7 +241,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n°4486</idno>
                         <availability>
@@ -264,7 +267,7 @@
                       <locus type="page">p. 45</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -296,7 +299,7 @@
                         <pubPlace>[Genève]</pubPlace>
                         <date>1557</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/4887">USTC n° 4887</idno>
-                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1609">GLN 15-16 n°1609</idno>
+                        <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1609">GLN 15-16 n° 1609</idno>
                         <availability>
                           <licence>Source e-rara.ch / Bibliothèque de Genève, BGE Cth 2554 BGE Bc 3445 - Public Domain</licence>
                         </availability>
@@ -328,7 +331,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library, *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -342,11 +345,11 @@
                       <locus type="page">p. 89</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -372,7 +375,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -410,11 +413,11 @@
                 
                 <item n="15">
                   <figure>
-                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/teghenstellinghe_D5v.png/full/max/0/default.jpg"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/teghenstellinghe_D1v.png/full/700,/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant">Christus sett in sijn Nachtmael reene / Als hijt sijn Jondren deylt met eene.</title>
                       <title type="manchette"/>
-                      <dim unit="mm">35 x 59</dim>
+                      <dim unit="mm">46 x 60</dim>
                       <locus type="page">sign. Dv</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://opac.kbr.be/LIBRARY/doc/SYRACUSE/11842130">
@@ -429,7 +432,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Représentation traditionnelle de la Cène, autour d'une table rectangulaire qui n'est pas un remploi de l'<title>Antithesis</title>, mais d'une source non identifiée.</note>
+                    <note type="commentaire">Représentation traditionnelle de la Cène, autour d'une table rectangulaire. Il ne s'agit pas d'un remploi de l'<title>Antithesis</title>, mais d'une source non identifiée.</note>
                   </figure>
                 </item>
                 

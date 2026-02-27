@@ -28,8 +28,8 @@
             <graphic url="https://www.e-rara.ch/i3f/v20/4518832/full/full/0/default.jpg"/>
             <figDesc>
               <title type="titre_gravure">Le Christ à la colonne entre Pierre et le pape</title>
-              <title type="titre_courant"/>
-              <title type="manchette"/>
+              <title type="titre_courant">--</title>
+              <title type="manchette">--</title>
               <dim unit="mm">112 x 91</dim>
               <locus type="page">page de titre et sign. A3v</locus>
               <objectType>Gravure sur bois</objectType>
@@ -38,7 +38,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
@@ -62,14 +62,14 @@
                         <publisher>[Ulrich Pinder]</publisher>
                         <pubPlace>Nuremberg</pubPlace>
                         <date>1507</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+P+807">VD16 n° P2807</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+P+2807">VD16 n° P 2807</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/694281">USTC n° 694281</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek, Rar. 871, urn:nbn:de:bvb:12-bsb00011596-5 - Public Domain</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le motif central de la page de titre des <title>Faits</title> dérive des images de dévotion telle qu'on en trouve un exemple dans le <title>Speculum passionis</title>, dans un passage portant sur la méditation de la Passion. Placé contre la croix de la Crucifixion, le Christ ressuscité montre sa plaie du côté, entouré de deux anges portant respectivement l'éponge vinaigrée et la lance, tandis que le fouet et les verges pendent du cadre même de la gravure.</note>
+                    <note type="commentaire">Le motif central de la page de titre des <title>Faits</title> dérive des images de dévotion telle qu'on en trouve un exemple dans le <title>Speculum passionis</title>, dans un passage portant sur la méditation de la passion. Placé contre la croix de la Crucifixion, le Christ ressuscité montre sa plaie du côté, entouré de deux anges portant respectivement l'éponge vinaigrée et la lance, tandis que le fouet et les verges pendent du cadre même de la gravure.</note>
                   </figure>
                 </item>
                 
@@ -163,7 +163,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
                         <availability>
@@ -193,7 +193,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon?]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>

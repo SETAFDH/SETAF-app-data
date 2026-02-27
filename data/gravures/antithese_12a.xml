@@ -38,7 +38,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
@@ -80,7 +80,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 30v</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="#">
+                      <bibl source="http://id.bildindex.de/thing/0001335580">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -91,7 +91,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Christ se tient sur le seuil d'une église d'où il expulse les marchands qui perdent dans leur précipation leurs bourses. Les deux bras levés au ciel, il tient un fouet dans une main, et une banderole dans l'autre. Le texte y figurant cite l'évangile de Jn (2,14-15), ainsi que les actes des apôtres (8,20). Ces citations se retrouvent, avec d'autres encore, dans les <title>Faits</title>.</note>
+                    <note type="commentaire">Le Christ se tient sur le seuil d'une église d'où il expulse les marchands qui perdent dans leur précipation leurs bourses. Les deux bras levés au ciel, il tient un fouet dans une main, et une banderole dans l'autre. Le texte y figurant cite l'évangile de Jean (2,14-15), ainsi que les Actes des apôtres (8,20). Ces citations se retrouvent, avec d'autres encore, dans les <title>Faits</title>.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
                   </figure>
                 </item>
                 
@@ -115,7 +116,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Christ chasse les simoniaques hors du temple : un évêque, un docteur en droit canon et un prêtre avaricieux. L'enlumineur actualise ici la scène traditionnelle des marchands chassés du temple, en leur substituant des représentants de l'église contemporaine. Les inscriptions placées dans l'angle supérieur droit sont les mêmes citations que dans le Hussitencodex (Jn 2,14-15 et Ac, 8,20), reprises aussi dans les Faits. Cette enluminure n'est pas articulée avec une image antithétique répartie sur la double page.</note>
+                    <note type="commentaire">Le Christ chasse les simoniaques hors du temple : un évêque, un docteur en droit canon et un prêtre avaricieux. L'enlumineur actualise ici la scène traditionnelle des marchands chassés du temple, en leur substituant des représentants de l'église contemporaine. Les inscriptions placées dans l'angle supérieur droit sont les mêmes citations que dans le Hussitencodex (Jn 2,14-15 et Ac, 8,20), reprises aussi dans les <title>Faits</title>. Cette enluminure n'est pas articulée avec une image antithétique répartie sur la double page.</note>
                     <note type="biblio">Bibliographie: Kamil Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 123.</note>
                   </figure>
                 </item>
@@ -133,9 +134,9 @@
                         <title type="titre_ouvrage">Ulrich Pinder, Speculum Passionis</title>
                         <author role="artiste">Hans Schäufelein</author>
                         <publisher>[Ulrich Pinder]</publisher>
-                        <pubPlace>Nuremberg</pubPlace>
+                        <pubPlace>Nürnberg</pubPlace>
                         <date>1507</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+P+807">VD16 n° P2807</idno>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+P+2807">VD16 n° P 2807</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/694281">USTC n° 694281</idno>
                         <availability>
                           <licence>München, Bayerische Staatsbibliothek, Rar. 871, urn:nbn:de:bvb:12-bsb00011596-5 - Public Domain</licence>
@@ -156,7 +157,7 @@
                       <locus type="page">Berlin, Kupferstichkabinett, inv. 361-3</locus>
                       <objectType>Gravure sur cuivre</objectType>
                       <bibl source="https://id.smb.museum/object/1037435/christus-vertreibt-die-geldwechsler-aus-dem-tempel-kleine-passion">
-                        <title type="titre_ouvrage">Marchands chassés du temple (tiré de la Petite Passion)</title>
+                        <title type="titre_ouvrage">Marchands chassés du temple</title>
                         <author role="artiste">Albrecht Dürer</author>
                         <publisher/>
                         <pubPlace/>
@@ -166,7 +167,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dans la Petite Passion gravée de Dürer, le Christ, au premier plan, menace d'un grand geste un marchand tombé à terre à côté de son étal. La cohue est grande, et les autres marchands s'enfuient.</note>
+                    <note type="commentaire">Issue de la <title>Petite Passion</title> gravée de Dürer, la gravure représente le Christ, au premier plan, qui menace d'un grand geste un marchand tombé à terre à côté de son étal. La cohue est grande, et les autres marchands s'enfuient.</note>
                   </figure>
                 </item>
                 
@@ -217,7 +218,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">La gravure représente deux scènes qui contrastent: à gauche, le Christ chasse les marchands du temple, en renversant leur table et les menaçant de son fouet; à droite, le Christ prêche du haut d'une chaire aux fidèles présents dans le temple.</note>
-                    <note type="biblio">Bibliographie: Petra Roettig, <title>Reformation als Apokalypse. Die Holzschnitte von Matthias Gerung im Codex germanicus 6592 der Bayerischen Staatsbibliothek in München</title>, Bern, Peter lang, 1990, p. 144.</note>
+                    <note type="biblio">Bibliographie: Petra Roettig, <title>Reformation als Apokalypse. Die Holzschnitte von Matthias Gerung im Codex germanicus 6592 der Bayerischen Staatsbibliothek in München</title>, Bern, Peter Lang, 1990, p. 144.</note>
                   </figure>
                 </item>
                 
@@ -235,7 +236,7 @@
                         <author role="artiste">Lucas Cranach</author>
                         <publisher>[Johann Rhau-Grunenberg]</publisher>
                         <pubPlace>[Wittenberg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 n° L 5584</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC n° 683162</idno>
                         <availability>
@@ -243,7 +244,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Armé d’un fouet, le Christ chasse vigoureusement un groupe de marchands (hommes, femme et enfant) d’un bâtiment soutenu par des colonnes. Les disciples se tiennent groupés derrière le Christ. Cette gravure n'est pas le modèle immédiat des <title>Faits</title> qui est issu plus directement du Passional de Strasbourg.</note>
+                    <note type="commentaire">Armé d’un fouet, le Christ chasse vigoureusement un groupe de marchands (hommes, femme et enfant) d’un bâtiment soutenu par des colonnes. Les disciples se tiennent groupés derrière le Christ. Cette gravure n'est pas le modèle immédiat des <title>Faits</title> qui est issu directement du <title>Passional</title> de Strasbourg.</note>
+                    <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 261-264; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 55-56.</note>
                   </figure>
                 </item>
                 
@@ -258,10 +260,10 @@
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00088259">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
-                        <author role="artiste"/>
+                        <author role="artiste">[d'ap. Lucas Cranach]</author>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
@@ -269,7 +271,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Armé d’un fouet, le Christ chasse vigoureusement un groupe de marchands (hommes, femme et enfant) d’un bâtiment soutenu par des colonnes. Les disciples se tiennent groupés derrière le Christ. La gravure suit le modèle du <title>Passional</title> de Wittenberg, sans inversion de sens, et sert de modèle direct à celle des Faits, comme le montrent les différences entretenues avec le <title>Passional</title> de Wittenberg (par exemple diminution du nombre de personnes chassées du temple, objets différents sur le sol, omission de la brebis dans les mains d'un marchand, etc.).</note>
+                    <note type="commentaire">Armé d’un fouet, le Christ chasse vigoureusement un groupe de marchands (hommes, femme et enfant) d’un bâtiment soutenu par des colonnes. Les disciples se tiennent groupés derrière le Christ. La gravure suit le modèle du <title>Passional</title> de Wittenberg, sans inversion de sens, et sert de modèle direct à celle des <title>Faits</title>, comme le montrent les différences entretenues avec le <title>Passional</title> de Wittenberg (par exemple diminution du nombre de personnes chassées du temple, objets différents sur le sol, omission de la brebis dans les mains d'un marchand, etc.).</note>
                   </figure>
                 </item>
                 
@@ -287,7 +289,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
                         <availability>
@@ -321,7 +323,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Cette gravure inverse la composition publiée dans le <title>Speculum</title> d'Ulrich Pinder (1507). Des citations de Mc 11, en latin ("Templo ejiciuntur ementes &amp; vendentes") et en allemand ("Kauffer und verkauffer auss dem Tempel getriben"), encadrent l'image.</note>
+                    <note type="commentaire">Cette gravure inverse la composition publiée dans le <title>Speculum</title> d'Ulrich Pinder (1507). Des citations de Marc 11, en latin ("Templo ejiciuntur ementes &amp; vendentes") et en allemand ("Kauffer und verkauffer auss dem Tempel getriben"), encadrent l'image.</note>
                   </figure>
                 </item>
                 
@@ -339,7 +341,7 @@
                       <locus type="page">München, Bayerische Staatsbibliothek, BSB Cgm 6592, f. 131v</locus>
                       <objectType>Gravure sur bois </objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb00104170">
-                        <title type="titre_ouvrage">Marchands chassés du temple (&gt; S. Meyer, Auslegung der Offenbarung Johannis)</title>
+                        <title type="titre_ouvrage">Sebastian Meyer, Auslegung der Offenbarung Johannis</title>
                         <author role="artiste">Matthias Gerung</author>
                         <publisher/>
                         <pubPlace/>
@@ -363,7 +365,7 @@
                       <locus type="page">p. 41</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -401,7 +403,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library, *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -415,11 +417,11 @@
                       <locus type="page">p. 81</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -445,7 +447,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -483,14 +485,14 @@
                 
                 <item n="18">
                   <figure>
-                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/Pontoux1570_Bb7v.jpg/full/max/270/default.jpg"/>
+                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/Pontoux_Bb7v.jpg/full/1000,/270/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm">60 x 84</dim>
                       <locus type="page">sign. Bb7v</locus>
                       <objectType>Gravure sur bois</objectType>
-                      <bibl source="ark:/12148/bpt6k792751 ">
+                      <bibl source="https://gallica.bnf.fr/ark:/12148/bpt6k792751">
                         <title type="titre_ouvrage">Claude Pontoux, Figures du nouveau testament, illustrées de huictains français</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Guillaume Rouillé</publisher>
@@ -527,7 +529,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure ne suit pas le modèle de l'<title>Antithesis</title> (1557) comme dans la majeure partie des cas pour cette traduction en néerlandais. Il s'agit de la copie très fidèle d'une gravure de Bernard Salomon des <title>Figures du Nouveau Testament</title> de Charles Fontaine, Lyon, Jean de Tournes, 1554 pour illustrer Mt 21, Mc 11, Lc, 9, Jn 11. Celle-ci est réutilisée plus tard dans une bible illustrée en néerlandais, <title>Biblia sacra dat is de geheele heylighe schrifture bedeylt int oudt ende nieu testament</title>, Anvers, Jan I Moretus et Jan van Keerberghen, 1599 (USTC: 402496), au chapitre XI de l'évangile de Marc.</note>
+                    <note type="commentaire">La gravure ne suit pas le modèle de l'<title>Antithesis</title> (1557) comme dans la majeure partie des cas pour cette traduction en néerlandais. Il s'agit de la copie très fidèle d'une gravure de Bernard Salomon des <title>Figures du Nouveau Testament</title> de Charles Fontaine, Lyon, Jean de Tournes, 1554 pour illustrer Mt 21, Mc 11, Lc, 9, Jn 11. Celle-ci est réutilisée dans une bible illustrée en néerlandais, <title>Biblia sacra dat is de geheele heylighe schrifture bedeylt int oudt ende nieu testament</title>, Anvers, Jan I Moretus et Jan van Keerberghen, 1599.</note>
                   </figure>
                 </item>
                 

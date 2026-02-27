@@ -38,7 +38,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
@@ -86,7 +86,7 @@
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb11057927">
                         <title type="titre_ouvrage">Johannes Trithemius, Polygraphiae libri sex</title>
                         <author role="artiste">Hans Springklee (?)</author>
-                        <publisher>[Adam Petri]</publisher>
+                        <publisher>Haselberg, [Adam Petri]</publisher>
                         <pubPlace>Basel</pubPlace>
                         <date>1518</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+T+1994">VD16 n° T 1994</idno>
@@ -115,7 +115,7 @@
                         <author role="artiste"/>
                         <publisher>[Christoph Froschauer]</publisher>
                         <pubPlace>[Zürich]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+F+3277">VD16 n° F 3277</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/644304">USTC n° 644304</idno>
                         <availability>
@@ -141,7 +141,7 @@
                         <author role="artiste">Lucas Cranach</author>
                         <publisher>[Johann Rhau-Grunenberg]</publisher>
                         <pubPlace>[Wittenberg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 n° L 5584</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC n° 683162</idno>
                         <availability>
@@ -150,6 +150,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Le pape assis sur son trône, vêtu de ses attributs pontificaux (tiare, chape, férule), bénit des religieux et religieuses, debout ou agenouillés devant lui. La gravure sert de modèle direct à celle des <title>Faits</title>, avec des différences minimes, par exemple dans le mode de hachures (plus raide, et non croisées).</note>
+                    <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 256-260; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 53-54.</note>
                   </figure>
                 </item>
                 
@@ -164,10 +165,10 @@
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00088259">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
-                        <author role="artiste"/>
+                        <author role="artiste">[d'ap. Lucas Cranach]</author>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
@@ -186,7 +187,7 @@
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm">98 x 156</dim>
-                      <locus type="page">HWeiditz AB 3.12</locus>
+                      <locus type="page">(Braunschweig, Herzog Anton Ulrich Museum, HWeiditz AB 3.12)</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="http://kk.haum-bs.de/?id=h-weiditz-ab3-0012">
                         <title type="titre_ouvrage">Allégorie sur le pape</title>
@@ -199,7 +200,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dans cette allégorie du pape, le pontife est représenté sous des traits d'animaux, trônant sur un rocher avec un énorme chapelet entre les pattes. Il est adoré par une foule de religieux et de religieuses qui, aveuglés par lui, ne remarquent pas, à l'arrière-plan, la scène de l'institution du premier pape avec Pierre recevant les clés de la main de Dieu.</note>
+                    <note type="commentaire">Dans cette allégorie du pape, le pontife est représenté sous des traits d'animaux, trônant sur un rocher avec un énorme chapelet entre les pattes. Il est adoré par une foule de religieux et de religieuses qui, aveuglés par lui, ne remarquent pas, à l'arrière-plan sur une colline, la scène de l'institution du premier pape montrant saint Pierre recevant les clés de la main de Dieu.</note>
                   </figure>
                 </item>
                 
@@ -217,7 +218,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
                         <availability>
@@ -243,7 +244,7 @@
                       <locus type="page">p. 18</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -281,7 +282,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library, *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -295,11 +296,11 @@
                       <locus type="page">p. 34</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -325,7 +326,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -383,7 +384,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Un groupe de représentants de l'Église romaine est réuni autour d'un tas d'excréments posés sur un tabouret. Le pape Pie IV (1559-1565), aux pieds griffus, trône de face au centre de la pièce, tenant dans ses mains les clés brisées de la papauté, ainsi que des indulgences. Les autres, aussi identifiés par des inscriptions, sont tous dévoyés (inspiré par le diable, accompagné d'un singe, se détournant de la personnification de la Raison, etc.). Ils portent tous des plumes, qui sont comprises dans le texte comme des queues de renard sous lesquelles les théologiens cachent leurs erreurs.</note>
+                    <note type="commentaire">Un groupe de représentants de l'Église romaine est réuni autour d'un tas d'excréments posés sur un tabouret. Le pape Pie IV (1559-1565), aux pieds griffus, trône de face au centre de la pièce, tenant dans ses mains les clés brisées de la papauté, ainsi que des indulgences. Les autres, aussi identifiés par des inscriptions, sont tous dévoyés (inspiré par le diable, accompagné d'un singe, se détournant de la personnification de la Raison, etc.). Ils tiennent tous des plumes, qui sont comprises dans le texte comme des queues de renard sous lesquelles les théologiens cachent leurs erreurs.</note>
                     <note type="biblio">Bibliographie: Wolfgang Harms (hg.), <title>Deutsche Illustrierte Flugblätter des 16. und 17. Jahrhunders</title>, Bd. II, Wolfenbüttel, München, 1980, p. 154.</note>
                   </figure>
                 </item>
@@ -420,11 +421,11 @@
                     <figDesc>
                       <title type="titre_courant">Den Paus en soeckt hier niet so seere / Als heylghen schijn in all sijn leere.</title>
                       <title type="manchette"/>
-                      <dim unit="mm">40 x 60</dim>
+                      <dim unit="mm">46 x 60</dim>
                       <locus type="page">sign. B4</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://opac.kbr.be/LIBRARY/doc/SYRACUSE/11842130">
-                        <title type="titre_ouvrage"> Teghenstellinghe oft Verghelyckinghe der Wercken Jesu Christi ende des paus</title>
+                        <title type="titre_ouvrage">Teghenstellinghe oft Verghelyckinghe der Wercken Jesu Christi ende des paus</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Gillis van den Rade]</publisher>
                         <pubPlace>[Anvers]</pubPlace>

@@ -38,7 +38,7 @@
                 <title type="titre_ouvrage">Faitz</title>
                 <publisher>[Jean Michel]</publisher>
                 <pubPlace>[Genève]</pubPlace>
-                <date cert="medium">[1539-1540]</date>
+                <date cert="medium">[1540?]</date>
                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9746">USTC n° 9746</idno>
                 <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-1406">GLN 15-16 n° 1406</idno>
                 <availability>
@@ -63,7 +63,7 @@
                         <pubPlace>Bologne</pubPlace>
                         <date>vers 1300</date>
                         <availability>
-                          <licence>À contacter (demande envoyée le 3 juin 25)</licence>
+                          <licence>Provided by: Österreichische Akademie der Wissenschaften / Institut für Mittelalterforschung</licence>
                         </availability>
                       </bibl>
                     </figDesc>
@@ -80,7 +80,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 40</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl>
+                      <bibl source="http://id.bildindex.de/thing/0001335580">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -91,8 +91,9 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">À droite, le pape trônant de face fait le geste de bénédiction, tandis que deux petits moines agenouillés baisent ses pieds. À gauche, une construction est défendue par un garde armé d'une massue et tenant une clé. Le dialogue satirique placé au-dessus de cette architecture en donne le sens: "Qui est là? Qui es-tu? Que veux-tu? Entrer. / Amènes-tu quelque chose? Rien. /Alors reste dehors. / J'amène quelque chose./ Quoi? Assez. / Alors tu peux entrer." Cette enluminure fait face à la scène du lavement de pieds (f. 39v), formant la même antithèse qui se trouve dans les <title>Faits</title>.</note>
+                    <note type="commentaire">À droite, le pape trônant de face fait le geste de bénédiction, tandis que deux petits moines agenouillés baisent ses pieds. À gauche, une construction est défendue par un garde armé d'une massue et tenant une clé. Le dialogue satirique placé au-dessus de cette architecture en donne le sens: "Qui est là? Qui es-tu? Que veux-tu? Entrer./ Amènes-tu quelque chose? Rien./ Alors reste dehors./ J'amène quelque chose./ Quoi? Assez./ Alors tu peux entrer." Cette enluminure fait face à la scène du lavement de pieds (f. 39v), formant la même antithèse que celle se trouvant dans les <title>Faits</title>.</note>
                   </figure>
+                  <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
                 </item>
                 
                 <item n="3">
@@ -134,7 +135,7 @@
                         <author role="artiste">Lucas Cranach</author>
                         <publisher>[Johann Rhau-Grunenberg]</publisher>
                         <pubPlace>[Wittenberg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 n° L 5584</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC n° 683162</idno>
                         <availability>
@@ -143,7 +144,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Assis sur un trône surmonté d'un dais, le pape bénissant de la main droite tend sa pantoufle à baiser à l'empereur agneouillé à ses pieds. Celui-ci est suivi d'un roi et d'un groupe de laïcs, tandis qu'aux côtés du pape des hauts dignitaires de l'Eglise se tiennent debout. Cette gravure est copiée très fidèlement dans les <title>Faits</title>, avec quelques petites différences, comme la disparition du motif floral du tissu du dais.</note>
-                    <note type="biblio">Bibliographie: Karl-August Wirth, "Imperator Pedes papae deosculatur. Ein Beitrag zur Bildkunde des 16. Jahrhunderts", in <title>Festschrift für Harald Keller</title>, Darmstadt, 1963,  p. 175-221.</note>
+                    <note type="biblio">Bibliographie: Karl-August Wirth, "Imperator Pedes papae deosculatur. Ein Beitrag zur Bildkunde des 16. Jahrhunderts", in <title>Festschrift für Harald Keller</title>, Darmstadt, 1963, p. 175-221;  K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 169-176; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 20-21.</note>
                   </figure>
                 </item>
                 
@@ -158,10 +159,10 @@
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.digitale-sammlungen.de/en/details/bsb00088259">
                         <title type="titre_ouvrage">Passional Christi und Antichristi</title>
-                        <author role="artiste">Hans Baldung Grien (?)</author>
+                        <author role="artiste">Hans Baldung Grien (?) [d'ap. Lucas Cranach]</author>
                         <publisher>[Johann Knobloch]</publisher>
                         <pubPlace>[Strasbourg]</pubPlace>
-                        <date>1521</date>
+                        <date>[1521]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
                         <availability>
@@ -169,7 +170,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Passional de Strasbourg inverse le sens de la composition de Wittenberg et réduit le nombre des participants à la scène. De plus, si l'empereur est bien agenouillé au pied du pape, il n'est pas représenté en train d'embrasser la pantoufle du pontife.</note>
+                    <note type="commentaire">Le <title>Passional</title> de Strasbourg inverse le sens de la composition de Wittenberg et réduit le nombre des participants à la scène. De plus, si l'empereur est bien agenouillé au pied du pape, il n'est pas représenté en train d'embrasser la pantoufle du pontife.</note>
                   </figure>
                 </item>
                 
@@ -211,7 +212,7 @@
                         <author role="artiste"/>
                         <publisher>[Pierre de Vingle]</publisher>
                         <pubPlace>[Neuchâtel]</pubPlace>
-                        <date>[1534]</date>
+                        <date>[1534?]</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471">USTC n° 9471</idno>
                         <idno type="GLN" corresp="https://www.ville-ge.ch/musinfo/bd/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
                         <availability>
@@ -232,7 +233,7 @@
                       <dim unit="mm">65 x 50</dim>
                       <locus type="page">sign. C3</locus>
                       <objectType>Gravure sur bois</objectType>
-                      <bibl source="ark:/12148/bpt6k1048547w">
+                      <bibl source="https://gallica.bnf.fr/ark:/12148/bpt6k1048547w">
                         <title type="titre_ouvrage">Jean de Vauzelles, Simulachres et historiees faces de la mort</title>
                         <author role="artiste">Hans Holbein (av. 1526)</author>
                         <publisher>[Melchior et Gaspar Trechsel]</publisher>
@@ -312,7 +313,7 @@
                       <locus type="page">p. 50</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-6098">
-                        <title type="titre_ouvrage">Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
+                        <title type="titre_ouvrage">Simon Rosarius, Antithesis de praeclaris Christi et indignis Papae facinoribus</title>
                         <author role="artiste">Pierre Eskrich</author>
                         <publisher>Zacharie Durant</publisher>
                         <pubPlace>[Genève]</pubPlace>
@@ -350,7 +351,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi dans le livre XII (1537-1540) de l'histoire de Sleidan de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). La manchette indique: "Le roy baise la pantoufle du pape".</note>
+                    <note type="commentaire">Remploi dans le livre XII (1537-1540) de l'<title>Histoire de l'estat de la religion et république</title> de Sleidan de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). La manchette indique: "Le roy baise la pantoufle du pape".</note>
                   </figure>
                 </item>
                 
@@ -376,7 +377,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Zacharie Durant], 1561 [unique exemplaire connu à Harvard, Houghton Library, *FC5 R7127 Eh561a], Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-6371], 1584 [https://doi.org/10.3931/e-rara-6515], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557). Les rééditions françaises successives - [Genève, Eustache Vignon], 1578 [https://doi.org/10.3931/e-rara-6371], [Genève, Eustache Vignon], 1584 [https://doi.org/10.3931/e-rara-6515], et «Rome» [Genève, Héritiers d’Eustache Vignon], 1600 [https://doi.org/10.3931/e-rara-6911] - réutilisent le même bois. Quant à l'édition française de 1561 [Normandie?, s.n.], conservée dans un seul exemplaire [Harvard, Houghton Library], elle présente une copie fidèle de la gravure de l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -390,11 +391,11 @@
                       <locus type="page">p. 98</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://doi.org/10.11588/diglit.26480#0001">
-                        <title type="titre_ouvrage">Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
+                        <title type="titre_ouvrage">[Simon Rosarius], Antithesis. Von des Herrn Christi herrlichen thaten, vnd des schentlichen Pabsts vnd Antichrists schedlichen schanden vnd lastern (en vers)</title>
                         <author role="artiste">[d'ap. Pierre Eskrich]</author>
                         <publisher>[Hans Kohl]</publisher>
                         <pubPlace>[Heidelberg]</pubPlace>
-                        <date>[1558 ou 1560?]</date>
+                        <date>[1560?]</date>
                         <idno type="VD16" corresp="https://gateway-bayern.de/VD16+R+3100">VD16 n° R 3100</idno>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611941">USTC n° 611941</idno>
                         <availability>
@@ -420,7 +421,7 @@
                         <author role="artiste"/>
                         <publisher>[Jean Saugrain?]</publisher>
                         <pubPlace>[Lyon]</pubPlace>
-                        <date>1562</date>
+                        <date>[1560?]</date>
                         <availability>
                           <licence>The University of Manchester, John Rylands Research Institute and Library - CC BY-NC-SA 4.0</licence>
                         </availability>
@@ -488,7 +489,7 @@
                     <figDesc>
                       <title type="titre_courant">De Paus door sijn grootsch hert' en moet / Oock sijn patoffel cussen doet.</title>
                       <title type="manchette"/>
-                      <dim unit="mm">40 x 60</dim>
+                      <dim unit="mm">46 x 60</dim>
                       <locus type="page">sign. D4</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://opac.kbr.be/LIBRARY/doc/SYRACUSE/11842130">
@@ -553,8 +554,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire"><title>De Rhoemse Kercke</title> (L’Eglise romaine) est une feuille volante satirique anti-romaine qui représente une procession bigarrée se dirigeant vers une église dans l'intéreur de laquelle toutes sortes d’activités ecclésiales sont caricaturées. La gravure était accompagnée par un poème, longtemps présumé perdu et attribué au théologien Paulus de Kempenaer (ca. 1554-1618?), qui commente les actions dévoyées des clercs, et les comportements pervertis des fidèles (exemplaire conservé au Muséum Boijmans Van Beuningen, Rotterdam). L'écho de l'antithèse 3b des <title>Faits</title> figure dans la deuxième travée de l'édifice, où la personnification de Simonie (avec ses nombreux bras) dispose devant sa table d'indulgences, mais aussi d'une pantoufle, celle du pape, représenté endormi à l'arrière de la table.</note>
-                    <note type="biblio">Bibliographie: Eva L.E. Janssens, « Oh, what sights to behold in this church turned upside down », <title>Paulus de Kempenaer’s Reckoning with the Roman Catholic Excesses</title>, RIHA Journal, 2024 [DOI: https://doi.org/10.11588/riha.2024.1.103891]</note>
+                    <note type="commentaire"><title>De Rhoemse Kercke</title> (L’Eglise romaine) est une feuille volante satirique anti-romaine qui représente une procession bigarrée se dirigeant vers une église dans l'intéreur de laquelle toutes sortes d’activités ecclésiales sont caricaturées. La gravure était accompagnée par un poème, longtemps présumé perdu et attribué au théologien Paulus de Kempenaer (ca. 1554-1618?), qui commente les actions dévoyées des clercs, et les comportements pervertis des fidèles (exemplaire conservé au Museum Boijmans Van Beuningen à Rotterdam). L'écho de l'antithèse 3b des <title>Faits</title> figure dans la deuxième travée de l'édifice, où la personnification de Simonie (avec ses nombreux bras) dispose sur sa table des indulgences, mais aussi la pantoufle du pape. Ce dernier est représenté endormi sur son trône derrière cette table.</note>
+                    <note type="biblio">Bibliographie: Eva L.E. Janssens, « Oh, what sights to behold in this church turned upside down », Paulus de Kempenaer’s Reckoning with the Roman Catholic Excesses, <title>RIHA Journal</title>, 2024 [DOI: https://doi.org/10.11588/riha.2024.1.103891]</note>
                   </figure>
                 </item>
                 
