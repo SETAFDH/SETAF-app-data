@@ -2065,7 +2065,7 @@
                         <reg type="regularisee">Christus</reg>
                         <reg type="contemporary">Christus</reg>
                      </choice>
-                     <note type="editor">Remploi de la manchette déjà présente dans le <hi rend="italic">Passional</hi><ref target="#P1521 #K1521"/>de 1521 de Strasbourg</note>
+                     <note type="editor">Remploi de la manchette déjà présente dans le <hi rend="italic">Passional</hi> <ref type="biblio" target="#P1521 #K1521"/> de 1521 de Strasbourg</note>
                   </note>
                   <figure>
                      <graphic corresp="antithese_1a" url="/4518839/420,200,1180,1420/full/0/default.jpg"/>
@@ -2088,8 +2088,7 @@
                      <lb type="DefaultLine" corresp="#f8_eSc_line_78e6c56d_ligne_5"/>
                      <choice>
                         <orig>montaigne. Iehan.6.</orig>
-                        <reg type="regularisee">montaigne.<bibl type="biblical" ana="Jn6:15">Jehan.6.
-                           <note type="editor">Remploi de la citation déjà présente dans le <hi rend="italic">Passional</hi><ref target="#W1521 #P1521 #K1521 #E1521"/> et les <hi rend="italic">Antithesis figurata</hi> <ref target="#LatW1521"/> de 1521</note></bibl></reg>
+                        <reg type="regularisee">montaigne.<bibl type="biblical" ana="Jn6:15">Jehan.6.<note type="editor">Remploi de la citation déjà présente dans le <hi rend="italic">Passional</hi> <ref type="biblio" target="#W1521 #P1521 #K1521 #E1521"/> et les <hi rend="italic">Antithesis figurata</hi> <ref target="#LatW1521"/> de 1521</note></bibl></reg>
                         <reg type="contemporary">montagne. <bibl type="biblical">Jn 6:15</bibl></reg>
                      </choice>
                      <note type="MarginTextZone" corresp="#f8_eSc_textblock_af8b44fc" place="margin">
@@ -2111,8 +2110,7 @@
                      <lb type="DefaultLine" corresp="#f8_eSc_line_38d12056_ligne_6"/>
                      <choice>
                         <orig>¶ Mon Royaume nest pas de ce monde. Iehan.18.</orig>
-                        <reg type="regularisee">¶ Mon Royaume n'est pas de ce monde. <bibl type="biblical" ana="Jn18:36">Jehan.18.
-                           <note type="editor">Remploi de la citation déjà présente dans le <hi rend="italic">Passional</hi><ref target="#W1521 #P1521 #K1521 #E1521"/> et les <hi rend="italic">Antithesis figurata</hi> <ref target="#LatW1521"/> de 1521</note></bibl></reg>
+                        <reg type="regularisee">¶ Mon Royaume n'est pas de ce monde. <bibl type="biblical" ana="Jn18:36">Jehan.18.<note type="editor">Remploi de la citation déjà présente dans le <hi rend="italic">Passional</hi> <ref type="biblio" target="#W1521 #P1521 #K1521 #E1521"/> et les <hi rend="italic">Antithesis figurata</hi> <ref target="#LatW1521"/> de 1521</note></bibl></reg>
                         <reg type="contemporary">¶ Mon royaume n'est pas de ce monde. <bibl type="biblical">Jn 18:36.</bibl></reg>
                      </choice>
                   </p>
@@ -2303,8 +2301,7 @@
                         <lb type="DefaultLine" corresp="#f9_eSc_line_aa77b7e0_ligne_3"/>
                         <choice>
                            <orig>Iehan 7.</orig>
-                           <reg type="regularisee"><bibl type="biblical" ana="Jn7">Jehan 7.</bibl>
-                           </reg>
+                           <reg type="regularisee"><bibl type="biblical" ana="Jn7">Jehan 7.</bibl></reg>
                            <reg type="contemporary"><bibl type="biblical">Jn 7</bibl></reg>
                         </choice>
                         <lb type="DefaultLine" corresp="#f9_eSc_line_8f87ba7e_ligne_4" rend="hyphen"/>
@@ -2323,8 +2320,7 @@
                      <lb type="DefaultLine" corresp="#f9_eSc_line_7670f29e_ligne_21" rend="hyphen"/>
                      <choice>
                         <orig>mande. Luc.13. Iehan.7.8.</orig>
-                        <reg type="regularisee">mandé. <bibl type="biblical" ana="Lc13:31-35">Luc.13.</bibl><bibl type="biblical">Jehan.7. et .8.</bibl>
-                           <note type="editor" place="bottom">La référence biblique au septième chapitre de l'Evangile de Jean renvoie certainement à Jn 7: 16-19, 
+                        <reg type="regularisee">mandé. <bibl type="biblical" ana="Lc13:31-35">Luc.13.</bibl> <bibl type="biblical">Jehan.7. et .8.</bibl><note type="editor" place="bottom">La référence biblique au septième chapitre de l'Evangile de Jean renvoie certainement à Jn 7: 16-19, 
                               pour souligner le respect par le Christ des commandements de son Père. À la différence du reste du texte, il n'y a pas de citation littérale à ce passage biblique</note></reg>
                         <reg type="contemporary">né. <bibl type="biblical">Lc 13:31-35.</bibl> <bibl type="biblical" ana="Jn7">Jean.7.</bibl> et <bibl type="biblical" ana="Jn8">.8.</bibl></reg>
                      </choice>
@@ -2398,7 +2394,7 @@
                         <reg type="regularisee">bes.</reg>
                         <reg type="contemporary">bes.</reg>
                      </choice>
-                     <note type="editor">Remploi de la manchette déjà présente dans le <hi rend="italic">Passional</hi><ref target="#P1521 #K1521"/>de 1521 de Strasbourg</note>
+                     <note type="editor">Remploi de la manchette déjà présente dans le <hi rend="italic">Passional</hi> <ref type="biblio" target="#P1521 #K1521"/> de 1521 de Strasbourg</note>
                   </note>
                   <figure>
                      <graphic corresp="antithese_1b" url="/4518841/510,200,1180,1420/full/0/default.jpg"/>
@@ -2769,7 +2765,7 @@
                         <reg type="regularisee">stus.</reg>
                         <reg type="contemporary">stus.</reg>
                      </choice>
-                     <note type="editor">Remploi de la manchette déjà présente dans le <hi rend="italic">Passional</hi><ref target="#P1521 #K1521"/>de 1521 de Strasbourg</note>
+                     <note type="editor">Remploi de la manchette déjà présente dans le <hi rend="italic">Passional</hi> <ref type="biblio" target="#P1521 #K1521"/> de 1521 de Strasbourg</note>
                   </note>
                   <figure>
                      <graphic corresp="antithese_2b" url="/4518843/480,225,1160,1420/full/0/default.jpg"/>
@@ -3040,7 +3036,7 @@
                         <reg type="regularisee">ronam.</reg>
                         <reg type="contemporary">ronam.</reg>
                      </choice>
-                     <note type="editor">Remploi de la manchette déjà présente dans le <hi rend="italic">Passional</hi><ref target="#P1521 #K1521"/>de 1521 de Strasbourg</note>
+                     <note type="editor">Remploi de la manchette déjà présente dans le <hi rend="italic">Passional</hi> <ref type="biblio" target="#P1521 #K1521"/> de 1521 de Strasbourg</note>
                   </note>
                   <figure>
                      <graphic corresp="antithese_2b" url="/4518845/490,225,1160,1420/full/0/default.jpg"/>
