@@ -119,6 +119,7 @@
                <additional>
                   <surrogates>
                      <bibl>
+                        <ptr target="https://iiif.hedera.unige.ch/iiif/3/setaf/imgs/S.45.4.pdf_page_3.png"/>
                         <relatedItem type="original">
                            <ref target="#S_45_4">Zentral- und Hochschulbibliothek Luzern</ref>
                         </relatedItem>

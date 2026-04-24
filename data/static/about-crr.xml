@@ -27,7 +27,7 @@
            <div>
               <head type="static_subtitle">Accéder au corpus et effectuer des recherches</head>
               
-              <p>Le CRR est accessible depuis l’onglet « <ref type="static_link" target="../index.html?collection=corpus">Accès au corpus</ref> ». Dans la colonne de gauche, des facettes permettent de restreindre l’affichage des textes selon différents critères : « Auteurs/Autrices », « Imprimeurs », « Lieux de publication », « Fausses adresses », « Dates » et « Lieux de conservation ».</p>
+              <p>Le CRR est accessible depuis l’onglet « <ref type="static_link" target="../index.html?collection=corpus">Accès au corpus</ref> ». Dans la colonne de gauche, des facettes permettent de restreindre l’affichage des textes selon différents critères : « Auteurs/Autrices », « Imprimeurs », « Lieux de publication », « Fausses adresses », « Dates », « Lieux de conservation » et « Normalisation du texte ».</p>
               <p>La page « <ref type="static_link" target="aide.xml">Aide à la recherche</ref> » fournit les informations pour effectuer des recherches en plein texte dans l’ensemble du corpus et présente les possibilités de recherche avancée.</p>
            </div>
            
