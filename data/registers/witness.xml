@@ -1,0 +1,241 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>List of witnesses</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <standOff>
+     <listWit>
+        <witness xml:id="LatW1521">
+           <msDesc>
+              <msIdentifier>
+                 <settlement>Halle</settlement>
+                 <repository>Universitäts- und Landesbibliothek Sachsen-Anhalt</repository>
+                 <idno>Ib 4187 a (30)</idno>
+              </msIdentifier>
+              <msContents>
+                 <msItem>
+                    <docAuthor>
+                       <name>Luther Martin</name>
+                       <name>Philippe Melanchthon</name>
+                    </docAuthor>
+                    <docTitle><titlePart type="main">Passional Christi und Antichristi</titlePart></docTitle>
+                    <docImprint>
+                       <pubPlace>Wittenberg</pubPlace>
+                       <publisher>Johann Rhau-Grunenberg</publisher>
+                    </docImprint>
+                    <docDate when="1521">1521</docDate>
+                    <colophon/>
+                    <imprimatur/>
+                    <textLang>Latin</textLang>
+                    <note>In-4°</note>
+                    <bibl>
+                       <ptr type="facsimile" target="https://opendata2.uni-halle.de/handle/1516514412012/3880"/>
+                       <ptr type="EditionNumerique_formatXML-TEI" source="BodleianLibrary_Douce C 313" target="https://editions.mml.ox.ac.uk/editions/passional-douce-c-313/"/>
+                    </bibl>
+                 </msItem>
+              </msContents>
+           </msDesc>
+        </witness>
+        <witness xml:id="W1521">
+           <msDesc>
+              <msIdentifier>
+                 <settlement>Dresden</settlement>
+                 <repository>Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden (SLUB)</repository>
+                 <idno>Hist.eccl.E.319,2</idno>
+              </msIdentifier>
+              <msContents>
+                 <msItem>
+                    <docAuthor>
+                       <name>Luther Martin</name>
+                       <name>Philippe Melanchthon</name>
+                    </docAuthor>
+                    <docTitle><titlePart type="main">Passional Christi und Antichristi</titlePart></docTitle>
+                    <docImprint>
+                       <pubPlace>Wittenberg</pubPlace>
+                       <publisher>Johann Rhau-Grunenberg</publisher>
+                    </docImprint>
+                    <docDate when="1521">1521</docDate>
+                    <colophon/>
+                    <imprimatur/>
+                    <textLang>Allemand</textLang>
+                    <note>In-4°</note>
+                    <bibl>
+                       <ptr type="facsimile" target="https://digital.slub-dresden.de/werkansicht/dlf/174230/1"/>
+                       <ptr type="facsimile" target="https://www.digitale-sammlungen.de/en/details/bsb00086460"/><!-- Exemplaire employé dans le catalogue des images par BR -->
+                       <ptr type="EditionNumerique_formatXML-TEI" target="https://www.deutschestextarchiv.de/book/show/luther_passional_1521"/>
+                    </bibl>  
+                 </msItem>
+              </msContents>
+           </msDesc>
+        </witness>
+        <witness xml:id="P1521">
+           <msDesc>
+              <msIdentifier>
+                 <settlement>Zürich</settlement>
+                 <repository>Zentralbibliothek</repository>
+                 <idno>18.84: c,3</idno>
+              </msIdentifier>
+              <msContents>
+                 <msItem>
+                    <docAuthor>
+                       <name>Luther Martin</name>
+                       <name>Philippe Melanchthon</name>
+                    </docAuthor>
+                    <docTitle><titlePart type="main">Passional Christi und Antichristi</titlePart></docTitle>
+                    <docImprint>
+                       <pubPlace>Strassburg</pubPlace>
+                       <publisher>Johann Prüss</publisher>
+                    </docImprint>
+                    <docDate when="1521">1521</docDate>
+                    <colophon/>
+                    <imprimatur xml:lang="lat">Ex archa Noe</imprimatur>
+                    <textLang>Allemand</textLang>
+                    <note>In-4°</note>
+                    <bibl>
+                       <ptr type="facsimile" target="https://www.e-rara.ch/zuz/content/zoom/5897367"/>
+                    </bibl>
+                 </msItem>
+              </msContents>
+           </msDesc>
+        </witness>
+        <witness xml:id="K1521">
+           <msDesc>
+              <msIdentifier>
+                 <settlement>Munich</settlement>
+                 <repository>Bayerische Staatsbibliothek</repository>
+                 <idno>Res/4 H.eccl. 870,9</idno>
+              </msIdentifier>
+              <msContents>
+                 <msItem>
+                    <docAuthor>
+                       <name>Luther Martin</name>
+                       <name>Philippe Melanchthon</name>
+                    </docAuthor>
+                    <docTitle>
+                       <titlePart type="main">Passional Christi vnd Antichristi</titlePart>
+                    </docTitle>
+                    <docImprint>
+                       <pubPlace>Strassburg</pubPlace>
+                       <publisher>Johann Knobloch</publisher>
+                    </docImprint>
+                    <docDate when="1521">1521</docDate>
+                    <imprimatur/>
+                    <textLang>Allemand</textLang>
+                    <note>In-4°</note>
+                    <bibl>
+                       <ptr type="facsimile" target="https://www.digitale-sammlungen.de/en/view/bsb00088259?page=,1"/>
+                       <ptr type="EditionNumerique_formatXML-TEI" source="BodleianLibraryOxford_Tr.Luth.250a" target="https://editions.mml.ox.ac.uk/editions/passional/"/>
+                       <ptr type="biblio" target="#Wareham2021"/>
+                    </bibl>
+                 </msItem>
+              </msContents>
+           </msDesc>
+        </witness>
+        <witness xml:id="E1521">
+           <msDesc>
+              <msIdentifier>
+                 <settlement>Zürich</settlement>
+                 <repository>Zentralbibliothek</repository>
+                 <idno>18.516,11</idno>
+              </msIdentifier>
+              <msContents>
+                 <msItem>
+                    <docAuthor>
+                       <name>Luther Martin</name>
+                       <name>Philippe Melanchthon</name>
+                    </docAuthor>
+                    <docTitle><titlePart type="main">Passional Christi und Antichristi</titlePart></docTitle>
+                    <docImprint>
+                       <pubPlace>Erfurt</pubPlace>
+                       <publisher>Matthes Maler</publisher>
+                    </docImprint>
+                    <docDate when="1521">1521</docDate>
+                    <colophon/>
+                    <imprimatur/>
+                    <textLang>Allemand</textLang>
+                    <note>In-4°</note>
+                    <bibl>
+                       <ptr type="facsimile" target="https://www.e-rara.ch/zuz/doi/10.3931/e-rara-23547"/>
+                       <ptr type="EditionNumerique_formatXML-TEI" source="TaylorInstitutionLibrary_ARCH.8o.G.1521(19)" target="https://editions.mml.ox.ac.uk/editions/passional/"/>
+                       <ptr type="biblio" target="#Wareham2021"/>
+                    </bibl>
+                 </msItem>
+              </msContents>
+           </msDesc>
+        </witness>
+        <witness xml:id="CRRPV19">
+           <msDesc>
+              <msIdentifier>
+                 <settlement>Paris</settlement>
+                 <repository>Bibliothèque d'histoire du protestantisme français</repository>
+                 <idno>A 1001</idno>
+              </msIdentifier>
+              <msContents>
+                 <msItem>
+                    <docAuthor>
+                       <name>Luther Martin</name>
+                       <name>Philippe Melanchthon</name>
+                    </docAuthor>
+                    <docTitle>
+                       <titlePart type="main">Faictz de Jesus Christ et du Pape</titlePart>
+                    </docTitle>
+                    <docImprint>
+                       <pubPlace>Neuchâtel</pubPlace>
+                       <publisher>Pierre de Vingle</publisher>
+                    </docImprint>
+                    <docDate when="1534">1534</docDate>
+                    <imprimatur>Imprimé à Rome au chasteau de sainct Ange</imprimatur>
+                    <imprimatur xml:lang="lat">Cum privilegio apostolico</imprimatur>
+                    <note>In-2°</note>
+                    <bibl>
+                       <ptr type="facsimile" target="https://setaf.unige.ch/corpus/CRRPV19_Faictz.xml"/>
+                    </bibl>
+                 </msItem>
+              </msContents>
+           </msDesc>
+        </witness>
+        <witness xml:id="FranceCa1560">
+           <msDesc>
+              <msIdentifier>
+                 <settlement>Manchester</settlement>
+                 <repository>John Rylands Library</repository>
+                 <idno>R166109</idno>
+              </msIdentifier>
+              <msContents>
+                 <msItem>
+                    <docAuthor>
+                       <name>Luther Martin</name>
+                       <name>Philippe Melanchthon</name>
+                    </docAuthor>
+                    <docTitle>
+                       <titlePart type="main">Les faitz de Iesus Christ et du Pape</titlePart>
+                    </docTitle>
+                    <docImprint>
+                       <pubPlace>France</pubPlace>
+                       <publisher>Pierre de Vingle</publisher>
+                    </docImprint>
+                    <docDate notBefore="1550" notAfter="1560">s.d.</docDate>
+                    <imprimatur>Imprimé à Rome au chasteau de sainct Ange</imprimatur>
+                    <imprimatur xml:lang="lat">Cum privilegio apostolico</imprimatur>
+                    <note>Probably printed at Lyon</note>
+                    <note>Armorial bookplate of James Whatman on front paste-down</note>
+                    <bibl>
+                       <ptr type="facsimile" target="https://setaf.unige.ch/corpus/CRRL01_FaictzJCH_Lyon_1560.xml"/>
+                    </bibl>
+                 </msItem>
+              </msContents>
+           </msDesc>
+        </witness>
+     </listWit>
+  </standOff>
+</TEI>

@@ -15,6 +15,13 @@
    </teiHeader>
    <standOff>
       <listPerson>
+         <person xml:id="Alexandre"><!-- A COMPLETER -->
+            <name/>
+            <persName/>
+            <birth/>
+            <death/>
+            <note/>
+         </person>
          <person xml:id="Barnabas"> <!-- A COMPLETER -->
             <name>Barnabas, Barnabé</name>
             <persName/>
@@ -214,6 +221,13 @@
             <note>fils de Laurent de Médicis</note>
             <ptr target="https://www.idref.fr/070725721"/>
             <ptr target="https://isni.org/isni/000000012096688X"/>
+         </person>
+         <person xml:id="Lucrece"><!-- A COMPLETER -->
+            <name/>
+            <persName/>
+            <birth/>
+            <death/>
+            <note/>
          </person>
          <person xml:id="Clement">
             <name>Jules de Médicis</name>
