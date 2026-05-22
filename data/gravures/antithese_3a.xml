@@ -28,7 +28,7 @@
             <graphic url="https://www.e-rara.ch/i3f/v20/4518847/full/full/0/default.jpg"/>
             <figDesc>
               <title type="titre_gravure">Le lavement des pieds</title>
-              <title type="titre_courant">Jesus a ses disciples / laue les piedz.</title>
+              <title type="titre_courant">Jesus à ses disciples / lave les piedz.</title>
               <title type="manchette">Abluit ille pedes. </title>
               <dim unit="mm">116 x 96</dim>
               <locus type="page">sign. B4v</locus>
@@ -56,7 +56,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 39v</locus>
                       <objectType>Enluminure (abîmée)</objectType>
-                      <bibl source="http://id.bildindex.de/thing/0001335580">
+                      <bibl source="https://resolver.staatsbibliothek-berlin.de/HSP00068FA600000000">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -67,8 +67,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Feuillet déchiré. Ce sont les inscriptions qui renseignent sur la scène qui était représentée (en particulier Jn 13 - également citée dans les <title>Faits</title>): le lavement des pieds des apôtres par le Christ. De plus, son association au baiser de la pantoufle du pape sur le folio adjacent (f. 40) constitue la même antithèse que celle des <title>Faits</title>.</note>
-                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
+                    <note type="commentaire">Feuillet déchiré. Ce sont les inscriptions qui renseignent sur la scène qui était représentée (en particulier Jn 13 - également cité dans les <title>Faits</title>): le lavement des pieds des apôtres par le Christ. De plus, son association au baiser de la pantoufle du pape sur le folio adjacent (f. 40 - antithèse 3b) constitue la même paire antithétique que celle des <title>Faits</title>.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, Alfter, VDG Verlag, 1994.</note>
                   </figure>
                 </item>
                 
@@ -92,8 +92,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Christ agenouillé sur le sol lave les pieds de Pierre, derrière lequel se tiennent les autres disciples. Dans le texte qui surmonte l'enluminure se trouvent deux citations des Évangiles (Jn 13 et Mt 23). Celle de Jean est reprise dans les <title>Faits</title>. Comme dans le manuscrit hussite, cette enluminure fait face à la représentation du baiser de la pantoufle du pape (f. 35).</note>
-                    <note type="biblio">Bibliographie: Kamil Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 133. </note>
+                    <note type="commentaire">Le Christ agenouillé par terre lave les pieds de Pierre, derrière lequel se tiennent les autres disciples. Dans le texte qui surmonte l'enluminure se trouvent deux citations des Évangiles (Jn 13 et Mt 23). Celle de Jean est reprise dans les <title>Faits</title>. Comme dans le manuscrit hussite, cette enluminure fait face à la représentation du baiser de la pantoufle du pape (f. 35 - antithèse 3b), créant ainsi la même paire antithétique que celle des <title>Faits</title>.</note>
+                    <note type="biblio">Bibliographie: K. Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 133. </note>
                   </figure>
                 </item>
                 
@@ -145,7 +145,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dans un encadrement imitant les cadres enluminés flamands de la fin du XVe siècle, on voit la scène du lavement des pieds des apôtres. Le Christ agenouillé tient et lave la jambe de Pierre, tandis que les autres disciples s'occupent diversement en  attendant leur tour.</note>
+                    <note type="commentaire">Dans un encadrement imitant les cadres enluminés flamands de la fin du XVe siècle, est représentée la scène du lavement des pieds des apôtres. Le Christ agenouillé lave les pieds de Pierre, tandis que les autres disciples s'occupent diversement en attendant leur tour.</note>
                   </figure>
                 </item>
                 
@@ -171,7 +171,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Christ lave et baise le pied de l'un de ses disciples, probablement Pierre, tandis que les autres observent la scène. Le baiser du pied par le Christ constitue une nouveauté iconographique, certainement encouragée par l'écho direct et antithétique qu'il forme  avec le baiser de la pantoufle du pape. </note>
+                    <note type="commentaire">Le Christ lave et baise le pied de l'un de ses disciples, probablement Pierre, tandis que les autres observent la scène. Le baiser du pied par le Christ constitue une nouveauté iconographique, certainement encouragée par l'écho direct et antithétique qu'il forme  avec le baiser de la pantoufle du pape (A4 - antithèse 3b). </note>
                     <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 164-168; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 18-19.</note>
                   </figure>
                 </item>
@@ -198,7 +198,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Christ lave et embrasse le pied de l'un de ses disciples, probablement Pierre, tandis que les autres observent la scène. Cette gravure cite le <title>Passional</title> de Wittenberg, mais l'inverse. De même, elle en modifie le décor architectural. Elle sert de modèle direct à la gravure des <title>Faits</title> qui discipline les hachures vigoureuses de son modèle, en particulier sur le mur du fond.</note>
+                    <note type="commentaire">Le Christ lave et baise le pied de l'un de ses disciples, probablement Pierre, tandis que les autres observent la scène. Cette gravure cite le <title>Passional</title> de Wittenberg, mais l'inverse. De même, elle en modifie le décor architectural. Elle sert de modèle direct à la gravure des <title>Faits</title> qui discipline les hachures vigoureuses de son modèle, en particulier sur le mur du fond.</note>
                   </figure>
                 </item>
                 
@@ -458,7 +458,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure ne suit pas le modèle de l'<title>Antithesis</title> (1557), mais il s'agit d'une copie fidèle d'une gravure de Bernard Salomon pour les <title>Figures du Nouveau Testament</title> de Charles Fontaine (Lyon, Jean de Tournes, 1554), pour illustrer Jn 13. La gravure, comme les vers de Charles Fontaine, ignorent le motif du baiser des pieds des apôtres ("Iesus second en Trinité/ Laua aux Apotres les piez,/ Montrant à toute autorité/ Le droit chemin d'humilité:/ Et apres qu'il les eut lauez/ Encor les a il essuyez"). Elle est remployée dans la <title>Biblia sacra dat is de geheele heylighe schrifture bedeylt</title>, Antwerpen, Jan I Moretus et Jan van Keerberghen, 1599.</note>
+                    <note type="commentaire">La gravure ne suit pas le modèle de l'<title>Antithesis</title> (1557), mais il s'agit d'une copie fidèle d'une gravure de Bernard Salomon pour les <title>Figures du Nouveau Testament</title> de Charles Fontaine (Lyon, Jean de Tournes, 1554), pour illustrer Jn 13. La gravure, comme les vers de Charles Fontaine, ignorent le motif du baiser des pieds des apôtres ("Iesus second en Trinité/ Lava aux Apotres les piez,/ Montrant à toute autorité/ Le droit chemin d'humilité:/ Et apres qu'il les eut lavez/ Encor les a il essuyez"). Elle est remployée dans la <title>Biblia sacra dat is de geheele heylighe schrifture bedeylt</title>, Antwerpen, Jan I Moretus et Jan van Keerberghen, 1599.</note>
                   </figure>
                 </item>
                 
@@ -484,7 +484,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Intitulé <title>Passional</title>, l'ouvrage ne se bâtit pas sur des couples d'antithèses comme l'ouvrage éponyme de 1521. Il relate la passion du Christ illustrée de bois gravés, et contient aussi des prières. L'iconographie est semblable à celle du <title>Passional</title> et des <title>Faits</title>, mais la composition diffère, notamment en articulant la scène autour d'une colonne.</note>
+                    <note type="commentaire">Intitulé <title>Passional</title>, l'ouvrage ne se bâtit pas sur des couples d'antithèses comme l'ouvrage éponyme de 1521. Il relate la passion du Christ avec des bois gravés et des prières. L'iconographie est semblable à celle du <title>Passional</title> et des <title>Faits</title>, mais la composition diffère, notamment en articulant la scène autour d'une colonne.</note>
                   </figure>
                 </item>
                 

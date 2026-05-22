@@ -57,7 +57,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 19</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="http://id.bildindex.de/thing/0001335580">
+                      <bibl source="https://resolver.staatsbibliothek-berlin.de/HSP00068FA600000000">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -68,8 +68,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">L'empereur Constantin occupe la pleine page. Il tient une large et longue banderole où il est question de la "donation de Constantin", comme l'indique également la rubrique placée au haut de la page. L'association de cette enluminure avec celle qui lui fait face réitère la thématique du <title>Passional</title>, et après lui des <title>Faits</title> : refus du royaume terrestre par le Christ d'un côté vs. donation des insignes du pouvoir temporel au pape de l'autre.</note>
-                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
+                    <note type="commentaire">L'empereur Constantin occupe la pleine page. Il tient une longue et large banderole où il est question de la "donation de Constantin", comme l'indique également la rubrique placée au haut de la page. L'association de cette enluminure avec celle qui lui fait face (f. 18v - antithèse 1a) compose la même paire antithétique que celles du <title>Passional</title> et des <title>Faits</title> : refus du royaume terrestre par le Christ d'un côté vs. donation des insignes du pouvoir temporel au pape de l'autre.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, Alfter, VDG Verlag, 1994.</note>
                   </figure>
                 </item>
                 
@@ -93,7 +93,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure illustrant la vie du pape Léon montre celui-ci à cheval soumettant le souverain (Attila) couronné comme un empereur et en armure, qui s'agenouille devant lui comme ses soldats.</note>
+                    <note type="commentaire">La gravure illustrant la vie du pape Léon le montre à cheval et soumettant le souverain Attila, couronné comme un empereur et en armure, qui s'agenouille devant lui avec ses soldats. La gravure des <title>Faits</title> reproduit une composition identique, mais inverse les pouvoirs de force, avec le pape à terre dominant l'empereur à cheval.</note>
                   </figure>
                 </item>
                 
@@ -117,8 +117,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Sur la pleine page, l'empereur Constantin se tient debout de face déployant une large et longue banderole où il fait donation du palais du Latran, de la ville de Rome et des insignes impériaux au pape. L'association de cette enluminure avec celle qui lui fait face réitère la thématique du <title>Passional</title>, et après lui des <title>Faits</title> : refus du royaume terrestre par le Christ d'un côté vs. donation des insignes du pouvoir temporel au pape de l'autre.</note>
-                    <note type="biblio">Bibliographie: Kamil Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 109-110.</note>
+                    <note type="commentaire">Sur la pleine page, l'empereur Constantin se tient debout de face déployant une large et longue banderole où il fait donation du palais du Latran, de la ville de Rome et des insignes impériaux au pape. L'association de cette enluminure avec celle qui lui fait face (f. 13v - antithèse 1a) compose la même paire antithétique que celles du <title>Passional</title> et des <title>Faits</title> : refus du royaume terrestre par le Christ d'un côté vs. donation des insignes du pouvoir temporel au pape de l'autre.</note>
+                    <note type="biblio">Bibliographie: K. Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 109-110.</note>
                   </figure>
                 </item>
                 
@@ -142,7 +142,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">L'iconographie des trois vifs et des trois morts présente une variation intéressante en opposant un roi au pape accompagné de sa cour.</note>
+                    <note type="commentaire">L'iconographie des trois vifs et des trois morts oppose un roi au pape accompagné de sa cour.</note>
                   </figure>
                 </item>
                 
@@ -169,7 +169,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">La page de titre de l'ouvrage d'Ulrich von Hutten se compose de quatre bois réalisés par Hans Baldung. Dieu (avec une flèche en main, dirigée vers la marge inférieure) et le roi David occupent l'en-tête de la page. Au-dessous sont représentés Luther à gauche, et Hutten à droite. Dans le bandeau inférieur, des chevaliers et des lansquenets expulsent du Saint-Empire les représentants de l'Eglise romaine, menés par le pape. L'inscription placée juste au-dessus de cette scène, "Odivi Ecclesiam malignatium" (Je hais l'église des méchants) la commente. Il s'agit du thème inverse figuré dans les <title>Faits</title>, où le pape interdit l'entrée à l'armée impériale.</note>
-                    <note type="biblio">Bibliographie: Frank Muller, <title>Images polémiques, images dissidentes. Art et Réforme à Strasbourg (1520-vers 1550)</title>, Baden-Baden, 2017, p. 34-40.</note>
+                    <note type="biblio">Bibliographie: F. Muller, <title>Images polémiques, images dissidentes. Art et Réforme à Strasbourg (1520-vers 1550)</title>, Baden-Baden, Verlag Valentin Koerner, 2017, pp. 34-40.</note>
                   </figure>
                 </item>
                 
@@ -299,11 +299,11 @@
                         <date>1543-1546</date>
                         <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/752543">USTC n° 752543</idno>
                         <availability>
-                          <licence>?</licence>
+                          <licence>Public Domain</licence>
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure intitulée "der warnet Narr" (le bouffon, le lanceur d'alerte) représente un face à face entre les représentants de l'état ecclésiastique emmenés par le pape, et ceux du pouvoir temporel emmenés par l'empereur. Entre les deux se tient un bouffon qui, tourné vers l'empereur, discourt sur les religieux qu'il désigne de sa main. Le contenu de son discours est livré par le texte de Hans Sachs imprimé au-dessous. Par leur apparence sacrée, les premiers auraient en quelque sorte le pouvoir sur le peuple, mais ils ne s'intéressent qu'à accroître les trésors que les autorités temporelles leur accordent. Le fou exhorte donc les princes à se tourner vers la doctrine pure, les Saintes Écritures.</note>
+                    <note type="commentaire">La gravure intitulée "der warnet Narr" (le bouffon, le lanceur d'alerte) représente un face à face entre les représentants de l'état ecclésiastique emmenés par le pape, et ceux du pouvoir temporel emmenés par l'empereur. Entre les deux se tient un bouffon qui, tourné vers l'empereur, discourt sur les religieux qu'il désigne de sa main. Le contenu de son discours est livré par le texte de Hans Sachs imprimé au-dessous: par leur apparence sacrée, les premiers auraient en quelque sorte le pouvoir sur le peuple, mais ils ne s'intéressent qu'à accroître les trésors que les autorités temporelles leur accordent. Le fou exhorte donc les princes à se tourner vers la doctrine pure, les Saintes Écritures.</note>
                     <note type="biblio">Bibliographie: B. Schäfer, U. Eydinger, M. Rekow, <title>Fliegende Blätter. Die Sammlung der Einblattholzschnitte des 15. und 16. Jahrhunderts der Stiftung Schloss Friedenstein Gotha</title>, Gotha, arnoldsche Art Publishers, 2016, Bd. I, n° 417.</note>
                   </figure>
                 </item>
@@ -406,7 +406,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), dans l' <title>Histoire de l'église</title> de Jean de Hainaut. Elle sert à illustrer un événement ayant eu lieu sous le pape Grégoire III, en 735. Elle est utilisée seule, sans vis-à-vis antithétique comme le font les <title>Faits</title>.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), dans l' <title>Histoire de l'église</title> de Jean de Hainaut. Elle sert à illustrer un événement ayant eu lieu sous le pape Grégoire III, en 735. Elle est utilisée seule, sans vis-à-vis antithétique contrairement aux <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
@@ -483,7 +483,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Reprise de l'iconographie de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), mais la composition est inversée et le format modifié.</note>
+                    <note type="commentaire">Reprise de l'iconographie de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), dont la composition est inversée et le format modifié.</note>
                   </figure>
                 </item>
                 

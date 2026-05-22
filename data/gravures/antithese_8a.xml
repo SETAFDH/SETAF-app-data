@@ -28,7 +28,7 @@
             <graphic url="https://www.e-rara.ch/i3f/v20/4518867/full/full/0/default.jpg"/>
             <figDesc>
               <title type="titre_gravure">L'adoration de l'Enfant</title>
-              <title type="titre_courant">En paourete, et paix / Jesus est ne.</title>
+              <title type="titre_courant">En paovreté, et paix / Jesus est né.</title>
               <title type="manchette">Pace et inops Christus.</title>
               <dim unit="mm">96 x 73</dim>
               <locus type="page">sign. E2v</locus>
@@ -56,7 +56,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 11v</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="http://id.bildindex.de/thing/0001335580">
+                      <bibl source="https://resolver.staatsbibliothek-berlin.de/HSP00068FA600000000">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -68,7 +68,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Deux scènes indépendantes sont représentées sur ce folio pour illustrer le thème de la pauvreté: le martyre de saint Martin d'une part, et la Nativité de l'autre. Le texte surmontant la Vierge en adoration devant l'Enfant gisant dans une crèche souligne l'indigence de cette naissance en citant Lc 2,7 - comme dans les <title>Faits</title> - ainisi qu'un passage d'un texte de Bernard de Clairvaux.</note>
-                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, Alfter, VDG Verlag, 1994.</note>
                   </figure>
                 </item>
                 
@@ -93,7 +93,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">La Vierge à genoux adore l'Enfant gisant sur le sol, gardé par l'âne et le boeuf. Au premier plan, saint Martin, lui aussi agenouillé, se tient devant l'autel où est déposé un calice (illustrant un épisode miraculeux relaté dans la <title>Légende Dorée</title>). Les <title>Faits</title> renoncent à la figure de saint Martin pour illustrer le thème de la pauvreté du Christ, en représentant exclusivement l'adoration du nouveau-né.</note>
-                    <note type="biblio">Bibliographie: Kamil Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 125-126.</note>
+                    <note type="biblio">Bibliographie: K. Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, pp. 125-126.</note>
                   </figure>
                 </item>
                 
@@ -118,7 +118,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La <title>Vita Christi</title> présente sur sa page de titre la gravure de l'adoration de l'Enfant qui sera imitée dans les <title>Faits</title>. Six petites vignettes avec des représentations d'anges musiciens et de sybilles flanquent cette gravure. Une deuxième édition de ce texte, à Lyon, chez Etienne Gueynard, en 1516 remploie la même gravure [https://mdz-nbn-resolving.de/details:bsb10165486].</note>
+                    <note type="commentaire">Sur la page de titre de la <title>Vita Christi</title> est figurée l'adoration de l'Enfant qui sera imitée dans les <title>Faits</title>. Six petites vignettes avec des représentations d'anges musiciens et de sybilles flanquent cette gravure. Une deuxième édition de ce texte, à Lyon, chez Etienne Gueynard, en 1516 remploie la même gravure [https://mdz-nbn-resolving.de/details:bsb10165486].</note>
                   </figure>
                 </item>
                 
@@ -143,7 +143,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de la <title>Vita Christi</title>, pour illuster un missel. Dans les marges latérale et inférieure, les vignettes représentent l'Annonciation, des saintes (Catherine, Barbe, et Marguerite), et des martyres de saintes.</note>
+                    <note type="commentaire">Même gravure avec l'adoration de l'Enfant que dans la <title>Vita Christi</title>. Dans les marges latérale et inférieure, les vignettes représentent l'Annonciation, des saintes femmes (Catherine, Barbe et Marguerite), et des scènes de martyres.</note>
                   </figure>
                 </item>
                 
@@ -217,7 +217,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Adaptation de la gravure représentant l'adoration de l'Enfant utilisée dans la <title>Vita Christi</title> et le missel de 1510.</note>
+                    <note type="commentaire">Adaptation et simplification de la gravure représentant l'adoration de l'Enfant utilisée dans la <title>Vita Christi</title> et le missel de 1510.</note>
                   </figure>
                 </item>
                 
@@ -295,7 +295,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La Vierge prie agenouillée devant son fils placé à terre sur sa robe. Derrière elle, Joseph tient un cierge allumé, et dans le ciel des anges chantent la naissance du Christ qu'observent les bergers, situés derrière un mur. C'est ici que la deuxième édition strasbourgeoise du Passional, toujours en 1521, chez Johann Prüss (?), présente la seule différence de toute la série de gravures, avec des bordures ornementales différentes (https://doi.org/10.3931/e-rara-18720).</note>
+                    <note type="commentaire">Agenouillée, la Vierge prie son fils reposant à terre sur sa robe. Derrière elle, Joseph tient un cierge allumé, et dans le ciel des anges chantent la naissance du Christ qu'observent les bergers, situés derrière un mur. C'est ici que la deuxième édition strasbourgeoise du Passional, toujours en 1521, chez Johann Prüss, présente la seule différence de toute la série de gravures, en utilisant des bordures ornementales différentes (https://doi.org/10.3931/e-rara-18720).</note>
                   </figure>
                 </item>
                 
@@ -403,7 +403,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Copie très fidèle de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557) ne montrant que de légères différences dans le cadrage, notamment à gauche, ou dans la réalisation des visages.</note>
+                    <note type="commentaire">Copie très fidèle de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557) ne montrant que de très légères différences dans le cadrage, ou dans la réalisation des visages.</note>
                   </figure>
                 </item>
                 
@@ -504,7 +504,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Au lieu d'adapter la gravure de l'<title>Antithesis</title> (1557) comme dans la plupart des cas, remploi d'une gravure publiée dans le <title>Nouveau Testament</title>, Anvers, Guillaume du Mont, 1540, et dans Guillelmus van Branteghem, <title>Vie de nostre Seigneur Jesus Christ par figures</title>, Anvers, Jean Richard, 1544. Plusieurs scènes sont représentées dans la gravure: la Vierge et Joseph adorent l'Enfant posé par terre, tandis qu'à l'arrière-plan, se déroulent l'annonce aux bergers et l'adoration de l'Enfant par ceux-ci.</note>
+                    <note type="commentaire">Au lieu d'adapter la gravure de l'<title>Antithesis</title> (1557), remploi d'une gravure publiée dans le <title>Nouveau Testament</title>, Anvers, Guillaume du Mont, 1540, et dans Guillelmus van Branteghem, <title>Vie de nostre Seigneur Jesus Christ par figures</title>, Anvers, Jean Richard, 1544. Plusieurs scènes sont représentées simultanément: la Vierge et Joseph adorent l'Enfant posé par terre, tandis qu'à l'arrière-plan, se déroulent l'annonce aux bergers et l'adoration de l'Enfant par ceux-ci.</note>
                   </figure>
                 </item>
                 
@@ -530,7 +530,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Adaptation de l'iconographie de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), avec une inversion du sens de l'image et une modification du format. On note quelques éléments nouveaux: apparition au premier plan d'un berger, vu de dos, en adoration devant l'Enfant (sur le lointain modèle de Dürer), Joseph porte une lanterne plutôt qu'un cierge. Le point de vue est plus rapproché sur la scène que dans l'<title>Antithesis</title>.</note>
+                    <note type="commentaire">Adaptation de l'iconographie de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), avec une inversion du sens de l'image et une modification du format. On note quelques éléments nouveaux: apparition au premier plan d'un berger vu de dos et en adoration devant l'Enfant (d'après le lointain modèle de Dürer), ou Joseph porte une lanterne plutôt qu'un cierge. Le point de vue est plus rapproché sur la scène que dans l'<title>Antithesis</title>.</note>
                   </figure>
                 </item>
                 
@@ -586,7 +586,7 @@
               </list>
             </figDesc>
             
-            <note>La Vierge agenouillée prie l’Enfant Jésus couché par terre sur un pan de sa robe. Les anges placés tout autour d'eux prient pour les uns, et portent pour les autres les instruments de la Passion (couronne d’épines, croix, lance, colonne et clous). La scène est dotée d’un cadre architectural constitué de deux colonnes, reliées entre elles par une chaîne où se croisent un sabre et une flèche, surmontée de grotesques. Cette gravure dérive directement et étroitement de celle qui apparaît pour la première fois dans une <title>Vita Christi</title> et un missel, parus tous deux à Lyon en 1510. </note>
+            <note>La Vierge agenouillée prie l’Enfant Jésus couché par terre sur un pan de sa robe. Autour d'eux, des anges prient, d'autres portent les instruments de la Passion (couronne d’épines, croix, lance, colonne et clous). La scène est dotée d’un cadre architectural constitué de deux colonnes, reliées entre elles par une chaîne où se croisent un sabre et une flèche. Cette gravure dérive directement et étroitement de celle qui apparaît pour la première fois dans une <title>Vita Christi</title> et un missel, parus tous deux chez Claude Davost à Lyon en 1510. </note>
           </figure>
         </p>
       </sourceDesc>

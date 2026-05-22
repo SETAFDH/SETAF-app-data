@@ -28,7 +28,7 @@
             <graphic url="https://www.e-rara.ch/i3f/v20/4518883/full/full/0/default.jpg"/>
             <figDesc>
               <title type="titre_gravure">Le Christ chasse les marchands du temple</title>
-              <title type="titre_courant">Du temple / Jesus chasse tous vsuriers.</title>
+              <title type="titre_courant">Du temple / Jesus chasse tous usuriers.</title>
               <title type="manchette">Vendentes pepulit templo.</title>
               <dim unit="mm">116 x 96</dim>
               <locus type="page">sign. G2v</locus>
@@ -67,7 +67,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La pleine page enluminée représente les noces de Cana, dans la partie supérieure, et Jésus chassant les marchands du temple, dans la partie inférieure. Pour illustrer cette scène, le Christ menace violemment de son fouet les marchands, qui fuient avec toutes leurs marchandises.</note>
+                    <note type="commentaire">La pleine page enluminée représente les noces de Cana dans la partie supérieure, et Jésus chassant les marchands du temple dans la partie inférieure. Pour illustrer cette scène, le Christ menace violemment de son fouet les marchands qui fuient en emportant toutes leurs marchandises.</note>
                   </figure>
                 </item>
                 
@@ -80,7 +80,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 30v</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="http://id.bildindex.de/thing/0001335580">
+                      <bibl source="https://resolver.staatsbibliothek-berlin.de/HSP00068FA600000000">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -91,8 +91,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Christ se tient sur le seuil d'une église d'où il expulse les marchands qui perdent dans leur précipation leurs bourses. Les deux bras levés au ciel, il tient un fouet dans une main, et une banderole dans l'autre. Le texte y figurant cite l'évangile de Jean (2,14-15), ainsi que les Actes des apôtres (8,20). Ces citations se retrouvent, avec d'autres encore, dans les <title>Faits</title>.</note>
-                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
+                    <note type="commentaire">Le Christ se tient sur le seuil d'une église d'où il expulse les marchands qui perdent dans leur précipation leurs bourses. Les bras levés au ciel, il tient un fouet dans une main, et une banderole dans l'autre. Le texte y figurant cite l'évangile de Jean (2,14-15), ainsi que les Actes des apôtres (8,20). Ces citations se retrouvent, avec d'autres encore, dans les <title>Faits</title>.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, Alfter, VDG Verlag, 1994.</note>
                   </figure>
                 </item>
                 
@@ -117,7 +117,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Le Christ chasse les simoniaques hors du temple : un évêque, un docteur en droit canon et un prêtre avaricieux. L'enlumineur actualise ici la scène traditionnelle des marchands chassés du temple, en leur substituant des représentants de l'église contemporaine. Les inscriptions placées dans l'angle supérieur droit sont les mêmes citations que dans le Hussitencodex (Jn 2,14-15 et Ac, 8,20), reprises aussi dans les <title>Faits</title>. Cette enluminure n'est pas articulée avec une image antithétique répartie sur la double page.</note>
-                    <note type="biblio">Bibliographie: Kamil Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 123.</note>
+                    <note type="biblio">Bibliographie: K. Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 123.</note>
                   </figure>
                 </item>
                 
@@ -167,7 +167,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Issue de la <title>Petite Passion</title> gravée de Dürer, la gravure représente le Christ, au premier plan, qui menace d'un grand geste un marchand tombé à terre à côté de son étal. La cohue est grande, et les autres marchands s'enfuient.</note>
+                    <note type="commentaire">Issue de la <title>Petite Passion</title> de Dürer, la gravure représente le Christ, au premier plan, qui menace d'un grand geste un marchand tombé à terre à côté de son étal. La cohue est grande et les autres marchands s'enfuient.</note>
                   </figure>
                 </item>
                 
@@ -180,7 +180,7 @@
                       <dim unit="mm">146 x 100</dim>
                       <locus type="page">Dresden, Gemäldegalerie, inv. 3861</locus>
                       <objectType>Peinture sur bois</objectType>
-                      <bibl source="https://skd-online-collection.skd.museum/Details/Index/247011">
+                      <bibl source=" https://lucascranach.org/en/DE_SKD_GG3861/">
                         <title type="titre_ouvrage">Marchands chassés du temple</title>
                         <author role="artiste">Lucas Cranach</author>
                         <publisher/>
@@ -217,8 +217,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure représente deux scènes qui contrastent: à gauche, le Christ chasse les marchands du temple, en renversant leur table et les menaçant de son fouet; à droite, le Christ prêche du haut d'une chaire aux fidèles présents dans le temple.</note>
-                    <note type="biblio">Bibliographie: Petra Roettig, <title>Reformation als Apokalypse. Die Holzschnitte von Matthias Gerung im Codex germanicus 6592 der Bayerischen Staatsbibliothek in München</title>, Bern, Peter Lang, 1990, p. 144.</note>
+                    <note type="commentaire">La gravure représente deux scènes différentes: à gauche, le Christ chasse les marchands du temple, en renversant leur table et les menaçant de son fouet; à droite, le Christ prêche du haut d'une chaire aux fidèles présents dans le temple. </note>
+                    <note type="biblio">Bibliographie: P. Roettig, <title>Reformation als Apokalypse. Die Holzschnitte von Matthias Gerung im Codex germanicus 6592 der Bayerischen Staatsbibliothek in München</title>, Bern, Peter Lang, 1990, p. 144.</note>
                   </figure>
                 </item>
                 
@@ -271,7 +271,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Armé d’un fouet, le Christ chasse vigoureusement un groupe de marchands (hommes, femme et enfant) d’un bâtiment soutenu par des colonnes. Les disciples se tiennent groupés derrière le Christ. La gravure suit le modèle du <title>Passional</title> de Wittenberg, sans inversion de sens, et sert de modèle direct à celle des <title>Faits</title>, comme le montrent les différences entretenues avec le <title>Passional</title> de Wittenberg (par exemple diminution du nombre de personnes chassées du temple, objets différents sur le sol, omission de la brebis dans les mains d'un marchand, etc.).</note>
+                    <note type="commentaire">Armé d’un fouet, le Christ chasse vigoureusement un groupe de marchands (hommes, femme et enfant) d’un bâtiment soutenu par des colonnes. Les disciples se tiennent groupés derrière le Christ. La gravure suit le modèle du <title>Passional</title> de Wittenberg, sans inversion de sens, et sert de modèle direct à celle des <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
@@ -377,7 +377,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">L'iconographie de la gravure est traditionnelle: le Christ accompagné par ses disciples chassent les vendeurs du temple, renversant table et marchandises. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
+                    <note type="commentaire">L'iconographie de la gravure est traditionnelle: le Christ accompagné par ses disciples chassent les marchands du temple, renversant table et marchandises. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
                   </figure>
                 </item>
                 
@@ -429,7 +429,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Copie très fidèle de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), avec des changements mineurs (en particulier dans les finitions, plus sommaires).</note>
+                    <note type="commentaire">Copie très fidèle de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), avec des changements mineurs (en particulier dans les finitions plus sommaires).</note>
                   </figure>
                 </item>
                 
@@ -504,7 +504,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Dans un temple à l'architecture classique (colonnes et porte à fronton), le Christ frappe l'un des marchands à terre auprès de son étal renversé. D'autres marchands s'enfuient, tandis que les disciples observent la scène.</note>
+                    <note type="commentaire">Dans un temple à l'architecture classique (colonnes et porte à fronton), le Christ frappe l'un des marchands auprès de son étal renversé. D'autres marchands s'enfuient, tandis que les disciples observent la scène.</note>
                   </figure>
                 </item>
                 

@@ -28,7 +28,7 @@
             <graphic url="https://www.e-rara.ch/i3f/v20/4518849/full/full/0/default.jpg"/>
             <figDesc>
               <title type="titre_gravure">Le baiser de la pantoufle</title>
-              <title type="titre_courant">Mais ceulx du Pape / par les Roys sont baisez.</title>
+              <title type="titre_courant">Mais ceulx du Pape / par les Roys sont baiséz.</title>
               <title type="manchette">Reges his oscula prebent. </title>
               <dim unit="mm">116 x 96</dim>
               <locus type="page">sign. Cv</locus>
@@ -57,7 +57,7 @@
                       <locus type="page">Klosterneuburg, Augustiner-Chorherrenstift, Cod. 99, f. 1v</locus>
                       <objectType>Enluminure</objectType>
                       <bibl source="https://manuscripta.at/diglit/AT5000-99/0008">
-                        <title type="titre_ouvrage">Décrétales Grégoire IX</title>
+                        <title type="titre_ouvrage">Décrétales de Grégoire IX</title>
                         <author role="artiste"/>
                         <publisher/>
                         <pubPlace>Bologne</pubPlace>
@@ -80,7 +80,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 40</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="http://id.bildindex.de/thing/0001335580">
+                      <bibl source="https://resolver.staatsbibliothek-berlin.de/HSP00068FA600000000">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -91,9 +91,9 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">À droite, le pape trônant de face fait le geste de bénédiction, tandis que deux petits moines agenouillés baisent ses pieds. À gauche, une construction est défendue par un garde armé d'une massue et tenant une clé. Le dialogue satirique placé au-dessus de cette architecture en donne le sens: "Qui est là? Qui es-tu? Que veux-tu? Entrer./ Amènes-tu quelque chose? Rien./ Alors reste dehors./ J'amène quelque chose./ Quoi? Assez./ Alors tu peux entrer." Cette enluminure fait face à la scène du lavement de pieds (f. 39v), formant la même antithèse que celle se trouvant dans les <title>Faits</title>.</note>
+                    <note type="commentaire">À droite, le pape trônant de face fait le geste de bénédiction, tandis que deux petits moines agenouillés baisent ses pieds. À gauche, une construction est défendue par un garde armé d'une massue et tenant une clé. Le dialogue satirique placé au-dessus de cette architecture en donne le sens: "Qui est là? Qui es-tu? Que veux-tu? Entrer./ Amènes-tu quelque chose? Rien./ Alors reste dehors./ J'amène quelque chose./ Quoi? Assez./ Alors tu peux entrer." Cette enluminure fait face à la scène du lavement de pieds (f. 39v - antithèse 3a), formant la même antithèse que celle des <title>Faits</title>.</note>
                   </figure>
-                  <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
+                  <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, Alfter, VDG Verlag, 1994.</note>
                 </item>
                 
                 <item n="3">
@@ -116,8 +116,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Trônant de face au centre de l'image, le pape bénit les deux moines agenouillés devant lui qui lui baisent le pied. L'enluminure se distingue du modèle du Codex hussite en ne retenant que la scène du baiser de la pantoufle. Elle forme une paire antithétique avec le lavement des pieds sur le feuillet adjacent (f. 34v).</note>
-                    <note type="biblio">Bibliographie: Kamil Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 134.</note>
+                    <note type="commentaire">Trônant de face au centre de l'image, le pape bénit les deux moines agenouillés devant lui qui lui baisent le pied. L'enluminure se distingue du Codex hussite en ne retenant que la scène du baiser de la pantoufle. Elle forme une paire antithétique avec le lavement des pieds sur le feuillet adjacent (f. 34v - antithèse 3a).</note>
+                    <note type="biblio">Bibliographie: K. Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 134.</note>
                   </figure>
                 </item>
                 
@@ -144,7 +144,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Assis sur un trône surmonté d'un dais, le pape bénissant de la main droite tend sa pantoufle à baiser à l'empereur agneouillé à ses pieds. Celui-ci est suivi d'un roi et d'un groupe de laïcs, tandis qu'aux côtés du pape des hauts dignitaires de l'Eglise se tiennent debout. Cette gravure est copiée très fidèlement dans les <title>Faits</title>, avec quelques petites différences, comme la disparition du motif floral du tissu du dais.</note>
-                    <note type="biblio">Bibliographie: Karl-August Wirth, "Imperator Pedes papae deosculatur. Ein Beitrag zur Bildkunde des 16. Jahrhunderts", in <title>Festschrift für Harald Keller</title>, Darmstadt, 1963, p. 175-221;  K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 169-176; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 20-21.</note>
+                    <note type="biblio">Bibliographie: K.-A. Wirth, "Imperator Pedes papae deosculatur. Ein Beitrag zur Bildkunde des 16. Jahrhunderts", in <title>Festschrift für Harald Keller</title>, Darmstadt, 1963, pp. 175-221;  K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 169-176; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 20-21.</note>
                   </figure>
                 </item>
                 
@@ -170,7 +170,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le <title>Passional</title> de Strasbourg inverse le sens de la composition de Wittenberg et réduit le nombre des participants à la scène. De plus, si l'empereur est bien agenouillé au pied du pape, il n'est pas représenté en train d'embrasser la pantoufle du pontife.</note>
+                    <note type="commentaire">Le <title>Passional</title> de Strasbourg inverse le sens de la composition de Wittenberg et réduit le nombre des participants à la scène. De plus, si l'empereur est bien agenouillé au pied du pape, il n'est pas représenté en train de baiser la pantoufle du pontife.</note>
                   </figure>
                 </item>
                 
@@ -245,8 +245,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Hans Holbein termine la danse macabre avant son départ de Bâle pour l'Angleterre en 1526, et c'est Hans Lützelburger qui la grave en partie. La première édition des bois a lieu en 1538 à Lyon. Par rapport aux danses macabres du XVe siècle, Holbein accentue l'aspect satirique de cette suite iconographique. Dans le cas du pape, le pontife s'apprête à couronner l'empereur qui, agenouillé à ses pieds, lui baise sa pantoufle. La mort rode, derrière le pape, mais aussi dans le cortège des cardinaux et évêques assistant au couronnement. Enfin, deux créatures diaboliques animent encore la scène: l'un soulève le rideau au-dessus du pape, l'autre apporte des indulgences.</note>
-                    <note type="biblio">Bibliographie: N. Zemon Davis, "Holbein's Pictures of Death and the Reformation at Lyons", <title>Studies in Renaissance III</title>, 1956, p. 97-130.</note>
+                    <note type="commentaire">Hans Holbein termine la danse macabre avant son départ de Bâle pour l'Angleterre en 1526, et c'est Hans Lützelburger qui la grave en partie. La première édition des bois a lieu en 1538 à Lyon. Par rapport aux danses macabres du XVe siècle, Holbein accentue l'aspect satirique de cette suite iconographique. Dans le cas du pape, le pontife s'apprête à couronner l'empereur qui, agenouillé à ses pieds, lui baise sa pantoufle. La mort rode derrière le pape, mais aussi dans le cortège des cardinaux et évêques assistant à son couronnement. Enfin, deux créatures diaboliques animent encore la scène: l'une soulève le rideau au-dessus du pape, l'autre apporte des indulgences.</note>
+                    <note type="biblio">Bibliographie: N. Zemon Davis, "Holbein's Pictures of Death and the Reformation at Lyons", <title>Studies in Renaissance III</title>, 1956, pp. 97-130.</note>
                   </figure>
                 </item>
                 
@@ -274,7 +274,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure sur cuivre datée et signée de Heinrich Aldegrever (panneau accroché sur le mur) adapte la composition de la danse macabre de Holbein, et la réoriente en omettant la représentation des indulgences.</note>
+                    <note type="commentaire">La gravure sur cuivre, datée et signée de Heinrich Aldegrever (sur le panneau suspendu au mur du fond), adapte la composition de la danse macabre de Holbein, et la réoriente en omettant la représentation des indulgences.</note>
                   </figure>
                 </item>
                 
@@ -325,7 +325,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Miniaturisation de la composition du <title>Passional</title> de Wittenberg et des <title>Faits</title>. Le nombre d'assistants à la scène est réduit, et le mur est percé d'une porte ouvrant sur la ville. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
+                    <note type="commentaire">Miniaturisation de la composition du <title>Passional</title> de Wittenberg et des <title>Faits</title>. Le nombre d'assistants à la scène est réduit, et le mur est percé d'une porte ouvrant sur une ville. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
                   </figure>
                 </item>
                 
@@ -403,7 +403,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Adaptation très fidèle de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), avec des changements mineurs.</note>
+                    <note type="commentaire">Adaptation fidèle de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), avec des changements mineurs.</note>
                   </figure>
                 </item>
                 
@@ -530,13 +530,13 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Reprise de l'iconographie de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), avec une inversion du sens de l'image et une modification du format, ici allongé.</note>
+                    <note type="commentaire">Reprise de l'iconographie de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), avec une inversion du sens de l'image et une modification du format.</note>
                   </figure>
                 </item>
                 
                 <item n="20">
                   <figure>
-                    <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/rhoemseKercke.png/full/max/0/default.jpg"/>
+                    <graphic type="large" url="https://iiif.hedera.unige.ch/iiif/3/setaf/rhoemseKercke.png/full/max/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
@@ -554,8 +554,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire"><title>De Rhoemse Kercke</title> (L’Eglise romaine) est une feuille volante satirique anti-romaine qui représente une procession bigarrée se dirigeant vers une église dans l'intéreur de laquelle toutes sortes d’activités ecclésiales sont caricaturées. La gravure était accompagnée par un poème, longtemps présumé perdu et attribué au théologien Paulus de Kempenaer (ca. 1554-1618?), qui commente les actions dévoyées des clercs, et les comportements pervertis des fidèles (exemplaire conservé au Museum Boijmans Van Beuningen à Rotterdam). L'écho de l'antithèse 3b des <title>Faits</title> figure dans la deuxième travée de l'édifice, où la personnification de Simonie (avec ses nombreux bras) dispose sur sa table des indulgences, mais aussi la pantoufle du pape. Ce dernier est représenté endormi sur son trône derrière cette table.</note>
-                    <note type="biblio">Bibliographie: Eva L.E. Janssens, « Oh, what sights to behold in this church turned upside down », Paulus de Kempenaer’s Reckoning with the Roman Catholic Excesses, <title>RIHA Journal</title>, 2024 [DOI: https://doi.org/10.11588/riha.2024.1.103891]</note>
+                    <note type="commentaire"><title>De Rhoemse Kercke</title> (L’Eglise romaine) est une feuille volante satirique anti-romaine qui représente une procession bigarrée se dirigeant vers une église où toutes sortes d’activités ecclésiales sont caricaturées. La gravure était accompagnée par un poème, longtemps présumé perdu et attribué au théologien Paulus de Kempenaer (ca. 1554-1618?), qui commente les actions dévoyées des clercs, et les comportements pervertis des fidèles (exemplaire conservé au Museum Boijmans Van Beuningen à Rotterdam). L'écho de l'antithèse 3b des <title>Faits</title> figure dans la deuxième travée de l'édifice, où la personnification de Simonie (avec ses nombreux bras) dispose sur sa table des indulgences, mais aussi la pantoufle du pape. Ce dernier est représenté endormi sur son trône derrière cette table.</note>
+                    <note type="biblio">Bibliographie: E. L.E. Janssens, « Oh, what sights to behold in this church turned upside down », Paulus de Kempenaer’s Reckoning with the Roman Catholic Excesses, <title>RIHA Journal</title>, 2024 [DOI: https://doi.org/10.11588/riha.2024.1.103891]</note>
                   </figure>
                 </item>
                 

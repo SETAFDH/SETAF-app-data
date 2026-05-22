@@ -361,9 +361,10 @@
                </item>
                <item xml:id="bastonnier">
                   <term>bastonnier</term>
-                  <p>(subst.masc.): homme muni d'une bannière, d'une arme; 
-                     celui qui a en dépôt le bâton d'une confrérie et le porte, lors des processionshomme portant la bannière</p>
+                  <p>(subst.masc.): porteur de bâton, bedeau, concierge d'une église, dont le rôle est de veiller au bon ordre des cérémonies, d'ouvrir le passage aux cortèges</p>
+                  <p>(subst.masc.): homme muni d'une bannière, d'une arme; celui qui a en dépôt le bâton d'une confrérie et le porte, lors des processions; homme portant la bannière</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/bâtonnier"/>
+                  <ptr target="https://www.cnrtl.fr/definition/bedeau"/>
                </item>
                <item xml:id="basture">
                   <term>batture</term>
@@ -383,7 +384,7 @@
                </item>
                <item xml:id="baule">
                   <term>baule</term>
-                  <p>(subst. fém.): bal, danse</p>
+                  <p>(subst.fém.): bal, danse</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/baule1"/>
                </item>
                <item xml:id="benefice">
@@ -427,7 +428,7 @@
                   <p>(loc.): faire son travail, accomplir sa tâche</p>
                   <ptr target="https://www.anglo-norman.net/entry/bosoigne_1"/>
                   <term>besogne</term>
-                  <p>(subst.fém.): affaire</p>
+                  <p>(subst.fem.): affaire</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/besogne"/>
                </item>
                <item xml:id="boubance">
@@ -483,7 +484,7 @@
                </item>
                <item xml:id="cause">
                   <term n="1">à cause que</term><!-- A SUPPRIMER -->
-                  <p>(loc. conj.): parce que</p>
+                  <p>(loc.conj.): parce que</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/cause"/>
                 </item>
                 <item xml:id="cause_tirer">
@@ -500,7 +501,7 @@
                </item>
                <item xml:id="cecite">
                   <term>cécité</term>
-                  <p>(subst.fém.): privation de la vue. Au fig.: aveuglement de l'esprit</p>
+                  <p>(subst.fem.): privation de la vue. Au fig.: aveuglement de l'esprit</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/cécité"/>
                </item>
                <item xml:id="chaloir">
@@ -510,7 +511,7 @@
                </item>
                <item xml:id="champ">
                  <term>champs</term>
-                 <p>(subst. masc., pluriel): campagne (p. oppos. à la ville, à l'espace habité)</p>
+                 <p>(subst.masc., pluriel): campagne (p. oppos. à la ville, à l'espace habité)</p>
                  <p>lieu de détente, de promenade</p>
                   <p>(Verbe de mouvement +) aux/sur les champs: se mettre en campagne</p> 
                  <ptr target="http://www.atilf.fr/dmf/definition/champ"/> 
@@ -610,9 +611,9 @@
                </item>
                <item xml:id="cestuy">
                   <term>cist, cestuy, cestui, ceste(s)</term>
-                  <p>(adj. dém.): ce...-ci</p>
-                  <p>(pron.dém.): celui-ci</p>
-                  <p>(pron. dém., comme sujet): cela, ce</p>
+                  <p>(adj.dem.): ce...-ci</p>
+                  <p>(pron.dem.): celui-ci</p>
+                  <p>(pron.dem., comme sujet): cela, ce</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/cist"/>
                </item>
                <item xml:id="chere">
@@ -638,6 +639,7 @@
                   <term>circoncision</term>
                   <p>(subst.fém.): prépuce</p>
                   <ptr target="https://micmap.org/dicfro/search/dictionnaire-godefroy/circoncision"/>
+                  <ptr target="http://www.atilf.fr/dmf/definition/circoncision"/>
                </item>
                <item xml:id="coeur">
                   <term>de bon coeur</term>
@@ -678,7 +680,7 @@
                </item>
                <item xml:id="connil">
                   <term>connil</term>
-                  <p>(subst. masc.): lapin</p>
+                  <p>(subst.masc.): lapin</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/connil"/>
                </item>
                <item xml:id="consentir">
@@ -879,7 +881,7 @@
                </item>
                <item xml:id="coulpe">
                   <term>coulpe</term>
-                  <p>(subst.fém.): péché, faute</p>
+                  <p>(subst.fem.): péché, faute</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/coulpe"/>
                </item>
                <item xml:id="corporal">
@@ -1004,6 +1006,11 @@
                  <p>(verbe): mépriser, dédaigner</p>
                  <ptr target="http://www.atilf.fr/dmf/definition/dépriser"/>
                  <ptr target="https://micmap.org/dicfro/search/dictionnaire-godefroy/desprisier"/>
+               </item>
+               <item xml:id="denier">
+                  <term>denier</term>
+                  <p>(subst. masc.): monnaie, pièce d'or ou d'argent. (Par.ext.): argent ou somme d'argent</p>
+                  <ptr target="http://www.atilf.fr/dmf/definition/denier"/>
                </item>
                <item xml:id="de_rechief">
                   <term>de rechief, derechief</term>
@@ -1146,9 +1153,14 @@
                   <ptr target="http://www.atilf.fr/dmf/definition/droit2 "/>
                </item>
                <item xml:id="droit2">
-               <term>à bon droit</term><!-- A SUPPRIMER -->
-               <p>(loc.): à juste titre, légitimement</p>
-               <ptr target="https://www.anglo-norman.net/entry/dreit"/>
+                  <term>à bon droit</term><!-- A SUPPRIMER -->
+                  <p>(loc.): à juste titre, légitimement</p>
+                  <ptr target="https://www.anglo-norman.net/entry/dreit"/>
+               </item>
+               <item xml:id="droits">
+                  <term>droits</term>
+                  <p>(subst. masc. au plur.): règles juridiques écrites (relatives à tel ou tel domaine)</p>
+                  <ptr target="http://www.atilf.fr/dmf/definition/droit1" corresp="Article_completB2b"/>
                </item>
                <item xml:id="duc">
                   <term>duc</term>
@@ -1444,6 +1456,11 @@
                  <p>(verbe,part. passé en empl. adj.): trompeur, dissimulé</p>
                  <ptr target="http://www.atilf.fr/dmf/definition/farder1" corresp="Article_Complet_C"/>
               </item>
+              <item xml:id="fasche">
+                 <term>fasché</term>
+                 <p>(part.passé, en empl. adj.): qui est irrité, ennuyé</p>
+                 <ptr target="http://www.atilf.fr/dmf/definition/fâcher"/>
+              </item>
               <item xml:id="faute"><!-- A SUPPRIMER -->
                  <term>par faute de, par faute de + inf.</term>
                  <p>(loc.): par manque de, en l'absence de</p>
@@ -1505,14 +1522,27 @@
                   <p>(loc.): par la contrainte</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/force" corresp="Article_completIB1"/>
                </item>
-               <item xml:id="forme1">
+               <item xml:id="forme">
+                 <term>forma (lat.)</term>
+                 <term>morphê (grec)</term>
+                 <p>Traduit ici par: condition</p>
+                 <ptr target="https://gaffiot.fr/#forma"/>
+                 <ptr target="https://bailly.app/morph%C3%AA"/>
+               </item>
+               <item xml:id="forme1"><!-- A SUPPRIMER -->
                   <term>en la forme de + subst.</term>
                   <p>(loc.): sous l'apparence de</p>
+                  <ptr target="http://www.atilf.fr/dmf/definition/forme"/>
                </item>
-               <item xml:id="forme2">
-                  <term n="2">prendre la forme de</term>
+               <item xml:id="forme2"><!-- A SUPPRIMER -->
+                  <term>prendre la forme de</term>
                   <p>(loc.verbale): prendre l'apparence de</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/forme"/>
+               </item>
+               <item xml:id="forme3">
+                  <term>forme</term>
+                  <p>(subst. fem.): aspect perceptible de qqn ou de qqc. (de concret), qui constitue son apparence, ses contours</p>
+                  <ptr target="https://gaffiot.fr/#forma"/>
                </item>
                <item xml:id="fors1">
                   <term n="1">fors</term>
@@ -2103,10 +2133,10 @@
                   <ptr target="http://www.atilf.fr/dmf/definition/mêler" corresp="ArticleCompletA1b"/>
                </item>
                <item xml:id="mercy">
-                  <term>crier mercy, crier merci</term>
+                  <term>mercy, crier mercy/merci</term>
                   <p>(subst.fem.): pardon, grâce, faveur</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/merci"/>
-                  <p>demander pardon, demander grâce</p>
+                  <p>(loc. verb.): demander pardon, demander grâce</p>
                   <ptr target="https://www.anglo-norman.net/entry/merci"/>
                </item>
                <item xml:id="mettre">
@@ -2195,6 +2225,11 @@
                <item xml:id="navre">
                 <term>navré</term>
                 <p>(adj.): blessé. Participe passé du verbe navrer: blesser qq'un (en transperçant, en coupant); blesser</p>
+               </item>
+               <item xml:id="negociation">
+                  <term>négociation</term>
+                  <p>(subst. fem.): affaire, besogne, activité</p>
+                  <ptr target="http://www.atilf.fr/dmf/definition/négociation"/>
                </item>
                <item xml:id="nettoyer"><!-- A SUPPRIMER -->
                   <term>nettoyer</term>
@@ -3332,8 +3367,6 @@
                <item xml:id="torment">
                   <term>tourment</term>
                   <p>(subst.masc.): supplice. Par ext.: très vive souffrance imposée à qqn</p>
-                  <note>Le mot "torment" renvoie à l'expression, présente dans D. 9, c.1 : "acquirit grande supplicium".
-                     <hi rend="italic">Supplicium</hi> signifiant: punition, peine, châtiment, supplice. Cf.: <ref target="https://gaffiot.fr/#supplicium"/> </note>
                   <ptr target="http://www.atilf.fr/dmf/definition/tourment"/>
                </item>
                <item xml:id="tourmenter">
@@ -3496,15 +3529,19 @@
                   <ptr target="http://www.atilf.fr/dmf/definition/verge1"/>
                </item>
                <item xml:id="vertu1">
-                 <term>vertu, par la vertu de</term>
-                 <p>(subst.fem.): force, puissance</p>
-                 <p>(loc.adv.): par le pouvoir, par l'effet de; grâce à</p> 
+                 <term>vertu</term>
+                 <p>(subst.fem.): force, puissance</p> 
                  <ptr target="http://www.atilf.fr/dmf/definition/vertu"/>
                </item>
                <item xml:id="vertu2">
                  <term>faire vertu</term>
                  <p>(loc.verbale): faire un miracle</p>
                  <ptr target="http://www.atilf.fr/dmf/definition/vertu" corresp="ArticleComplet_C2b"/>
+               </item>
+               <item xml:id="vertu3">
+                  <term>par la vertu de</term>
+                  <p>(loc.adv.): par le pouvoir, par l'effet de; grâce à</p> 
+                  <ptr target="http://www.atilf.fr/dmf/definition/vertu"/>
                </item>
                <item xml:id="vexer">
                   <term>vexer</term>
@@ -3544,8 +3581,8 @@
                <item xml:id="vray">
                 <term>vray, vrai</term>
                 <p>(adj., loc.adv.) pour vrai: en vérité, vraiment</p>
+                <p corresp="note">À propos de cette expression et pour une définition, voire : <ref target="https://www.cairn.info/revue-langue-francaise-2007-4-page-61.htm">Grand dictionnaire de moyen français : la langue de la Renaissance, de 1340 à 1611, par Algirdas-Julien Greimas et Teresa Mary Keane, Larousse (2007), p. 666.</ref></p>
                 <ptr target="http://www.atilf.fr/dmf/definition/vrai"/>
-                  <note>À propos de cette expression et pour une définition, voire : <ref target="https://www.cairn.info/revue-langue-francaise-2007-4-page-61.htm">Grand dictionnaire de moyen français : la langue de la Renaissance, de 1340 à 1611, par Algirdas-Julien Greimas et Teresa Mary Keane, Larousse (2007), p. 666.</ref></note>
                </item>
                <item xml:id="vulgairement">
                   <term>vulgairement</term>

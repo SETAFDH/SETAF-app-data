@@ -56,7 +56,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 21</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="http://id.bildindex.de/thing/0001335580">
+                      <bibl source="https://resolver.staatsbibliothek-berlin.de/HSP00068FA600000000">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -67,8 +67,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le pape seul sur son trône tient des banderoles dont le contenu tiré d'écrits du droit canon porte sur la richesse nécessaire du clergé. Cette image s'oppose terme à terme à celle qui lui fait face avec le Christ et saint Pierre déployant des banderoles où il est question de la pauvreté indispensable aux suiveurs du Christ (f. 20v).</note>
-                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
+                    <note type="commentaire">Le pape seul sur son trône tient des banderoles dont le contenu tiré d'écrits du droit canon porte sur la richesse nécessaire du clergé. Cette image s'oppose terme à terme à celle qui lui fait face avec le Christ et saint Pierre déployant des banderoles où il est question de la pauvreté indispensable aux suiveurs du Christ (f. 20v - antithèse 10a).</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, Alfter, VDG Verlag, 1994.</note>
                   </figure>
                 </item>
                 
@@ -92,8 +92,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le pape seul sur son trône tient des banderoles dont le contenu tiré d'écrits du droit canon porte sur la richesse nécessaire du clergé. Cette image s'oppose terme à terme à celle qui lui fait face avec le Christ et saint Pierre déployant des banderoles où il est question de la pauvreté indispensable aux suiveurs du Christ (f. 15v).</note>
-                    <note type="biblio">Bibliographie: Kamil Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 112.</note>
+                    <note type="commentaire">Le pape seul sur son trône tient des banderoles dont le contenu tiré d'écrits du droit canon porte sur la richesse nécessaire du clergé. Cette image s'oppose terme à terme à celle qui lui fait face avec le Christ et saint Pierre déployant des banderoles où il est question de la pauvreté indispensable aux suiveurs du Christ (f. 15v - antithèse 10b).</note>
+                    <note type="biblio">Bibliographie: K. Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 112.</note>
                   </figure>
                 </item>
                 
@@ -119,7 +119,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Entouré d'un groupe de clercs, le pape serre étroitement dans ses bras un jeune évêque (qui porte à la ceinture un petit sac décoré d'une petite tête d'animal). Il lui montre, depuis l'intérieur de son palais, la ville qu'il lui destine. Cette gravure sert de modèle direct et très étroit à celle des <title>Faits</title>.</note>
+                    <note type="commentaire">Entouré d'un groupe de clercs, le pape serre étroitement dans ses bras un jeune évêque (qui porte à la ceinture un petit sac décoré d'une tête d'animal). Il lui montre, depuis l'intérieur de son palais, la ville qu'il lui destine. Cette gravure sert de modèle direct et très étroit à celle des <title>Faits</title>.</note>
                     <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 249-251; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 49-50.</note>
                   </figure>
                 </item>
@@ -202,7 +202,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Par rapport aux <title>Faits</title>, la scène se déroule à l'extérieur, mais elle en conserve l'iconographie. Le pape, entouré de hauts religieux, a passé son bras sur les épaules d'un évêque, auquel il montre ses biens. Cette gravure n'est pas associée à la scène de la renonciation des biens comme dans les <title>Faits</title> (10a), mais à la guérison miraculeuse d'un lépreux effectuée par l'apôtre Pierre. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
+                    <note type="commentaire">Par rapport aux <title>Faits</title>, la scène se déroule à l'extérieur, mais elle en conserve l'iconographie. Le pape, entouré de hauts religieux, a passé son bras sur les épaules d'un évêque, auquel il montre ses biens. Cette gravure n'est pas associée à la scène de la renonciation des biens comme dans les <title>Faits</title> (antithèse 10a), mais à la guérison miraculeuse d'un lépreux effectuée par l'apôtre Pierre. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
                   </figure>
                 </item>
                 
@@ -355,7 +355,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Reprise de l'iconographie de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), avec une inversion du sens de l'image et une modification du format qui entraîne le rapprochement des différents acteurs de cette scène et diminution du nombre de participants.</note>
+                    <note type="commentaire">Reprise de l'iconographie de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), avec une inversion du sens de l'image et une modification du format qui entraîne le rapprochement des différents acteurs de cette scène, ainsi que la diminution du nombre de participants.</note>
                   </figure>
                 </item>
                 
@@ -411,7 +411,7 @@
               </list>
             </figDesc>
             
-            <note>Entouré d'un groupe de clercs, le pape serre étroitement dans ses bras un jeune évêque (qui porte à la ceinture un petit sac décoré d'une petite tête d'animal). Il lui montre, depuis l'intérieur de son palais, la ville qu'il lui destine. </note>
+            <note>Entouré d'un groupe de clercs, le pape serre étroitement dans ses bras un jeune évêque (qui porte à la ceinture un petit sac décoré d'une tête d'animal). Il lui montre, depuis l'intérieur de son palais, la ville qu'il lui destine. </note>
           </figure>
         </p>
       </sourceDesc>

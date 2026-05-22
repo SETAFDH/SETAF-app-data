@@ -89,7 +89,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 18v</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="http://id.bildindex.de/thing/0001335580">
+                      <bibl source="https://resolver.staatsbibliothek-berlin.de/HSP00068FA600000000">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -101,7 +101,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Les évangélistes portent des phylactères inscrits d'extraits d'évangiles. Le feuillet étant déchiré, seuls Jean et Matthieu sont visibles, ainsi que leurs phylactères (Jn 6, Mt 8). Par comparaison avec le <title>Codex Jena</title> qui l'imite, on peut reconstituer l'ensemble de la scène, où les textes évangéliques louent l'humilité du Christ. L'association de cette enluminure avec la donation de Constantin sur le folio adjacent, compose la même antithèse que celle des <title>Faits</title>.</note>
-                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, Alfter, VDG Verlag, 1994.</note>
                   </figure>
                 </item>
                 
@@ -125,7 +125,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Christ debout dans un vaste paysage se détourne d'un groupe de personnes venues lui offrir une couronne. </note>
+                    <note type="commentaire">Le Christ debout dans un vaste paysage se détourne d'un groupe de personnes venues lui offrir une couronne. Cette enluminure illustre un passage introduit par la rubrique: "De l'ambicion et aultres deffaultes des clers et ce peut lire quant on veult pour edification".</note>
                   </figure>
                 </item>
                 
@@ -150,7 +150,7 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Les quatre évangélistes, debout sur une bande de terre, déroulent des phylactères inscrits d'extraits des évangiles en tchèque (Mc 10, Lc 12, Jn 8, Mt 7), qui témoignent tous de l'humilité et de la pauvreté du Christ. Ceux-ci rappellent qu'il a refusé d'être couronné roi du monde. Cette enluminure suit la satire hussite de Göttingen. Deux des citations bibliques sur ces phylactères sont identiques à celles des <title>Faits</title> (Lc 12 et Jn 8).</note>
-                    <note type="biblio">Bibliographie : Kamil Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 109.</note>
+                    <note type="biblio">Bibliographie : K. Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 109.</note>
                   </figure>
                 </item>
                 
@@ -203,7 +203,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Adaptation de la gravure du <title>Passional</title> de Wittenberg, mais inversée et simplifiée. La gravure des <title>Faits</title> s'en inspire directement tout en modifiant la représentation du ciel et les physionomies, et en raidissantt le système de hachures.</note>
+                    <note type="commentaire">Adaptation de la gravure du <title>Passional</title> de Wittenberg, mais inversée et simplifiée. La gravure des <title>Faits</title> s'en inspire directement tout en modifiant la représentation du ciel et les physionomies, et en raidissant le système de hachures.</note>
                   </figure>
                 </item>
                 
@@ -465,7 +465,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Adaptation de l'iconographie de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), mais la composition est inversée et le format modifié.</note>
+                    <note type="commentaire">Adaptation de l'iconographie de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), dont la composition est inversée et le format modifié.</note>
                   </figure>
                 </item>
                 
@@ -490,7 +490,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Adaptation de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), qui montre un raidissement des hachures, et épaississement des contours.</note>
+                    <note type="commentaire">Adaptation de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), qui montre un raidissement des hachures et un épaississement des contours.</note>
                   </figure>
                 </item>
                 

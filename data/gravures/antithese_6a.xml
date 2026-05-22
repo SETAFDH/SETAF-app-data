@@ -56,7 +56,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 17v</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="http://id.bildindex.de/thing/0001335580">
+                      <bibl source="https://resolver.staatsbibliothek-berlin.de/HSP00068FA600000000">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -67,8 +67,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Sur le feuillet en partie déchiré est représenté le Christ portant la croix. La rubrique indique qu'en tant qu'exemple d'humilité, il porte sa croix lui-même, excluant de ce fait Simon de Cyrène. Cette lecture privilégiée par Luther n'est ni suivie dans le <title>Passional</title>, ni dans les <title>Faits</title>. La paire que cette enluminure forme avec l'image du pape porté en procession est en revanche imitée dans les <title>Faits</title>.</note>
-                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
+                    <note type="commentaire">Sur le feuillet en partie déchiré est représenté le Christ portant sa croix. La rubrique indique qu'en tant qu'exemple d'humilité, il porte sa croix lui-même, excluant de ce fait Simon de Cyrène. Cette lecture privilégiée par Luther n'est ni suivie dans le <title>Passional</title>, ni dans les <title>Faits</title>. La paire que cette enluminure forme avec l'image du pape porté en procession (antithèse 6b) est en revanche imitée dans les <title>Faits</title>.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, Alfter, VDG Verlag, 1994.</note>
                   </figure>
                 </item>
                 
@@ -92,7 +92,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">L'image en tête de l'<title>Imitatio Christi</title>, traduit en français, représente le Christ portant la croix, suivi par un dévot agenouillé et avec les mains jointes. Les phylactères soulignent l'invitation directe adressée aux lectrices et lecteurs à imiter l'exemple du Christ. Cet aspect dévotionnel est absent de la gravure des <title>Faits</title>, dépourvue d'inscriptions, mais surtout intégrée dans une suite d'images de la vie du Christ.</note>
+                    <note type="commentaire">L'image en tête de l'<title>Imitatio Christi</title>, traduit en français, représente le Christ portant la croix, suivi par un dévot agenouillé et avec les mains jointes. Les phylactères soulignent l'invitation directe adressée aux lectrices et lecteurs à imiter l'exemple du Christ. Cet aspect dévotionnel est absent de la gravure des <title>Faits</title>, dépourvue d'inscriptions et intégrée dans une suite d'images de la vie du Christ.</note>
                   </figure>
                 </item>
                 
@@ -116,8 +116,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Christ couronné d'épines porte sa croix, aidé par un homme barbu, Simon de Cyrène (contrairement au manuscrit hussite dont il dérive). Il est accompagné d'une foule de gens sortis de la ville représentée à l'arrière-plan. Sur le feuillet adjacent, le pape est porté en procession, comme dans le <title>Passional</title> et les <title>Faits</title>.</note>
-                    <note type="biblio">Bibliographie: Kamil Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 108.</note>
+                    <note type="commentaire">Le Christ couronné d'épines porte sa croix, aidé par un homme barbu, Simon de Cyrène (contrairement au manuscrit hussite dont il dérive). Il est accompagné d'une foule de gens sortis de la ville représentée à l'arrière-plan. Sur le feuillet adjacent, le pape est porté en procession (antithèse 6b), comme dans le <title>Passional</title> et les <title>Faits</title>.</note>
+                    <note type="biblio">Bibliographie: K. Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 108.</note>
                   </figure>
                 </item>
                 
@@ -141,7 +141,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Cranach réalise une série de 14 gravures pour illustrer la Passion, dont l'une représentant le portement de croix. Au premier plan, le Christ est tombé à terre sous le poids de la croix. Il est pressé par des personnages menaçants et armés pour la plupart, groupés autour de lui. Pilate et le grand prêtre chevauchent à l'arrière-plan, tandis que la Vierge, des femmes et saint Jean se tiennent groupés encore plus loin sous un porche.</note>
+                    <note type="commentaire">Cranach réalise une série de 14 gravures pour illustrer la Passion, dont l'une représentant le portement de croix. Au premier plan, le Christ est tombé à terre sous le poids de la croix. Il est pressé par des personnages menaçants et armés pour la plupart, groupés autour de lui. Pilate et le grand prêtre chevauchent à l'arrière-plan, tandis que la Vierge, des femmes et saint Jean se tiennent assemblés sous un porche.</note>
                   </figure>
                 </item>
                 
@@ -167,7 +167,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Aidé par Simon de Cyrène, le Christ tombe à terre sous le poids de a croix qu'il porte au calvaire, sous le regard d'un groupe de personnages armés.</note>
+                    <note type="commentaire">Aidé par Simon de Cyrène, le Christ tombe à terre sous le poids de la croix qu'il porte au calvaire, sous le regard d'un groupe de personnages armés.</note>
                     <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 200-205; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 31-32.</note>
                   </figure>
                 </item>
@@ -220,7 +220,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Christ tient une croix dans la main, comme tous ceux qui l'entourent. Ils représentent différentes classes sociales, divers âges, des hommes et des femmes. Cette gravure entre en écho avec la citation biblique (Mt 11,28) - rerpoduite dans tous les écrits de Zwingli jusqu'en 1529 -, qui est une invitation à suivre l'exemple du Christ. Le <title>Passional</title> et les <title>Faits</title> s'inscrivent dans cette même ligne où l'exemple du Christ est à suivre, et celui du pape à fuire.</note>
+                    <note type="commentaire">Le Christ tient une croix dans sa main, comme tous ceux qui l'entourent. Ils représentent différentes classes sociales, divers âges, des hommes et des femmes. Cette gravure entre en écho avec la citation biblique (Mt 11,28) - reproduite dans tous les écrits de Zwingli jusqu'en 1529 -, qui est une invitation à suivre l'exemple du Christ. Le <title>Passional</title> et les <title>Faits</title> s'inscrivent dans cette même perspective où l'exemple du Christ est à suivre, et celui du pape à fuir.</note>
                     <note type="biblio">Bibliographie: <title>Iconoclasme. Vie et mort de l'image médiévale</title>, cat. expo., Paris, Somogy, 2001, n° 142.</note>
                   </figure>
                 </item>
@@ -404,7 +404,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Au lieu d'adapter la gravure de l'<title>Antithesis</title> (1557) comme dans la majeure partie des cas de la traduction de ce texte en néerlandais, remploi d'une gravure dans Guillelmus van Branteghem, <title>Vie de nostre Seigneur Jesus Christ par figures</title>, Anvers, Jean Richard, 1544. Elle propose la représentation simultanée de deux épisodes de la Passion: le portement de croix au premier plan et la Crucifixion à l'arrière-plan.</note>
+                    <note type="commentaire">Au lieu d'adapter la gravure de l'<title>Antithesis</title> (1557) comme dans la majeure partie des cas de la traduction en néerlandais de ce texte, remploi d'une gravure dans Guillelmus van Branteghem, <title>Vie de nostre Seigneur Jesus Christ par figures</title>, Anvers, Jean Richard, 1544. Elle propose la représentation simultanée de deux épisodes de la Passion: le portement de croix au premier plan et la Crucifixion à l'arrière-plan.</note>
                   </figure>
                 </item>
                 

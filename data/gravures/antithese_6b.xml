@@ -28,7 +28,7 @@
             <graphic url="https://www.e-rara.ch/i3f/v20/4518861/full/full/0/default.jpg"/>
             <figDesc>
               <title type="titre_gravure">Le pape est porté dans sa chaise</title>
-              <title type="titre_courant">Le Pape est porte / en grand honneur.</title>
+              <title type="titre_courant">Le Pape est porté / en grand honneur.</title>
               <title type="manchette">Hic seruis portatur auarus. </title>
               <dim unit="mm">116 x 96</dim>
               <locus type="page">sign. D3v</locus>
@@ -56,7 +56,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 18</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="http://id.bildindex.de/thing/0001335580">
+                      <bibl source="https://resolver.staatsbibliothek-berlin.de/HSP00068FA600000000">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -67,8 +67,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Sur le feuillet en partie déchiré, il ne reste qu'une partie de la représentation du pape monté sur un cheval qu'un page conduit. Cette représentation fait face au portement de croix (f. 17v), formant la même paire antithétique que dans les <title>Faits</title>.</note>
-                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
+                    <note type="commentaire">Sur le feuillet déchiré, il ne reste qu'une partie de la représentation du pape monté sur un cheval conduit par un page. Cette représentation fait face au portement de croix (f. 17v - antithèse 6a), formant la même paire antithétique que celle des <title>Faits</title>.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, Alfter, VDG Verlag, 1994.</note>
                   </figure>
                 </item>
                 
@@ -117,8 +117,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le pape, monté sur un cheval avec les insignes de l’office apostolique, est à la tête d'une procession de cardinaux, tous vêtus de pourpre. Ce cortège contraste avec le portement de croix qui lui fait face (f. 12v).</note>
-                    <note type="biblio">Bibliographie: Kamil Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 108.</note>
+                    <note type="commentaire">Le pape, monté sur un cheval avec les insignes de l’office pontifical, est à la tête d'une procession de cardinaux, tous vêtus de pourpre. Ce cortège contraste avec le portement de croix qui lui fait face (f. 12v - antithèse 6a).</note>
+                    <note type="biblio">Bibliographie: K. Boldan (ed.), <title>The Jena Codex</title>, Prague, 2009, p. 108.</note>
                   </figure>
                 </item>
                 
@@ -144,7 +144,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le pape est transporté par cinq hommes en robe sur une chaise à porteurs vers une porte timbrée des armes pontificales. Il a revêtu ses habits de cérémonie, porte la tiare, tient la férule dans la main gauche, et bénit de la droite. Cette gravure sert de modèle direct à celle des <title>Faits</title>, avec quelques changements mineurs (par exemple, pantoufles noires des porteurs).</note>
+                    <note type="commentaire">Porté par cinq hommes sur la "sedia gestatoria", le pape est emmené vers une porte timbrée des armes pontificales. Il a revêtu ses habits de cérémonie, porte la tiare, tient la férule dans la main gauche, et bénit de la droite. Cette gravure sert de modèle direct à celle des <title>Faits</title>, avec quelques changements mineurs (par exemple, pantoufles noires des porteurs).</note>
                     <note type="bibliographie">Bibliographie: K. Groll, <title>Das "Passional Christi und Antichristi" von Lucas Cranach der Ä.</title>, Frankfurt/Bern/New York/Paris, P. Lang, 1990, pp. 206-211; <title>Passional Christi und Antichristi. Antithesis figurata vitae Christi et Antichristi</title>, éd. E. Wareham, U. Bubenheimer et H. Lähnemann, Oxford, Taylor Institution Library, 2021, pp. 33-34.</note>
                   </figure>
                 </item>
@@ -171,7 +171,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Recréation de la scène du <title>Passional</title> de Wittenberg, non seulement en inversant le sens de la procession, mais en modifiant le décor architectural, ici réduit à un mur de briques.</note>
+                    <note type="commentaire">Réinterprétation de la scène du <title>Passional</title> de Wittenberg, non seulement en inversant le sens de la procession, mais en modifiant le décor architectural, ici réduit à un simple mur.</note>
                   </figure>
                 </item>
                 
@@ -227,7 +227,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Adaptation de la composition générale du <title>Passional</title> et des <title>Faits</title>, avec l'ajout de dévots agenouillés devant le palanquin, ainsi que par l'inscription de la scène dans une vaste ville. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
+                    <note type="commentaire">Adaptation de la composition générale du <title>Passional</title> et des <title>Faits</title>, avec l'ajout de dévots agenouillés devant la chaise à porteurs, ainsi que par l'inscription de la scène dans une vaste ville. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
                   </figure>
                 </item>
                 
@@ -329,7 +329,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), hors du contexte des antithèses. La gravure illustre ici la procession qui emmena le pape Etienne II, assis dans une chaise à porteurs, jusqu'au Latran en 752.</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), hors du contexte des antithèses. La gravure illustre ici la procession qui emmena le pape Etienne II jusqu'au Latran en 752.</note>
                   </figure>
                 </item>
                 
@@ -488,7 +488,7 @@
               </list>
             </figDesc>
             
-            <note>Le pape est transporté par cinq hommes en robe sur une chaise à porteurs vers une porte timbrée des armes pontificales. Il a revêtu ses habits de cérémonie, porte la tiare, tient la férule dans la main gauche et bénit de la droite.</note>
+            <note>Porté par cinq hommes sur la "sedia gestatoria", le pape est emmené vers une porte timbrée des armes pontificales. Il a revêtu ses habits de cérémonie, porte la tiare, tient la férule dans la main gauche et bénit de la droite.</note>
           </figure>
         </p>
       </sourceDesc>

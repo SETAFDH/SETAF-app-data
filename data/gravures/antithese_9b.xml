@@ -46,34 +46,8 @@
                 </availability>
               </bibl>
               
-              <list type="exemplaires_similaires">
+              <list type="exemplaires_similaires">  
                 <item n="1">
-                  <figure>
-                    <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00009040_00066/full/full/0/default.jpg"/>
-                    <figDesc>
-                      <title type="titre_courant"/>
-                      <title type="manchette"/>
-                      <dim unit="mm">150 x 96</dim>
-                      <locus type="page">f. 31v</locus>
-                      <objectType>Gravure sur bois</objectType>
-                      <bibl source="https://mdz-nbn-resolving.de/details:bsb00009040">
-                        <title type="titre_ouvrage">Johannes von Leonrod, Hymelwag auff dem, wer wol lebt vn[d] wol sterbt fert in das reich der himel. Hellwag auff dem, wer übel lebt vn[d] übel stirbt fert in die ewigen verdamnuß</title>
-                        <author role="artiste">Hans Schäufelein</author>
-                        <publisher>Sylvano Otmar</publisher>
-                        <pubPlace>Augsburg</pubPlace>
-                        <date>1517</date>
-                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+1238">VD16 n° L 1238</idno>
-                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/664453">USTC n° 664453</idno>
-                        <availability>
-                          <licence>München, Bayerische Staatsbibliothek, Rar. 411, urn:nbn:de:bvb:12-bsb00009040-8 - Public Domain</licence>
-                        </availability>
-                      </bibl>
-                    </figDesc>
-                    <note type="commentaire">Pour illustrer le chemin vers le paradis et celui vers l'enfer, Hans Schäufelein réalise deux gravures indépendantes (f. 31v et 85) figurant une iconographie antagoniste. La première représente un chariot tiré par un attelage de chevaux qui s'élève dans un paysage, guidé par un chevalier dépoloyant un drapeau décoré des scènes du Décalogue.</note>
-                  </figure>
-                </item>
-                
-                <item n="2">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00009040_00173/full/full/0/default.jpg"/>
                     <figDesc>
@@ -95,11 +69,11 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Pour illustrer le chemin vers le paradis et celui vers l'enfer, Hans Schäufelein réalise deux gravures indépendantes (f. 31v et 85) figurant une iconographie antagoniste. La deuxième figure le chemin descendant d'un chariot mené par un attelage de chevaux, guidé par une figure diabolique, portant un drapeau avec des représentations des vices.</note>
+                    <note type="commentaire">Pour illustrer le chemin vers le paradis et celui vers l'enfer, Hans Schäufelein réalise deux gravures indépendantes figurant une iconographie antagoniste. Si la première montre un chariot s'élevant dans un paysage (f. 31v), la seconde représente le parcours inverse: un chariot est tiré vers le bas par un attelage de chevaux, et guidé par une figure diabolique, qui porte un drapeau avec des représentations des vices. Cette gravure trouve un écho dans celles du <title>Passional</title> et des <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
-                <item n="3">
+                <item n="2">
                   <figure>
                     <graphic type="large" url="https://iiif.hedera.unige.ch/iiif/3/setaf/himmelswagenHollenwagen.png/480,100,1350,1090/max/0/default.jpg"/>
                     <figDesc>
@@ -120,11 +94,11 @@
                       </bibl>
                     </figDesc>
                     <note type="commentaire">Divisée en deux registres superposés, la gravure montre dans la partie supérieure un char emmené en direction de la croix, dans la partie inférieure le char avance dans le sens inverse en direction de la gueule de l'enfer.</note>
-                    <note type="biblio">Bibliographie: Lyndal Roper et Jennifer Spinks, "Karlstadt’s Wagen: The First Visual Propaganda for the Reformation", <title>Art History</title>, 2017, p. 256-285.</note>
+                    <note type="biblio">Bibliographie: L. Roper et J. Spinks, "Karlstadt’s Wagen: The First Visual Propaganda for the Reformation", <title>Art History</title>, 2017, pp. 256-285.</note>
                   </figure>
                 </item>
                 
-                <item n="4">
+                <item n="3">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00086460_00021/full/full/0/default.jpg"/>
                     <figDesc>
@@ -151,7 +125,7 @@
                   </figure>
                 </item>
                 
-                <item n="5">
+                <item n="4">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00088259_00021/full/full/0/default.jpg"/>
                     <figDesc>
@@ -173,11 +147,11 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Inversion de la gravure du <title>Passional</title> de Wittenberg (1521), mais en conserve tous les motifs.</note>
+                    <note type="commentaire">Inversion de la gravure du <title>Passional</title> de Wittenberg (1521), mais qui en conserve tous les motifs.</note>
                   </figure>
                 </item>
                 
-                <item n="6">
+                <item n="5">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10862278_00006/full/full/0/default.jpg"/>
                     <figDesc>
@@ -203,7 +177,7 @@
                   </figure>
                 </item>
                 
-                <item n="7">
+                <item n="6">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10690704_00003/full/full/0/default.jpg"/>
                     <figDesc>
@@ -225,12 +199,12 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Sur la marge supérieure de la page de titre, représentation d'un tournoi opposant le Christ monté sur un âne et muni d'une croix au  pape en armure sur un cheval. Conseillé par un diable, il perd sa lance de la main qui tenait une bulle papale, ce qui signifie que le Christ vainc les condamnations papales. À ce tournoi fait écho la scène de la marge inférieure, qui représente un jeu, le "Strebkatz", où deux adversaires s'affrontent en tirant des cordes entre leurs dents. De fait, ces deux combats redoublent celui que rapporte le texte au sujet d'une dispute entre l'évêque de Meissen et le pasteur du château de Lochau. Celui-ci, ayant administré la communion sous les deux espèces et marié un moine, devait en répondre devant l'évêque.</note>
-                    <note type="biblio">Bibliographie: Thomas Thibault Döring/Thomas Fuchs, <title>Bildwechsel. Buchillustration in der Reformationszeit</title>, Wien, 2017, p. 45 ; R.W. Scribner, <title>For the sake of the simple folk. Popular propaganda for the German Reformation</title>, Cambridge University Press, 1981, p. 61-62.</note>
+                    <note type="commentaire">Sur la marge supérieure de la page de titre, représentation d'un tournoi opposant le Christ monté sur un âne et muni d'une croix au  pape en armure sur un cheval. Conseillé par un diable, ce dernier perd sa lance, alors qu'il tient en main une bulle papale, ce qui signifie que le Christ vainc les condamnations papales. À ce tournoi fait écho la scène de la marge inférieure, qui représente un jeu, le "Strebkatz", où deux adversaires s'affrontent en tirant des cordes entre leurs dents. Ces deux combats redoublent celui que rapporte le texte au sujet d'une dispute entre l'évêque de Meissen et le pasteur du château de Lochau: ayant administré la communion sous les deux espèces et marié un moine, il devait en répondre devant l'évêque.</note>
+                    <note type="biblio">Bibliographie: Th. Thibault Döring/Th. Fuchs, <title>Bildwechsel. Buchillustration in der Reformationszeit</title>, Leipzig, Universitätsverlag Leipzig, 2017, p. 45; R.W. Scribner, <title>For the sake of the simple folk. Popular propaganda for the German Reformation</title>, Cambridge, Cambridge University Press, 1981, pp. 61-62.</note>
                   </figure>
                 </item>
                 
-                <item n="8">
+                <item n="7">
                   <figure>
                     <graphic type="large" url="https://objektkatalog.gnm.de/sites/default/files/wisski_original/d3ed8136ee955ec1452c4426cc53a6b6.jpg"/>
                     <figDesc>
@@ -250,18 +224,18 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le pape à cheval tire derrière lui un chariot rempli de religieux. Il se dirige vers des maisons bondées d'ecclésiastiques (dont un deuxième pape - sic), lesquelles brûlent des feux de l'enfer. Le thème de la gravure dérive des tableaux de carnaval créés à Nuremberg, au cours de ces mêmes années. Traditionnellement identifiée comme le voyage du pape vers l'enfer, la gravure a été ré-interprétée plus récemment, sur la base de la lecture du texte du pamphlet et de son lien avec l'image, comme la représentation du règne de l'Antéchrist.</note>
-                    <note type="biblio">Bibliographie: <title>Die gottlosen Maler von Nürnberg Konvention und Subersion in der Druckgrafik der Beham-Brüder</title>, Emsdetten, Edition Imorde, 2011, n° 35 ; R.W. Scribner, <title>For the sake of the simple folk. Popular propaganda for the German Reformation</title>, Cambridge University Press, 1981, p. 71.</note>
+                    <note type="commentaire">Le pape à cheval tire derrière lui un chariot rempli de religieux. Il se dirige vers des maisons bondées d'ecclésiastiques (dont un deuxième pape - sic), lesquelles brûlent des feux de l'enfer. Le thème de la gravure dérive des tableaux de carnaval créés à Nuremberg, au cours de ces mêmes années. Traditionnellement identifiée comme figurant le voyage du pape vers l'enfer, la gravure a été ré-interprétée récemment, sur la base de la lecture du texte du pamphlet et de son lien avec l'image, comme la représentation du règne de l'Antéchrist.</note>
+                    <note type="biblio">Bibliographie: <title>Die gottlosen Maler von Nürnberg Konvention und Subersion in der Druckgrafik der Beham-Brüder</title>, Emsdetten, Edition Imorde, 2011, n° 35; R.W. Scribner, <title>For the sake of the simple folk. Popular propaganda for the German Reformation</title>, Cambridge, Cambridge University Press, 1981, p. 71.</note>
                   </figure>
                 </item>
                 
-                <item n="9">
+                <item n="8">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00026199_00139/full/full/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
-                      <dim unit="mm"/>
+                      <dim unit="mm">61 x 88</dim>
                       <locus type="page">sign. D3</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb00026199">
@@ -277,17 +251,17 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Cette petite gravure représente le pape en habit d'apparat, montant un cheval richement harnaché, et accompagné par un lansquenet, pour traduire la légende qui la surmonte: "Papa coronatus, in equo albo &amp; coccino indutus". Elle s'oppose à l'image située à la page suivante représentant l'entrée du Christ à Jérusalem (sign. D3v, reproduite en 9a). Cette paire antithétique reproduit celle du <title>Passional</title>, reprise plus tard dans les <title>Faits</title>.</note>
+                    <note type="commentaire">Cette petite gravure représente le pape en habit d'apparat, montant un cheval richement harnaché, et accompagné par un lansquenet, pour traduire la légende qui la surmonte: "Papa coronatus, in equo albo &amp; coccino indutus". Elle s'oppose à l'image située à la page suivante représentant l'entrée du Christ à Jérusalem (antithèse 9a). Cette paire antithétique reproduit celle du <title>Passional</title>, reprise plus tard dans les <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
-                <item n="10">
+                <item n="9">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00088257_00029/full/full/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
-                      <dim unit="mm"/>
+                      <dim unit="mm">61 x 88</dim>
                       <locus type="page">sign. D2</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb00088257">
@@ -303,11 +277,11 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure représente le pape en habit d'apparat, montant un cheval richement harnaché, et accompagné par un lansquenet. Elle illustre la légende : "Hye reitet der Bapst uff ein schoͤnen weissen hengst, bekleydt mit rosyn farb scharlach, und dem bessten lynwodt". Cette image contraste avec la représentation du Christ monté sur un âne, situé à la page suivante (sign. D2v, reproduite en 9a). Le texte, qui est une traduction en allemand du <title>De anatomia Christi</title> paru l'année précédente à Strasbourg chez Schott, et l'image reproduisent la même opposition que celle du <title>Passional</title> (1521), reprise dans les <title>Faits</title>. Dans ce cas, contrairement à la gravure du Christ, il s'agit d'un remploi de l'édition de 1524.</note>
+                    <note type="commentaire">La gravure représente le pape en habit d'apparat, montant un cheval richement harnaché, et accompagné par un lansquenet. Elle illustre la légende qui la surmonte: "Hye reitet der Bapst uff ein schoͤnen weissen hengst, bekleydt mit rosyn farb scharlach, und dem bessten lynwodt". Cette image contraste avec la représentation du Christ monté sur un âne, situé à la page suivante (antithèse 9a). Le texte, une traduction en allemand du <title>De anatomia Christi</title> paru l'année précédente à Strasbourg chez Schott, et l'image reproduisent la même opposition que celle du <title>Passional</title> (1521), reprise dans les <title>Faits</title>. Il s'agit d'un remploi de l'édition de 1524.</note>
                   </figure>
                 </item>
                 
-                <item n="11">
+                <item n="10">
                   <figure>
                     <graphic type="large" url="https://iiif.hedera.unige.ch/iiif/3/setaf/christusWahreLicht.jpg/full/max/0/default.jpg"/>
                     <figDesc>
@@ -327,12 +301,12 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le Christ montre à un groupe de laïcs la lumière de son évangile (Mt 4,15; Lc 11,33), tandis que les ecclésiastiques (dont le pape) et les philosophes antiques (Aristote et Platon), tous aveugles, se détournent et tombent dans un sombre puits. La gravure se développe comme une frise, la composition étant articulée autour du cierge central porté par un pied sculpté des symboles des évangélistes. Elle a servi à illustrer l'<title>Evangelischer Kalender</title> de Johannes Copp auquel le franciscain Thomas Murner répondit, en s'y opposant, avec son <title>Almanach des hérétiques</title> (voir sous antithèse 13).</note>
-                    <note type="biblio">Bibliographie: <title>Luther und die Folgen für die Kunst</title>, cat. exp., München, Prestel, 1983, n° 58.</note>
+                    <note type="commentaire">Le Christ montre à un groupe de laïcs un cierge allumé, symbolisant la lumière de l'évangile (Mt 4,15; Lc 11,33), tandis que les ecclésiastiques (dont le pape) et les philosophes antiques (Aristote et Platon), tous aveugles, s'en détournent et tombent dans un sombre puits. La gravure se développe en frise, articulée autour du cierge central porté par un pied sculpté des symboles des évangélistes. Elle a servi à illustrer l'<title>Evangelischer Kalender</title> de Johannes Copp auquel le franciscain Thomas Murner répondit, en s'y opposant, avec son <title>Almanach des hérétiques</title> (voir sous antithèse 13b).</note>
+                    <note type="biblio">Bibliographie: <title>Luther und die Folgen für die Kunst</title>, cat. exp., München, Prestel, 1983, n° 58; Ch. Müller, <title>Hans Holbein the Younger: the Basel years 1515-1532</title>, München, Prestel, 2006.</note>
                   </figure>
                 </item>
                 
-                <item n="12">
+                <item n="11">
                   <figure>
                     <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bd6t53789915t/f27/full/full/0/native.jpg"/>
                     <figDesc>
@@ -358,7 +332,7 @@
                   </figure>
                 </item>
                 
-                <item n="13">
+                <item n="12">
                   <figure>
                     <graphic type="large" url="https://iiif.hedera.unige.ch/iiif/3/setaf/swartVoieLarge.png/full/max/0/default.jpg"/>
                     <figDesc>
@@ -378,8 +352,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Probablement destiné à l'usage de peintres verriers, le dessin de Jan Swart met en scène la parabole de la voie étroite et large, tirée du sermon sur la montagne (Mt 7,13-14). Pour la voie large, une procession composée d'ecclésiastiques en tête desquels se trouve le pape est emmenée par deux musiciens. Ils se dirigent vers l'enfer, surveillés dans les airs par des diables volants. La deuxième partie, avec la voie étroite, présente une procession de laïcs se dirigeant vers le haut d'une montagne où luit le tétragramme de Dieu.</note>
-                    <note type="biblio">Bibliographie: Gaylen Vankan, « Large est le chemin qui conduit le pape et les fidèles à la perdition ». Une image diffamante du pontife dans l’œuvre de Jan Swart van Groningen, dans C. d'Alberto (dir.), <title>Imago Papae. Le pape en image du Moyen Âge à l’époque contemporaine</title>, Roma, 2020, p. 305-311.</note>
+                    <note type="commentaire">Probablement destiné à l'usage de peintres verriers, le dessin de Jan Swart met en scène le passage sur la porte étroite du sermon sur la montagne (Mt 7,13-14). Pour la voie large, une procession composée d'ecclésiastiques en tête desquels se trouve le pape est emmenée par deux musiciens. Ils se dirigent vers l'enfer, surveillés dans les airs par des diables volants. La deuxième partie, avec la voie étroite, montre une procession de laïcs se dirigeant vers le haut d'une montagne vers le tétragramme de Dieu.</note>
+                    <note type="biblio">Bibliographie: G. Vankan, « Large est le chemin qui conduit le pape et les fidèles à la perdition ». Une image diffamante du pontife dans l’œuvre de Jan Swart van Groningen, dans C. d'Alberto (dir.), <title>Imago Papae. Le pape en image du Moyen Âge à l’époque contemporaine</title>, Roma, Campisano Editore, 2020, pp. 305-311.</note>
                   </figure>
                 </item>
                 
@@ -387,7 +361,7 @@
                   <graphic url="https://www.e-rara.ch/i3f/v20/4518847/full/full/0/default.jpg"/>
                 </item>
                 
-                <item n="14">
+                <item n="13">
                   <figure>
                     <graphic type="large" url="https://iiif.hedera.unige.ch/iiif/3/setaf/derTeutschEselFlugblatt.jpg/full/max/0/default.jpg"/>
                     <figDesc>
@@ -408,11 +382,11 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le pape en habit de cérémonie a changé de monture. Au lieu d'un cheval, il chevauche un âne harnaché (une bulle est suspendue à ses rênes). Des hommes représentants de diverses nations se tiennent auprès de lui: un Espagnol tire la queue de l'âne, un Français tient les rênes, un Hongrois et un lansquenet (pour un Allemand) participent à la scène. Quant au pape, il représente un Italien.</note>
+                    <note type="commentaire">Le pape, bénissant et en habits de cérémonie, chevauche un âne (une bulle est suspendue à ses rênes) au lieu d'un cheval, sa monture plus traditionnelle. Une bulle est suspendue aux rênes. L'inscription désigne le pape comme un Italien, tandis que les quatre hommes près de lui représentent les autres nations: un Espagnol tire la queue de l'âne, un Français tient les rênes, un Hongrois et un lansquenet (pour un Allemand) participent à la scène.</note>
                   </figure>
                 </item>
                 
-                <item n="15">
+                <item n="14">
                   <figure>
                     <graphic url="https://www.e-rara.ch/i3f/v20/11282356/full/full/0/default.jpg"/>
                     <figDesc>
@@ -434,11 +408,11 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure s'inspire de celles des <title>Faits</title> et du <title>Passional</title>, mais en inverse le sens, et omet certains éléments tels que les arbres, réduit la présence de l'architecture. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
+                    <note type="commentaire">La gravure s'inspire de celles des <title>Faits</title> et du <title>Passional</title>. Elle en inverse le sens et omet certains éléments tels que les arbres, et réduit la présence de l'architecture. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois.</note>
                   </figure>
                 </item>
                 
-                <item n="16">
+                <item n="15">
                   <figure>
                     <graphic url="https://www.e-rara.ch/i3f/v20/11943214/full/full/0/default.jpg"/>
                     <figDesc>
@@ -464,7 +438,7 @@
                   </figure>
                 </item>
                 
-                <item n="17">
+                <item n="16">
                   <figure>
                     <graphic url="https://digi.ub.uni-heidelberg.de/diglitData/image/rosarius1560/4/00_074.jpg"/>
                     <figDesc>
@@ -490,7 +464,7 @@
                   </figure>
                 </item>
                 
-                <item n="18">
+                <item n="17">
                   <figure>
                     <graphic url="https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~425957~192597page45/full/full/0/default.jpg"/>
                     <figDesc>
@@ -514,7 +488,7 @@
                   </figure>
                 </item>
                 
-                <item n="19">
+                <item n="18">
                   <figure>
                     <graphic url="https://www.e-rara.ch/i3f/v20/4454273/full/full/0/default.jpg"/>
                     <figDesc>
@@ -536,11 +510,11 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), hors du contexte d'une antithèse. La gravure illustre et dénonce les agissements du pape Pascal II (1099-1118), qualifié dans le texte de "souverain vicaire de Satan".</note>
+                    <note type="commentaire">Remploi de la gravure de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), hors du contexte d'une antithèse. Elle illustre et dénonce les agissements du pape Pascal II (1099-1118), qualifié dans le texte de "souverain vicaire de Satan".</note>
                   </figure>
                 </item>
                 
-                <item n="20">
+                <item n="19">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00034957_00073/full/full/0/default.jpg"/>
                     <figDesc>
@@ -566,7 +540,7 @@
                   </figure>
                 </item>
                 
-                <item n="21">
+                <item n="20">
                   <figure>
                     <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/teghenstellinghe_C6r.png/full/max/0/default.jpg"/>
                     <figDesc>
@@ -591,7 +565,7 @@
                   </figure>
                 </item>
                 
-                <item n="22">
+                <item n="21">
                   <figure>
                     <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/ChristAnePapeCheval_inv288-10.jpg/full/max/0/default.jpg"/>
                     <figDesc>
@@ -611,11 +585,11 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Sur cette feuille volante, la gravure oppose le Christ monté sur un âne, accompagné de son petit, face au pape, juché sur un cheval richement harnaché. La mise en regard dans le même espace de représentation, et non en deux gravures indépendantes, reproduit l'antithèse des <title>Faits</title> entre l'Entrée à Jérusalem et la chevauchée du pape vers l'enfer. Le texte au-dessous développe l'opposition entre les deux personnages, et recourt à un certain nombre de citations bibliques, dont celle de Mt 21 déjà citée dans les <title>Faits</title>.</note>
+                    <note type="commentaire">Sur cette feuille volante, la gravure oppose le Christ monté sur un âne, accompagné de son petit, face au pape, juché sur un cheval richement harnaché. La mise en regard dans le même espace de représentation, et non en deux gravures indépendantes, reproduit l'antithèse des <title>Faits</title> entre l'Entrée à Jérusalem et la chevauchée du pape vers l'enfer (antithèse 9a-9b). Le texte au-dessous développe l'opposition entre les deux personnages, et recourt à un certain nombre de citations bibliques, dont celle de Mt 21 déjà utilisée dans les <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
-                <item n="23">
+                <item n="22">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10150230_00751/full/full/0/default.jpg"/>
                     <figDesc>
@@ -641,7 +615,7 @@
                   </figure>
                 </item>
                 
-                <item n="24">
+                <item n="23">
                   <figure>
                     <graphic type="large" url="https://st.museum-digital.de/apis/iiif-image/161010/full/full/0/default.jpg"/>
                     <figDesc>
@@ -661,12 +635,12 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Cette feuille volante oppose le Christ, couronné d'épines et humblement vêtu, qui chevauche un âne face au pape, coiffé de la tiare et fastueusement habillé, qui monte un cheval richement harnaché. Cette mise en regard dans le même espace de représentation, et non en deux gravures indépendantes, reproduit l'antithèse des <title>Faits</title> entre l'entrée à Jérusalem et la chevauchée du pape vers l'enfer. Dans les angles, quatre médaillons forment deux paires d'opposition: le couronnement d'épines face au couronnement du pape; le portement de croix face au pape porté en procession sur un trône à baldaquin. Ce sont des antithèses des <title>Faits</title> (2a/2b et 6a/6b) et du <title>Passional</title>. L'inscription au-dessus de la scène principale: "Diese Figur anzeigen thut:/Christi des Herren Wandel gut./ Daneben auch Wie sich Verhaltt:/ des selberwölten knechts gestaltt." Les deux colonnes de texte au-dessous opposent d'un côté le Christ (pauvreté, humilité), de l'autre le pape (splendeur, cupidité, fausse doctrine).</note>
-                    <note>Bibliographie: N.-M. Klug, <title>Das Konfessionnelle Flugblatt 1563-1580. Eine Studie zur historischen Semiotik und Textanalyse</title>, Gruyter, Berlin/Boston, 2012, L 22 ; <title>Deutsche illustrierte Flugblätter des 16. und 17. Jahrhunderts</title>, hg. W. Harms u. M. Schilling, Bd. IX, De Gruyter, 2018, p. 246.</note>
+                    <note type="commentaire">Cette feuille volante oppose le Christ, couronné d'épines et humblement vêtu, qui chevauche un âne face au pape, coiffé de la tiare et fastueusement habillé, qui monte un cheval richement harnaché. Cette mise en regard dans le même espace de représentation, et non en deux gravures indépendantes, reproduit l'antithèse des <title>Faits</title> entre l'entrée à Jérusalem et la chevauchée du pape vers l'enfer (antithèse 9a-9b). Dans les angles, quatre médaillons forment deux paires d'opposition: le couronnement d'épines face au couronnement du pape; le portement de croix face au pape porté en procession sur un trône à baldaquin. Ce sont des antithèses des <title>Faits</title> (2a/2b et 6a/6b) et du <title>Passional</title>. L'inscription au-dessus de la scène principale: "Diese Figur anzeigen thut:/Christi des Herren Wandel gut./ Daneben auch Wie sich Verhaltt:/ des selberwölten knechts gestaltt." Les deux colonnes de texte au-dessous opposent d'un côté le Christ (pauvreté, humilité), de l'autre le pape (splendeur, cupidité, fausse doctrine).</note>
+                    <note>Bibliographie: N.-M. Klug, <title>Das Konfessionnelle Flugblatt 1563-1580. Eine Studie zur historischen Semiotik und Textanalyse</title>, Gruyter, Berlin/Boston, 2012, L 22; <title>Deutsche illustrierte Flugblätter des 16. und 17. Jahrhunderts</title>, hg. W. Harms u. M. Schilling, Bd. IX, De Gruyter, 2018, p. 246.</note>
                   </figure>
                 </item>
                 
-                <item n="25">
+                <item n="24">
                   <figure>
                     <graphic type="large" url="https://iiif.hedera.unige.ch/iiif/3/setaf/ChristAnePapeCheval_invRP-P-OB-78.845.png/full/max/0/default.jpg"/>
                     <figDesc>
@@ -686,11 +660,11 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Cette feuille volante en néerlandais reproduit la feuille volante en allemand (vers 1600), en y ajoutant deux hermès, respectivement à côté du Christ (avec les instruments de la Passion) et à côté du pape (indulgences, reliquaires, etc). Les quatre angles sont ornés des mêmes médaillons antithétiques, se rapportant aux antithèses 2a/2b et 6a/6b des <title>Faits</title>.</note>
+                    <note type="commentaire">Cette feuille volante en néerlandais reproduit celle rédigée en allemand (vers 1600), en y ajoutant deux hermès, respectivement à côté du Christ (avec les instruments de la Passion) et à côté du pape (indulgences, reliquaires, etc). Les quatre angles sont ornés des mêmes médaillons antithétiques, se rapportant aux antithèses 2a/2b et 6a/6b des <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
-                <item n="26">
+                <item n="25">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11118482_00137/full/full/0/default.jpg"/>
                     <figDesc>
@@ -715,7 +689,7 @@
                   </figure>
                 </item>
                 
-                <item n="27">
+                <item n="26">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11059700_00669/full/full/0/default.jpg"/>
                     <figDesc>

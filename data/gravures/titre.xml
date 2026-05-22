@@ -69,7 +69,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le motif central de la page de titre des <title>Faits</title> dérive des images de dévotion telle qu'on en trouve un exemple dans le <title>Speculum passionis</title>, dans un passage portant sur la méditation de la passion. Placé contre la croix de la Crucifixion, le Christ ressuscité montre sa plaie du côté, entouré de deux anges portant respectivement l'éponge vinaigrée et la lance, tandis que le fouet et les verges pendent du cadre même de la gravure.</note>
+                    <note type="commentaire">Le motif central de la page de titre des <title>Faits</title> dérive d'un type courant d'images de dévotion, comme dans cette gravure qui surmonte un texte consacré à la méditation sur la Passion dans le <title>Speculum passionis</title>. Placé contre la croix de la Crucifixion, le Christ ressuscité montre sa plaie du côté, entouré de deux anges portant respectivement l'éponge vinaigrée et la lance, tandis que le fouet et les verges pendent du cadre même de la gravure.</note>
                   </figure>
                 </item>
                 
@@ -80,10 +80,10 @@
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm">118 x 76</dim>
-                      <locus type="page">n.p</locus>
+                      <locus type="page">n.p.</locus>
                       <objectType>Gravure sur cuivre </objectType>
                       <bibl source="https://nbn-resolving.org/urn:nbn:de:bvb:22-dtl-0000027728">
-                        <title type="titre_ouvrage">Christ à la colonne (tiré de la passion sur cuivre)</title>
+                        <title type="titre_ouvrage">Christ à la colonne (tiré de la Passion sur cuivre)</title>
                         <author role="artiste">Albrecht Dürer</author>
                         <publisher>[s.n.]</publisher>
                         <pubPlace>Nuremberg</pubPlace>
@@ -93,7 +93,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La composition de Dürer a servi de modèle au motif central de la gravure de titre du <title>Passional</title> de Strasbourg et celle des <title>Faits</title>. La position du Christ ressuscité, placé légèrement devant la colonne, les bras croisés et repliés sur la poitrine, avec le fouet et les verges en main, est reproduite dans les trois pages de titre différentes des <title>Faits</title>.</note>
+                    <note type="commentaire">La composition de Dürer a servi de modèle au motif central de la gravure de titre du <title>Passional</title> de Strasbourg et celle des <title>Faits</title>. La position du Christ ressuscité, placé légèrement devant la colonne, les bras croisés et repliés sur la poitrine, avec le fouet et les verges en main, est reproduite dans les trois différentes pages de titre des <title>Faits</title>.</note>
                   </figure>
                 </item>
                 
@@ -119,11 +119,37 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La gravure de la page de titre représente le Christ à la colonne, entouré à gauche de saint Pierre nimbé (avec une clé surdimensionnée en main) et à droite d'un groupe de quatre ecclésiastiques (le pape, deux évêques, et un cardinal). Le Christ ressuscité et auréolé porte la couronne d'épines et tient un fouet et des verges. Placé au centre de l'image, il détermine deux espaces distincts, un extérieur d'un côté, l'intérieur d'un bâtiment de l'autre. Ces lieux permettent d'accuser le contraste entre un saint du premier temps du christianisme, vêtu de manière modeste et atemporelle et des ecclésiastiques du temps présent, richement vêtus. Le Christ se détourne de ces derniers pour échanger un regard avec l'apôtre. Un cadre composé de deux colonnes et d'un fronton monumentalise cette page de titre. Cette gravure sert de modèle direct à la première édition des <title>Faits</title> (1534).</note>
+                    <note type="commentaire">La gravure de la page de titre représente le Christ à la colonne, entouré à gauche de saint Pierre nimbé (avec une clé surdimensionnée en main) et à droite d'un groupe de quatre ecclésiastiques (le pape, deux évêques, et un cardinal). Le Christ ressuscité et auréolé porte la couronne d'épines et tient un fouet et des verges. Placé au centre de l'image, il détermine deux espaces distincts, un extérieur d'un côté, l'intérieur d'un bâtiment de l'autre. Ces deux différents lieux accentuent le contraste entre un saint du premier temps du christianisme, habillé de manière modeste et atemporelle, et les ecclésiastiques du temps présent, richement vêtus. Le Christ se détourne de ces derniers pour échanger un regard avec l'apôtre. Un cadre composé de deux colonnes et d'un fronton monumentalise cette page de titre. Cette gravure sert de modèle direct à la première édition des <title>Faits</title> (1534).</note>
                   </figure>
                 </item>
                 
                 <item n="4">
+                  <figure>
+                    <graphic url="https://content.staatsbibliothek-berlin.de/dc/828741352-0005/full/full/0/default.jpg"/>
+                    <figDesc>
+                      <title type="titre_courant"/>
+                      <title type="manchette"/>
+                      <dim unit="mm">57 x 65</dim>
+                      <locus type="page">page de titre</locus>
+                      <objectType>Gravure sur bois</objectType>
+                      <bibl source="http://resolver.staatsbibliothek-berlin.de/SBB0001A4CB00000000">
+                        <title type="titre_ouvrage">Nikolaus Manuel, Fastnachtschimpf, so zu Bern auf der alten Fastnacht gebraucht ist</title>
+                        <author role="artiste"/>
+                        <publisher>[Christoph Forschauer]</publisher>
+                        <pubPlace>[Zürich]</pubPlace>
+                        <date>[1527]</date>
+                        <idno type="VD16" corresp="https://gateway-bayern.de/VD16+M+709">VD16 n° M 709</idno>
+                        <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/627297">USTC n° 627297</idno>
+                        <availability>
+                          <licence>Staatsbibliothek zu Berlin, Preußischer Kulturbesitz - Public Domain</licence>
+                        </availability>
+                      </bibl>
+                    </figDesc>
+                    <note type="commentaire">Dans cette réédition de la pièce de carnaval de Niklaus Manuel, la page de titre met en scène la rencontre du Christ couronné d'épines, suivi d'un groupe de gens simples, avec le pape, en habits d'apparat, accompagné d'un cortège d'ecclésiastiques.</note>
+                  </figure>
+                </item>
+                
+                <item n="5">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00027716_00001/full/full/0/default.jpg"/>
                     <figDesc>
@@ -145,11 +171,11 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">En tête d'un ouvrage portant sur les erreurs de Luther, se retrouve le motif dérivant de la gravure de Dürer, utilisé dans le <title>Passional</title>, puis dans les <title>Faits</title>. Le Christ à la colonne est adoré par le théologien Hieronymus Emser agenouillé à ses pieds, comme le sont la Vierge et saint Jean chez Dürer. Une inscription constituée de deux extraits des psaumes les sépare: "Iniquos odio habui et legem tuam dilexi "(ps. 119) et  "cum impiis non sedebo (ps. 25).</note>
+                    <note type="commentaire">En tête d'un ouvrage visant à démontrer les erreurs du <title>New Testament</title> de Luther, se retrouve le motif dérivant de la gravure de Dürer, utilisé dans le <title>Passional</title>, puis dans les <title>Faits</title>. À gauche dans un intérieur, le Christ à la colonne est adoré par le théologien Hieronymus Emser agenouillé à ses pieds, comme le sont la Vierge et saint Jean chez Dürer. Une inscription constituée de deux extraits des psaumes les sépare: "Iniquos odio habui et legem tuam dilexi "(ps. 119) et  "cum impiis non sedebo (ps. 25).</note>
                   </figure>
                 </item>
                 
-                <item n="5">
+                <item n="6">
                   <figure>
                     <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bd6t53789915t/f5/full/full/0/native.jpg"/>
                     <figDesc>
@@ -171,7 +197,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Première édition des <title>Faits</title>. Copie très fidèle de la page de titre du <title>Passional</title> de Strasbourg, avec des différences mineures dans la représentation des visages, des drapés, des tissus (le pape a ici une robe dépourvue de motifs), et un raidissement du système de hachures. La gravure est employée deux fois dans cette édition, en page de titre, et en tête du dialogue précédant les antithèses proprement dites (sign. A3).</note>
+                    <note type="commentaire">Première édition des <title>Faits</title>. Copie très fidèle de la page de titre du <title>Passional</title> de Strasbourg, avec des différences mineures dans la représentation des visages, des drapés, des tissus (le pape a ici une robe dépourvue de motifs), et un raidissement du système de hachures. La gravure est employée deux fois dans cette édition, en page de titre, et en tête du dialogue liminaire (sign. A3).</note>
                   </figure>
                 </item>
                 
@@ -179,14 +205,14 @@
                   <graphic url="https://www.e-rara.ch/i3f/v20/4518832/full/full/0/default.jpg"/>
                 </item>
                 
-                <item n="6">
+                <item n="7">
                   <figure>
                     <graphic url="https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~425957~192597page4/full/full/0/default.jpg"/>
                     <figDesc>
                       <title type="titre_courant"/>
                       <title type="manchette"/>
                       <dim unit="mm">61 x 82</dim>
-                      <locus type="page">page de titre + sign A3v</locus>
+                      <locus type="page">page de titre</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source=" https://luna.manchester.ac.uk/luna/servlet/s/4h4t5v">
                         <title type="titre_ouvrage">Faitz de Jesus Christ et du pape</title>
@@ -199,11 +225,11 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Troisième édition des <title>Faits</title>. La composition de la gravure de la page de titre dérive de la deuxième édition des <title>Faits</title> (et pas de la première si l'on observe en particulier le groupe des ecclésiastiques très semblable dans les deux cas). Elle déploie horizontalement la représentation articulée autour de l'axe central formé par le Christ à la colonne, lointainement issu du modèle dürerien.</note>
+                    <note type="commentaire">Troisième édition des <title>Faits</title>. La composition de la gravure de la page de titre dérive de la deuxième édition des <title>Faits</title> (et pas de la première si l'on observe en particulier le groupe des ecclésiastiques très semblable dans les deux cas). Elle déploie horizontalement la représentation articulée autour de l'axe central formé par le Christ à la colonne, lointainement issu du modèle dürerien. Quant à la gravure précédant le dialogue liminaire, il s'agit du remploi de celle illustrant le titre de l'édition de Jean Michel.</note>
                   </figure>
                 </item>
                 
-                <item n="7">
+                <item n="8">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00084767_00007/full/full/0/default.jpg"/>
                     <figDesc>
@@ -213,7 +239,7 @@
                       <locus type="page">page de titre</locus>
                       <objectType>Gravure sur bois</objectType>
                       <bibl source="https://mdz-nbn-resolving.de/details:bsb00084767">
-                        <title type="titre_ouvrage">Martin Schrot, von der Erschrocklichen Zurstorung des Bapstums</title>
+                        <title type="titre_ouvrage">Martin Schrot, Von der Erschrocklichen Zurstörung des Bapstums</title>
                         <author role="artiste"/>
                         <publisher>[David de Negker]</publisher>
                         <pubPlace>Augsburg</pubPlace>
@@ -229,7 +255,7 @@
                   </figure>
                 </item>
                 
-                <item n="8">
+                <item n="9">
                   <figure>
                     <graphic url="https://www.e-manuscripta.ch/i3f/v21/2724366/0,0,7300,10148/700,/0/default.jpg"/>
                     <figDesc>
@@ -250,14 +276,14 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Pamphlet opposant, dans la gravure et le texte, le pape et Pierre. Le premier inspiré par un petit diable tente de s'emparer de la clé que le second défend avec un geste évoquant le titre du pamphlet, celui de qu'il effectue contre Malchus au moment de l'arrestation du Christ.</note>
+                    <note type="commentaire">Feuille volante opposant, dans la gravure et le texte, le pape et Pierre. Le premier inspiré par un petit diable tente de s'emparer de la clé que le second défend vigoureusement. Tout oppose ces deux figures, notamment leurs costumes et leur comportement, qui s'affrontent directement sans le Christ entre les deux.</note>
                     <note type="biblio">Bibliographie: <title>Enfer ou paradis. Aux sources de la caricature XVIe-XVIIIe siècles</title>, cat. expo., Gollion, Infolio, 2013, n° 16.</note>
                   </figure>
                 </item>
               </list>
             </figDesc>
             
-            <note>La gravure de la page de titre est réutilisée deux fois dans l'édition genevoise de Jean Michel (en page de titre et sign. A3v). Elle représente le Christ en homme de douleurs devant une colonne, entouré à gauche de saint Pierre et à droite d'un groupe de trois ecclésiastiques (le pape, un évêque, et un autre religieux) - au lieu des quatre religieux de la première édition des Faits. Le Christ ressuscité et auréolé porte la couronne d'épines et tient un fouet et des verges. Placé au centre de l'image, il détermine deux espaces distincts, un paysage d'un côté, l'intérieur d'un bâtiment de l'autre. Ces lieux permettent d'accuser le contraste entre un saint du premier temps du christianisme, vêtu de manière modeste et atemporelle, et des ecclésiastiques du temps présent, richement vêtus. Le Christ se détourne de ces derniers pour échanger un regard avec l'apôtre à ses côtés. Par rapport à la première édition des Faits, la gravure est sans cadre. </note>
+            <note>La gravure est réutilisée deux fois dans l'édition genevoise de Jean Michel (en page de titre et en tête du dialogue liminaire). Elle représente le Christ en homme de douleurs situé devant une colonne, entouré à gauche de saint Pierre et à droite d'un groupe de trois ecclésiastiques, emmené par le pape, suivi d'un évêque, et d'un dernier personnage, au lieu des quatre figures de la première édition des <title>Faits</title>. Le Christ ressuscité et auréolé porte la couronne d'épines et tient un fouet et des verges. Placé au centre de l'image, il détermine deux espaces distincts, un paysage d'un côté, l'intérieur d'un bâtiment de l'autre. Ces deux lieux différents accentuent le contraste entre un saint du premier temps du christianisme, habillé de manière modeste et atemporelle, et les ecclésiastiques du temps présent, richement vêtus. Le Christ se détourne de ces derniers pour échanger un regard avec l'apôtre. Par rapport à la première édition des <title>Faits</title>, la gravure est sans cadre. </note>
           </figure>
         </p>
       </sourceDesc>

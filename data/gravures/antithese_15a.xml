@@ -56,7 +56,7 @@
                       <dim unit="mm">305 x 210</dim>
                       <locus type="page">Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 2° Cod. Ms. theol. 182 Cim., f. 9v</locus>
                       <objectType>Enluminure</objectType>
-                      <bibl source="http://id.bildindex.de/thing/0001335580">
+                      <bibl source="https://resolver.staatsbibliothek-berlin.de/HSP00068FA600000000">
                         <title type="titre_ouvrage">Hussitencodex</title>
                         <author role="artiste"/>
                         <publisher/>
@@ -67,8 +67,8 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Suivant l'iconographie traditionnelle de la Cène, Jésus préside au centre d'une table rectangulaire son dernier repas avec ses douze compagnons (Pierre à sa droite et Jean à sa gauche). Cette enluminure fait face à une représentation de la messe (f. 10), formant une antithèse identique à celle du <title>Passional</title> et des <title>Faits</title>.</note>
-                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, 1994.</note>
+                    <note type="commentaire">Suivant l'iconographie traditionnelle de la Cène, Jésus préside au centre d'une table rectangulaire son dernier repas avec ses douze compagnons (Pierre à sa droite et Jean à sa gauche). Cette enluminure fait face à une représentation de la messe (f. 10 - antithèse 15b), formant une antithèse identique à celle du <title>Passional</title> et des <title>Faits</title>.</note>
+                    <note type="bibliographie">Bibliographie: V. Svec, <title>Bildagitation. Antipäpstliche Bildpolemik der böhmischen Reformation im Göttinger Hussitenkodex</title>, Alfter, VDG Verlag, 1994.</note>
                   </figure>
                 </item>
                 
@@ -118,7 +118,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La dernière Cène se déroule autour d'une table ronde où se tiennent les douze disciples du Christ (Pierre à sa gauche, Jean  endormi contre sa poitrine). Judas, dans un vêtement jaune le désignant comme traitre, cache sa bourse dans son dos. Il s'agit d'une dérivation de la gravure du même thème de Wolgemut et Pleydenwurff parue dans le <title>Schatzbehalter</title>, à Nuremberg, chez Anton Koberger en 1491. L'enluminure est opposée, comme dans le <title>Hussitencodex</title>, à une représentation de la messe (f. 68), et forme la même antithèse que dans les <title>Faits</title>.</note>
+                    <note type="commentaire">La dernière Cène se déroule autour d'une table ronde où se tiennent les douze disciples du Christ (Pierre à sa gauche, Jean  endormi contre sa poitrine, Judas vêtu en jaune). Il s'agit d'une dérivation de la gravure du même thème de Wolgemut et Pleydenwurff parue dans le <title>Schatzbehalter</title>, à Nuremberg, chez Anton Koberger en 1491. L'enluminure est opposée, comme dans le <title>Hussitencodex</title>, à une représentation de la messe (f. 68 - antithèse 15b), et forme la même antithèse que celle des <title>Faits</title>.</note>
                     <note type="biblio">Bibliographie: Kamil Boldan (éd.), <title>The Jena Codex</title>, Prague, 2009, p. 157.</note>
                   </figure>
                 </item>
@@ -279,7 +279,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">La Cène est figurée conformément à la tradition: le Christ auréolé se tient au centre de la table ronde, entouré de ses disciples. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois. Elle est aussi remployée dans l'ouvrage de Mainardo, Anatomie de la messe, paru chez Jean Crespin à Genève (1557). </note>
+                    <note type="commentaire">La Cène est figurée conformément à la tradition: le Christ auréolé se tient au centre de la table ronde, entouré de ses disciples. Les rééditions latines successives - Genève, Zacharie Durant, 1558 [https://onb.digital/result/1093E2E7] et Genève, Eustache Vignon, 1578 [https://doi.org/10.3931/e-rara-1147] - réutilisent le même bois. Elle est aussi remployée dans l'ouvrage de Mainardo, Anatomie de la messe, paru chez Jean Crespin à Genève (1557). Cette gravure, ainsi que celle de la messe, sont reproduites sur la même page dans Bernardino Ochino, <title>Imagen del Antechristo</title>, Genève, [Jean Crespin], [1557], p. 10.</note>
                   </figure>
                 </item>
                 
@@ -305,7 +305,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Le titre de la double page, "Antithese de la Cene du Seigneur Jesus, à la messe papistique", décrit précisément les deux gravures qui l'occupent. Celles-ci reproduisent l'antithèse des <title>Faits</title>. À gauche, la Cène est figurée conformément à la tradition: le Christ auréolé se tient au centre de la table ronde, entouré de ses disciples. La gravure est remployée dans l'<title>Antithesis</title> de Simon du Rosier, paru chez Zacharie Durant à Genève (1557).</note>
+                    <note type="commentaire">Le titre de la double page, "Antithese de la Cene du Seigneur Jesus, à la messe papistique", décrit précisément les deux gravures qui l'occupent (antithèse 15a-15b). Celles-ci reproduisent l'antithèse des <title>Faits</title>. À gauche, la Cène est figurée conformément à la tradition: le Christ auréolé se tient au centre de la table ronde, entouré de ses disciples. La gravure est remployée dans l'<title>Antithesis</title> de Simon du Rosier, paru chez Zacharie Durant à Genève (1557).</note>
                   </figure>
                 </item>
                 
@@ -458,7 +458,7 @@
                         </availability>
                       </bibl>
                     </figDesc>
-                    <note type="commentaire">Reprise de l'iconographie de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), avec une inversion du sens de l'image et une modification du format qui entraîne le rapprochement des différents acteurs de cette scène. L'espace paraît plus profond, dessiné d'un damier, et le mur du fond est percé d'une ouverture circulaire.</note>
+                    <note type="commentaire">Reprise de l'iconographie de l'<title>Antithesis de praeclaris Christi et indignis Papae facinoribus</title> (1557), avec une inversion du sens de l'image et une modification du format qui entraîne le rapprochement des différents acteurs de cette scène. L'espace paraît plus profond: le sol est dessiné en damier, et le mur du fond est percé d'une ouverture circulaire.</note>
                   </figure>
                 </item>
                 
