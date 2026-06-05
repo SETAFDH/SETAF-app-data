@@ -12,11 +12,6 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-         <classDecl>
-            <taxonomy/>
-         </classDecl>
-      </encodingDesc>
    </teiHeader>
    <standOff>
       <listPlace>

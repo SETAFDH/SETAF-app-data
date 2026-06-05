@@ -21,14 +21,17 @@
                  <settlement>Halle</settlement>
                  <repository>Universitäts- und Landesbibliothek Sachsen-Anhalt</repository>
                  <idno>Ib 4187 a (30)</idno>
+                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/611935">USTC n° 611935</idno>
+                 <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5589">VD16 n° L 5589</idno>
               </msIdentifier>
               <msContents>
                  <msItem>
                     <docAuthor>
-                       <name>Luther Martin</name>
-                       <name>Philippe Melanchthon</name>
+                       <name><supplied>Martin Luther</supplied></name>
+                       <name>Philip Melanchthon</name>
+                       <name>Johannes Schwertfeger</name>
                     </docAuthor>
-                    <docTitle><titlePart type="main">Passional Christi und Antichristi</titlePart></docTitle>
+                    <docTitle><titlePart type="main">Antithesis Figurata Vitae Christi Et Anthichristi</titlePart></docTitle>
                     <docImprint>
                        <pubPlace>Wittenberg</pubPlace>
                        <publisher>Johann Rhau-Grunenberg</publisher>
@@ -52,12 +55,15 @@
                  <settlement>Dresden</settlement>
                  <repository>Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden (SLUB)</repository>
                  <idno>Hist.eccl.E.319,2</idno>
+                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683162">USTC n° 683162</idno>
+                 <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5584">VD16 n° L 5584</idno>
               </msIdentifier>
               <msContents>
                  <msItem>
                     <docAuthor>
-                       <name>Luther Martin</name>
-                       <name>Philippe Melanchthon</name>
+                       <name><supplied>Martin Luther</supplied></name>
+                       <name>Philip Melanchthon</name>
+                       <name>Johannes Schwertfeger</name>
                     </docAuthor>
                     <docTitle><titlePart type="main">Passional Christi und Antichristi</titlePart></docTitle>
                     <docImprint>
@@ -71,7 +77,7 @@
                     <note>In-4°</note>
                     <bibl>
                        <ptr type="facsimile" target="https://digital.slub-dresden.de/werkansicht/dlf/174230/1"/>
-                       <ptr type="facsimile" target="https://www.digitale-sammlungen.de/en/details/bsb00086460"/><!-- Exemplaire employé dans le catalogue des images par BR -->
+                       <ptr type="facsimile" target="https://www.digitale-sammlungen.de/en/details/bsb00086460"/><!-- Exemplaire employé dans le catalogue des images par BR: l'exemplaire utilisé est celui de Munich -->
                        <ptr type="EditionNumerique_formatXML-TEI" target="https://www.deutschestextarchiv.de/book/show/luther_passional_1521"/>
                     </bibl>  
                  </msItem>
@@ -84,12 +90,15 @@
                  <settlement>Zürich</settlement>
                  <repository>Zentralbibliothek</repository>
                  <idno>18.84: c,3</idno>
+                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683165">USTC n° 683165</idno>
+                 <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5583">VD16 n° L 5583</idno>
               </msIdentifier>
               <msContents>
                  <msItem>
                     <docAuthor>
-                       <name>Luther Martin</name>
-                       <name>Philippe Melanchthon</name>
+                       <name><supplied>Martin Luther</supplied></name>
+                       <name>Philip Melanchthon</name>
+                       <name>Johannes Schwertfeger</name>
                     </docAuthor>
                     <docTitle><titlePart type="main">Passional Christi und Antichristi</titlePart></docTitle>
                     <docImprint>
@@ -114,12 +123,15 @@
                  <settlement>Munich</settlement>
                  <repository>Bayerische Staatsbibliothek</repository>
                  <idno>Res/4 H.eccl. 870,9</idno>
+                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683166">USTC n° 683166</idno>
+                 <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5582">VD16 n° L 5582</idno>
               </msIdentifier>
               <msContents>
                  <msItem>
                     <docAuthor>
-                       <name>Luther Martin</name>
-                       <name>Philippe Melanchthon</name>
+                       <name><supplied>Martin Luther</supplied></name>
+                       <name>Philip Melanchthon</name>
+                       <name>Johannes Schwertfeger</name>
                     </docAuthor>
                     <docTitle>
                        <titlePart type="main">Passional Christi vnd Antichristi</titlePart>
@@ -147,6 +159,8 @@
                  <settlement>Zürich</settlement>
                  <repository>Zentralbibliothek</repository>
                  <idno>18.516,11</idno>
+                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/683163">USTC n° 683163</idno>
+                 <idno type="VD16" corresp="https://gateway-bayern.de/VD16+L+5579">VD16 n° L 5579</idno>
               </msIdentifier>
               <msContents>
                  <msItem>
@@ -179,13 +193,17 @@
                  <settlement>Paris</settlement>
                  <repository>Bibliothèque d'histoire du protestantisme français</repository>
                  <idno>A 1001</idno>
+                 <idno type="USTC" corresp="https://www.ustc.ac.uk/editions/9471"/>
+                 <idno type="GLN15-16" corresp="https://collections.geneve.ch/bge/gln/notice/?no=GLN-4486">GLN 15-16 n° 4486</idno>
               </msIdentifier>
               <msContents>
                  <msItem>
-                    <docAuthor>
-                       <name>Luther Martin</name>
-                       <name>Philippe Melanchthon</name>
-                    </docAuthor>
+                    <!--  
+                           <docAuthor>
+                              <name><supplied>Martin Luther</supplied></name>
+                              <name>Philip Melanchthon</name>
+                              <name>Johannes Schwertfeger</name>
+                           </docAuthor>-->
                     <docTitle>
                        <titlePart type="main">Faictz de Jesus Christ et du Pape</titlePart>
                     </docTitle>
@@ -213,16 +231,18 @@
               </msIdentifier>
               <msContents>
                  <msItem>
-                    <docAuthor>
-                       <name>Luther Martin</name>
-                       <name>Philippe Melanchthon</name>
-                    </docAuthor>
+                    <!--  
+                           <docAuthor>
+                              <name><supplied>Martin Luther</supplied></name>
+                              <name>Philip Melanchthon</name>
+                              <name>Johannes Schwertfeger</name>
+                           </docAuthor>-->
                     <docTitle>
                        <titlePart type="main">Les faitz de Iesus Christ et du Pape</titlePart>
                     </docTitle>
                     <docImprint>
-                       <pubPlace>France</pubPlace>
-                       <publisher>Pierre de Vingle</publisher>
+                       <pubPlace>France, <supplied>Lyon</supplied></pubPlace>
+                       <publisher><supplied>Jean Saugrain</supplied></publisher>
                     </docImprint>
                     <docDate notBefore="1550" notAfter="1560">s.d.</docDate>
                     <imprimatur>Imprimé à Rome au chasteau de sainct Ange</imprimatur>

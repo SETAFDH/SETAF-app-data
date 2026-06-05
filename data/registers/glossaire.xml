@@ -904,6 +904,11 @@
                   <p>(loc.verb.): se soucier de qqch</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/cure" corresp="Article_completA2"/>
                </item>
+               <item xml:id="dance">
+                  <term>basse danse</term>
+                  <p>danse noble, lente et glissée</p>
+                  <ptr target="http://www.atilf.fr/dmf/definition/danse"/>
+               </item>
                <item xml:id="debonnaire"><!-- A SUPPRIMER -->
                   <term>débonnaire</term>
                   <p>(adj.): doux, bon, gentil</p>
@@ -996,6 +1001,11 @@
                   <term>departir, départir</term>
                   <p>(verbe): partager qqch, diviser</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/départir"/>
+               </item>
+               <item xml:id="depourvu">
+                 <term>dépourvu, despourvu de</term>
+                 <p>(adj.): démuni, privé de, dépourvu de</p>
+                  <ptr target="http://www.atilf.fr/dmf/definition/dépourvu"/>
                </item>
                <item xml:id="deporter">
                   <term>se déporter de + inf.</term>
@@ -1474,8 +1484,8 @@
               </item>
               <item xml:id="feste">
                <term>faire (la) fête à qq'un de qqchose</term>
-               <p>(loc.verbale): faire plaisir à qq'un au moyen de qqchose</p>
-               <ptr target="http://www.atilf.fr/dmf/definition/fête" corresp="Article_complet4a"/>
+               <p>(loc.verbale): faire plaisir à qq'un au moyen de qqch</p>
+               <ptr target="http://www.atilf.fr/dmf/definition/fête" corresp="Article_completC4a"/>
               </item>
               <item xml:id="fiance"><!-- A SUPPRIMER -->
                 <term>fiance</term>
@@ -1603,7 +1613,8 @@
                </item>
                <item xml:id="fulmination1">
                  <term>fulmination</term> 
-                 <p>(subst.fem.): publication (d'un décret, d'une condamnation, etc.); action de l'autorité ecclésiastique qui fulmine</p>
+                  <p>(subst. fem.): condamnation, acte par lequel l'autorité ecclésiastique lance une condamnation de l'Église</p>
+                  <p>(subst.fem.): publication (d'un décret, d'une condamnation, etc.); action de l'autorité ecclésiastique qui fulmine</p>
                  <ptr target="http://www.atilf.fr/dmf/definition/fulmination"/>
                </item>
               <item xml:id="fulmination2">
@@ -1729,12 +1740,22 @@
                 <p>(subst.masc.): hameçon</p>
                 <ptr target="http://www.atilf.fr/dmf/definition/aim"/>
                </item>
+               <item xml:id="happer">
+                  <term>happer</term>
+                  <p>(verbe): saisir brusquement qqch., arracher qqch., s'emparer de qqch.</p>
+                  <ptr target="http://www.atilf.fr/dmf/definition/happer "/>
+               </item>
                <item xml:id="haranguer">
                  <term>haranguer</term>
                  <p>(verbe): faire un discours, empreint d'une certaine solennité, en public à une assemblée, à un prince.</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/harangue"/>
                   <ptr target="http://www.atilf.fr/dmf/definition/haranguer"/>
                </item>
+              <item xml:id="hardiment">
+                 <term>hardiment</term>
+                 <p>(adv.): en toute assurance; sans hésiter, sans discuter</p>
+                 <ptr target="http://www.atilf.fr/dmf/definition/hardiment"/>
+              </item>
                <item xml:id="hautesse">
                   <term>hautesse</term>
                   <p>(subst.fem.): prééminence, puissance</p>
@@ -2149,6 +2170,13 @@
                   <p>(verbe):mettre qqun en avant</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/mettre" corresp="IC1a"/>
                </item>
+               <item xml:id="milieu">
+                  <term>du milieu</term>
+                  <term>de medio (lat.)</term>
+                  <p>Expression qui traduit le latin <hi rend="italic">de medio</hi>, employée avec le verbe <hi rend="italic">tollere</hi> (enlever, ôter) dans Col 2:14: <hi rend="italic">et ipsum tulit de medio, affigens illud cruci</hi>.
+                     Avec le verbe "ôter", elle prend le sens de : « retirer », « écarter », « faire disparaître ».
+                  </p>
+               </item>
                <item xml:id="ministrer">
                   <term>ministrer</term>
                   <p>(verbe): prendre soin de, servir, assurer un service, procurer qqch à qq'un, donner, distribuer, administrer</p>
@@ -2182,6 +2210,8 @@
                <item xml:id="mouchoir">
                   <term>mouchoir</term>
                   <p>(subst.masc.): petite pièce de linge, servant principalement pour se moucher</p>
+                  <p>En référence ici au manuterge: petit linge avec lequel le prêtre s'essuie les mains après les ablutions au moment du lavabo de la messe; essuie-main
+                  <ref type="static_link" target="https://liturgie.catholique.fr/lexique/manuterge/"/></p>
                   <ptr target="http://www.atilf.fr/dmf/definition/mouchoir1"/>
                </item>
                <item xml:id="mouvement">
@@ -2546,7 +2576,7 @@
                   <p>(subst.masc.): procès, action en justice</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/plaid"/>
                </item>
-               <item xml:id="plaidoyer"><!-- A SUPPRIMER -->
+               <item xml:id="plaidoyer">
                   <term>plaidoyer</term>
                   <p>(verbe): soutenir une cause; plaider</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/plaidoyer1"/>
@@ -2692,6 +2722,13 @@
                <item xml:id="presumer">
                   <term>présumer</term>
                   <p>(verbe): prétendre faire qqch., oser qqch.</p>
+               </item>
+               <item xml:id="pretoire">
+                  <term>pretoire</term>
+                  <p>(subst.masc.): tribunal où le magistrat appelé preteur rend la justice</p>
+                  <p>(par.ext.): tribunal</p>
+                  <ptr target="http://www.atilf.fr/dmf/definition/prétoire1"/>
+                  <ptr target="https://gaffiot.fr/#1%20praetorium"/>
                </item>
                <item xml:id="prevenir">
                   <term>prevenir</term>
@@ -2840,7 +2877,9 @@
                <item xml:id="querir"><!-- A SUPPRIMER -->
                   <term>quérir (à ou de) + inf.</term>
                   <p>(verbe): chercher à</p>
-                  <term n="2">querir</term>
+               </item>
+               <item xml:id="querir2">
+                  <term>querir</term>
                   <p>(verbe): chercher, rechercher</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/quérir"/>
                </item>
@@ -2946,6 +2985,13 @@
                   <term>reprocher</term>
                   <p>(verbe): blâmer, accuser</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/reprocher"/>
+               </item>
+               <item xml:id="reprouvé">
+                 <term>répouvré</term>
+                  <p>(adj.): maudit, pervers, méprisable</p>
+                  <p>(verbe)(relig.)(de Dieu): rejeter qqn et destiner aux peines éternelles </p>
+                  <ptr target="http://www.atilf.fr/dmf/definition/réprouvé"/>
+                  <ptr target="http://www.atilf.fr/dmf/definition/réprouver1"/>
                </item>
                <item xml:id="repugner">
                   <term>repugner à</term>
