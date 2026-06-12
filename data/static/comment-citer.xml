@@ -17,15 +17,45 @@
   <text>
      <body xml:id="static">
         <div xml:lang="fr">
-           <head>Comment citer ?</head>
+           <head type="static_main_title">Comment citer ?</head>
            
-           <p>En construction</p>
+           <div>
+              <head type="static_subtitle">Citer le Corpus Réformé Romand</head>
+              
+              <p>Cas complexe :
+               <list>
+                  <item><hi rend="bold">Citation courte :</hi> Farel, Guillaume. Summaire, et briefve declaration d’aucuns lieux fort necessaires. Item, ung traicté du Purgatoire. Neuchâtel : Pierre de Vingle, 1534. Éd. num. par S. Solfrini et al. CRRPV23, Projet SETAF, dir. D. Solfaroli Camillocci. [URL], consulté le 28 août 2025.</item>
+                  <item><hi rend="bold">Citation longue :</hi> [Farel, Guillaume]. <hi rend="italic">Summaire, et briefve declaration d’aucuns lieux fort necessaires. Item, ung traicté du Purgatoire.</hi> [Neuchâtel] : [Pierre de Vingle], 1534. Édition numérique réalisée par Sonia Solfrini, Aurélia Marques Oliveira, Pierre-Olivier Beaulnes, Mylène Dejouy, Geneviève Gross, Simon Gabay et Elina Leblanc. CRRPV23, Projet SETAF, dir. Daniela Solfaroli Camillocci. [URL], consulté le 28 août 2025.</item>
+               </list>
+              </p>
+              <p>Cas simple :
+                 <list>
+                    <item><hi rend="bold">Citation courte :</hi> Malingre, Matthieu. Chansons nouvelles demonstrantz plusieurs erreurs et faulsetez. Neuchâtel : Pierre de Vingle, 1534?. Éd. num. par S. Solfrini et al. CRRPV16, Projet SETAF, dir. D. Solfaroli Camillocci. [URL], consulté le 28 août 2025.</item>
+                    <item><hi rend="bold">Citation longue :</hi> [Malingre, Matthieu]. <hi rend="italic">Chansons nouvelles demonstrantz plusieurs erreurs et faulsetez.</hi> [Neuchâtel] : [Pierre de Vingle], [1534?]. Édition numérique réalisée par Sonia Solfrini, Simon Gabay et Elina Leblanc. CRRPV16, Projet SETAF, dir. Daniela Solfaroli Camillocci. [URL], consulté le 28 août 2025.</item>
+                 </list>                 
+              </p>
+           </div>
         </div>
         
         <div xml:lang="en">
-           <head>How to cite?</head>
+           <head type="static_main_title">How to cite?</head>
            
-           <p>In progress</p>
+           <div>
+              <head type="static_subtitle">Citer le Corpus Réformé Romand</head>
+              
+              <p>Cas complexe :
+                 <list>
+                    <item><hi rend="bold">Citation courte :</hi> Farel, Guillaume. Summaire, et briefve declaration d’aucuns lieux fort necessaires. Item, ung traicté du Purgatoire. Neuchâtel : Pierre de Vingle, 1534. Éd. num. par S. Solfrini et al. CRRPV23, Projet SETAF, dir. D. Solfaroli Camillocci. [URL], consulté le 28 août 2025.</item>
+                    <item><hi rend="bold">Citation longue :</hi> [Farel, Guillaume]. <hi rend="italic">Summaire, et briefve declaration d’aucuns lieux fort necessaires. Item, ung traicté du Purgatoire.</hi> [Neuchâtel] : [Pierre de Vingle], 1534. Édition numérique réalisée par Sonia Solfrini, Aurélia Marques Oliveira, Pierre-Olivier Beaulnes, Mylène Dejouy, Geneviève Gross, Simon Gabay et Elina Leblanc. CRRPV23, Projet SETAF, dir. Daniela Solfaroli Camillocci. [URL], consulté le 28 août 2025.</item>
+                 </list>
+              </p>
+              <p>Cas simple :
+                 <list>
+                    <item><hi rend="bold">Citation courte :</hi> Malingre, Matthieu. Chansons nouvelles demonstrantz plusieurs erreurs et faulsetez. Neuchâtel : Pierre de Vingle, 1534?. Éd. num. par S. Solfrini et al. CRRPV16, Projet SETAF, dir. D. Solfaroli Camillocci. [URL], consulté le 28 août 2025.</item>
+                    <item><hi rend="bold">Citation longue :</hi> [Malingre, Matthieu]. <hi rend="italic">Chansons nouvelles demonstrantz plusieurs erreurs et faulsetez.</hi> [Neuchâtel] : [Pierre de Vingle], [1534?]. Édition numérique réalisée par Sonia Solfrini, Simon Gabay et Elina Leblanc. CRRPV16, Projet SETAF, dir. Daniela Solfaroli Camillocci. [URL], consulté le 28 août 2025.</item>
+                 </list>                 
+              </p>
+           </div>
         </div>
      </body>
   </text>
