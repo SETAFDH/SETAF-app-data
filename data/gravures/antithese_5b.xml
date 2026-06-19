@@ -175,8 +175,33 @@
                       dans l'arrière-fond.</note>
                   </figure>
                 </item>
-
+                
                 <item n="5">
+                  <figure>
+                    <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b550056857/manifest.json"/>
+                    <figDesc>
+                      <title type="titre_courant"/>
+                      <title type="manchette"/>
+                      <dim unit="mm">240 × 163 mm (folio entier)</dim>
+                      <locus type="page">Paris, Arsenal Ms 5116, f. 36</locus>
+                      <objectType>Enluminure</objectType>
+                      <bibl source="https://gallica.bnf.fr/ark:/12148/btv1b550056857">
+                        <title type="titre_ouvrage">Anne de Graville, Beau Roman</title>
+                        <author role="artiste">Exécutant principal des <title>Statuts</title></author>
+                        <publisher/>
+                        <pubPlace/>
+                        <date>1521-1524</date>
+                        <availability>
+                          <licence>Source gallica.bnf.fr / Bibliothèque nationale de France. Bibliothèque de l'Arsenal. Ms-5116 réserve – Public Domain</licence>
+                        </availability>
+                      </bibl>
+                    </figDesc>
+                    <note type="commentaire">Dans la littérature et l'art médiéval, la représentation des tournois inclut très souvent les nobles femmes comme spectatrices, celles-ci offrant un miroir à la vaillance masculine. Dans cette enluminure, les balcons où se tiennent les spectatrices bloquent la perspective et ceignent l'avant-plan où combattent violemment deux chevaliers dans une composition analogue à celle du pape assistant au tournoi du <title>Passional</title>, puis des <title>Faits</title>.</note>
+                    <note type="bibliographie">Bibliographie: Elizabeth L'Estrange, <title>Anne de Graville and Women's Literary Networks in Early Modern France</title>, Cambridge, Brewer, 2023, p. 206.</note>
+                  </figure>
+                </item>
+
+                <item n="6">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00038996_00023/full/full/0/default.jpg"/>
                     <figDesc>
@@ -206,7 +231,7 @@
                   </figure>
                 </item>
 
-                <item n="6">
+                <item n="7">
                   <figure>
                     <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bd6t53789915t/f19/full/full/0/native.jpg"/>
                     <figDesc>
@@ -238,7 +263,7 @@
                   <graphic url="https://www.e-rara.ch/i3f/v20/4518857/full/full/0/default.jpg"/>
                 </item>
 
-                <item n="7">
+                <item n="8">
                   <figure>
                     <graphic url="https://www.e-rara.ch/i3f/v20/11282344/full/full/0/default.jpg"/>
                     <figDesc>
@@ -273,7 +298,7 @@
                   </figure>
                 </item>
 
-                <item n="8">
+                <item n="9">
                   <figure>
                     <graphic url="https://www.e-rara.ch/i3f/v20/11943202/full/full/0/default.jpg"/>
                     <figDesc>
@@ -303,7 +328,7 @@
                   </figure>
                 </item>
 
-                <item n="9">
+                <item n="10">
                   <figure>
                     <graphic url="https://digi.ub.uni-heidelberg.de/diglitData/image/rosarius1560/4/00_050.jpg"/>
                     <figDesc>
@@ -337,7 +362,7 @@
                   </figure>
                 </item>
 
-                <item n="10">
+                <item n="11">
                   <figure>
                     <graphic url="https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~425957~192597page29/full/full/0/default.jpg"/>
                     <figDesc>
@@ -362,7 +387,7 @@
                   </figure>
                 </item>
 
-                <item n="11">
+                <item n="12">
                   <figure>
                     <graphic url="https://www.e-rara.ch/i3f/v20/4454344/full/full/0/default.jpg"/>
                     <figDesc>
@@ -393,7 +418,7 @@
                   </figure>
                 </item>
 
-                <item n="12">
+                <item n="13">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00034957_00055/full/full/0/default.jpg"/>
                     <figDesc>
@@ -428,7 +453,7 @@
                   </figure>
                 </item>
 
-                <item n="13">
+                <item n="14">
                   <figure>
                     <graphic url="https://iiif.hedera.unige.ch/iiif/3/setaf/teghenstellinghe_B8r.png/full/max/0/default.jpg"/>
                     <figDesc>
@@ -458,7 +483,7 @@
                   </figure>
                 </item>
 
-                <item n="14">
+                <item n="15">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10150230_00745/full/full/0/default.jpg"/>
                     <figDesc>
@@ -497,7 +522,7 @@
                   </figure>
                 </item>
 
-                <item n="15">
+                <item n="16">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11118482_00119/full/full/0/default.jpg"/>
                     <figDesc>
@@ -530,7 +555,7 @@
                   </figure>
                 </item>
 
-                <item n="16">
+                <item n="17">
                   <figure>
                     <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11059700_00661/full/full/0/default.jpg"/>
                     <figDesc>

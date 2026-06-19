@@ -15,432 +15,607 @@
    </teiHeader>
    <standOff>
       <listPerson>
-               <person xml:id="Anne">
-                  <name>Anne</name>
-                  <note>personnage biblique</note>
-                  <note>grand-prêtre</note>
-                  <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-278-anne-grand-pretre-"/>
-               </person>
-               <person xml:id="Aaron">
-                  <name>Aaron</name>
-                  <note>figure biblique</note>
-                  <note>frère de Mo!ise, prêtre</note>
-                  <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-112-aaron"/>
-               </person>
-               <person xml:id="Apulee"><!-- A COMPLETER -->
-                  <name>Apulée</name>
-                  <name xml:lang="la">Lucius Apuleius, Madaurensis</name>
-                  <name type="alternatif"/>
-                  <birth>vers 125</birth>
-                  <death>vers 180</death>
-                  <note/>
-                  <ptr target="https://d-nb.info/gnd/11850374X"/>
-               </person>
-               <person xml:id="Alexandre">
-                  <name>Rodrigo Borgia</name>
-                  <name role="pape">Alexandre VI</name>
-                  <birth>1431</birth>
-                  <death>1503</death>
-                  <note>élu au pontificat en 1492</note>
-                  <note>Il est notamment le père de quatre enfants, qu’il a eu avec Vannozza Cattanei : Giovanni (1474-1497), César dit le Valentinois (1475-1503), Lucrèce (1480-1519) et Geoffroi (1481-1517).</note>
-                  <ptr target="https://www.idref.fr/029427894"/>
-               </person>
-               <person xml:id="Aulus">
-                 <name>Aulu-Gelle</name>
-                 <name xml:lang="la">Aulus Gellius</name>
-                 <birth>vers 123</birth>
-                 <death>180</death>
-                 <note/>
-                  <ptr target="https://d-nb.info/gnd/118716735"/><!-- lien à son écrit : https://www.thelatinlibrary.com/gellius.html -->
-               </person>
-               <person xml:id="Barnabas">
-                  <name>Barnabas, Barnabé</name>
-                  <persName>surnom donné par les apôtres à Joseph, le Lévite</persName>
-                  <note>figure biblique</note>
-                  <note>apôtre et martyr</note>
-                  <ptr target="https://d-nb.info/gnd/118652559"/>
-                  <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-662-barnabas"/>
-                  <ptr target="https://editeurbpc.com/dictionnaires/dictionnaire-nouveau-testament/5161"/>
-               </person>
-               <person xml:id="Barrabas">
-                  <name>Barabas</name>
-                  <note>personnage biblique</note>
-                  <note>Voleur condamné à mort et gracié à l'occasion de la Pâque, sur la demande de la foule, alors que Pilate proposait de libérer Jésus
-                  <bibl>Le petit Robert des noms propres / redaction dirigée par Alain Rey, DL 2000</bibl>
-                  </note>
-                  <ptr target="https://www.idref.fr/201293900"/>
-                  <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-650-barabbas"/>
-               </person>
-               <person xml:id="Berenger">
-                  <name>Bérenger de Tours</name>
-                  <persName xml:lang="la">Berengarius Turonensis</persName>
-                  <birth>1000(env.)</birth> 
-                  <death>1088</death>
-                  <note>Théologien</note>
-                  <note type="editor">Théologien formé à Chartres auprès de Fulbert (960?-1028), maître des écoles de Saint-Martin de Tours et archidiacre d’Angers. 
-                     Figure majeure de la controverse eucharistique du XIᵉ siècle, il refuse d’admettre que le pain et le vin consacrés soient substantiellement changés en chair et sang du Christ, les comprenant comme signes ou figures du corps et du sang qu’ils signifient.
-                     Cette position, fondée entre autres sur une compréhension augustinienne du sacrement comme signe, l’oppose notamment à Lanfranc du Bec et lui vaut plusieurs condamnations, dont celles de Verceil en 1050 <ref type="static_link" target="https://geschichtsquellen.de/werk/1614"/> et de Rome en 1059.
-                     Il meurt retiré sur l’île Saint-Cosme, près de Tours, en 1088. À ce propos, voir notamment : <bibl>Turpin, P. (2011). Querelle eucharistique et épaisseur du sensible : Bérenger et Lanfranc. Revue des sciences philosophiques et théologiques, Tome 95(2), 303-322. <ref type="static_link" target="ttps://doi.org/10.3917/rspt.952.0303"/>.</bibl>
-                  </note>
-                  <ptr target="https://www.idref.fr/030979625"/>
-               </person>
-               <person xml:id="Bertrand">
-                  <name>Bertrand de Got</name>
-                  <persName role="pope">Clément V</persName>
-                  <birth>1264</birth>
-                  <death>1314</death>
-                  <note>élu au pontificat en 1305</note>
-                  <ptr target="https://isni.org/isni/0000000454756495"/>
-               </person>
-               <person xml:id="Boniface">
-                  <name>Benedetto Caetani</name>
-                  <persName role="pope">Boniface VIII</persName>
-                  <birth>ca.1235/1240</birth>
-                  <death>1303</death>
-                  <note>élu au pontificat en 1294</note>
-                  <note type="editor">
-                  Du pontificat d’Alexandre III (1159-1181) à celui de Boniface VIII (1294-1303), la papauté mettra en œuvre le programme grégorien, en transformant une Église largement décentralisée en monarchie pontificale gouvernée par l’évêque de Rome.
-                  Reposant sur l’idée que le pape est le juge suprême universel et que l’autorité spirituelle l’emporte sur tout pouvoir terrestre, cette évolution se traduit par la centralisation de l’Église autour du pontife romain, seul détenteur de la <hi rend="italic">plenitudo potestatis</hi>, par l’essor du droit canonique et par l’affirmation progressive d’une prétention au <hi rend="italic">dominium</hi> universel du monde, sur l’ensemble de la chrétienté y compris les princes.
-                  Avec Innocent III, puis plus encore sous le pontificat de Boniface VIII, cette ambition atteint sa formulation la plus achevée, notamment dans la bulle <hi rend="italic">Unam sanctam</hi> (1302), qui présente le pontife romain comme l’autorité suprême, spirituelle et juridique, y compris à l’égard des pouvoirs séculiers.
-                  À ce propos, voir: <bibl>Théry, Julien. “Chapitre I. Le triomphe de la théocratie pontificale du IIIe concile du Latran au pontificat de Boniface VIII (1179-1303)”. In Structures et dynamiques religieuses dans les sociétés de l’Occident latin (1179-1449), edited by Marie-Madeleine de Cevins and Jean-Michel Matz. Rennes: Presses universitaires de Rennes, 2010.
-                  <ref type="static_link" target="doi:10.4000/books.pur.131043"/></bibl>.   
-                  </note>
-                  <note type="editor">La bulle <hi rend="italic">Unam sanctam</hi> promulgée par Boniface VIII en novembre 1302 proclame la primauté du pape et insiste sur la soumission du pouvoir temporel au pouvoir spirituel.
-                  Seul le glaive spirituel peut gouverner le glaive temporel, le pape se définissant en tant que vicaire du Christ: il est nécessaire de lui être soumis. La bulle s'appuie sur la théorie médiévale des « deux glaives », que possèdent le Christ. 
-                  <ref target="#f18_eSc_line_7456f6d4_ligne_8">Cette bulle est cité dans l'antithèse 3, fol. C1r°</ref>.</note>
-                  <ptr target="https://isni.org/isni/0000000121242007"/>
-               </person>
-               <person xml:id="Canaan">
-                  <name>Canaan</name>
-                  <persName>fils de Cham, un des trois fils de Moïse<ref>(Gn 10:6)</ref></persName>
-                  <note>personnage biblique</note>
-                  <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-calmet-1074-cham"/>
-                </person>
-               <person xml:id="Caiphe">
-                  <name>Caïphe</name>
-                  <note>personnage biblique</note>
-                  <note>grand-prêtre</note>
-                  <ptr target="https://d-nb.info/gnd/129446424"/>
-                  <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-982-caiphe"/>
-               </person>
-               <person xml:id="Corneille">
-                  <name>Corneille, Cornelius</name>
-                  <note>personnage biblique</note>
-                  <note>Ac 10:1</note>
-                  <ptr target="https://d-nb.info/gnd/1192479599"/>
-                  <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-1252-corneille"/>
-               </person>
-               <person xml:id="Constantin">
-                  <name>Constantin Ier</name>
-                  <name>Constantin le Grand</name>
-                  <persName>Flavius Valerius Aurelius Constantinus</persName>
-                  <birth>272/3</birth>
-                  <death>337</death>
-                  <note>empereur romain (306-337)</note>
-                  <note type="editor">Généralement considéré comme le premier empereur romain chrétien. En effet, après 312, il accorde une faveur croissante au christianisme : restitution de biens, soutien au clergé, construction d’églises, convocation du concile de Nicée en 325 et fondation de Constantinople, nouvelle capitale impériale, en 330.
-                     Baptisé à l’article de la mort en 337, il n’en apparaît pas moins comme le premier souverain ayant donné une place centrale au christianisme dans le gouvernement de l’Empire. À ce propos, voir:
-                     <bibl>Vincent Puech , « Constantin et la christianisation de l’empire romain », Encyclopédie d'histoire numérique de l'Europe [en ligne], ISSN 2677-6588, mis en ligne le 12/07/24 , consulté le 07/04/2026. Permalien : <ref type="URI">https://ehne.fr/fr/node/22378</ref></bibl>
-                     <bibl>Casey, P. J. "Constantine I [Flavius Valerius Constantinus; known as Constantine the Great] (272/3–337), Roman emperor." Oxford Dictionary of National Biography.  May 25, 2006. Oxford University Press. <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-48285"/></bibl></note>
-                  <ptr target="https://www.idref.fr/0304098109"/>
-                  <ptr target="https://isni.org/isni/0000000120966935"/>
-               </person>
-               <person xml:id="Daniel">
-                  <name>Daniel, Prophète</name>
-                  <note>figure biblique</note>
-                  <note>Livre de Daniel, Bible</note>
-                  <ptr target="https://d-nb.info/gnd/118678752"/>
-                  <ptr target="https://www.deutsche-biographie.de/118678752.html"/>
-                  <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-1345-daniel"/>
-                  <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-1346-daniel-livre-de-"/>
-               </person>
-               <person xml:id="Duchesne">
-                  <persName>Guillaume Duchesne</persName>
-                  <name>de Quercu</name>
-                  <birth>?</birth>
-                  <death>1525</death>
-                  <note type="courte">Docteur en théologie de la Sorbonne, prêtre/curé de S.Jean-en-Grève, Paris</note>
-                  <note type="longue">Guillaume Duchesne (de Quercu, † 1525), théologien parisien, docteur de la Sorbonne, est une figure importante de la Faculté de théologie. 
-                     Membre de nombreuses commissions, il participe aux procédures contre Reuchlin, Lefèvre d’Étaples et Luther.
-                     D’après Érasme, Duchesne joue un rôle actif dans l’examen et la condamnation de Luther par la faculté en 1520 et 1521; 
-                     Érasme le désigne fréquemment comme le principal collaborateur de Noël Béda dans les procédures parisiennes dirigées contre lui et contre Louis de Berquin.
-                     Dès 1505, Duchesne est chanoine de l’église collégiale Saint-Benoît-le-Bien-Tourné à Paris;
-                     vers 1520, il est curé de Saint-Jean-en-Grève à Paris et proviseur du collège d’Harcourt, puis est nommé membre d’une commission inquisitoriale par le Parlement de Paris et le pape Clément VII. 
-                     Notice d’après James F. Farge, Contemporaries of Erasmus, vol. 1, A–E: A Biographical Register of the Renaissance and Reformation, repr. Toronto, Univ. of Toronto Press, 1995, p. 410.</note>
-                  <note type="biblio">W.G. Moore, La Réforme allemande et la littérature française. Recherches sur la notoriété de Luther en France, Strasbourg, 1930, p. 272.
-                     Reid Jonathan A, King's sister - queen of dissent : Marguerite of Navarre (1492-1549) and her evangelical network, Leiden, Brill, 2009, p. 230.
-                     Registre des procès-verbaux de la Faculté de théologie de Paris, Paris : V. Lecoffre - J. Gabalda, 1917, p. 4. 
-                     Farge K. James, Biographical register of Paris doctors of theology 1500-1536, Toronto, 1980, p. 384, n°406.
-                     Calvin, Jean, Irena Backus, Claire Chimelli, et Guillaume Farel. La vraie piété : divers traités de Jean Calvin et Confession de foi de Guillaume Farel. Genève: Labor et Fides, 1986, p. 181, n.23.  
-                     Renaudet, Augustin. Préréforme et humanisme à Paris pendant les premières guerres d’Italie : 1494-1517. 2e éd. revue et corr. Paris: D’Argences, 1953, p. 537.
-                     Féret, Pierre. La Faculté de théologie de Paris et ses docteurs les plus célèbres : époque moderne. Paris: A. Picard, 1900, t.2, p. 62.
-                     Contemporaries of Erasmus Vol. 1.  A-E  : A Biographical Register of the Renaissance and Reformation. Repr. Toronto: Univ. of Toronto Press, 1995.  
-                  </note>
-                  <ptr/> 
-               </person>
-               <person xml:id="Eusebe">
-                  <name>Eusèbe de Césarée</name>
-                  <persName/>
-                  <birth>vers 260-264</birth>
-                  <death>vers 340</death>
-                  <note>Evêque de Césarée de Palestine vers 313 et auteur d'oeuvres apologétiques, exégétiques, dogmatiques et historiques, dont l'Histoire ecclésiastique qui raconte et retrace en dix livres l'histoire de l'Eglise chrétienne, des origines à la victoire de Constantin sur Licinius en 323.
-                  <bibl>Maraval, Pierre. “L’idéologie impériale de Constantin selon Eusèbe de Césarée”. In Les dieux et le pouvoir, edited by Christian-Georges Schwentzel and Marie-Françoise Baslez. Rennes: Presses universitaires de Rennes, 2016. doi:10.4000/books.pur.44924.<ref>https://books.openedition.org/pur/44924</ref></bibl>
-                  <bibl>Morlet, Sébastien. « Écrire l'Histoire selon Eusèbe de Césarée ». L'information littéraire, 2005/3 Vol. 57, 2005. p.3-15. CAIRN.INFO, <ref>shs.cairn.info/revue-l-information-litteraire-2005-3-page-3?lang=fr</ref></bibl>
-                  <bibl>Muckensturm-Poulle, Claire, « Exégèse et histoire sainte dans l’Histoire ecclésiastique d’Eusèbe de Césarée (livre I) », Dialogues d’histoire ancienne, 2010/S4.1 (Supplément 4.1), p. 141-153, Besançon, Presses universitaires de Franche-Comté, <ref>DOI : 10.3917/dha.hs41.014</ref>1.</bibl>.</note>
-                  <ptr target="isni:0000000122758806"/>
-                  <ptr target="https://www.fnz.geschichte.uni-muenchen.de/forschung/autoren-tabellenwerke/eusebius/index.html"/>
-               </person>
-               <person xml:id="Paul">
-                  <name>Pietro Barbo</name>
-                  <persName role="pope">Paul II</persName>
-                  <birth>1417</birth>
-                  <death>1471</death>
-                  <note>élu au pontificat en 1464</note>
-                  <ptr target="https://isni.org/isni/0000000455908112"/>
-               </person>
-               <person xml:id="Gregoire">
-                  <name>Hildebrand, Ildebrando de Soana</name>
-                  <persName role="pope">Grégoire VII</persName>
-                  <birth>1020</birth>
-                  <death>1085</death>
-                  <note>élu au ponticat en 1073</note>
-                  <note type="editor">Grégoire VII est l’un des grands artisans de l’affirmation de la suprématie pontificale.
-                     Il s’appuie sur les acquis de ses prédécesseurs en matière d’autonomie de l’élection pontificale et sur l’exaltation progressive de la figure de Pierre, premier des apôtres selon l’Évangile de Matthieu, dont le pape se présente comme le vicaire sur terre.
-                     Les <hi rend="italic">Dictatus papae</hi> (1075), brouillon de collection canonique entrepris dans son entourage, affirment que le pape peut juger tous les autres sans être jugé lui-même et entendent lui réserver l’usage des insignes impériaux, signe tangible de la prétention pontificale à une domination universelle.
-                     Au début du XIIe siècle se mettent ainsi en place des pratiques et des usages relatifs à la tiare, au manteau pourpre, au sceptre et à un cérémonial de couronnement.
-                     Le pontificat de Grégoire VII est aussi marqué par son affrontement avec l’empereur Henri IV dans la querelle des Investitures : refus de l’investiture laïque des évêques, excommunication et déposition du souverain.
-                     Ce conflit touche à la <hi rend="italic">libertas ecclesiae</hi> et permet à Grégoire VII d’affirmer l’autorité du pape au nom de la vérité de l’ordre ecclésial : le pontife peut juger et rompre avec des usages établis dès lors qu’ils contreviennent à une vérité supérieure. 
-                     L’action de Grégoire VII (1073-1085) apparaît comme un moment fondamental : elle ne se limite pas à la moralisation du clergé, mais engage une refondation de l’Église comme institution hiérarchisée, centralisée et placée sous l’autorité supérieure du pape.
-                     Cette suprématie est consolidée par l’essor du droit canonique. Les collections canoniques d’inspiration grégorienne, puis surtout le <hi rend="italic">Décret de Gratien</hi>, élaboré à Bologne entre 1139 et 1158, donnent une base juridique durable à la supériorité pontificale. 
-                     Cette évolution s’inscrit également dans le contexte de la redécouverte du droit romain justinien à partir de la fin du XIe siècle, notamment à Ravenne, Bologne et Padoue : des éléments du <hi rend="italic">Code</hi>, du <hi rend="italic">Digeste</hi>, des <hi rend="italic">Institutes</hi> et des <hi rend="italic">Novelles</hi> sont progressivement intégrés au droit canonique, tout en lui restant subordonnés. 
-                     À partir de la seconde moitié du XIIe siècle, la supériorité pontificale est ainsi redéfinie en termes de juridiction, c’est-à-dire comme capacité légitime d’agir, de juger et de contraindre dans un cadre normé par le droit.
-                     À ce propos, voir : 
-                     <bibl>Mazel, Florian. « Chapitre 1. La réforme grégorienne : Un tournant fondateur (milieu XIe-début XIIIe siècle) ». Nouvelle Histoire du Moyen Âge, Le Seuil, 2021. p.291-306. <ref type="URI">CAIRN.INFO, shs.cairn.info/nouvelle-histoire-du-moyen-age--9782021460353-page-291?lang=fr</ref></bibl>.<bibl>Florian Mazel , « La réforme grégorienne  », Encyclopédie d'histoire numérique de l'Europe [en ligne], ISSN 2677-6588, mis en ligne le 31/10/24 , consulté le 02/04/2026. Permalien : https://ehne.fr/fr/node/22458</bibl></note>
-                  <ptr target="https://www.universalis.fr/encyclopedie/gregoire-vii-hildebrand/"/>
-               </person>
-               <person xml:id="GregoireLG">
-                  <name>Grégoire le Grand</name>
-                  <persName role="pope">Grégoire I</persName>
-                  <birth>540</birth>
-                  <death>604</death>
-                  <note>élu pape en 590. Docteur de l'Eglise, un des quatres pères de l'église latine</note>
-                  <ptr target="https://www.universalis.fr/encyclopedie/gregoire-ier-le-grand/"/>
-               </person>
-               <person xml:id="Halicarnasse"><!-- A COMPLETER -->
-                  <name>Denys d'Halicarnasse</name>
-                  <name xml:lang="la">Dionysius Halicarnassensis</name>
-                  <birth>vers 54 avant Jésus Christ</birth>
-                  <death>vers 8 après Jésus Christ</death>
-                  <note>grammairien, historien</note>
-                  <note>Enseignant de rhétorique, orateur de talent et historien, il est connu pour son œuvre majeure, les <hi rend="italic">Antiquités romaines</hi>, qui est une vaste histoire de Rome depuis ses origines jusqu’au début de la première guerre punique. Voir notamment: 
-                  <bibl>Fromentin Valérie. Denys d'Halicarnasse, historien grec de Rome. In: Histoire et historiographie dans l'Antiquité. Actes du 11ème colloque de la Villa Kérylos à Beaulieu-sur-Mer les 13-14 octobre 2000. Paris : Académie des Inscriptions et Belles Lettres, 2001. pp. 123-142. (Cahiers de la Villa Kérylos, 11)<ref type="static_link" target="https://www.persee.fr/doc/keryl_1275-6229_2001_act_11_1_1037"/></bibl></note>
-                  <ptr target="https://www.idref.fr/02683281X"/>
-               </person>
-               <person xml:id="Cesar">
-                  <name>César Borgia</name>
-                  <persName>duc de Valentinois</persName>
-                  <note> titre crée par Louis XII en 1498</note>
-                  <birth>1475</birth>
-                  <death>1507</death>
-                  <note>César Borgia, dit « le Valentinois »,
-                     est le fils aîné naturel de Rodrigo Borgia (pape sous le nom d'Alexandre VI) et 
-                     de Vannozza Cattanei, patricienne romaine</note>
-               </person>
-               <person xml:id="Jean">
-                  <name>Jacques Duèze (ou d'Euse)</name>
-                  <persName role="pope">Jean XXII</persName>
-                  <birth>1249</birth>
-                  <death>1334</death>
-                  <note>élu au pontificat en 1316</note>
-                  <note type="editor">Jacques Duèze est élu pape à Lyon pour succéder à Clément V sous le nom de Jean XXII. 
-                  Il fait d'Avignon la résidence permanente du Saint-Siège. Son pontificat est notamment marqué par la question de la primauté pontificale qu'illustre l'intervention du pape dans le règlement du conflit opposant l'empereur Louis IV de Bavière et Frédéric d'Autriche au sujet
-                  de la couronne du Saint-Empire romain germanique. En 1322, Louis de Bavière sort victorieux sur son adversaire Frédéric d'Autriche de la bataille de Mühldorf. Toutefois, Jean XXII lui interdit d'exercer le pouvoir jusqu'à ce qu'il statue lui-même, en sa qualité de souverain pontife. 
-                  Jean XXII affirme ainsi la prééminence de la papauté sur les élections impériales. Louis de Bavière réagit et lance l'Appel de Sachsenhausnen en 1324 et avec la contribution et le soutien qu'il offre à Marsile de Padoue, il défend la vision de la supériorité de l'autorité du concile face à celle du pape.
-                  Jean XXII riposte par l'excommunication de Louis de Bavière (mars 1324). Couronné empereur à Rome en 1328, Louis de Bavière dépose Jean XXII. Le franciscain spirituel Pierre de Corbière (Pietro Rainalducci) devient antipape sous le nom de Nicolas V
-                  <bibl><ref target="https://www.universalis.fr/encyclopedie/jacques-jean-xxii/"/></bibl>. Dans la controverse au sein de l'ordre franciscain, Jean XXII soutient les Conventuels au détriment des Spirituels, partisans de la stricte observance de la règle de pauvreté absolue de François d'Assise.
-                  Il condamnera l'intégrité de la doctrine franciscaine de la pauvreté évangélique par deux décrétales en 1322 et en 1323, affirmant, Ecriture sainte à l'appui, que le Christ et les apôtres possédaient eux-mêmes des biens.</note>
-                  <ptr target="https://isni.org/isni/0000000449165295"/>
-               </person>
-               <person xml:id="Jules">
-                  <name>Giuliano Della Rovere</name>
-                  <persName role="pope">Jules II</persName>
-                  <birth>1443</birth>
-                  <death>1513</death>
-                  <note>élu au pontificat en 1503</note>
-                  <ptr target="https://www.idref.fr/027528081"/>
-                  <ptr target="https://isni.org/isni/0000000121326761"/>
-               </person>
-               <person xml:id="Leon">
-                  <name>Jean de Médicis</name>
-                  <persName role="pope">Léon X</persName>
-                  <birth>1475</birth>
-                  <death>1521</death>
-                  <note>élu au pontificat en 1513</note>
-                  <note>fils de Laurent de Médicis</note>
-                  <ptr target="https://www.idref.fr/070725721"/>
-                  <ptr target="https://isni.org/isni/000000012096688X"/>
-               </person>
-               <person xml:id="Lucrece">
-                  <name>Lucrèce Borgia</name>
-                  <persName/>
-                  <birth>1480</birth>
-                  <death>1519</death>
-                  <note>fille naturelle de Rodrigo Borgia, futur Alexandre VI, et de Vannozza Cattanei</note>
-                  <ptr target="https://www.idref.fr/030136067"/>
-               </person>
-               <person xml:id="Clement">
-                  <name>Jules de Médicis</name>
-                  <persName role="pope">Clément VII</persName>
-                  <birth>1478
-                     <placeName>Florence</placeName>
-                  </birth>
-                  <death>1534</death>
-                  <note>élu au pontificat en 1523</note>
-                  <note>archevêque de Florence, 1513-1523</note>
-                  <ptr target="https://www.idref.fr/072315563"/>
-                  <ptr target="https://isni.org/isni/0000000121432441"/>
-               </person>
-               <person xml:id="Valla">
-                  <persName>Lorenzo Valla</persName>
-                  <birth>1407</birth>
-                  <death>1457</death>
-                  <occupation>secrétaire pontifical</occupation>
-                  <note>philologue, humaniste italien</note>
-                  <note type="editor">Il est l'auteur du premier opuscule spécifiquement consacré à la démonstration de la fausseté de la Donation de Constantin, soit l'acte diplomatique prétendument conclu entre l’empereur Constantin et le pape Sylvestre Ier en 314.
-                     Ce faux, élaboré entre le VIIIe et le IXe siècle, attribuait au pape : des droits temporels sur Rome, sur l’Italie et sur l’Occident ; des pouvoirs et des dignités de l’Empire, notamment le port d’insignes impériaux et des honneurs semblables aux officiers de l’Empire pour son clergé.
-                     Il exprimait également une volonté de donner la primauté à l’évêque de Rome sur toutes les Églises. Intégrée au <hi rend="italic">Décret de Gratien</hi>, la valeur juridique de la Donation a toutefois été remise en cause par les juristes du droit romain, qui alimentent une polémique avec les canonistes. À ce propos, voir : 
-                     <bibl>Lorenzo Valla, La Donation de Constantin. Sur la donation de Constantin, à lui faussement attribuée et mensongère, trad. par Jean-Baptiste Giard, préf. de Carlo Ginzburg, Paris, Les Belles Lettres (La roue à livres, 21), 2012 (1ère édit., Paris, 1993)</bibl>
-                     <bibl>Huyghebaert, Nicolas Norbert, "Une légende de fondation: le <hi rend="italic">Constitutum Constantini</hi>", Le Moyen Age, 85 (1979), 177–209</bibl>
-                     <bibl>Camporeale, Salvatore I. “Lorenzo Valla’s ‘Oratio’ on the Pseudo-Donation of Constantine: Dissent and Innovation in Early Renaissance Humanism.” Journal of the History of Ideas 57, no. 1 (1996): 9–26.</bibl> <ref type="URI">https://doi.org/10.2307/3653880</ref>.
-                     <bibl>Delivré, Fabrice. « La (fausse) donation de Constantin ». Raison présente, 2018/4 N° 208, 2018. p.83-94. <ref>CAIRN.INFO, shs.cairn.info/revue-raison-presente-2018-4-page-83?lang=fr</ref>.</bibl>
-                  </note>
-                  <ptr target="https://isni.org/isni/0000000121258391"/>
-               </person>
-               <person xml:id="Albert">
-                  <name>Albert Ier</name>
-                  <birth>1248</birth>
-                  <death>1308</death>
-                  <note>roi des Romains et duc d’Autriche, fils aîné de l’empereur Rodolphe de Habsbourg (1255-1308)</note>
-                  <ptr target="https://isni.org/isni/0000000024857405"/>
-                  <ptr target="https://www.idref.fr/190452730"/>
-               </person>
-               <person xml:id="Macedonius">
-                  <name>Macédonios (ou Macédonius) Ier</name>
-                  <birth/>
-                  <death/>
-                  <occupation>évêque de Constantinople</occupation>
-                  <ptr target="https://portail.biblissima.fr/ark:/43093/descc143d39d9e592abd0dfa450286ff03d07e592804"/>
-                  <ptr target="https://fr.wikipedia.org/wiki/Mac%C3%A9donios_Ier_de_Constantinople"/>
-                  <note/>
-               </person>
-               <person xml:id="Malchus">
-                  <name>Malchus</name>
-                  <note>personnage biblique</note>
-                  <note>serviteur du grand-prêtre</note>
-                  <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-3304-malchus"/>
-               </person>
-               <person xml:id="Macrobe">
-                  <name>Ambrosius, Theodosius Macrobius</name>
-                  <birth>vers 370</birth>
-                  <death>après 430</death>
-                  <note>grammairien latin du IVe-Ve siècle après Jésus-Christ</note>
-                  <note>auteur de l’Antiquité tardive, probablement actif au début du Ve siècle. Il est l’auteur des <hi rend="italic">Saturnales</hi>, banquet littéraire consacré à de multiples sujets, notamment religieux, antiquaires et littéraires, 
-                     du <hi rend="italic">Commentaire au Songe de Scipion</hi>, lecture philosophique et néoplatonicienne du récit de Cicéron. 
-                     Sur classification des songes de Macrobe, la réception de cette typologie, qui a connu une large diffusion au Moyen Âge et jusqu’au XVe siècle et sa traduction en moyen français :
-                     <bibl>Mireille Demaules, „La classification des songes de Macrobe en moyen français : continuité, ruptures et déplacements“,<ref type="static_link" target="http://journals.openedition.org/anabases/3886"/><ref type="static_link" target="https://doi.org/10.4000/anabases.3886"/></bibl>
-                  </note>
-                  <ptr target="https://www.idref.fr/03092166X"/>
-               </person>
-               <person xml:id="Lucien"> <!-- A COMPLETER -->
-                  <name>Lucien de Samosate</name>
-                  <persName/>
-                  <birth>125</birth>
-                  <death>192</death>
-                  <note><bibl>Billault, Alain. “Lucien de Samosate et son œuvre”. Mixis, edited by Émeline Marquis and Alain Billault, Demopolis, 2017, <ref type="static-link" target="https://books.openedition.org/demopolis/2127"/>.</bibl></note>
-                  <ptr target="https://www.idref.fr/026997460"/>
-                  <ptr target="https://isni.org/isni/0000000355081330"/>
-               </person>
-               <person xml:id="Hus">
-                  <name>Jan Hus, Jean Hus</name>
-                  <birth>1372?</birth>
-                  <death>1415</death>
-                  <note>théologien et prédicateur tchèque, né à Husinec, en Bohême méridionale. Il est professeur puis recteur de l’université de Prague.
-                     Accusé d’hérésie, il comparait devant le concile de Constance, où sa défense échoue ; malgré le sauf-conduit impérial de Sigismond, il est brûlé comme hérétique le 6 juillet 1415.
-                     Figure majeure de la contestation religieuse pré-réformatrice, il devient la référence fondatrice du mouvement hussite. Celui-ci revendique notamment, dans les quatre Articles de Prague de 1420, la communion des laïcs sous les deux espèces, c’est-à-dire sous la forme du pain et du vin consacrés.
-                     Sur le rapport de Jan Hus à l’eucharistie et son ralliement tardif à la communion sous les deux espèces: 
-                     <bibl>Olivier Marin, « Hus et l’eucharistie : notes sur la critique hussite de la <hi rend="italic">Stella clericorum</hi> », in Bohemian Reformation and Religious Practice, vol. 3, Prague, 2000, p. 49-62<ref type="static-link" target="https://www.brrp.org/proceedings/brrp3/marin.pdf"/></bibl>
-                     Sur le mouvement hussiste, voir du même auteur: 
-                     <bibl>Marin, Olivier. La Réforme commence à Prague : Histoire des hussites. XVe-XXe siècle. Passés Composés. « Hors collection », (2021)</bibl>
-                  </note>
-                  <ptr target="https://www.idref.fr/029313570"/>
-               </person>
-               <person xml:id="Paulus"><!-- A COMPLETER -->
-                  <name>Paul Émile, dit le Macédonique ou le Macédonien</name>
-                  <name xml:id="lat">Lucius Aemilius Paullus Macedonicus</name>
-                  <birth>vers 230 av. J.-C</birth>
-                  <death>160 av. J.-C</death>
-                  <note/>
-                  <ptr/>
-               </person>
-               <person xml:id="Prague">
-                  <name>Jerôme de Prague</name>
-                  <name xml:lang="la">Hieronymus Pragensis</name>
-                  <birth>entre 1365 et 1379</birth>
-                  <death>1416</death>
-                  <note>théologien, proche Jan Hus et défenseur des idées de John Wyclif.
-                     En 1415, il se rend au concile de Constance pour soutenir Hus.
-                     Arrêté et emprisonné, il est condamné pour hérésie et brûlé à Constance le 30 mai 1416, moins d’un an après Jan Hus. Sur la vie de Jérôme de Prague et son parcours, voir:
-                     <bibl>Fudge, Thomas A. Hieronymus von Prag und die Anfänge der hussitischen Bewegung. Aschendorff Verlag, 2020.<ref target="https://www.unifr.ch/theo/fr/actus/news/22812/premiere-biographie-scientifique-de-jerome-de-prague-en-langue-allemande"/></bibl>
-                  </note>
-                  <ptr target="https://www.idref.fr/073682950"/>
-                  <ptr target="https://isni.org/isni/0000000447108123"/>
-               </person>
-               <person xml:id="Robert">
-                  <name>Robert d'Anjou</name>
-                  <persName role="king">Robert Ier, roi de Naples (1309-1343)</persName>
-                  <birth>1277</birth>
-                  <death>1343</death>
-                  <note><bibl>Hébert, Michel. “Le règne de Robert d’Anjou”. Les princes angevins du XIIIe au XVe siècle, edited by Noël-Yves Tonnerre and Élisabeth Verry, Presses universitaires de Rennes, 2003, <ref type="static_link" target="https://books.openedition.org/pur/18334."/>.</bibl>
-                     <bibl>Vagnoni M. Robert of Anjou (1309–1343). Encyclopedia. 2021; 1(3):812-821.<ref type="static_link" target="https://doi.org/10.3390/encyclopedia1030062"/></bibl>
-                  </note>
-                  <ptr target="https://d-nb.info/gnd/118789066"/>
-               </person>
-               <person xml:id="Scipion"><!-- A COMPLETER -->
-                  <name/>
-                  <birth/>
-                  <death/>
-                  <note/>
-                  <ptr target="https://d-nb.info/gnd/118612344"/>
-               </person>
-               <person xml:id="Sixte">
-                  <name>Francesco della Rovere</name>
-                  <persName role="pope">Sixte IV</persName>
-                  <birth>1414</birth>
-                  <death>1484</death>
-                  <note>élu au pontificat en 1471</note>
-                  <ptr target="https://isni.org/isni/0000000108876742"/>
-                  <ptr target="http://www.idref.fr/032758545/id"/>
-               </person>
-               <person xml:id="Simon">
-                  <name>Simon le mage ou le magicien</name>
-                  <note>personnage biblique</note>
-                  <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-4848-simon-le-mage-ou-le-magicien"/>
-               </person>
-               <person xml:id="Suetone"><!-- A COMPLETER -->
-                 <name>Suétone</name>
-                 <name xml:lang="la">Suetonius</name>
-                 <name type="alternatif">Suetonius Tranquillus, Gaius</name>
-                 <birth>vers 69</birth>
-                 <death>après 122</death>
-                 <note>historien</note>
-                 <ptr target="https://d-nb.info/gnd/118619918"/>
-               </person>
-               <person xml:id="Tite"><!-- A COMPLETER -->
-                 <name>Tite-Live</name>
-                 <name xml:lang="la">Titus Livius</name>
-                 <birth/>
-                 <note/>
-                 <ptr target="https://d-nb.info/gnd/118573624"/> 
-               </person>
-            </listPerson>
+         <person xml:id="Anne">
+            <name>Anne</name>
+            <note>personnage biblique</note>
+            <note>grand-prêtre</note>
+            <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-278-anne-grand-pretre-"/>
+         </person>
+         <person xml:id="Aaron">
+            <name>Aaron</name>
+            <note>figure biblique</note>
+            <note>frère de Moïse, prêtre</note>
+            <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-112-aaron"/>
+         </person>
+         <person xml:id="Apulee">
+            <!-- A COMPLETER -->
+            <name>Apulée</name>
+            <name xml:lang="la">Lucius Apuleius, Madaurensis</name>
+            <name type="alternatif"/>
+            <birth>vers 125</birth>
+            <death>vers 180</death>
+            <note/>
+            <ptr target="https://d-nb.info/gnd/11850374X"/>
+         </person>
+         <person xml:id="Alexandre">
+            <name>Rodrigo Borgia</name>
+            <name role="pape">Alexandre VI</name>
+            <birth>1431</birth>
+            <death>1503</death>
+            <note>élu au pontificat en 1492</note>
+            <note>Il est notamment le père de quatre enfants, qu’il a eu avec Vannozza Cattanei :
+               Giovanni (1474-1497), César dit le Valentinois (1475-1503), Lucrèce (1480-1519) et
+               Geoffroi (1481-1517).</note>
+            <ptr target="https://www.idref.fr/029427894"/>
+         </person>
+         <person xml:id="Aulus">
+            <name>Aulu-Gelle</name>
+            <name xml:lang="la">Aulus Gellius</name>
+            <birth>vers 123</birth>
+            <death>180</death>
+            <note/>
+            <ptr target="https://d-nb.info/gnd/118716735"/>
+            <!-- lien à son écrit : https://www.thelatinlibrary.com/gellius.html -->
+         </person>
+         <person xml:id="Barnabas">
+            <name>Barnabas, Barnabé</name>
+            <persName>surnom donné par les apôtres à Joseph, le Lévite</persName>
+            <note>figure biblique</note>
+            <note>apôtre et martyr</note>
+            <ptr target="https://d-nb.info/gnd/118652559"/>
+            <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-662-barnabas"/>
+            <ptr target="https://editeurbpc.com/dictionnaires/dictionnaire-nouveau-testament/5161"/>
+         </person>
+         <person xml:id="Barrabas">
+            <name>Barabas</name>
+            <note>personnage biblique</note>
+            <note>Voleur condamné à mort et gracié à l'occasion de la Pâque, sur la demande de la
+               foule, alors que Pilate proposait de libérer Jésus <bibl>Le petit Robert des noms
+                  propres / redaction dirigée par Alain Rey, DL 2000</bibl>
+            </note>
+            <ptr target="https://www.idref.fr/201293900"/>
+            <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-650-barabbas"/>
+         </person>
+         <person xml:id="Berenger">
+            <name>Bérenger de Tours</name>
+            <persName xml:lang="la">Berengarius Turonensis</persName>
+            <birth>1000(env.)</birth>
+            <death>1088</death>
+            <note>Théologien</note>
+            <note type="editor">Théologien formé à Chartres auprès de Fulbert (960?-1028), maître
+               des écoles de Saint-Martin de Tours et archidiacre d’Angers. Figure majeure de la
+               controverse eucharistique du XIᵉ siècle, il refuse d’admettre que le pain et le vin
+               consacrés soient substantiellement changés en chair et sang du Christ, les comprenant
+               comme signes ou figures du corps et du sang qu’ils signifient. Cette position, fondée
+               entre autres sur une compréhension augustinienne du sacrement comme signe, l’oppose
+               notamment à Lanfranc du Bec et lui vaut plusieurs condamnations, dont celles de
+               Verceil en 1050 <ref type="static_link" target="https://geschichtsquellen.de/werk/1614"/> et de Rome en 1059. Il meurt
+               retiré sur l’île Saint-Cosme, près de Tours, en 1088. À ce propos, voir notamment :
+                  <bibl>Turpin, P. (2011). Querelle eucharistique et épaisseur du sensible :
+                  Bérenger et Lanfranc. Revue des sciences philosophiques et théologiques, Tome
+                  95(2), 303-322. <ref type="static_link" target="ttps://doi.org/10.3917/rspt.952.0303"/>.</bibl>
+            </note>
+            <ptr target="https://www.idref.fr/030979625"/>
+         </person>
+         <person xml:id="Bertrand">
+            <name>Bertrand de Got</name>
+            <persName role="pope">Clément V</persName>
+            <birth>1264</birth>
+            <death>1314</death>
+            <note>élu au pontificat en 1305</note>
+            <ptr target="https://isni.org/isni/0000000454756495"/>
+         </person>
+         <person xml:id="Boniface">
+            <name>Benedetto Caetani</name>
+            <persName role="pope">Boniface VIII</persName>
+            <birth>ca.1235/1240</birth>
+            <death>1303</death>
+            <note>élu au pontificat en 1294</note>
+            <note type="editor"> Du pontificat d’Alexandre III (1159-1181) à celui de Boniface VIII
+               (1294-1303), la papauté mettra en œuvre le programme grégorien, en transformant une
+               Église largement décentralisée en monarchie pontificale gouvernée par l’évêque de
+               Rome. Reposant sur l’idée que le pape est le juge suprême universel et que l’autorité
+               spirituelle l’emporte sur tout pouvoir terrestre, cette évolution se traduit par la
+               centralisation de l’Église autour du pontife romain, seul détenteur de la <hi rend="italic">plenitudo potestatis</hi>, par l’essor du droit canonique et par
+               l’affirmation progressive d’une prétention au <hi rend="italic">dominium</hi>
+               universel du monde, sur l’ensemble de la chrétienté y compris les princes. Avec
+               Innocent III, puis plus encore sous le pontificat de Boniface VIII, cette ambition
+               atteint sa formulation la plus achevée, notamment dans la bulle <hi rend="italic">Unam sanctam</hi> (1302), qui présente le pontife romain comme l’autorité
+               suprême, spirituelle et juridique, y compris à l’égard des pouvoirs séculiers. À ce
+               propos, voir: <bibl>Théry, Julien. “Chapitre I. Le triomphe de la théocratie
+                  pontificale du IIIe concile du Latran au pontificat de Boniface VIII (1179-1303)”.
+                  In Structures et dynamiques religieuses dans les sociétés de l’Occident latin
+                  (1179-1449), edited by Marie-Madeleine de Cevins and Jean-Michel Matz. Rennes:
+                  Presses universitaires de Rennes, 2010. <ref type="static_link" target="doi:10.4000/books.pur.131043"/></bibl>. </note>
+            <note type="editor">La bulle <hi rend="italic">Unam sanctam</hi> promulgée par Boniface
+               VIII en novembre 1302 proclame la primauté du pape et insiste sur la soumission du
+               pouvoir temporel au pouvoir spirituel. Seul le glaive spirituel peut gouverner le
+               glaive temporel, le pape se définissant en tant que vicaire du Christ: il est
+               nécessaire de lui être soumis. La bulle s'appuie sur la théorie médiévale des « deux
+               glaives », que possèdent le Christ. <ref target="#f18_eSc_line_7456f6d4_ligne_8">Cette bulle est cité dans l'antithèse 3, fol. C1r°</ref>.</note>
+            <ptr target="https://isni.org/isni/0000000121242007"/>
+         </person>
+         <person xml:id="Canaan">
+            <name>Canaan</name>
+            <persName>fils de Cham, un des trois fils de Moïse<ref>(Gn 10:6)</ref></persName>
+            <note>personnage biblique</note>
+            <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-calmet-1074-cham"/>
+         </person>
+         <person xml:id="Caiphe">
+            <name>Caïphe</name>
+            <note>personnage biblique</note>
+            <note>grand-prêtre</note>
+            <ptr target="https://d-nb.info/gnd/129446424"/>
+            <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-982-caiphe"/>
+         </person>
+         <person xml:id="Corneille">
+            <name>Corneille, Cornelius</name>
+            <note>personnage biblique</note>
+            <note>Ac 10:1</note>
+            <ptr target="https://d-nb.info/gnd/1192479599"/>
+            <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-1252-corneille"/>
+         </person>
+         <person xml:id="Constantin">
+            <name>Constantin Ier</name>
+            <name>Constantin le Grand</name>
+            <persName>Flavius Valerius Aurelius Constantinus</persName>
+            <birth>272/3</birth>
+            <death>337</death>
+            <note>empereur romain (306-337)</note>
+            <note type="editor">Généralement considéré comme le premier empereur romain chrétien. En
+               effet, après 312, il accorde une faveur croissante au christianisme : restitution de
+               biens, soutien au clergé, construction d’églises, convocation du concile de Nicée en
+               325 et fondation de Constantinople, nouvelle capitale impériale, en 330. Baptisé à
+               l’article de la mort en 337, il n’en apparaît pas moins comme le premier souverain
+               ayant donné une place centrale au christianisme dans le gouvernement de l’Empire. À
+               ce propos, voir: <bibl>Vincent Puech , « Constantin et la christianisation de
+                  l’empire romain », Encyclopédie d'histoire numérique de l'Europe [en ligne], ISSN
+                  2677-6588, mis en ligne le 12/07/24 , consulté le 07/04/2026. Permalien : <ref type="URI">https://ehne.fr/fr/node/22378</ref></bibl>
+               <bibl>Casey, P. J. "Constantine I [Flavius Valerius Constantinus; known as
+                  Constantine the Great] (272/3–337), Roman emperor." Oxford Dictionary of National
+                  Biography. May 25, 2006. Oxford University Press. <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-48285"/></bibl></note>
+            <ptr target="https://www.idref.fr/0304098109"/>
+            <ptr target="https://isni.org/isni/0000000120966935"/>
+         </person>
+         <person xml:id="Daniel">
+            <name>Daniel, Prophète</name>
+            <note>figure biblique</note>
+            <note>Livre de Daniel, Bible</note>
+            <ptr target="https://d-nb.info/gnd/118678752"/>
+            <ptr target="https://www.deutsche-biographie.de/118678752.html"/>
+            <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-1345-daniel"/>
+            <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-1346-daniel-livre-de-"/>
+         </person>
+         <person xml:id="Duchesne">
+            <persName>Guillaume Duchesne</persName>
+            <name>de Quercu</name>
+            <birth>?</birth>
+            <death>1525</death>
+            <note type="courte">Docteur en théologie de la Sorbonne, prêtre/curé de S.Jean-en-Grève,
+               Paris</note>
+            <note type="longue">Guillaume Duchesne (de Quercu, † 1525), théologien parisien, docteur
+               de la Sorbonne, est une figure importante de la Faculté de théologie. Membre de
+               nombreuses commissions, il participe aux procédures contre Reuchlin, Lefèvre
+               d’Étaples et Luther. D’après Érasme, Duchesne joue un rôle actif dans l’examen et la
+               condamnation de Luther par la faculté en 1520 et 1521; Érasme le désigne fréquemment
+               comme le principal collaborateur de Noël Béda dans les procédures parisiennes
+               dirigées contre lui et contre Louis de Berquin. Dès 1505, Duchesne est chanoine de
+               l’église collégiale Saint-Benoît-le-Bien-Tourné à Paris; vers 1520, il est curé de
+               Saint-Jean-en-Grève à Paris et proviseur du collège d’Harcourt, puis est nommé membre
+               d’une commission inquisitoriale par le Parlement de Paris et le pape Clément VII.
+               Notice d’après James F. Farge, Contemporaries of Erasmus, vol. 1, A–E: A Biographical
+               Register of the Renaissance and Reformation, repr. Toronto, Univ. of Toronto Press,
+               1995, p. 410.</note>
+            <note type="biblio">W.G. Moore, La Réforme allemande et la littérature française.
+               Recherches sur la notoriété de Luther en France, Strasbourg, 1930, p. 272. Reid
+               Jonathan A, King's sister - queen of dissent : Marguerite of Navarre (1492-1549) and
+               her evangelical network, Leiden, Brill, 2009, p. 230. Registre des procès-verbaux de
+               la Faculté de théologie de Paris, Paris : V. Lecoffre - J. Gabalda, 1917, p. 4. Farge
+               K. James, Biographical register of Paris doctors of theology 1500-1536, Toronto,
+               1980, p. 384, n°406. Calvin, Jean, Irena Backus, Claire Chimelli, et Guillaume Farel.
+               La vraie piété : divers traités de Jean Calvin et Confession de foi de Guillaume
+               Farel. Genève: Labor et Fides, 1986, p. 181, n.23. Renaudet, Augustin. Préréforme et
+               humanisme à Paris pendant les premières guerres d’Italie : 1494-1517. 2e éd. revue et
+               corr. Paris: D’Argences, 1953, p. 537. Féret, Pierre. La Faculté de théologie de
+               Paris et ses docteurs les plus célèbres : époque moderne. Paris: A. Picard, 1900,
+               t.2, p. 62. Contemporaries of Erasmus Vol. 1.  A-E  : A Biographical Register of the
+               Renaissance and Reformation. Repr. Toronto: Univ. of Toronto Press, 1995. </note>
+            <ptr/>
+         </person>
+         <person xml:id="Eusebe">
+            <name>Eusèbe de Césarée</name>
+            <persName/>
+            <birth>vers 260-264</birth>
+            <death>vers 340</death>
+            <note>Evêque de Césarée de Palestine vers 313 et auteur d'oeuvres apologétiques,
+               exégétiques, dogmatiques et historiques, dont l'Histoire ecclésiastique qui raconte
+               et retrace en dix livres l'histoire de l'Eglise chrétienne, des origines à la
+               victoire de Constantin sur Licinius en 323. <bibl>Maraval, Pierre. “L’idéologie
+                  impériale de Constantin selon Eusèbe de Césarée”. In Les dieux et le pouvoir,
+                  edited by Christian-Georges Schwentzel and Marie-Françoise Baslez. Rennes: Presses
+                  universitaires de Rennes, 2016.
+                     doi:10.4000/books.pur.44924.<ref>https://books.openedition.org/pur/44924</ref></bibl>
+               <bibl>Morlet, Sébastien. « Écrire l'Histoire selon Eusèbe de Césarée ». L'information
+                  littéraire, 2005/3 Vol. 57, 2005. p.3-15. CAIRN.INFO,
+                     <ref>shs.cairn.info/revue-l-information-litteraire-2005-3-page-3?lang=fr</ref></bibl>
+               <bibl>Muckensturm-Poulle, Claire, « Exégèse et histoire sainte dans l’Histoire
+                  ecclésiastique d’Eusèbe de Césarée (livre I) », Dialogues d’histoire ancienne,
+                  2010/S4.1 (Supplément 4.1), p. 141-153, Besançon, Presses universitaires de
+                  Franche-Comté, <ref>DOI : 10.3917/dha.hs41.014</ref>1.</bibl>.</note>
+            <ptr target="isni:0000000122758806"/>
+            <ptr target="https://www.fnz.geschichte.uni-muenchen.de/forschung/autoren-tabellenwerke/eusebius/index.html"/>
+         </person>
+         <person xml:id="Paul">
+            <name>Pietro Barbo</name>
+            <persName role="pope">Paul II</persName>
+            <birth>1417</birth>
+            <death>1471</death>
+            <note>élu au pontificat en 1464</note>
+            <ptr target="https://isni.org/isni/0000000455908112"/>
+         </person>
+         <person xml:id="Gregoire">
+            <name>Hildebrand, Ildebrando de Soana</name>
+            <persName role="pope">Grégoire VII</persName>
+            <birth>1020</birth>
+            <death>1085</death>
+            <note>élu au ponticat en 1073</note>
+            <note type="editor">Grégoire VII est l’un des grands artisans de l’affirmation de la
+               suprématie pontificale. Il s’appuie sur les acquis de ses prédécesseurs en matière
+               d’autonomie de l’élection pontificale et sur l’exaltation progressive de la figure de
+               Pierre, premier des apôtres selon l’Évangile de Matthieu, dont le pape se présente
+               comme le vicaire sur terre. Les <hi rend="italic">Dictatus papae</hi> (1075),
+               brouillon de collection canonique entrepris dans son entourage, affirment que le pape
+               peut juger tous les autres sans être jugé lui-même et entendent lui réserver l’usage
+               des insignes impériaux, signe tangible de la prétention pontificale à une domination
+               universelle. Au début du XIIe siècle se mettent ainsi en place des pratiques et des
+               usages relatifs à la tiare, au manteau pourpre, au sceptre et à un cérémonial de
+               couronnement. Le pontificat de Grégoire VII est aussi marqué par son affrontement
+               avec l’empereur Henri IV dans la querelle des Investitures : refus de l’investiture
+               laïque des évêques, excommunication et déposition du souverain. Ce conflit touche à
+               la <hi rend="italic">libertas ecclesiae</hi> et permet à Grégoire VII d’affirmer
+               l’autorité du pape au nom de la vérité de l’ordre ecclésial : le pontife peut juger
+               et rompre avec des usages établis dès lors qu’ils contreviennent à une vérité
+               supérieure. L’action de Grégoire VII (1073-1085) apparaît comme un moment fondamental
+               : elle ne se limite pas à la moralisation du clergé, mais engage une refondation de
+               l’Église comme institution hiérarchisée, centralisée et placée sous l’autorité
+               supérieure du pape. Cette suprématie est consolidée par l’essor du droit canonique.
+               Les collections canoniques d’inspiration grégorienne, puis surtout le <hi rend="italic">Décret de Gratien</hi>, élaboré à Bologne entre 1139 et 1158,
+               donnent une base juridique durable à la supériorité pontificale. Cette évolution
+               s’inscrit également dans le contexte de la redécouverte du droit romain justinien à
+               partir de la fin du XIe siècle, notamment à Ravenne, Bologne et Padoue : des éléments
+               du <hi rend="italic">Code</hi>, du <hi rend="italic">Digeste</hi>, des <hi rend="italic">Institutes</hi> et des <hi rend="italic">Novelles</hi> sont
+               progressivement intégrés au droit canonique, tout en lui restant subordonnés. À
+               partir de la seconde moitié du XIIe siècle, la supériorité pontificale est ainsi
+               redéfinie en termes de juridiction, c’est-à-dire comme capacité légitime d’agir, de
+               juger et de contraindre dans un cadre normé par le droit. À ce propos, voir :
+                  <bibl>Mazel, Florian. « Chapitre 1. La réforme grégorienne : Un tournant fondateur
+                  (milieu XIe-début XIIIe siècle) ». Nouvelle Histoire du Moyen Âge, Le Seuil, 2021.
+                  p.291-306. <ref type="URI">CAIRN.INFO,
+                     shs.cairn.info/nouvelle-histoire-du-moyen-age--9782021460353-page-291?lang=fr</ref></bibl>.<bibl>Florian
+                  Mazel , « La réforme grégorienne », Encyclopédie d'histoire numérique de l'Europe
+                  [en ligne], ISSN 2677-6588, mis en ligne le 31/10/24 , consulté le 02/04/2026.
+                  Permalien : https://ehne.fr/fr/node/22458</bibl></note>
+            <ptr target="https://www.universalis.fr/encyclopedie/gregoire-vii-hildebrand/"/>
+         </person>
+         <person xml:id="GregoireLG">
+            <name>Grégoire le Grand</name>
+            <persName role="pope">Grégoire I</persName>
+            <birth>540</birth>
+            <death>604</death>
+            <note>élu pape en 590. Docteur de l'Eglise, un des quatres pères de l'église
+               latine</note>
+            <ptr target="https://www.universalis.fr/encyclopedie/gregoire-ier-le-grand/"/>
+         </person>
+         <person xml:id="Halicarnasse">
+            <!-- A COMPLETER -->
+            <name>Denys d'Halicarnasse</name>
+            <name xml:lang="la">Dionysius Halicarnassensis</name>
+            <birth>vers 54 avant Jésus Christ</birth>
+            <death>vers 8 après Jésus Christ</death>
+            <note>grammairien, historien</note>
+            <note>Enseignant de rhétorique, orateur de talent et historien, il est connu pour son
+               œuvre majeure, les <hi rend="italic">Antiquités romaines</hi>, qui est une vaste
+               histoire de Rome depuis ses origines jusqu’au début de la première guerre punique.
+               Voir notamment: <bibl>Fromentin Valérie. Denys d'Halicarnasse, historien grec de
+                  Rome. In: Histoire et historiographie dans l'Antiquité. Actes du 11ème colloque de
+                  la Villa Kérylos à Beaulieu-sur-Mer les 13-14 octobre 2000. Paris : Académie des
+                  Inscriptions et Belles Lettres, 2001. pp. 123-142. (Cahiers de la Villa Kérylos,
+                     11)<ref type="static_link" target="https://www.persee.fr/doc/keryl_1275-6229_2001_act_11_1_1037"/></bibl></note>
+            <ptr target="https://www.idref.fr/02683281X"/>
+         </person>
+         <person xml:id="Cesar">
+            <name>César Borgia</name>
+            <persName>duc de Valentinois</persName>
+            <note> titre crée par Louis XII en 1498</note>
+            <birth>1475</birth>
+            <death>1507</death>
+            <note>César Borgia, dit « le Valentinois », est le fils aîné naturel de Rodrigo Borgia
+               (pape sous le nom d'Alexandre VI) et de Vannozza Cattanei, patricienne romaine</note>
+         </person>
+         <person xml:id="Jean">
+            <name>Jacques Duèze (ou d'Euse)</name>
+            <persName role="pope">Jean XXII</persName>
+            <birth>1249</birth>
+            <death>1334</death>
+            <note>élu au pontificat en 1316</note>
+            <note type="editor">Jacques Duèze est élu pape à Lyon pour succéder à Clément V sous le
+               nom de Jean XXII. Il fait d'Avignon la résidence permanente du Saint-Siège. Son
+               pontificat est notamment marqué par la question de la primauté pontificale
+               qu'illustre l'intervention du pape dans le règlement du conflit opposant l'empereur
+               Louis IV de Bavière et Frédéric d'Autriche au sujet de la couronne du Saint-Empire
+               romain germanique. En 1322, Louis de Bavière sort victorieux sur son adversaire
+               Frédéric d'Autriche de la bataille de Mühldorf. Toutefois, Jean XXII lui interdit
+               d'exercer le pouvoir jusqu'à ce qu'il statue lui-même, en sa qualité de souverain
+               pontife. Jean XXII affirme ainsi la prééminence de la papauté sur les élections
+               impériales. Louis de Bavière réagit et lance l'Appel de Sachsenhausnen en 1324 et
+               avec la contribution et le soutien qu'il offre à Marsile de Padoue, il défend la
+               vision de la supériorité de l'autorité du concile face à celle du pape. Jean XXII
+               riposte par l'excommunication de Louis de Bavière (mars 1324). Couronné empereur à
+               Rome en 1328, Louis de Bavière dépose Jean XXII. Le franciscain spirituel Pierre de
+               Corbière (Pietro Rainalducci) devient antipape sous le nom de Nicolas V <bibl><ref target="https://www.universalis.fr/encyclopedie/jacques-jean-xxii/"/></bibl>.
+               Dans la controverse au sein de l'ordre franciscain, Jean XXII soutient les
+               Conventuels au détriment des Spirituels, partisans de la stricte observance de la
+               règle de pauvreté absolue de François d'Assise. Il condamnera l'intégrité de la
+               doctrine franciscaine de la pauvreté évangélique par deux décrétales en 1322 et en
+               1323, affirmant, Ecriture sainte à l'appui, que le Christ et les apôtres possédaient
+               eux-mêmes des biens.</note>
+            <ptr target="https://isni.org/isni/0000000449165295"/>
+         </person>
+         <person xml:id="Jules">
+            <name>Giuliano Della Rovere</name>
+            <persName role="pope">Jules II</persName>
+            <birth>1443</birth>
+            <death>1513</death>
+            <note>élu au pontificat en 1503</note>
+            <ptr target="https://www.idref.fr/027528081"/>
+            <ptr target="https://isni.org/isni/0000000121326761"/>
+         </person>
+         <person xml:id="Leon">
+            <name>Jean de Médicis</name>
+            <persName role="pope">Léon X</persName>
+            <birth>1475</birth>
+            <death>1521</death>
+            <note>élu au pontificat en 1513</note>
+            <note>fils de Laurent de Médicis</note>
+            <ptr target="https://www.idref.fr/070725721"/>
+            <ptr target="https://isni.org/isni/000000012096688X"/>
+         </person>
+         <person xml:id="Lucrece">
+            <name>Lucrèce Borgia</name>
+            <persName/>
+            <birth>1480</birth>
+            <death>1519</death>
+            <note>fille naturelle de Rodrigo Borgia, futur Alexandre VI, et de Vannozza
+               Cattanei</note>
+            <ptr target="https://www.idref.fr/030136067"/>
+         </person>
+         <person xml:id="Clement">
+            <name>Jules de Médicis</name>
+            <persName role="pope">Clément VII</persName>
+            <birth>1478 <placeName>Florence</placeName>
+            </birth>
+            <death>1534</death>
+            <note>élu au pontificat en 1523</note>
+            <note>archevêque de Florence, 1513-1523</note>
+            <ptr target="https://www.idref.fr/072315563"/>
+            <ptr target="https://isni.org/isni/0000000121432441"/>
+         </person>
+         <person xml:id="Valla">
+            <persName>Lorenzo Valla</persName>
+            <birth>1407</birth>
+            <death>1457</death>
+            <occupation>secrétaire pontifical</occupation>
+            <note>philologue, humaniste italien</note>
+            <note type="editor">Il est l'auteur du premier opuscule spécifiquement consacré à la
+               démonstration de la fausseté de la Donation de Constantin, soit l'acte diplomatique
+               prétendument conclu entre l’empereur Constantin et le pape Sylvestre Ier en 314. Ce
+               faux, élaboré entre le VIIIe et le IXe siècle, attribuait au pape : des droits
+               temporels sur Rome, sur l’Italie et sur l’Occident ; des pouvoirs et des dignités de
+               l’Empire, notamment le port d’insignes impériaux et des honneurs semblables aux
+               officiers de l’Empire pour son clergé. Il exprimait également une volonté de donner
+               la primauté à l’évêque de Rome sur toutes les Églises. Intégrée au <hi rend="italic">Décret de Gratien</hi>, la valeur juridique de la Donation a toutefois été remise
+               en cause par les juristes du droit romain, qui alimentent une polémique avec les
+               canonistes. À ce propos, voir : <bibl>Lorenzo Valla, La Donation de Constantin. Sur
+                  la donation de Constantin, à lui faussement attribuée et mensongère, trad. par
+                  Jean-Baptiste Giard, préf. de Carlo Ginzburg, Paris, Les Belles Lettres (La roue à
+                  livres, 21), 2012 (1ère édit., Paris, 1993)</bibl>
+               <bibl>Huyghebaert, Nicolas Norbert, "Une légende de fondation: le <hi rend="italic">Constitutum Constantini</hi>", Le Moyen Age, 85 (1979), 177–209</bibl>
+               <bibl>Camporeale, Salvatore I. “Lorenzo Valla’s ‘Oratio’ on the Pseudo-Donation of
+                  Constantine: Dissent and Innovation in Early Renaissance Humanism.” Journal of the
+                  History of Ideas 57, no. 1 (1996): 9–26.</bibl>
+               <ref type="URI">https://doi.org/10.2307/3653880</ref>. <bibl>Delivré, Fabrice. « La
+                  (fausse) donation de Constantin ». Raison présente, 2018/4 N° 208, 2018. p.83-94.
+                     <ref>CAIRN.INFO,
+                     shs.cairn.info/revue-raison-presente-2018-4-page-83?lang=fr</ref>.</bibl>
+            </note>
+            <ptr target="https://isni.org/isni/0000000121258391"/>
+         </person>
+         <person xml:id="Albert">
+            <name>Albert Ier</name>
+            <persName role="king">Albert Ier de Habsbourg</persName>
+            <birth>1248</birth>
+            <death>1308</death>
+            <note>roi des Romains et duc d’Autriche, fils aîné de l’empereur Rodolphe de Habsbourg
+               (1255-1308)</note>
+            <note>Albert Ier de Habsbourg, élu roi des Romains en 1298, après la déposition
+               d’Adolphe de Nassau par les princes électeurs et la mort de son prédécesseur à la
+               bataille de Göllheim. Albert Ier entretient des rapports tendus avec Boniface VIII,
+               qui refuse de reconnaître son élection. Après avoir brisé l’opposition des princes
+               électeurs rhénans, il cherche à obtenir l’appui pontifical. En 1303, dans le contexte
+               du conflit entre Boniface VIII et le roi de France, Philippe le Bel, le pape
+               reconnait finalement Albert comme roi des Romains. Il se montre favorable à son
+               couronnement impérial au prix d’importantes concessions pour Albert, revenant à
+               reconnaître la conception pontificale de la <hi rend="italic">translatio
+               imperii</hi>, selon laquelle la dignité impériale dépend du Siège apostolique, qui en
+               détient le pouvoir de reconnaissance et de confirmation. Cet accord demeure sans
+               suite: Boniface VIII mourut en octobre 1303. Albert meurt assassiné en 1308, sans
+               avoir été couronné empereur.</note>
+            <ptr target="https://isni.org/isni/0000000024857405"/>
+            <ptr target="https://www.idref.fr/190452730"/>
+         </person>
+         <person xml:id="Macedonius">
+            <name>Macédonios (ou Macédonius) Ier</name>
+            <birth>IVe s.</birth>
+            <death/>
+            <note>évêque de Constantinople (342-346; 351-360)</note>
+            <ptr target="https://portail.biblissima.fr/ark:/43093/descc143d39d9e592abd0dfa450286ff03d07e592804"/>
+            <ptr target="https://fr.wikipedia.org/wiki/Mac%C3%A9donios_Ier_de_Constantinople"/>
+            <note/>
+         </person>
+         <person xml:id="Malchus">
+            <name>Malchus</name>
+            <note>personnage biblique</note>
+            <note>serviteur du grand-prêtre</note>
+            <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-3304-malchus"/>
+         </person>
+         <person xml:id="Macrobe">
+            <name>Ambrosius, Theodosius Macrobius</name>
+            <birth>vers 370</birth>
+            <death>après 430</death>
+            <note>grammairien latin du IVe-Ve siècle après Jésus-Christ</note>
+            <note>auteur de l’Antiquité tardive, probablement actif au début du Ve siècle. Il est
+               l’auteur des <hi rend="italic">Saturnales</hi>, banquet littéraire consacré à de
+               multiples sujets, notamment religieux, antiquaires et littéraires, du <hi rend="italic">Commentaire au Songe de Scipion</hi>, lecture philosophique et
+               néoplatonicienne du récit de Cicéron. Sur classification des songes de Macrobe, la
+               réception de cette typologie, qui a connu une large diffusion au Moyen Âge et
+               jusqu’au XVe siècle et sa traduction en moyen français : <bibl>Mireille Demaules, „La
+                  classification des songes de Macrobe en moyen français : continuité, ruptures et
+                     déplacements“,<ref type="static_link" target="http://journals.openedition.org/anabases/3886"/><ref type="static_link" target="https://doi.org/10.4000/anabases.3886"/></bibl>
+            </note>
+            <ptr target="https://www.idref.fr/03092166X"/>
+         </person>
+         <person xml:id="Lucien">
+            <!-- A COMPLETER -->
+            <name>Lucien de Samosate</name>
+            <persName/>
+            <birth>125</birth>
+            <death>192</death>
+            <note><bibl>Billault, Alain. “Lucien de Samosate et son œuvre”. Mixis, edited by Émeline
+                  Marquis and Alain Billault, Demopolis, 2017, <ref type="static-link" target="https://books.openedition.org/demopolis/2127"/>.</bibl></note>
+            <ptr target="https://www.idref.fr/026997460"/>
+            <ptr target="https://isni.org/isni/0000000355081330"/>
+         </person>
+         <person xml:id="Hus">
+            <name>Jan Hus, Jean Hus</name>
+            <birth>1372?</birth>
+            <death>1415</death>
+            <note>théologien et prédicateur tchèque, né à Husinec, en Bohême méridionale. Il est
+               professeur puis recteur de l’université de Prague. Accusé d’hérésie, il comparait
+               devant le concile de Constance, où sa défense échoue ; malgré le sauf-conduit
+               impérial de Sigismond, il est brûlé comme hérétique le 6 juillet 1415. Figure majeure
+               de la contestation religieuse pré-réformatrice, il devient la référence fondatrice du
+               mouvement hussite. Celui-ci revendique notamment, dans les quatre Articles de Prague
+               de 1420, la communion des laïcs sous les deux espèces, c’est-à-dire sous la forme du
+               pain et du vin consacrés. Sur le rapport de Jan Hus à l’eucharistie et son ralliement
+               tardif à la communion sous les deux espèces: <bibl>Olivier Marin, « Hus et
+                  l’eucharistie : notes sur la critique hussite de la <hi rend="italic">Stella
+                     clericorum</hi> », in Bohemian Reformation and Religious Practice, vol. 3,
+                  Prague, 2000, p. 49-62<ref type="static-link" target="https://www.brrp.org/proceedings/brrp3/marin.pdf"/></bibl> Sur le
+               mouvement hussiste, voir du même auteur: <bibl>Marin, Olivier. La Réforme commence à
+                  Prague : Histoire des hussites. XVe-XXe siècle. Passés Composés. « Hors collection
+                  », (2021)</bibl>
+            </note>
+            <ptr target="https://www.idref.fr/029313570"/>
+         </person>
+         <person xml:id="Jephte">
+            <name>Jephté</name>
+            <note>personnage biblique du <hi rend="italic">Livre des Juges (Jg 11:29-40)</hi></note>
+            <note>juge, juge d'Israël. À la suite d'un voeu, relatif à une victoire militaire, il
+               fait sacrifier sa fille unique</note>
+            <bibl>Bauks, Michaela. « La fille sans nom, la fille de Jephté ». Études théologiques et
+               religieuses, 2006/1 Tome 81, 2006. p.81-93.<ref type="static_link" target="shs.cairn.info/revue-etudes-theologiques-et-religieuses-2006-1-page-81?lang=fr"/>.</bibl>
+            <ptr target="https://d-nb.info/gnd/118834339"/>
+            <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-2728-jephte"/>
+         </person>
+         <person xml:id="Paulus">
+            <!-- A COMPLETER -->
+            <name>Paul Émile, dit le Macédonique ou le Macédonien</name>
+            <name xml:id="lat">Lucius Aemilius Paullus Macedonicus</name>
+            <birth>vers 230 av. J.-C</birth>
+            <death>160 av. J.-C</death>
+            <note/>
+            <ptr/>
+         </person>
+         <person xml:id="Prague">
+            <name>Jerôme de Prague</name>
+            <name xml:lang="la">Hieronymus Pragensis</name>
+            <birth>entre 1365 et 1379</birth>
+            <death>1416</death>
+            <note>théologien, proche Jan Hus et défenseur des idées de John Wyclif. En 1415, il se
+               rend au concile de Constance pour soutenir Hus. Arrêté et emprisonné, il est condamné
+               pour hérésie et brûlé à Constance le 30 mai 1416, moins d’un an après Jan Hus. Sur la
+               vie de Jérôme de Prague et son parcours, voir: <bibl>Fudge, Thomas A. Hieronymus von
+                  Prag und die Anfänge der hussitischen Bewegung. Aschendorff Verlag, 2020.<ref target="https://www.unifr.ch/theo/fr/actus/news/22812/premiere-biographie-scientifique-de-jerome-de-prague-en-langue-allemande"/></bibl>
+            </note>
+            <ptr target="https://www.idref.fr/073682950"/>
+            <ptr target="https://isni.org/isni/0000000447108123"/>
+         </person>
+         <person xml:id="Robert">
+            <name>Robert d'Anjou</name>
+            <persName role="king">Robert Ier, roi de Naples (1309-1343)</persName>
+            <birth>1277</birth>
+            <death>1343</death>
+            <bibl>Hébert, Michel. “Le règne de Robert d’Anjou”. Les princes angevins du XIIIe au XVe
+               siècle, edited by Noël-Yves Tonnerre and Élisabeth Verry, Presses universitaires de
+               Rennes, 2003, <ref type="static_link" target="https://books.openedition.org/pur/18334."/>.</bibl>
+            <bibl>Vagnoni M. Robert of Anjou (1309–1343). Encyclopedia. 2021; 1(3):812-821.<ref type="static_link" target="https://doi.org/10.3390/encyclopedia1030062"/></bibl>
+            <ptr target="https://d-nb.info/gnd/118789066"/>
+         </person>
+         <person xml:id="Scipion">
+            <!-- A COMPLETER -->
+            <name>Scipion Émilien</name>
+            <name xml:lang="la">Publius Cornelius Scipio Aemilianus, Africanus minor</name>
+            <birth>vers 185 av. J.-Ch</birth>
+            <death>129 av. J.-Ch</death>
+            <note>consul romain</note>
+            <ptr target="https://d-nb.info/gnd/118612344"/>
+         </person>
+         <person xml:id="Sixte">
+            <name>Francesco della Rovere</name>
+            <persName role="pope">Sixte IV</persName>
+            <birth>1414</birth>
+            <death>1484</death>
+            <note>élu au pontificat en 1471</note>
+            <ptr target="https://isni.org/isni/0000000108876742"/>
+            <ptr target="http://www.idref.fr/032758545/id"/>
+         </person>
+         <person xml:id="Simon">
+            <name>Simon le mage ou le magicien</name>
+            <note>personnage biblique</note>
+            <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-4848-simon-le-mage-ou-le-magicien"/>
+         </person>
+         <person xml:id="Suetone">
+            <name>Suétone</name>
+            <name xml:lang="la">Suetonius</name>
+            <name type="alternatif">Suetonius Tranquillus, Gaius</name>
+            <birth>vers 69</birth>
+            <death>après 122</death>
+            <note>historien</note>
+            <ptr target="https://d-nb.info/gnd/118619918"/>
+         </person>
+         <person xml:id="Tite">
+            <name>Tite-Live</name>
+            <name xml:lang="la">Titus Livius</name>
+            <birth>vers 59 av. J.-Ch</birth>
+            <death>vers 7 ap. J.-Ch</death>
+            <note>historien</note>
+            <note>Son oeuvre majeure, l’<hi rend="italic">Histoire romaine</hi> depuis la fondation
+               de Rome (<hi rend="italic">Ab Urbe condita libri</hi>), vaste histoire en 142 livres,
+               retrace les évènements de Rome depuis les origines légendaires - en réalité dès
+               l’arrivée d’Énée en Italie, avant même la fondation de Rome - jusqu’en 9 av. J.- C.
+               Tite-Live a entrepris la rédaction de cette oeuvre entre 27 et 25 av. J.- C., dans
+               les premières années du principat augustéen. Il n’en subsiste aujourd’hui que 35
+               livres, soit les livres I-X et XXI-XLV, auxquels s’ajoutent des fragments et les <hi rend="italic">Periochae</hi>, résumés antiques des livres. À ce propos, voir:
+                  <bibl>Assenmaker, Pierre. “1. Tite-Live, une Histoire romaine de 2000 ans”. In
+                  Tite-Live, une histoire de livre, edited by Pierre Assenmaker. Namur: Presses
+                  universitaires de Namur, 2017. <ref type="static_link" target="https://books.openedition.org/pun/766"/>.</bibl>
+               <bibl>Tite-Live, Histoire romaine, éd. et trad. française, Paris, Les Belles
+                  Lettres</bibl>
+               <bibl corresp="Ab Urbe condita"><ref type="static_link" target="https://archive.org/details/titiliviaburbeco01livy/page/n43/mode/2up"/></bibl>
+            </note>
+            <ptr target="https://www.idref.fr/026662019"/>
+            <ptr target="https://d-nb.info/gnd/118573624"/>
+         </person>
+      </listPerson>
    </standOff>
 </TEI>

@@ -17,15 +17,23 @@
    <text>
       <body xml:id="static">
          <div xml:lang="fr">
-            <head>Critères de sélection des gravures</head>
+            <head type="static_main_title">Critères de sélection des gravures</head>
             
-            <p>En construction</p>
+            <p>L’ensemble des gravures des <hi rend="italic">Faits de Jésus Christ et du pape</hi> est reproduit sur la page d’accueil. En cliquant sur l’une d’elles, ou à travers le menu déroulant listant les antithèses, la gravure des <hi rend="italic">Faits</hi> s’ouvre en grand, et une loupe permet encore d’en agrandir les détails. Celle-ci est en outre accompagnée d’une série de métadonnées et surmontée d’une frise comparative, agencée chronologiquement.</p>
+            
+            <p>Signalée par un cadre blanc, chaque gravure des <hi rend="italic">Faits</hi> de l’édition de Jean Michel (cf. <ref type="static_link" target="../edition-critique/edCrit_v1.xml">édition critique</ref>) constitue le pivot de cette frise comparative, mais les estampes correspondantes des éditions de Neuchâtel et de Lyon sont également reproduites. Autour de cette image-pivot sont distribuées d’un côté les images qui la précèdent, dont les deux éditions du <hi rend="italic">Passional Christi und Antichristi</hi> (Wittenberg, 1521 et Strasbourg 1521), et de l’autre les images qui lui succèdent, dont l’<hi rend="italic">Antithesis de praeclaris Christi et indignis Papae facinoribus</hi> de Simon du Rosier et ses éditions successives (cf. « <ref type="static_link" target="about-gravures.xml">A propos des gravures</ref> »). Au-delà de ces images, dont le lien de dépendance est avéré, un certain nombre d’autres œuvres, essentiellement des xylographies, mais aussi des enluminures ou des peintures, sont intégrées dans la frise en raison de leur communauté iconographique et/ou formelle. Il est possible d’ouvrir chaque image de la frise pour la faire apparaître agrandie à côté de l’image-pivot des <hi rend="italic">Faits</hi>.</p>
+            
+            <p>En plus de métadonnées techniques (titre, technique, dimensions, bibliographie et crédits), chaque image est accompagnée d’une brève description visant à éclairer la ou les raisons de leur intégration dans cette généalogie visuelle. En effet, chaque bois est le maillon d’une chaîne, l’élément d’un réseau d’images qui excède le livre dans lequel il apparaît. L’objectif de ces généalogies vise à révéler des transferts d’images, des remplois, des réorientations, de dessiner des relations plus ou moins étroites entre elles, de mesurer la diffusion d’un thème spécifique, non seulement sur un temps relativement long, mais aussi dans un espace dilaté, et dans des milieux confessionnels divers.</p>
          </div>
          
          <div xml:lang="en">
-            <head>Engraving selection principles</head>
+            <head type="static_main_title">Engraving selection principles</head>
             
-            <p>In progress</p>
+            <p>L’ensemble des gravures des <hi rend="italic">Faits de Jésus Christ et du pape</hi> est reproduit sur la page d’accueil. En cliquant sur l’une d’elles, ou à travers le menu déroulant listant les antithèses, la gravure des <hi rend="italic">Faits</hi> s’ouvre en grand, et une loupe permet encore d’en agrandir les détails. Celle-ci est en outre accompagnée d’une série de métadonnées et surmontée d’une frise comparative, agencée chronologiquement.</p>
+            
+            <p>Signalée par un cadre blanc, chaque gravure des <hi rend="italic">Faits</hi> de l’édition de Jean Michel (cf. <ref type="static_link" target="../edition-critique/edCrit_v1.xml">édition critique</ref>) constitue le pivot de cette frise comparative, mais les estampes correspondantes des éditions de Neuchâtel et de Lyon sont également reproduites. Autour de cette image-pivot sont distribuées d’un côté les images qui la précèdent, dont les deux éditions du <hi rend="italic">Passional Christi und Antichristi</hi> (Wittenberg, 1521 et Strasbourg 1521), et de l’autre les images qui lui succèdent, dont l’<hi rend="italic">Antithesis de praeclaris Christi et indignis Papae facinoribus</hi> de Simon du Rosier et ses éditions successives (cf. « <ref type="static_link" target="about-gravures.xml">A propos des gravures</ref> »). Au-delà de ces images, dont le lien de dépendance est avéré, un certain nombre d’autres œuvres, essentiellement des xylographies, mais aussi des enluminures ou des peintures, sont intégrées dans la frise en raison de leur communauté iconographique et/ou formelle. Il est possible d’ouvrir chaque image de la frise pour la faire apparaître agrandie à côté de l’image-pivot des <hi rend="italic">Faits</hi>.</p>
+            
+            <p>En plus de métadonnées techniques (titre, technique, dimensions, bibliographie et crédits), chaque image est accompagnée d’une brève description visant à éclairer la ou les raisons de leur intégration dans cette généalogie visuelle. En effet, chaque bois est le maillon d’une chaîne, l’élément d’un réseau d’images qui excède le livre dans lequel il apparaît. L’objectif de ces généalogies vise à révéler des transferts d’images, des remplois, des réorientations, de dessiner des relations plus ou moins étroites entre elles, de mesurer la diffusion d’un thème spécifique, non seulement sur un temps relativement long, mais aussi dans un espace dilaté, et dans des milieux confessionnels divers.</p>
          </div>
       </body>
    </text>
