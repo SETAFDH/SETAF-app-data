@@ -24,8 +24,15 @@
          <person xml:id="Aaron">
             <name>Aaron</name>
             <note>figure biblique</note>
-            <note>frère de Moïse, prêtre</note>
+            <note>frère de Mo!ise, prêtre</note>
             <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-112-aaron"/>
+         </person>
+         <person xml:id="Appollos">
+            <!-- A COMPLETER -->
+            <name>Appollos</name>
+            <note>figure biblique</note>
+            <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-314-apollos"/>
+            <ptr target="https://d-nb.info/gnd/124204961"/>
          </person>
          <person xml:id="Apulee">
             <!-- A COMPLETER -->

@@ -132,6 +132,10 @@
                   <placeName>Puys-en-Velay</placeName>
                   <ptr target="https://d-nb.info/gnd/4602359-8"/>
                </place>
+               <place xml:id="Florence">
+                  <placeName>Florence, République de Florence</placeName>
+                  <ptr target="https://d-nb.info/gnd/1240233-3"/>
+               </place>
             </listPlace>
             <listWit>
                <witness xml:id="LatW1521">
@@ -582,6 +586,12 @@
                   <note>figure biblique</note>
                   <note>frère de Mo!ise, prêtre</note>
                   <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-112-aaron"/>
+               </person>
+               <person xml:id="Appollos"><!-- A COMPLETER -->
+                  <name>Appollos</name>
+                  <note>figure biblique</note>
+                  <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-314-apollos"/>
+                  <ptr target="https://d-nb.info/gnd/124204961"/>
                </person>
                <person xml:id="Apulee"><!-- A COMPLETER -->
                   <name>Apulée</name>
@@ -2968,8 +2978,8 @@
                            La décrétale <hi rend="italic">Pastoralis cura</hi> de <persName key="#Bertrand" ref="isni:0000000454756495">Clément V</persName>, prédécesseur de Jean XXII, promulguée en mars 1314 puis insérée dans les <hi rend="italic">Clémentines</hi>, s’inscrit dans le contexte du conflit entre l’empereur Henri VII et Robert d'Anjou, roi de Naples. 
                            Elle annule la sentence impériale portée contre le roi de Sicile en invoquant la supériorité pontificale sur l’Empire, sa compétence en temps de vacance de l’Empire, ainsi que la <hi rend="italic">plenitudo potestatis</hi> du pape. 
                            Elle maintient que le royaume de Sicile se trouve hors du ressort de l’Empire. Robert d’Anjou y est présenté en tant que roi de Sicile, comme sujet et vassal de l’Église romaine, de laquelle il tient son royaume en fief. À ce propos, voir: 
-                           <bibl>Lizerand, Georges. Les constitutions Romani principes et Pastoralis cura et leurs sources. Nouvelle revue historique de droit français et étranger, 37, 1913, p. 725-757 <ref type="static_link" target="https://www.jstor.org/stable/43892755"/></bibl>
-                           <bibl>Jean-Paul Boyer. Humilier l’Empire. Le paradoxe des romanistes du royaume de Sicile-Naples (fin XIIIe - mi-XIVe siècle). Imperaliter. Gli spazi del potere. Strategie e attibuti dell’imperialità, Basilicata University Press, pp.49-91, 2023. ⟨hal-04439558⟩<ref type="static_link" target="https://amu.hal.science/hal-04439558v1/document"/></bibl>
+                           <bibl>Lizerand, Georges. Les constitutions Romani principes et Pastoralis cura et leurs sources. Nouvelle revue historique de droit français et étranger, 37, 1913, p. 725-757 <ref type="static_link" target="https://www.jstor.org/stable/43892755">[En ligne]</ref>.</bibl>
+                              <bibl>Jean-Paul Boyer. Humilier l’Empire. Le paradoxe des romanistes du royaume de Sicile-Naples (fin XIIIe - mi-XIVe siècle). Imperaliter. Gli spazi del potere. Strategie e attibuti dell’imperialità, Basilicata University Press, pp.49-91, 2023. <ref type="static_link" target="https://amu.hal.science/hal-04439558v1/document">⟨hal-04439558⟩</ref>.</bibl>
                            </note>. L'em-</reg>
                         <reg type="contemporary">et ses terres.<bibl type="canon">Clem.3,9,2</bibl><note type="biblio" source="#Friedberg1959pars2">1153</note>. L'em-</reg>
                      </choice>
@@ -3015,7 +3025,7 @@
                            <reg type="regularisee">son livre
                               <note type="editor">En référence au traité du philologue et humaniste, Laurent Valla, démonstrant, par une critique systématique, que la Donation de Constantin (<hi rend="italic">Donatio Constantini</hi>) est un faux. Son ouvrage est intitulé: <hi rend="italic">De falso credita et ementita Constantini donatione</hi>.
                                  Il est rédigé en 1440 dans le contexte de la crise de succession que traverse le royaume de Naples, opposant le pape Eugène IV (1383-1447), tout juste déposé par le concile de Bâle au profit de Félix V et soutien de <persName ref="isni:0000000121227368">René d’Anjou</persName> (1409-1480), à <persName ref="isni:0000000395772582">Alphonse V d’Aragon</persName> (1416-1458), son rival, à qui Valla écrit son opuscule. 
-                                 Dans l'<bibl><ref type="static_link" target="https://setaf.unige.ch/edition-critique/edCrit_v1.xml?view=page&amp;odd=setaf&amp;root=3.6.2.22.6.4">antithèse 10</ref></bibl>, se retrouve une même référence à la donation de Constantin et à l'ouvrage de Laurent Valla.</note>.</reg>
+                                 Dans l'<bibl><ref type="static_link" target="#">antithèse 10</ref></bibl>, se retrouve une même référence à la donation de Constantin et à l'ouvrage de Laurent Valla.</note>.</reg>
                            <reg type="contemporary">son livre
                               <note type="editor"/>.</reg>
                         </choice>
@@ -3153,7 +3163,7 @@
                         <reg type="regularisee">donnant aux traistres qui <term key="#maintenir">maintenissent</term> les Papes?</reg>
                         <reg type="contemporary">donner aux traîtres qui soutiennent les papes?</reg>
                      </choice>
-               </p>
+                  </p>
                
                   <p>
                      <lb type="DefaultLine" corresp="#f11_eSc_line_8970a3fe_ligne_29"/>
@@ -4394,7 +4404,7 @@
                      <lb type="DefaultLine" corresp="#f19_eSc_line_33277064_ligne_33"/>
                      <choice>
                         <orig>aduient.</orig>
-                        <reg type="regularisee"><term key="#advenir1">advient</term><note type="editor">Cette <ref target="#f19_eSc_line_f4c73d96_ligne_32 #f19_eSc_line_33277064_ligne_33">phrase de conclusion</ref>est un ajout par rapport à l'édition des
+                        <reg type="regularisee"><term key="#advenir1">advient</term><note type="editor">Cette <ref target="#f19_eSc_line_f4c73d96_ligne_32 #f19_eSc_line_33277064_ligne_33">phrase de conclusion</ref> est un ajout par rapport à l'édition des
                            <bibl><ref type="witness" target="#PCRRPV19"><hi rend="italic">Faits</hi>de 1534</ref></bibl>. Elle se retrouve dans l'édition suivante des <bibl><ref type="witness" target="#FranceCa1560"><hi rend="italic">Faitz</hi> <supplied>1560?</supplied></ref></bibl></note>.</reg>
                         <reg type="contemporary">vient.</reg>
                      </choice>
@@ -4650,7 +4660,7 @@
                          <orig>acqueste un grand torment. distin.9. imperatores. Ainsi est dit</orig>
                          <reg type="regularisee"><term key="#acquester1">acqueste</term> un grand <term key="#torment">torment</term>
                             <note type="editor">Le mot "torment" renvoie à l'expression, présente dans D. 9, c.1 : "acquirit grande supplicium".
-                            <hi rend="italic">Supplicium</hi> signifiant: punition, peine, châtiment, supplice. Cf.: <ref type="static_line" target="https://gaffiot.fr/#supplicium">[En ligne]</ref></note>.
+                            <hi rend="italic">Supplicium</hi> signifiant: punition, peine, châtiment, supplice. Cf.: <ref type="static_link" target="https://gaffiot.fr/#supplicium">[En ligne]</ref></note>.
                             <bibl type="canon" ana="D. 9, c. 1; CorpusIC 1, 16"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_0_61">distin.9. imperatores.</ref></bibl> Ainsi est dit</reg>
                          <reg type="contemporary">s'attire une grande punition. <bibl type="canon">D. 9, c.1</bibl><note type="biblio" source="#Friedberg1959pars1">16</note>. Ainsi il est dit</reg>
                       </choice>
@@ -4712,7 +4722,7 @@
                       <choice>
                          <orig>doibue payer? 11.q.1. Magnum. Le seruiteur obeisse au Sei¬</orig>
                          <reg type="regularisee">doibve payer? <bibl type="canon" ana="C. 11, q. 1, c. 28; CorpusIC 1, 634"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_1_1873">11.q.1. Magnum</ref>.</bibl>
-                            <note type="editor">Références identiques dans la partie de cette antithèse consacrée au pape, concerne : <ref type="static_link" target="https://setaf.unige.ch/edition-critique/edCrit_v1.xml?view=page&amp;odd=setaf&amp;root=3.6.2.16.6.10">C. 23, q. 8, c. 22</ref> et <ref type="static_link" target="https://setaf.unige.ch/edition-critique/edCrit_v1.xml?view=page&amp;odd=setaf&amp;root=3.6.2.16.6.10">C. 11, q. 1., c. 27 et c. 28</ref></note> 
+                            <note type="editor">Références identiques dans la partie de cette antithèse consacrée au pape, concerne : <ref type="static_link" target="#">C. 23, q. 8, c. 22</ref> et <ref type="static_link" target="#">C. 11, q. 1., c. 27 et c. 28</ref></note> 
                             Le serviteur obeisse au Sei-</reg>
                          <reg type="contemporary">doit pas le payer? <bibl type="canon">C. 11, q. 1, c. 28</bibl><note type="biblio" source="#Friedberg1959pars1">634</note>. Le serviteur obéit au</reg><!-- Modernisation: obéisse: obéit  -->
                       </choice>
@@ -4955,7 +4965,7 @@
                          <orig>q.1. Si tributum magnum. Et aussi le prince a puissance sur</orig>
                          <reg type="regularisee"><bibl type="canon" xml:id="Cit11-2" prev="#Cit11-1" ana="C. 11, q. 1., c. 27 et c. 28; CorpusIC 1, 634"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_1_1872">q.1. Si tributum</ref>
                                <ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_1_1873">magnum</ref>.</bibl>
-                            <note type="editor">Références identiques dans la partie de cette antithèse consacrée au Christ, concerne : <ref type="static_link" target="https://setaf.unige.ch/edition-critique/edCrit_v1.xml?view=page&amp;odd=setaf&amp;root=3.6.2.16.4.10">C. 23, q. 8, c. 22</ref> et <ref type="static_link" target="https://setaf.unige.ch/edition-critique/edCrit_v1.xml?view=page&amp;odd=setaf&amp;root=3.6.2.16.4.10">C. 11, q. 1., c. 27 et c. 28.</ref></note>
+                            <note type="editor">Références identiques dans la partie de cette antithèse consacrée au Christ, concerne : <ref type="static_link" target="#f21_eSc_line_eccc65c9_ligne_22">C. 23, q. 8, c. 22</ref> et <ref type="static_link" target="#f21_eSc_line_d02dfd66_ligne_27; #f21_eSc_line_eccc65c9_ligne_22">C. 11, q. 1., c. 27 et c. 28.</ref></note>
                             Et aussi le prince a <term key="#puissance">puissance</term> sur</reg>
                          <reg type="contemporary"><bibl type="canon">C. 11, q. 1, c. 27 et c. 28</bibl><note type="biblio" source="#Friedberg1959pars1">634</note>.
                             De plus, le prince exerce un pouvoir</reg>
@@ -5386,9 +5396,10 @@
                      <lb type="DefaultLine" corresp="#f26_eSc_line_8f2eea85_ligne_7"/>
                      <choice>
                         <orig>distinc.86. Quando. ⁊ la glosse dit/ que cest enuers les folz/</orig>
-                        <reg type="regularisee"><bibl type="canon" ana="D.86, c.4; CorpusIC 1, 298"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_0_904">distinc.86. Quando.</ref></bibl> et la <bibl type="canon"><ref type="static_link" target="https://digital.library.ucla.edu/catalog/ark:/21198/zz0014rx6c?cv=338">glosse</ref></bibl> dit/ que c'est envers les folz/</reg>
-                        <reg type="contemporary"><bibl type="canon">D.86, c.4</bibl><note type="biblio" source="#Friedberg1959pars1">298</note>.
-                           La glose <note type="editor">En référence à la glose ordinaire à l'entrée des mots: <hi rend="italic">Frangatur auctoritas</hi> [Glossa ordinaria , D.86 c.4 Quando, v*. Familiaritas, Glossa ordinaria (éd. à chercher)]. Dans la marge, se lit: <hi rend="italic">Familiaritas nimia parit contemptum</hi> (trop de familiarité engendre le mépris).</note> précise que cela vaut aussi à l'égard des sots,</reg>
+                        <reg type="regularisee"><bibl type="canon" ana="D.86, c.4; CorpusIC 1, 298"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_0_904">distinc.86. Quando.</ref></bibl> et la <bibl type="canon"><ref type="static_link" target="https://digital.library.ucla.edu/catalog/ark:/21198/zz0014rx6c?cv=338">glosse</ref></bibl>
+                      <note type="editor">En référence à la glose ordinaire à l'entrée des mots: <hi rend="italic">Frangatur auctoritas</hi> [Glossa ordinaria , D.86 c.4 Quando, v*. Familiaritas, Glossa ordinaria (éd. à chercher)]. Dans la marge, se lit: <hi rend="italic">Familiaritas nimia parit contemptum</hi> (trop de familiarité engendre le mépris).</note>
+                        dit/ que c'est envers les folz/</reg>
+                        <reg type="contemporary"><bibl type="canon">D.86, c.4</bibl><note type="biblio" source="#Friedberg1959pars1">298</note>. La glose précise que cela vaut aussi à l'égard des sots,</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f26_eSc_line_ba9fc5d7_ligne_8"/>
                      <choice>
@@ -5502,7 +5513,7 @@
                            <note type="editor">En référence à « la grande prostituée » décrite dans le livre de l’Apocalypse (Ap 17 :6) comme « ivre de sang des saints et du sang des témoins de Jésus ».
                               La polémique réformée investira cette figure et l’assimilera, comme l’Antécrhist, à la Rome pontificale. À ce propos, voir notamment :
                               <bibl>Solfaroli Camillocci Daniela. Le pape selon les Réformés : Genève et l’Antéchrist romain, un parcours entre polémique et controverse (XVIe- début XVIIe siècle). In: « Rome, l’unique objet de mon ressentiment » : regards critiques sur la papauté. Actes du colloque de Paris, 3-4 octobre 2008. Rome : École Française de Rome, 2011. pp. 179-192. (Publications de l'École française de Rome, 453)</bibl>
-                              <ref type="static_link" target="www.persee.fr/doc/efr_0223-5099_2011_act_453_1_10258">[En ligne]</ref>.
+                              <ref type="static_link" target="www.persee.fr/doc/efr_0223-5099_2011_act_453_1_10258"/>.
                            </note>/ la-</reg>
                         <reg type="contemporary">¶ Regardez, Chrétiens, cette grande prostituée de Babylone</reg>
                      </choice>
@@ -6190,12 +6201,12 @@
                         <orig>le en partie de soing/ non point a la plenitude de puissance. Cestuy</orig>
                         <reg type="regularisee">le en partie de soing<note type="editor">En référence à la formule latine <hi rend="italic">in patrem solicitudinis, non in plenitudinem potestatis</hi>, dont l’origine remonte à Léon Ier (391-461) dans une lettre à Anastase de Thessalonique.
                            Elle désigne la position hiérarchique des évêques dans l’Eglise: ceux-ci ne détiennent qu’une autorité et une responsabilité partielles, par opposition au pape qui détient le pouvoir spirituel dans son absolue totalité.
-                           Dans son <bibl><hi rend="italic">Rationale divinorum officiorum</hi><ref type="static_link" target="https://portail.biblissima.fr/ark:/43093/oedata09bdc565df07421cde52d7a761101a557f608436"/></bibl>, <persName ref="https://d-nb.info/gnd/118681273">Guillaume Durand</persName> reprend cette conception.
+                           Dans son <bibl><hi rend="italic">Rationale divinorum officiorum</hi><ref type="static_link" target="https://portail.biblissima.fr/ark:/43093/oedata09bdc565df07421cde52d7a761101a557f608436">[En ligne]</ref></bibl>, <persName ref="https://d-nb.info/gnd/118681273">Guillaume Durand</persName> reprend cette conception.
                            Il fait dériver la charge des évêques de la plénitude du pouvoir pontifical. Dans la pensée théologique et canonique médiévale, la formule prend une portée plus générale. Elle sert à affirmer la supériorité du siège romain, source première et suprême de toute autorité ecclésiastique.
                            Sur l’origine et l’évolution de la formule, voir : <bibl>Jean Rivière, In partem sollicitudinis. Evolution d'une formule pontificale, Revue des Sciences Religieuses, tome 5, fascicule 2, 1925. pp. 210-231, <ref type="static_link" target="https://doi.org/10.3406/rscir.1925.1296"/></bibl>.
                            Sur son importance dans la conception de la primauté romaine et son inscription dans les collections canoniques, voir: 
-                           <bibl>Gaudemet, Jean. “13. La primauté pontificale dans les collections canoniques grégoriennes”. Formation du droit canonique et gouvernement de l’Église de l’Antiquité à l’âge classique, Presses universitaires de Strasbourg, 2008, <ref type="static_link" target="https://doi.org/10.4000/books.pus.8876"/>.</bibl>
-                              <bibl>Watt JA. The Theory of Papal Monarchy in the Thirteenth Century: The Contribution of the Canonists. Traditio. 1964;20:179-317, <ref type="static_link" target="https://doi.org/10.1017/S0362152900016342">[En ligne]</ref></bibl>.</note>/
+                           <bibl>Gaudemet, Jean. “13. La primauté pontificale dans les collections canoniques grégoriennes”. Formation du droit canonique et gouvernement de l’Église de l’Antiquité à l’âge classique, Presses universitaires de Strasbourg, 2008, <ref type="static_link" target="https://doi.org/10.4000/books.pus.8876">[En ligne]</ref>.</bibl>
+                           <bibl>Watt JA. The Theory of Papal Monarchy in the Thirteenth Century: The Contribution of the Canonists. Traditio. 1964;20:179-317. <ref type="static_link" target="doi:10.1017/S0362152900016342">[En ligne]</ref></bibl>.</note>/
                            non point à la plenitude de puissance. Cestuy</reg>
                         <reg type="contemporary">à prendre part à la charge pastorale et non à la plénitude du pouvoir. Il</reg>
                      </choice>
@@ -6295,7 +6306,7 @@
                         <lb type="DefaultLine" corresp="#f31_eSc_line_47137f05_ligne_10"/>
                         <choice>
                            <orig>aussi la glose du proeme des clemẽtines/ qui cõmẽce Ioannes/ la ou</orig><!-- A FAIRE Référence: Clem. ... Clem., prooem., inc. Ioannes episcopus servus servorum Dei-->
-                           <reg type="regularisee">aussi la <bibl type="canon"><ref type="static_link" target="https://digital.library.ucla.edu/catalog/ark:/21198/zz0014rx8d?cv=441">glose</ref></bibl> du <term key="#proeme">proeme</term> des <bibl type="canon" ana="Clementis Papae V. Constitutiones; CorpusIC 2, 1129-1130"><note type="biblio" source="#Clementines">clementines</note></bibl>/ qui commence Joannes/ là où</reg>
+                           <reg type="regularisee">aussi la <bibl type="canon"><ref type="static_link" target="https://digital.library.ucla.edu/catalog/ark:/21198/zz0014rx8d?cv=441">glose</ref></bibl> du <term key="#proeme">proeme</term> des <bibl type="canon" ana="Clementis Papae V. Constitutiones; CorpusIC 2, 1129-1130">clementines<note type="biblio" source="#Clementines"/></bibl>/ qui commence Joannes/ là où</reg>
                            <reg type="contemporary">aussi la glose du prologue des <bibl type="canon" ana="Clem. Prologue"><hi rend="italic">Clémentines</hi></bibl><note type="biblio" source="#Friedberg1959pars2">1129-1130</note> qui commence par <hi rend="italic" xml:lang="la" ana="incipit:Joannes episcopus">Joannes</hi> là où</reg>
                         </choice>
                         <lb type="DefaultLine" corresp="#f31_eSc_line_37a253f6_ligne_11"/>
@@ -7708,12 +7719,12 @@
                      <lb type="DefaultLine" corresp="#f39_eSc_line_48d4c6c9_ligne_6"/>
                      <choice>
                         <orig>⁊ sa uille de Florence/ ⁊ de ses semblables/ certainemẽt les hy¬</orig>
-                        <reg type="regularisee">et sa ville de <placeName>Florence</placeName>
+                        <reg type="regularisee">et sa ville de <placeName key="#Florence" ref="https://d-nb.info/gnd/1240233-3">Florence</placeName>
                            <note type="editor">L’accusation de trahison portée contre Clément VII renvoie à une lecture républicaine du siège de Florence de 1529-1530.
                               Après l’expulsion des Médicis en 1527, un régime républicain a été rétabli dans la ville ; mais l’accord conclu en 1529 entre le pape Médicis et Charles Quint ouvre la voie à l’intervention de l’armée impériale contre Florence.
                               La capitulation d’août 1530 met fin à cette expérience républicaine et permet le rétablissement des Médicis, puis l’installation d’Alexandre de Médicis (1510-1537) comme premier duc de Florence (1532-1537).
                               À ce propos, voir notamment : <bibl>Florence et la Toscane, XIVe-XIXe siècles. Chap. III. Olivier Rouchon. L'invention du principat médicéen (1512-1609) : Les dynamiques d'un État italien, p.65-89 <ref type="static_link" target="https://books.openedition.org/pur/15777?lang=en">[En ligne]</ref></bibl>,
-                              <bibl>Silvia Genzano. La Seconde République florentine (1527-1530) : pensée politique et lectures historiques. Histoire. Lyon, Ecole normale supérieure, 2010. Français. <ref type="static_link" target="https://shs.hal.science/tel-03665257v1"/></bibl>.</note>
+                              <bibl>Silvia Genzano. La Seconde République florentine (1527-1530) : pensée politique et lectures historiques. Histoire. Lyon, Ecole normale supérieure, 2010. Français. <ref type="static_link" target="https://shs.hal.science/tel-03665257v1">[En ligne]</ref></bibl>.</note>
                            / et de ses semblables/ certainement les hy-</reg>
                         <reg type="contemporary">et sa ville de Florence, ni par l'un de leurs semblables! Pour sûr, les</reg>
                      </choice>
@@ -8000,7 +8011,7 @@
                       <choice>
                          <orig>Et pourtant Iesus uoyant la Cite/ a pleure sur icelle. Luc.19.</orig>
                          <reg type="regularisee">Et <term key="#pourtant">pourtant</term> Jesus voyant la Cité/ a pleuré sur icelle. <bibl type="biblical" ana="Lc19:41">Luc.19.</bibl></reg>
-                         <reg type="contemporary">Et c'est pourquoi, Jésus, en voyant la ville, a pleuré sur elle. <bibl type="biblical">Lc 19:41.</bibl></reg><!-- Modernisation: icelle? -->
+                         <reg type="contemporary">Et c'est pourquoi Jésus, en voyant la ville, a pleuré sur elle. <bibl type="biblical">Lc 19:41.</bibl></reg>
                       </choice>
                   </p>
                   
@@ -8091,7 +8102,7 @@
                       <choice>
                          <orig>musicque/ trompettes/ tabourins/ ⁊ gros bruit de lartillerie/</orig>
                          <reg type="regularisee">musicque/ trompettes/ tabourins/ et gros bruit de l'artillerie/</reg>
-                         <reg type="contemporary">musique, des trompettes, des tabourins et du fracas assourdissant de l'artillerie,</reg>
+                         <reg type="contemporary">musique, des trompettes, des tambourins et du fracas assourdissant de l'artillerie,</reg>
                       </choice>
                       <lb type="DefaultLine" corresp="#f41_eSc_line_1d9e2c24_ligne_11"/>
                       <choice>
@@ -8263,7 +8274,7 @@
                      <choice>
                         <orig>que lon fait au Pape/ quãd il est coronne/ quãd il faict son en¬</orig>
                         <reg type="regularisee">que l'on fait au Pape/ quand il est coronné/ quand il faict son en-</reg>
-                        <reg type="contemporary">que l'on réserve au pape à son couronnement et lors de son en-</reg>
+                        <reg type="contemporary">que l'on réserve au pape lors son couronnement et lors de son en-</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f42_eSc_line_1626beb8_ligne_5"/>
                      <choice>
@@ -8275,7 +8286,7 @@
                      <choice>
                         <orig>Cardinaulx/ Euesques/ Archeuesques/ Abbez/ ꝓtonotaires/</orig>
                         <reg type="regularisee">cardinaulx/ evesques/ archevesques/ abbez/ <term key="#protonotaire">protonotaires</term>/</reg>
-                        <reg type="contemporary">cardinaux, d'évêques, d'archevêques, d'abbés, <term key="#protonotaire">protonotaires</term>,</reg>
+                        <reg type="contemporary">cardinaux, d'évêques, d'archevêques, d'abbés, de <term key="#protonotaire">protonotaires</term>,</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f42_eSc_line_32600868_ligne_7"/>
                      <choice>
@@ -8287,7 +8298,7 @@
                      <choice>
                         <orig>poͬ estre ueu/ ⁊ poͬ faire hõneur a ce dieu de terre/ leq̃l poͬ estre</orig>
                         <reg type="regularisee">pour estre veu/ et pour faire honneur à ce dieu de terre/ lequel pour estre</reg>
-                        <reg type="contemporary">pour être vu et pour honorer ce dieu terrestre, qui, pour être</reg>
+                        <reg type="contemporary">pour être vu et pour honorer ce dieu terrestre qui, pour être</reg>
                      </choice><!-- Traduction: terreste: mortel, matériel ou humain? -->
                      <lb type="DefaultLine" corresp="#f42_eSc_line_21b170e7_ligne_9"/>
                      <choice>
@@ -8324,7 +8335,7 @@
                      <choice>
                         <orig>plus paoure/ est orgueilleusement accoustre/ sur tous princes/</orig>
                         <reg type="regularisee">plus paovre/ est <term key="#orgueilleusement">orgueilleusement</term> accoustré/ sur tous princes/</reg>
-                        <reg type="contemporary">plus humble - est somptueusement paré bien mieux que tous princes,</reg>
+                        <reg type="contemporary">plus humble - est somptueusement paré, bien mieux que tous princes,</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f43_eSc_line_8391d3b9_ligne_4"/>
                      <choice>
@@ -8389,7 +8400,7 @@
                      <lb type="DefaultLine" corresp="#f43_eSc_line_5a3210d5_ligne_14"/>
                      <choice>
                         <orig>par Beelzebub/ autãt est loing le Pape du bien quon dit estre</orig>
-                        <reg type="regularisee">par Beelzebub<note type="editor">En référence à Jn 8, 48 ; Mt 12, 24, passages, éludés ici, présents dans la partie de cette antithèse consacrée au Christ, voir: <bibl><ref type="static_link" target="https://setaf.unige.ch/edition-critique/edCrit_v1.xml?view=page&amp;odd=setaf&amp;root=3.6.2.26.4.10">Page 41</ref>.</bibl></note>
+                        <reg type="regularisee">par Beelzebub<note type="editor">En référence à Jn 8, 48 ; Mt 12, 24, passages, éludés ici, présents dans la partie de cette antithèse consacrée au Christ, voir: <bibl><ref type="static_link" target="#f41_eSc_line_c5af0dff_ligne_4"/>et <ref type="static_link" target="#f41_eSc_line_c5af0dff_ligne_5"/></bibl></note>
                            / autant est loing le Pape du bien qu'on dit estre</reg>
                         <reg type="contemporary">par le pouvoir de Belzébuth, autant le pape est loin du bien qu'on dit être</reg>
                      </choice>
@@ -8430,8 +8441,8 @@
                         <orig>sont tous roys/ cõme signifie la teste pelee en iceulx/ ilz ont ce¬</orig>
                         <reg type="regularisee">sont tous roys/ comme signifie la teste pelee <note type="editor">En référence à la tonsure cléricale. Largement utilsée dans la polémique religieuse pour brocarder les clers, la couronne cléricale, aussi appelée "tonsure de Saint Pierre" est assimilée au signe d'infâmie de la tonsure pratiquée sur les fous : 
                               <bibl>Gross, Angelika, and Jacqueline Thibault-Schaefer. “Sémiotique de la tonsure, de l’‘insipiens’ à Tristan et aux fous de Dieu”. <hi rend="italic">Le clerc au Moyen Âge</hi>, Presses universitaires de Provence, 1995, <ref type="static_link" target="https://doi.org/10.4000/books.pup.2467">https://doi.org/10.4000/books.pup.2467</ref>.</bibl> et 
-                              <bibl>AUZÉPY, Marie-France, 2017. Chapitre 3. Tonsure des clercs, barbe des moines et barbe du Christ. In : AUZÉPY, Marie-France et CORNETTE, Joël, <hi rend="italic">Histoire du poil</hi>. Paris : Belin. Alpha, p.81-103 <ref type="static_link" target="https://doi.org/10.3917/bel.corne.2017.01.0081">https://doi.org/10.3917/bel.corne.2017.01.0081</ref>.</bibl></note> 
-                           en iceulx/ ilz ont ce¬</reg>
+                              <bibl>Auzépy, Marie-France, 2017. Chapitre 3. Tonsure des clercs, barbe des moines et barbe du Christ. In : AUZÉPY, Marie-France et CORNETTE, Joël, <hi rend="italic">Histoire du poil</hi>. Paris : Belin. Alpha, p.81-103 <ref type="static_link" target="https://doi.org/10.3917/bel.corne.2017.01.0081">https://doi.org/10.3917/bel.corne.2017.01.0081</ref>.</bibl></note> 
+                           en iceulx/ ilz ont ce-</reg>
                         <reg type="contemporary">sont tous rois, comme le signifie leur tête rasée. Ils portent cet-</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f43_eSc_line_0d32f0b5_ligne_21"/>
@@ -8473,13 +8484,13 @@
                      <lb type="DefaultLine" corresp="#f43_eSc_line_e80047b1_ligne_27"/>
                      <choice>
                         <orig>noꝰ est dõnee auec <sic>toute</sic> Lẽpire de occident dist.96. Cõstan¬</orig>
-                        <reg type="regularisee">nous est donnee avec tout l'Empire de Occident. <bibl type="canon" xml:id="Citdist96-1" next="#Citdist96-2">dist.96. Constan¬</bibl></reg>
+                        <reg type="regularisee">nous est donnee avec tout l'Empire de Occident. <bibl type="canon" xml:id="Citdist96-1" next="#Citdist96-2">dist.96. Constan-</bibl></reg>
                         <reg type="contemporary">nous a été donnés avec tout l'empire d'Occident. <bibl type="canon">D.96, c.14<note type="biblio" source="#Friedberg1959pars1">1333-1344</note></bibl></reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f43_eSc_line_06dccbe7_ligne_28"/>
                      <choice>          
                         <orig>tinus. ¶ Le Pape est sur toutes gens ⁊ Royaumes. Extra¬</orig>
-                        <reg type="regularisee"><bibl type="canon" xml:id="Citdist96-2" prev="#Citdist96-1"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_1_1046" ana="D.96, c.14; CorpusIC 1, 1333-1344">tinus</ref>.</bibl> ¶ Le Pape est sur toutes gens et royaumes. <bibl type="canon" xml:id="CitExtraA" next="#CitExtraB">Extra¬</bibl></reg>
+                        <reg type="regularisee"><bibl type="canon" xml:id="Citdist96-2" prev="#Citdist96-1"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_1_1046" ana="D.96, c.14; CorpusIC 1, 1333-1344">tinus</ref>.</bibl> ¶ Le Pape est sur toutes gens et royaumes. <bibl type="canon" xml:id="CitExtraA" next="#CitExtraB">Extra-</bibl></reg>
                         <reg type="contemporary">¶ Le pape a été établi sur toutes les nations et les royaumes. <bibl type="canon">Extrav. com. 1, 1, c. 1<note type="biblio" source="#Friedberg1959pars2">1237-1238</note>.</bibl></reg>
                         <!-- Traduction, en référence au texte du canon: Super gentes et regna Romanus Pontifex a Domino constitutus -->
                      </choice>
@@ -8505,13 +8516,13 @@
                      <choice>
                         <orig>quect. Ie croy que les princes sont si folz/ qͥlz luy seruiront en¬</orig>
                         <reg type="regularisee">quect. Je croy que les princes sont si folz/ qu'ilz luy serviront en-</reg>
-                        <reg type="contemporary">quais! Je crois que les princes sont tellement fous qu'ils seraient même d'accord de lui</reg>
+                        <reg type="contemporary">quais! Je crois que les princes sont si fous qu'ils lui serviront en-</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f43_eSc_line_1f5439bb_ligne_33"/>
                      <choice>
                         <orig>core de macquereaulx/ ⁊ en tout ce quil luy plaira cõmander.</orig>
                         <reg type="regularisee">core de macquereaulx/ et en tout ce qu'il luy plaira commander.</reg>
-                        <reg type="contemporary">servir de proxénètes et de se soumettre à tout ce qui lui plaira d'ordonner.</reg>
+                        <reg type="contemporary">core d'entremetteurs et feront tout ce qu'il lui plaira d'ordonner.</reg>
                      </choice>
                   </p>
                </div>
@@ -8734,7 +8745,7 @@
                      <choice>
                         <orig>appelle les Apostres de la pesche/ poͬ estre pescheurs des hom</orig>
                         <reg type="regularisee">appelle les Apostres de la pesche/ pour estre pescheurs des hom-</reg>
-                        <reg type="contemporary">appelle les Apôtres de la pêche pour être pêcheurs d'hom</reg>
+                        <reg type="contemporary">appelle les Apôtres de la pêche pour être pêcheurs d'hom-</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f45_eSc_line_1e8aa2fa_ligne_18"/>
                      <choice>
@@ -8758,7 +8769,7 @@
                      <choice>
                         <orig>est deffendue auarice/ qui est droicte idolatrie/ sur tout aux mi</orig>
                         <reg type="regularisee">est deffendue avarice/ qui est <term key="#droit1">droicte</term> idolatrie/ sur tout aux mi-</reg>
-                        <reg type="contemporary">est fermement interdite, elle qui est idolâtrie véritable, surtout aux mi</reg>
+                        <reg type="contemporary">est fermement interdite, elle qui est idolâtrie véritable, surtout aux mi-</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f45_eSc_line_8f39819d_ligne_22"/>
                      <choice>
@@ -8869,7 +8880,7 @@
                         <reg type="regularisee">par <persName key="#Constantin" ref="isni:0000000120966935">Constantin</persName>/ à L'eglise Romaine
                            <note type="editor">En référence au traité du philologue et humaniste, Laurent Valla, démonstrant, par une critique systématique, que la Donation de Constantin (<hi rend="italic">Donatio Constantini</hi>) est un faux. Son ouvrage est intitulé: <hi rend="italic">De falso credita et ementita Constantini donatione</hi>.
                            Il est rédigé en 1440 dans le contexte de la crise de succession que traverse le royaume de Naples, opposant le pape Eugène IV (1383-1447), tout juste déposé par le concile de Bâle au profit de Félix V et soutien de <persName ref="isni:0000000121227368">René d’Anjou</persName> (1409-1480), à <persName ref="isni:0000000395772582">Alphonse V d’Aragon</persName> (1416-1458), son rival, à qui Valla écrit son opuscule.
-                              Dans l'<bibl><ref type="static_link" target="https://setaf.unige.ch/edition-critique/edCrit_v1.xml?view=page&amp;odd=setaf&amp;root=3.6.2.10.4.4">antithèse 1</ref></bibl>, se retrouve une même référence à la donation de Constantin et à l'ouvrage de Laurent Valla.</note>.
+                           Dans l'<bibl><ref type="static_link" target="#f11_eSc_textblock_25582f45">antithèse 1</ref></bibl>, se retrouve une même référence à la donation de Constantin et à l'ouvrage de Laurent Valla.</note>.
                         </reg>
                         <reg type="contemporary">par Constantin à l'Église romaine.</reg>
                      </choice>
@@ -8941,7 +8952,7 @@
                      <choice>
                         <orig>¶ Bien est accomply ce que nostre Seigneur a dit/ uous ma</orig>
                         <reg type="regularisee">¶ Bien est accomply ce que nostre Seigneur a dit/ vous m'a-</reg>
-                        <reg type="contemporary">¶ Ce que notre Seigneur a dit, est pleinement accompli: Vous m'a-</reg>
+                        <reg type="contemporary">¶ Ce que notre Seigneur a dit est pleinement accompli: Vous m'a-</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f46_eSc_line_9c1343ae_ligne_4"/>
                      <choice>
@@ -8953,7 +8964,7 @@
                      <choice>
                         <orig>se/ ⁊ ie feray que uous serez subiectz a ceulx qui uous destrui¬</orig>
                         <reg type="regularisee">sé/ et je feray que vous serez <term key="#subject">subjectz</term> à ceulx qui vous destrui-</reg>
-                        <reg type="contemporary">sé, et je ferai en sorte que vous serez soumis à ceux qui vous détrui-</reg>
+                        <reg type="contemporary">sé, et je ferai en sorte que vous soyez soumis à ceux qui vous détrui-</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f46_eSc_line_d3f19600_ligne_6"/>
                      <choice>
@@ -8977,7 +8988,7 @@
                      <choice>
                         <orig>son honneur ⁊ gloire: ⁊ a iceluy a baille toute seigneurie/ puis¬</orig>
                         <reg type="regularisee">son honneur et gloire: et à iceluy a baillé toute seigneurie/ puis-</reg>
-                        <reg type="contemporary">son honneur et sa gloire; c'est à lui, que le monde a donné toute seigneurie, puis-</reg>
+                        <reg type="contemporary">son honneur et sa gloire; c'est à lui que le monde a donné toute seigneurie, puis-</reg>
                      </choice>
                   </p>
                </div>
@@ -9080,7 +9091,7 @@
                      <choice>
                         <orig>dement blasphemant Dieu/ disent quilz tiennent la place de</orig>
                         <reg type="regularisee">dement<term key="#grandement"/> blasphemant Dieu/ disent qu'ilz <term key="#place">tiennent la place de</term></reg>
-                        <reg type="contemporary">blasphément outrageusement Dieu, en affirmant représenter</reg>
+                        <reg type="contemporary">blasphèment outrageusement Dieu, en affirmant représenter</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f47_eSc_line_a22a2439_ligne_16"/>
                      <choice>
@@ -9110,7 +9121,7 @@
                      <choice>
                         <orig>pas estre instituez es petites places ⁊ uilles/ ne sur petit peu¬</orig>
                         <reg type="regularisee">pas estre instituéz ès petites places et villes/ ne sur petit peu-</reg>
-                        <reg type="contemporary">pas être établis dans de petites localités ou villes, ni sus un peuple peu nombreux,</reg>
+                        <reg type="contemporary">pas être établis dans de petites localités ou villes, ni sur un peuple peu nombreux,</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f47_eSc_line_eb5d10b3_ligne_21"/>
                      <choice>
@@ -9147,7 +9158,7 @@
                      <choice>
                         <orig>stres ⁊ receptions des ordres/ qui est faicte sans tiltre/ duquel</orig>
                         <reg type="regularisee">stres et receptions des ordres / qui est faicte sans <term key="#titre">tiltre</term>/ duquel</reg>
-                        <reg type="contemporary">tres et réception des ordres conférées sans <term key="#titre">titre</term> assurant</reg>
+                        <reg type="contemporary">tres et réception des ordres conférés sans <term key="#titre">titre</term> assurant</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f47_eSc_line_3d0c1c1b_ligne_26"/>
                      <choice>
@@ -9158,7 +9169,7 @@
                      <lb type="DefaultLine" corresp="#f47_eSc_line_0bd8d0e3_ligne_27"/>
                      <choice>
                         <orig>70.distin.c.Sanctorum. ¶ Demãdons au Pape quel tiltre</orig>
-                        <reg type="regularisee"><bibl type="canon" ana="D.70, c.2; CorpusIC 1, 257"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_0_759">70.distin.c.Sanctorum.</ref></bibl> ¶ Demandons au Pape quel tiltre</reg>
+                        <reg type="regularisee"><bibl type="canon" ana="D.70, c.2; CorpusIC 1, 257"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_0_759">70.distin.c.Sanctorum.</ref></bibl> ¶ Demandons au Pape quel <term key="#titre">tiltre</term></reg>
                         <reg type="contemporary"><bibl type="canon">D. 70, c. 2</bibl><note type="biblio" source="#Friedberg1959pars1">257</note>. ¶ Demandons au pape: quel titre</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f47_eSc_line_b843216c_ligne_28"/>
@@ -9263,7 +9274,7 @@
                      <choice>
                         <orig>¶ Circõcision nest riẽ/ incircõcision nest riẽ: mais lobseruatiõ</orig>
                         <reg type="regularisee">¶ Circoncision n'est rien/ incirconcision n'est rien: mais l'observation</reg>
-                        <reg type="contemporary">¶ La circoncision n'est rien, et l'incirconcision n'est rien, ce qui importe c'est l'observance</reg>
+                        <reg type="contemporary">¶ La circoncision n'est rien, et l'incirconcision n'est rien. Mais ce qui importe c'est l'observance</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f48_eSc_line_ca87e316_ligne_4"/>
                      <choice>
@@ -9275,7 +9286,7 @@
                      <choice>
                         <orig>mais nouuelle creature. 1.Cor.7. Gal.5. ⁊ .6. ¶ Mãgez ⁊ beu</orig>
                         <reg type="regularisee">mais nouvelle creature. <bibl type="biblical" ana="ICo7:19">1.Cor.7.</bibl> <bibl type="biblical" ana="Ga5:6">Gal.5.</bibl> et <bibl type="biblical" ana="Ga6:15">.6.</bibl> ¶ Mangez et beu-</reg>
-                        <reg type="contemporary">et d'être une création nouvelle. <bibl type="biblical">1 Co 7:19.</bibl> <bibl>Ga 5:6.</bibl> et <bibl>Ga 6:15.</bibl> ¶ Mangez et bu-</reg>
+                        <reg type="contemporary">et la création nouvelle. <bibl type="biblical">1 Co 7:19.</bibl> <bibl>Ga 5:6.</bibl> et <bibl>Ga 6:15.</bibl> ¶ Mangez et bu-</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f48_eSc_line_1b4f038b_ligne_6"/>
                      <choice>
@@ -9332,7 +9343,7 @@
                      <choice>
                         <orig>mis deuãt uous. 1.Cor.10. ¶ Toute creature de Dieu est bõne/ ⁊ ne</orig>
                         <reg type="regularisee">mis devant vous. <bibl type="biblical" ana="ICo10:27">1.Cor.10.</bibl> ¶ Toute creature de Dieu est bonne/ et ne</reg>
-                        <reg type="contemporary">vendu au marché. <bibl type="biblical">1 Co 10:27.</bibl> ¶ Tout ce que Dieu a crée est bon et rien</reg>
+                        <reg type="contemporary">vendu au marché. <bibl type="biblical">1 Co 10:27.</bibl> ¶ Tout ce que Dieu a créé est bon et rien</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f49_eSc_line_1b7086d3_ligne_4"/>
                      <choice>
@@ -9377,7 +9388,7 @@
                      <choice>
                         <orig>uers Dieu ⁊ le Pere/ cest uisiter les orphelins/ ⁊ les uefues en leurs</orig>
                         <reg type="regularisee">vers Dieu et le Pere/ c'est visiter les orphelins/ et les vefves en leurs</reg>
-                        <reg type="contemporary">vant Dieu le Père, la voici: visiter les orphelins et les veuves dans leurs</reg>
+                        <reg type="contemporary">vant Dieu le Père, la voici: visiter les orphelins et les veuves dans leur</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f49_eSc_line_c25255ff_ligne_10"/>
                      <choice>
@@ -9443,7 +9454,7 @@
                      <choice>
                         <orig>1.Tim.4. ¶ Il dit des uefues/ si aucune na le soing des siens/ ⁊ prin</orig>
                         <reg type="regularisee"><bibl type="biblical" ana="ITm4:1,3">1.Tim.4.</bibl> ¶ Il dit des vefves/ si aucune n'a le soing des siens/ et prin-</reg>
-                        <reg type="contemporary"><bibl type="biblical">1Tm 4:1,3.</bibl> ¶ Il dit des veuves: Si aucune d'entre elle ne prend soin des siens, et sur-</reg>
+                        <reg type="contemporary"><bibl type="biblical">1Tm 4:1,3.</bibl> ¶ Il dit des veuves: Si aucune d'entre elles ne prend soin des siens, et sur-</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f49_eSc_line_53c3989b_ligne_19"/>
                      <choice>
@@ -9484,7 +9495,7 @@
                      <lb type="DefaultLine" corresp="#f49_eSc_line_d35931e0_ligne_25"/>
                      <choice>
                         <orig>ne die point: Ie suis de Paul/ ⁊ moy Dapollo/ ⁊ moy de Pierre/ ⁊</orig>
-                        <reg type="regularisee">ne die point: Je suis de Paul/ et moy d'Apollo/ et moy de Pierre/ et</reg>
+                        <reg type="regularisee">ne die point: Je suis de Paul/ et moy d'<persName key="#Appollos">Apollo</persName>/ et moy de Pierre/ et</reg>
                         <reg type="contemporary">dites pas : J'appartiens à Paul! Moi, à Apollos! Et moi, à Pierre! Et</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f49_eSc_line_967af252_ligne_26"/>
@@ -9639,7 +9650,7 @@
                      <choice>
                         <orig>me pour religion/ naye a coupper ses cheueulx/ cõme font les</orig>
                         <reg type="regularisee">me pour religion/ n'<term key="#avoir1">aye à</term> coupper ses cheveulx/ comme font les</reg>
-                        <reg type="contemporary">me de se couper les cheveux, par religion, comme le font les</reg>
+                        <reg type="contemporary">me de se couper les cheveux, tel que le font les</reg>
                      </choice>
                  </p>
               </div>
@@ -9670,7 +9681,7 @@
                      <choice>
                         <orig>nõnains/ quõ ne mesprise le mariage/ ne celuy qui mãge de la chair/</orig>
                         <reg type="regularisee"><term key="#nonnain">nonnains</term>/ qu'on ne mesprise le mariage/ ne celuy qui mange de la chair/</reg>
-                        <reg type="contemporary">nonnes; de mépriser le mariage ou ceux qui mange de la viande; </reg>
+                        <reg type="contemporary">nonnes; de mépriser le mariage ou ceux qui mangent de la viande; </reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f51_eSc_line_3c66e7c0_ligne_4"/>
                      <choice>
@@ -9689,8 +9700,8 @@
                         <orig>stin/ nul iacopin/ nulle seur colette/ nul des enfumez minimes/ ne au¬</orig>
                         <reg type="regularisee"><term key="#celestin">stin</term>/ nul <term key="#jacopin">jacopin</term>/ nulle seur <term key="#colette">colette</term>/ nul des enfuméz minimes
                      <note type="editor">En référence à la couleur gris cendré du vêtement franciscain, à ce propos: 
-                        <bibl>Véronique Rouchon Mouilleron, « Quelle couleur pour les frères ? Regards sur l’habit des Mineurs aux xiiie-xive siècles », Bulletin du centre d’études médiévales d’Auxerre | BUCEMA, <ref type="static_link" target="http://journals.openedition.org/cem/13378">[En ligne]</ref></bibl></note>/ ne au-</reg>
-                        <reg type="contemporary"><term key="#celestin">stin</term>, <term key="#jacopin">Jacobin</term>, soeur Colette, Frère Mineur, ou au-</reg>
+                        <bibl>Véronique Rouchon Mouilleron, « Quelle couleur pour les frères ? Regards sur l’habit des Mineurs aux xiiie-xive siècles », Bulletin du centre d’études médiévales d’Auxerre | BUCEMA <ref type="static_link" target="http://journals.openedition.org/cem/13378">[En ligne]</ref></bibl></note>/ ne au-</reg>
+                        <reg type="contemporary"><term key="#celestin">stin</term>, <term key="#jacopin">Jacobin</term>, <term key="#colette">soeur Colette</term>, Frère Mineur, ou au-</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f51_eSc_line_d5857f1e_ligne_7"/>
                      <choice>
@@ -9802,13 +9813,13 @@
                         <reg type="regularisee">réz. <bibl type="canon" ana="C.27, q.1, c.40; CorpusIC 1, 1059-1060"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_3_3108">27.q.1. Ut lex</ref>.</bibl> <term key="#nonobstant2">
                            Nonobstant que</term> au chapitre suyvant. <bibl type="canon" ana="C.27, q.1, c.41; CorpusIC 1, 1060-1061"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_3_3109">Nuptiarum</ref></bibl>. Lequel</reg>
                         <reg type="contemporary">ent. <bibl type="canon">C. 27, q. 1, c. 40</bibl><note type="biblio" source="#Friedberg1959pars1">1059-1060</note>. 
-                           Bien qu'au chapitre suivant <bibl type="canon">C. 27, q. 1, c. 41</bibl><note type="biblio" source="#Friedberg1959pars1">1060-1061</note>. — qui</reg>
+                           Bien qu'au chapitre suivant <bibl type="canon">C. 27, q. 1, c. 41</bibl><note type="biblio" source="#Friedberg1959pars1">1060-1061</note>. - qui</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f51_eSc_line_eb717831_ligne_24"/>
                      <choice>
                         <orig>est/ beau/ S. Augustin dit q̃ celuy peche/ qͥ les separe/ ⁊ quõ ne les doit</orig>
                         <reg type="regularisee">est/ beau/ saint Augustin dit que celuy peche/ qui les separe/ et qu'on ne les doit</reg>
-                        <reg type="contemporary">est admirable —, saint Augustin déclare que celui qui les sépare pèche, et qu'on ne doit</reg>
+                        <reg type="contemporary">est admirable - , saint Augustin déclare que celui qui les sépare pèche, et qu'on ne doit</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f51_eSc_line_7154eae1_ligne_25"/>
                      <choice>
@@ -9857,7 +9868,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                      <choice>
                         <orig>des choses externes/ cõe robes/ tõsures/ ceremonies. Extra. Quia</orig>
                         <reg type="regularisee">des choses externes/ come robes/ tonsures/ ceremonies. <bibl type="canon" xml:id="CitAExtra" next="#CitBExtra">Extra. Quia</bibl></reg>
-                        <reg type="contemporary">choses extérieures<note type="editor">Choses extérieures, comprendre pratiques externes indifférentes, adiophora</note>,- habits, tonsures, cérémonies-, sont approuvées. <bibl type="canon"><hi rend="italic">Extrav. J. XXII</hi>, 14, c.5<note type="bilbio" source="#Friedberg1959pars2">1230</note>.</bibl></reg>
+                        <reg type="contemporary">choses extérieures<note type="editor">Choses extérieures, comprendre pratiques externes indifférentes, adiophora</note>,- habits, tonsures, cérémonies-, sont approuvées. <bibl type="canon"><hi rend="italic">Extrav. J. XXII</hi>, 14, c.5</bibl>.<note type="bilbio" source="#Friedberg1959pars2">1230</note></reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f51_eSc_line_c8fc299f_ligne_33"/>
                      <choice>
@@ -9949,7 +9960,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                      <choice>
                         <orig>¶ Il trouua au <sic>temble</sic> gens qui uendoyent beufz/ brebis/ ⁊</orig>
                         <reg type="regularisee">¶ Il trouva au temple gens qui vendoyent beufz/ brebis/ et</reg>
-                        <reg type="contemporary">¶ Dans le Temple, il trouva des vendeurs de boeufs, de brebis et</reg>
+                        <reg type="contemporary">¶ Dans le temple, il trouva des vendeurs de boeufs, de brebis et</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f52_eSc_line_0a19d438_ligne_4"/>
                      <choice>
@@ -9967,7 +9978,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                      <choice>
                         <orig>temple/ ⁊ les brebis ⁊ les boeufz/ ⁊ respandit largent des chan</orig>
                         <reg type="regularisee">temple/ et les brebis et les boeufz/ et respandit l'argent des chan-</reg>
-                        <reg type="contemporary">Temple, ainsi que les brebis et les boeufs. Il jeta au sol la monnaie des chan</reg>
+                        <reg type="contemporary">temple, ainsi que les brebis et les boeufs. Il jeta au sol la monnaie des chan-</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f52_eSc_line_ede8cb37_ligne_7"/>
                      <choice>
@@ -10023,7 +10034,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                      <choice>
                         <orig>¶ Et quand il fut entre au tẽple/ il cõmencea a iecter hors les</orig>
                         <reg type="regularisee">¶ Et quand il fut entré au temple/ il commencea à <term key="#jeter1">jecter hors</term> les</reg>
-                        <reg type="contemporary">¶ Et lorsqu'il entra dans temple, il se mit à chasser ceux qui</reg>
+                        <reg type="contemporary">¶ Et lorsqu'il entra dans le temple, il se mit à chasser ceux qui</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f53_eSc_line_d7f1fa57_ligne_4"/>
                      <choice>
@@ -10071,7 +10082,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                      <choice>
                         <orig>Eglise/ qui est la congregation des Chrestiẽs/ soyent chassez/</orig>
                         <reg type="regularisee">Eglise/ qui est la <term key="#congregation">congregation</term> des chrestiens
-                      <note type="editor"> Le terme <hi rend="italic">congrégation</hi>, employé ici relève du vocabulaire évangélique. Il reflète la redéfinition de l’Église, centrée autour de sa dimension communautaire d'assemblée des fidèles, qu'opérent et défendent les milieux engagés dans la voie de la Réforme dans les années 1520-1530. À ce propos, voir : 
+                      <note type="editor"> Le terme <hi rend="italic">congrégation</hi>, employé ici relève du vocabulaire évangélique. Il reflète la redéfinition de l’Église, centrée autour de sa dimension communautaire d'assemblée des fidèles, qu'opèrent et défendent les milieux engagés dans la voie de la Réforme dans les années 1520-1530. À ce propos, voir : 
                            <bibl>Grosse, Christian. “« Congrégation » ou « Église » ?”. Marc Venard, historien, edited by Anne Bonzon et al., Presses universitaires de Rennes, 2019, <ref type="static_link" target="https://doi.org/10.4000/14bm5">[En ligne]</ref>.</bibl></note>
                            / soyent chasséz/</reg>
                         <reg type="contemporary">église, qui est l'assemblée des chrétiens, ceux qui en font un lieu de commerce!</reg>
@@ -10111,12 +10122,12 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                      <choice>
                         <orig>donne pour argent. Act.8. ¶ Quiconque donc donne quel¬</orig>
                         <reg type="regularisee">donné pour argent. <bibl type="biblical" ana="Ac8:20">Act.8.</bibl> 
-                           <note type="editor">Référence biblique présente dans le<hi rend="italic">Passional</hi>:
+                           <note type="editor">Référence biblique identique au <hi rend="italic">Passional</hi>:
                               <ref type="witness" target="#W1521"/> 
                               <ref type="witness" target="#P1521"/> 
                               <ref type="witness" target="#K1521"/> 
                               <ref type="witness" target="#E1521"/>
-                           et dans l'<hi rend="italic">Antithesis figurata</hi> <ref type="witness" target="#LatW1521"/>où seule la première partie du verset est citée</note>  
+                           et à l'<hi rend="italic">Antithesis figurata</hi> <ref type="witness" target="#LatW1521"/> où seule la première partie du verset est citée</note>  
                     ¶ Quiconque donc donne quel-</reg>
                         <reg type="contemporary">s'acheter avec de l'argent. <bibl type="biblical">Ac 8:20.</bibl> ¶ Ainsi, celui qui paie</reg>
                      </choice>
@@ -10130,7 +10141,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                      <choice>
                         <orig>Il est predict de telz marchans en S. Pierre/ disant: Aussi y a</orig>
                         <reg type="regularisee">Il est predict de telz marchans en saint <persName>Pierre</persName>/ disant: <term key="#aussi1">Aussi</term> y a</reg>
-                        <reg type="contemporary">Comme Saint Pierre l'a annoncé à propos de tels marchands, disant: Il y</reg><!-- Modernisation: prédire: annoncer? Aussi...comme: de même, également-->
+                        <reg type="contemporary">Comme saint Pierre l'a annoncé à propos de tels marchands, disant: Il y</reg><!-- Modernisation: prédire: annoncer? Aussi...comme: de même, également-->
                      </choice>
                      <lb type="DefaultLine" corresp="#f53_eSc_line_6cf59d16_ligne_19"/>
                      <choice>
@@ -10296,7 +10307,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                      <choice>
                         <orig>Dieu (es coeurs des hõmes) sexaltãt sur Dieu: ⁊ se mõstrant</orig>
                         <reg type="regularisee">Dieu (ès coeurs des hommes) <term key="#exalter2">s'exaltant</term> sur Dieu: et se monstrant</reg>
-                        <reg type="contemporary">Dieu – c'est-à-dire dans les coeurs des hommes–, s'élevant au-dessus de Dieu et se présentant</reg>
+                        <reg type="contemporary">Dieu – c'est-à-dire dans les coeurs des hommes –, s'élevant au-dessus de Dieu et se présentant</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f54_eSc_line_bdf9c014_ligne_5"/>
                      <choice>
@@ -10321,7 +10332,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                      <choice>
                         <orig>ne partie/ maintenant de tous pechez: ⁊ aussi dispẽsatiõs/ par</orig>
                         <reg type="regularisee">ne partie/ <term key="#maintenant2">maintenant</term> de tous pechéz: et aussi <term key="#dispensation">dispensations</term>/ par</reg>
-                        <reg type="contemporary">une partie, tantôt pour tous les péchés–, et accorde des dispenses par</reg>
+                        <reg type="contemporary">une partie, tantôt pour tous les péchés –, et accorde des dispenses par</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f54_eSc_line_24617220_ligne_9"/>
                      <choice>
@@ -10354,7 +10365,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                   </head>
                   
                   <p>
-                     <lb type="DefaultLine" corresp="#f55_eSc_line_a0c8bda0_ligne_3"/>
+                     <lb type="DefaultLine" corresp="#f55_eSc_line_a0c8bda0_ligne_3"/><!-- A CHERCHER : glossateurs? -->
                      <choice>
                         <orig>gile/ ⁊ les Apostres/ comme notent ses glossateurs. 34.distin. Le¬</orig>
                         <reg type="regularisee">gile/ et les Apostres/ comme notent ses glossateurs. <bibl type="canon" xml:id="CitALector" next="#CitBLector"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_0_364">34.distin. Le-</ref></bibl></reg>
@@ -10367,7 +10378,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                            .<bibl type="canon" ana="C.15, q.6, c.5; CorpusIC 1,756"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_2_2249">15.q.6. Juratos.</ref></bibl>
                            <bibl type="canon" ana="X 3, 34; CorpusIC 2, 589-596">Et extravag. De voto et voti redemp</bibl>. per to-</reg>
                         <reg type="contemporary"><bibl type="canon">C. 15, q. 6, c. 5</bibl><note type="biblio" source="#Friedberg1959pars1">756</note>.
-                           Et <bibl type="canon">X 3, 34<note type="biblio" source="#Friedberg1959pars2">589-596</note></bibl>. per to-</reg>
+                           Et <bibl type="canon">X 3, 34</bibl><note type="biblio" source="#Friedberg1959pars2">589-596</note>. per to-</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f55_eSc_line_0d5d33ac_ligne_5"/>
                      <choice>
@@ -10376,25 +10387,25 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                            Car il faict que le serviteur ne soit point tenu d'estre soubz son</reg>
                         <reg type="contemporary">tum
                            <note type="editor">Expression latine, comprendre <hi rend="italic" xml:lang="lat">per totum capitulum</hi>: à travers/tout au long du chapitre</note>. 
-                           Ainsi, il fait qu'un serviteur ne soit plus tenu de rester soumis à son</reg>
+                           Car il permet au serviteur de ne plus rester soumis à son</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f55_eSc_line_deae0782_ligne_6"/>
                      <choice>
                         <orig>Seigneur: ainsi quil a iure/ quest contre S. Pierre. 1.Pier.2. Et si</orig>
                         <reg type="regularisee">Seigneur: <term key="#ainsi2a">ainsi qu'</term>il a juré/ qu'est contre saint <persName>Pierre</persName>. <bibl type="biblical" ana="IP2:18">1.Pier.2.</bibl> Et <term key="#si">si</term></reg>
-                        <reg type="contemporary">seigneur malgré son serment prêté, ce qui contredit saint Pierre. <bibl type="biblical">1P 2:18.</bibl>Et aussi,</reg>
+                        <reg type="contemporary">seigneur malgré son serment prêté, ce qui contredit saint Pierre. <bibl type="biblical">1P 2:18.</bibl> Et aussi,</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f55_eSc_line_61498b9a_ligne_7"/>
                      <choice>
                         <orig>change les ueufz: ainsi quil ueult/ ⁊ ueult que ce quil ordonne soit re¬</orig>
                         <reg type="regularisee">change les veufz: <term key="#ainsi2a">ainsi qu'</term>il veult/ et veult que ce qu'il ordonne soit re-</reg>
-                        <reg type="contemporary">il change les voeux comme il veut et veut que tout ce qu'il ordonne, soit re-</reg>
+                        <reg type="contemporary">il change les voeux comme il veut et veut que tout ce qu'il ordonne soit re-</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f55_eSc_line_42052066_ligne_8"/>
                      <choice>
                         <orig>ceu/ comme de la bouche de Dieu. 19.distin. Si omnes. Il uend ⁊</orig>
                         <reg type="regularisee">ceu/ comme de la bouche de Dieu. <bibl type="canon" ana="D.19, c.2; CorpusIC 1, 60"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_0_165">19.distin. Si omnes.</ref></bibl> Il vend et</reg>
-                        <reg type="contemporary">çus comme sortant de la bouche de Dieu. <bibl type="canon">D. 19, c. 2</bibl><note type="biblio" source="#Friedberg1959pars1">60</note>. Il vend et</reg>
+                        <reg type="contemporary">çu comme sortant de la bouche de Dieu. <bibl type="canon">D. 19, c. 2</bibl><note type="biblio" source="#Friedberg1959pars1">60</note>. Il vend et</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f55_eSc_line_2ae53d2e_ligne_9"/>
                      <choice>
@@ -10406,13 +10417,13 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                      <choice>
                         <orig>mauldict/ iusques a la tierce ⁊ quarte generation/ faisant les choses</orig>
                         <reg type="regularisee">mauldict/ jusques à la tierce et quarte generation/ faisant les choses</reg>
-                        <reg type="contemporary">maudit jusqu'à la troisième et quatrième génération, faisant,</reg>
+                        <reg type="contemporary">maudit jusqu'à la troisième et quatrième générations; il rend</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f55_eSc_line_b6ed1d50_ligne_11"/>
                      <choice>
                         <orig>droictes ou tortues/ comme il ueult/ commandant que personne nen</orig>
                         <reg type="regularisee">droictes ou <term key="#tortu">tortues</term>/ comme il veult/ commandant que personne n'en</reg>
-                        <reg type="contemporary">selon son bon vouloir, le juste ou le mal et interdit à quiconque d'en</reg>
+                        <reg type="contemporary">les choses droites ou tordues, selon son bon vouloir, interdisant à quiconque d'en</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f55_eSc_line_df39fa2c_ligne_12"/>
                      <choice>
@@ -10420,7 +10431,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                         <reg type="regularisee">parle/ n'en doubte. <bibl type="canon" ana="C.17, q.4, c.30; CorpusIC 1, 823"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_2_2463">17.q.4. Nemini.</ref>
                         </bibl> <bibl type="canon" xml:id="CitAPeniten" next="#CitBPeniten"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_3_3560">De peniten. distin.3. S. ex perso-</ref></bibl></reg>
                         <reg type="contemporary">parler ou d'en douter. <bibl type="canon">C. 17, q. 4, c. 30</bibl><note type="biblio" source="#Friedberg1959pars1">823</note>.
-                           <bibl type="canon">D. 3 <hi rend="italic">de pœnit</hi>., c. 21<note type="biblio" source="#Friedberg1959pars1">1214-1215</note>.</bibl></reg>
+                           <bibl type="canon">D. 3 <hi rend="italic">de pœnit</hi>., c. 21</bibl>.<note type="biblio" source="#Friedberg1959pars1">1214-1215</note></reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f55_eSc_line_b534cb08_ligne_13"/>
                      <choice>
@@ -10463,33 +10474,33 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                         <orig>pretio. Dont il est patent que les simoniacles/ cõme premiers ⁊ prin¬</orig>
                         <reg type="regularisee"><bibl type="canon" xml:id="CitBPostquam" prev="#CitAPostquam" ana="C.13, q.2, c.13; CorpusIC 1, 725"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_2_2147">pretio</ref></bibl>.
                            <term key="#dont">Dont</term> il est patent que les <term key="#simoniacle">simoniacles</term>/ comme premiers et prin-</reg>
-                        <reg type="contemporary">Dès lors, il est évident que les simoniaques, comme principaux et héré-</reg>
+                        <reg type="contemporary">Dès lors, il est évident que les simoniaques, étant les premiers et les prin-</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f55_eSc_line_d9fda89e_ligne_19"/>
                      <choice>
                         <orig>cipaulx hereticques doibuent estre reiectez ⁊ chassez de tous fideles.</orig>
                         <reg type="regularisee">cipaulx hereticques doibvent estre rejectéz et chasséz de tous fideles.</reg>
-                        <reg type="contemporary">tiques majeurs, doivent être écartés et éloignés de tous les fidèles.</reg>
+                        <reg type="contemporary">cipaux hérétiques, doivent être écartés et éloignés de tous les fidèles.</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f55_eSc_line_bcaacf25_ligne_20"/>
                      <choice>
                         <orig>qõ.ulti. ¶ La peruerse heresie de Macedonius/ ⁊ de ceulx qui a len¬</orig>
                         <reg type="regularisee"><foreign xml:lang="la" ana="Quaestio ultima">qõ.ulti.</foreign><note type="editor">Abréviation latine. Comprendre: Quaestio ultima</note> ¶ La perverse heresie de <persName key="#Macedonius" ref="ark:43093" corresp="Biblissima">Macedonius</persName>
                            <note type="editor">En référence au macédonianisme, doctrine du IVᵉ siècle traditionnellement attribuée à Macédonios, ou Macédonius, évêque de Constantinople.
-                              Condamnée au concile de Constantinople de 381, elle remettait en cause, dans le prolongement des controverses ariennes et semi-ariennes, la pleine égalité des personnes divines au sein de la Trinité, refusant de reconnaître la pleine divinité du Saint-Esprit. Le Saint-Esprit est tenu pour une créature ou pour un être inférieur/subordonné au Père et au Fils. 
+                              Condamnée au concile de Constantinople de 381, cette doctrine remettait en cause, dans le prolongement des controverses ariennes et semi-ariennes, la pleine égalité des personnes divines au sein de la Trinité, refusant de reconnaître la pleine divinité du Saint-Esprit. Le Saint-Esprit est tenu pour une créature ou pour un être inférieur/subordonné au Père et au Fils. 
                               Ses partisans ont été appelés <hi rend="italic">pneumatomaques</hi>, c’est-à-dire « adversaires » ou « combattants de l’Esprit ».
                               Le passage reprend le parallèle polémique transmis par le droit canonique médiéval, dans le Décret de Gratien (voir, plus bas: <bibl><ref type="static_link" target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_1_1100">C. I, q. 1, c. 21</ref></bibl>), qui juge l’hérésie simoniaque plus grave que celle des macédoniens :
                               ceux-ci font du Saint-Esprit une créature ou un serviteur par erreur doctrinale, tandis que les simoniaques le rabaissent en soumettant les réalités spirituelles au commerce des choses sacrées. 
                      </note>
                            / et de ceulx qui <term key="#entour">à l'en-</term></reg>
-                        <reg type="contemporary"><foreign xml:lang="la" ana="Quaestio ultima">qõ.ulti.</foreign> ¶ La perverse hérésie de Macédonius et de ceux qui</reg>
+                        <reg type="contemporary"><foreign xml:lang="la" ana="Quaestio ultima">qõ.ulti.</foreign> ¶ L'hérésie impie de Macédonius et de ceux qui,</reg>
                         <!-- Traduction: perverse: malsaine -->
                      </choice>
                      <lb type="DefaultLine" corresp="#f55_eSc_line_d320265d_ligne_21"/>
                      <choice>
                         <orig>tour de luy/ sont repugnantz au S. Esprit/ est plus facile a endurer/</orig>
                         <reg type="regularisee"><term key="#entour">tour de</term> luy/ sont <term key="#repugnant">repugnantz</term> au Saint Esprit/ est plus facile à endurer/</reg>
-                        <reg type="contemporary">l'entourent, s'opposent au Saint-Esprit, est plus facile à supporter</reg>
+                        <reg type="contemporary">avec lui, combattent le Saint-Esprit, est plus facile à tolérer</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f55_eSc_line_34e76713_ligne_22"/>
                      <choice>
@@ -10506,13 +10517,13 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                      <lb type="DefaultLine" corresp="#f55_eSc_line_a1b81b97_ligne_24"/>
                      <choice>
                         <orig>moniacles font iceluy mesme S. Esprit seruiteur. 1.q.1 .c. Eos. Gre¬</orig>
-                        <reg type="regularisee">moniacles font iceluy mesme Saint Esprit serviteur. <bibl type="canon" ana="C.1, q. 1, c. 21; CorpusIC 1, 364-365"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_1_1100">1.q.1 .c. Eos.</ref></bibl><bibl xml:id="CitA1q1" next="#CitB1q1"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_1_1099">Gre-</ref></bibl></reg>
+                        <reg type="regularisee">moniacles font iceluy mesme Saint Esprit serviteur. <bibl type="canon" ana="C.1, q. 1, c. 21; CorpusIC 1, 364-365"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_1_1100">1.q.1 .c. Eos.</ref></bibl><bibl type="canon" ana="C.1, q. 1, c. 20; CorpusIC 1, 364" xml:id="CitA1q1" next="#CitB1q1"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_1_1099">Gre-</ref></bibl></reg>
                         <reg type="contemporary">moniaques font de ce même Saint-Esprit, un serviteur. <bibl type="canon">C. 1, q. 1, c. 21</bibl><note type="biblio" source="#Friedberg1959pars1">364-365</note>.</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f55_eSc_line_f87bf580_ligne_25"/>
                      <choice>
                         <orig>gorius in registro. ¶ Puis quainsi est/ que auarice est seruitude des</orig>
-                        <reg type="regularisee"><bibl type="canon" xml:id="CitB1q1" prev="#CitA1q1" ana="C.1, q. 1, c. 20; CorpusIC 1, 364"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_1_1099">gorius in registro</ref></bibl>.
+                        <reg type="regularisee"><bibl type="canon" ana="C.1, q. 1, c. 20; CorpusIC 1, 364" xml:id="CitB1q1" prev="#CitA1q1"><ref target="https://geschichte.digitale-sammlungen.de/decretum-gratiani/kapitel/dc_chapter_1_1099">gorius in registro</ref></bibl>.
                           ¶ Puis qu'ainsi est/ que avarice est servitude des</reg>
                         <reg type="contemporary"><bibl type="canon">C.1, q. 1, c. 20</bibl><note type="biblio" source="#Friedberg1959pars1">364</note>.¶ Puisqu'il en est ainsi, que l'avarice est l'assujettissement aux</reg>
                      </choice>
@@ -10532,7 +10543,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                      <choice>
                         <orig>combien que semble tenir la foy/ laquelle il mesprise. Beda in .2.epi¬</orig>
                         <reg type="regularisee"><term key="#combien">combien que</term> semble tenir la foy/ laquelle il mesprise. Beda in .2.epi-</reg>
-                        <reg type="contemporary">bien qu'il semble adhérer à la foi qu'il méprise. Beda in .2.epi-</reg>
+                        <reg type="contemporary">bien qu'il semble adhérer à la foi qu'il méprise. Beda in .2.epi-</reg><!-- FAIRE UNE MODERNISATION: Beda in 2. epist -->
                      </choice>
                      <lb type="DefaultLine" corresp="#f55_eSc_line_5272c942_ligne_29"/>
                      <choice>
@@ -10816,7 +10827,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                            <note type="editor">Référence biblique identique au <hi rend="italic">Passional</hi> de Strasbourg : 
                               <ref type="witness" target="#P1521"/> 
                               <ref type="witness" target="#K1521"/></note> 
-                      ¶ Qu'on regarde si Je¬</reg>
+                      ¶ Qu'on regarde si Je-</reg>
                         <reg type="contemporary">à la première résurrection.<bibl type="biblical"> Ap 20:5.</bibl> ¶ Qu'on considère ce que Jé</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f57_eSc_line_4b8dca8f_ligne_21"/>
@@ -10895,12 +10906,12 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                      <choice>
                         <orig>a force suaires/ ⁊ le monde est si beste quil croit tout/ ⁊ par tout</orig>
                         <reg type="regularisee"><term key="#force1">à force</term> suaires
-                     <note type="editor">Les reliques mentionnées ici, - les clous, le prépuce et le suaire -, concernent le Christ, et se rapporte plus précisément à son incarnation, autrement dit à son séjour terrestre, et à la réalisation de son œuvre salvatrice.
+                     <note type="editor">Les reliques mentionnées ici, - les clous, le prépuce et le suaire -, concernent le Christ, et se rapportent plus précisément à son incarnation, autrement dit à son séjour terrestre, et à la réalisation de son œuvre salvatrice.
                               Elles sont convoquées à dessein pour souligner une pratique fautive de lien dévotionnel au Christ qui conduit à une adoration versée dans l'idolâtrie.
                               À noter que la vénération du prépuce possède une actualité à la fin des années 1520: lors de son pontificat, Clément VII (1478-1534) avait déclaré, comme véritable, la relique du prépuce possédée par les moines de Charroux, qui avaient affirmé que leur relique avait produit des gouttes de sang.
                               D'autre part, en 1527, lors du sac de Rome, la relique du prépuce de Saint-Jean-de-Latran aurait été volé. À ce propos, voir : 
                               <bibl>Seth, C. (2013). À la recherche du saint Prépuce. Littérature, 169(1), 5-18. <ref type="static_link" target="https://doi.org/10.3917/litt.169.0005">https://doi.org/10.3917/litt.169.0005</ref>.</bibl>
-                              Voir aussi : <bibl>Palazzo, R. (2001). "La vénération du ou des prépuces sacrés de l'Enfant Jésus : une analyse documentaire". Revue d'Histoire Ecclésiastique, 96(2), 123-145.</bibl></note>
+                              Voir aussi : <bibl>Palazzo, R. (2001). "La vénération du ou des prépuces sacrés de l'Enfant Jésus : une analyse documentaire". Revue d'Histoire Ecclésiastique, 96(2), 123-145.</bibl>.</note>
                            / et le monde est si beste qu'il croit tout/ et par tout</reg>
                         <reg type="contemporary">suaires aussi: il y en a en quantité! Le monde est tellement bête qu'il croit tout et</reg>
                      </choice>
@@ -11146,7 +11157,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                         <reg type="regularisee">bo<foreign xml:lang="la"/>
                            <note type="editor">Expression latine, comprendre littéralement <hi rend="italic">dans le mot</hi>, 
                               soit dans le contexte d'une référence aux ressources juridiques du droit canon et à ses gloses: au mot, à l'entrée du mot</note>
-                           / <bibl type="canon"><ref type="static_link" target="https://digital.library.ucla.edu/catalog/ark:/21198/zz0014rx8d?cv=755">deputatos</ref></bibl>. Ilz ont trouvé des inventions sans nombre pour tous-</reg>
+                           / <bibl type="canon"><ref type="static_link" target="https://digital.library.ucla.edu/catalog/ark:/21198/zz0014rx8d?cv=756">deputatos</ref></bibl>. Ilz ont trouvé des inventions sans nombre pour tous-</reg>
                         <reg type="contemporary"><hi rend="italic">bo<foreign xml:lang="la"/><note type="editor">Comprendre: dans le mot</note>, deputatos</hi>. Ils ont trouvé des inventions sans nombre pour,</reg>
                      </choice>
                      <lb type="DefaultLine" corresp="#f59_eSc_line_0a1c5c85_ligne_19"/>
@@ -12771,7 +12782,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                   <lb type="DefaultLine" corresp="#f66_eSc_line_3d6b0e5c_ligne_31"/>
                   <choice>
                      <orig>sant par le sang de sa passion les choses qui sont. Il estoit de¬</orig>
-                     <reg type="regularisee">sant par le sang de sa passion les choses qui sont<note type="editor">Col 1: 19-20</note>. Il estoit <term xml:id="de" next="#cent" key="#decent">de¬</term></reg>
+                     <reg type="regularisee">sant par le sang de sa passion les choses qui sont<note type="editor">Col 1: 19-20</note>. Il estoit <term xml:id="de" next="#cent" key="#decent">de-</term></reg>
                      <reg type="contemporary">sant la paix par le sang de sa passion pour tous les êtres sur terre et dans les cieux.</reg>
                   </choice>
                   <lb type="DefaultLine" corresp="#f66_eSc_line_be3ffece_ligne_32"/>
@@ -20153,8 +20164,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                <item xml:id="beste">
                 <term>beste</term>
                 <p>(adj.) (d'une pers.): stupide</p>
-                <note>Terme issu du latin <hi rend="italic">bestia</hi>, attesté dès le XIe siècle et utilisé pour désigner un homme stupide.
-                   À ce propos, voir:<bibl>Lucken, Christopher. “La raison des mots des animaux sans raison”. L’animal : un objet d’étude, edited by Judith Förstel and Martine Plouvier, Éditions du Comité des travaux historiques et scientifiques, 2020, <ref type="static_link" target="https://doi.org/10.4000/books.cths.10278">[En ligne]</ref>.</bibl></note>
+                  <note>Terme issu du latin <hi rend="italic">bestia</hi>, attesté dès le XIe siècle et utilisé pour désigner un homme stupide. À ce propos, voir: <bibl>Lucken, Christopher. “La raison des mots des animaux sans raison”. L’animal : un objet d’étude, edited by Judith Förstel and Martine Plouvier, Éditions du Comité des travaux historiques et scientifiques, 2020.<ref target="https://doi.org/10.4000/books.cths.10278"/></bibl></note>
                </item>
                <item xml:id="beuvrage">
                   <term>beuvrage, breuvage</term>
@@ -20392,7 +20402,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                </item>
                <item xml:id="colette">
                   <term>soeur Colette</term>
-                  <p>(subst. fem.): religiseuse de l'ordre des Clarisses minimes, religieuse aussi appelée Clarisse colettine.
+                  <p>(subst. fem.): religieuse de l'ordre des Clarisses minimes, aussi appelée Clarisse colettine.
                   En référence à <ref type="static_link" target="https://hls-dhs-dss.ch/fr/articles/018681/2020-01-20/">Colette de Corbie (1381-1447)</ref> et à son action réformatrice.
                   </p>
                   <ptr target="https://hls-dhs-dss.ch/fr/articles/018681/2020-01-20/"/>
@@ -22814,7 +22824,6 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                </item>
                <item xml:id="roncin">
                 <term>roncin</term>
-                <p>(subst.masc.): cheval, étalon; cheval de service, cheval de somme</p>
                 <p>(subst.masc.): roussin, cheval trapu, qui servait de monture à la guerre ou à la chasse, destrier</p>
                 <ptr target="http://www.atilf.fr/dmf/definition/roncin"/>
                 <ptr target="https://lecteur-few.atilf.fr/lire/100/575?DMF" corresp="575_I.1."/>

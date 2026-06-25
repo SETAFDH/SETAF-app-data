@@ -24,6 +24,10 @@
             <placeName>Puys-en-Velay</placeName>
             <ptr target="https://d-nb.info/gnd/4602359-8"/>
          </place>
+         <place xml:id="Florence">
+            <placeName>Florence, République de Florence</placeName>
+            <ptr target="https://d-nb.info/gnd/1240233-3"/>
+         </place>
       </listPlace>
    </standOff>
 </TEI>
