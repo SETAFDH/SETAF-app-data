@@ -28,7 +28,7 @@
                  <p rend="center">
                     <graphic url="../resources/images/static/workflow_corpus.png" height="180px"/>
                  </p>
-                 <p>Cette figure est tirée de la publication suivante : <hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Dejouy</hi>, Mylène, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia et <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, « <ref type="static_link" target="https://hal.science/hal-05137564">Normaliser le moyen français : du graphématique au semi-diplomatique</ref> », Marseille, France, Actes de la conférence CORIA-TALN-RJCRI-RECITAL 2025, 2025.
+                 <p>Cette figure est tirée de la publication suivante : Sonia Solfrini, Mylène Dejouy, Aurélia Marques Oliveira, Pierre-Olivier Beaulnes, « <ref type="static_link" target="https://aclanthology.org/2025.jeptalnrecital-recital.13/">Normaliser le moyen français : du graphématique au semi-diplomatique</ref> », <hi rend="italic">ACL Anthology. RJCRI-RECITAL 2025</hi>, Actes des 18e Rencontres Jeunes Chercheurs en Recherche d'Information et du 27ème Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (Marseille, France), organisé par les associations ARIA et ATALA, 2025, p. 239-252.
                     <lb/>Pour la présentation du corpus, voir la page « <ref type="static_link" target="about-crr.xml">À propos du CRR</ref> ».
                  </p>
               </div>
@@ -41,8 +41,8 @@
                     La transcription a été obtenue grâce à des modèles d’OCR (Optical Character Recognition) : pour les imprimés en caractères romains, on a eu recours au modèle Gallicorpora+ ; pour les caractères gothiques, on a d’abord utilisé Cortado 2.0.0, puis une version fine-tunée de CATMuS 1.0.0, nommée <ref type="static_link" target="https://zenodo.org/records/10599911">CATMuS Gothic Print</ref>. Toutes les transcriptions ont été révisées par l’équipe du projet afin de garantir une qualité gold des données.
                     <lb/>Pour plus de détails, voir :
                     <list>
-                       <item><hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Gabay</hi>, Simon, <hi rend="small-caps">Gross</hi>, Geneviève, <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia et <hi rend="small-caps">Solfaroli Camillocci</hi>, Daniela, « <ref type="static_link" target="https://hal.science/hal-04281804">Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques</ref> », HAL, document de travail, version A, 2023.</item>
-                       <item><hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Gabay</hi>, Simon, <hi rend="small-caps">Humeau</hi>, Maxime, <hi rend="small-caps">Pinche</hi>, Ariane, <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia, <hi rend="small-caps">Gross</hi>, Geneviève et <hi rend="small-caps">Solfaroli Camillocci</hi>, Daniela, « <ref type="static_link" target="https://hal.science/hal-04555002">Océriser les imprimés du XVIe siècle en langue française : le cas d’un corpus romand en caractères gothiques</ref> », Meknès, Maroc, Actes du colloque Humanistica 2024, Association francophone des humanités numériques, coll. OCR, 2024.</item>
+                       <item>Sonia Solfrini, Simon Gabay, Geneviève Gross, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Daniela Solfaroli Camillocci, « <ref type="static_link" target="https://hal.science/hal-04281804v1">Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques</ref> », HAL, document de travail, version A, novembre 2023.</item>
+                       <item>Sonia Solfrini, Simon Gabay, Maxime Humeau, Ariane Pinche, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Geneviève Gross, Daniela Solfaroli Camillocci, « <ref type="static_link" target="https://hal.science/hal-04555002v1">Océriser les imprimés du XVIe siècle en langue française : le cas d’un corpus romand en caractères gothiques</ref> », <hi rend="italic">Humanistica 2024</hi>, Actes du colloque Humanistica 2024 (Meknès, Maroc), organisé par l’Association francophone des humanités numériques, coll. « OCR », 2024.</item>
                        <item>Les dépôts GitHub comprenant les données OCR du CRR : <ref type="static_link" target="https://github.com/SETAFDH">https://github.com/SETAFDH</ref>.</item>
                     </list>
                  </p>
@@ -55,7 +55,7 @@
                     Le CRR est encodé au format XML-TEI, selon un schéma personnalisé. L’encodage de base a été généré par des scripts XSLT, à partir des fichiers ALTO produits dans eScriptorium. Certains éléments et les métadonnées du &lt;teiHeader&gt;, en revanche, ont été encodés manuellement.
                     <lb/>Pour plus de détails, voir :
                     <list>
-                       <item><hi rend="italic">Guide d’encodage XML-TEI du Corpus Réformé Romand (CRR) - Projet FNS SETAF (2022-2026)</hi>, prochainement disponible sur HAL.</item>
+                       <item>Sonia Solfrini, Simon Gabay, « Guide d’encodage XML-TEI du Corpus Réformé Romand (CRR) - Projet FNS SETAF (2022-2027) », à paraître.</item>
                        <item>L’ODD du CRR : <ref type="static_link" target="https://github.com/SETAFDH/TEI-SETAF/tree/main/schema">https://github.com/SETAFDH/TEI-SETAF/tree/main/schema</ref>.</item>
                        <item>Les dépôts GitHub comprenant les données TEI du CRR : <ref type="static_link" target="https://github.com/SETAFDH">https://github.com/SETAFDH</ref>.</item>
                     </list>
@@ -97,7 +97,7 @@
                  <p rend="center">
                     <graphic url="../resources/images/static/workflow_corpus.png" height="180px"/>
                  </p>
-                 <p>Cette figure est tirée de la publication suivante : <hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Dejouy</hi>, Mylène, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia et <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, « <ref type="static_link" target="https://hal.science/hal-05137564">Normaliser le moyen français : du graphématique au semi-diplomatique</ref> », Marseille, France, Actes de la conférence CORIA-TALN-RJCRI-RECITAL 2025, 2025.
+                 <p>Cette figure est tirée de la publication suivante : Sonia Solfrini, Mylène Dejouy, Aurélia Marques Oliveira, Pierre-Olivier Beaulnes, « <ref type="static_link" target="https://aclanthology.org/2025.jeptalnrecital-recital.13/">Normaliser le moyen français : du graphématique au semi-diplomatique</ref> », <hi rend="italic">ACL Anthology. RJCRI-RECITAL 2025</hi>, Actes des 18e Rencontres Jeunes Chercheurs en Recherche d'Information et du 27ème Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (Marseille, France), organisé par les associations ARIA et ATALA, 2025, p. 239-252.
                     <lb/>Pour la présentation du corpus, voir la page « <ref type="static_link" target="about-crr.xml">À propos du CRR</ref> ».
                  </p>
               </div>
@@ -110,8 +110,8 @@
                     La transcription a été obtenue grâce à des modèles d’OCR (Optical Character Recognition) : pour les imprimés en caractères romains, on a eu recours au modèle Gallicorpora+ ; pour les caractères gothiques, on a d’abord utilisé Cortado 2.0.0, puis une version fine-tunée de CATMuS 1.0.0, nommée <ref type="static_link" target="https://zenodo.org/records/10599911">CATMuS Gothic Print</ref>. Toutes les transcriptions ont été révisées par l’équipe du projet afin de garantir une qualité gold des données.
                     <lb/>Pour plus de détails, voir :
                     <list>
-                       <item><hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Gabay</hi>, Simon, <hi rend="small-caps">Gross</hi>, Geneviève, <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia et <hi rend="small-caps">Solfaroli Camillocci</hi>, Daniela, « <ref type="static_link" target="https://hal.science/hal-04281804">Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques</ref> », HAL, document de travail, version A, 2023.</item>
-                       <item><hi rend="small-caps">Solfrini</hi>, Sonia, <hi rend="small-caps">Gabay</hi>, Simon, <hi rend="small-caps">Humeau</hi>, Maxime, <hi rend="small-caps">Pinche</hi>, Ariane, <hi rend="small-caps">Beaulnes</hi>, Pierre-Olivier, <hi rend="small-caps">Marques Oliveira</hi>, Aurélia, <hi rend="small-caps">Gross</hi>, Geneviève et <hi rend="small-caps">Solfaroli Camillocci</hi>, Daniela, « <ref type="static_link" target="https://hal.science/hal-04555002">Océriser les imprimés du XVIe siècle en langue française : le cas d’un corpus romand en caractères gothiques</ref> », Meknès, Maroc, Actes du colloque Humanistica 2024, Association francophone des humanités numériques, coll. OCR, 2024.</item>
+                       <item>Sonia Solfrini, Simon Gabay, Geneviève Gross, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Daniela Solfaroli Camillocci, « <ref type="static_link" target="https://hal.science/hal-04281804v1">Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques</ref> », HAL, document de travail, version A, novembre 2023.</item>
+                       <item>Sonia Solfrini, Simon Gabay, Maxime Humeau, Ariane Pinche, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Geneviève Gross, Daniela Solfaroli Camillocci, « <ref type="static_link" target="https://hal.science/hal-04555002v1">Océriser les imprimés du XVIe siècle en langue française : le cas d’un corpus romand en caractères gothiques</ref> », <hi rend="italic">Humanistica 2024</hi>, Actes du colloque Humanistica 2024 (Meknès, Maroc), organisé par l’Association francophone des humanités numériques, coll. « OCR », 2024.</item>
                        <item>Les dépôts GitHub comprenant les données OCR du CRR : <ref type="static_link" target="https://github.com/SETAFDH">https://github.com/SETAFDH</ref>.</item>
                     </list>
                  </p>
@@ -124,7 +124,7 @@
                     Le CRR est encodé au format XML-TEI, selon un schéma personnalisé. L’encodage de base a été généré par des scripts XSLT, à partir des fichiers ALTO produits dans eScriptorium. Certains éléments et les métadonnées du &lt;teiHeader&gt;, en revanche, ont été encodés manuellement.
                     <lb/>Pour plus de détails, voir :
                     <list>
-                       <item><hi rend="italic">Guide d’encodage XML-TEI du Corpus Réformé Romand (CRR) - Projet FNS SETAF (2022-2026)</hi>, prochainement disponible sur HAL.</item>
+                       <item>Sonia Solfrini, Simon Gabay, « Guide d’encodage XML-TEI du Corpus Réformé Romand (CRR) - Projet FNS SETAF (2022-2027) », à paraître.</item>
                        <item>L’ODD du CRR : <ref type="static_link" target="https://github.com/SETAFDH/TEI-SETAF/tree/main/schema">https://github.com/SETAFDH/TEI-SETAF/tree/main/schema</ref>.</item>
                        <item>Les dépôts GitHub comprenant les données TEI du CRR : <ref type="static_link" target="https://github.com/SETAFDH">https://github.com/SETAFDH</ref>.</item>
                     </list>
