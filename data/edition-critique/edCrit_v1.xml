@@ -12212,7 +12212,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                <reg type="regularisee">vez de <term key="#cestuy">cestuy</term> tous: et beurent d'iceluy tous/ et leur dit: <term key="#cestuy">Cestuy</term></reg>
                <reg type="contemporary">vez-en tous. Tous en burent et leur dit: Ceci</reg>
             </choice>
-                <note type="MarginTextZone" corresp="#f65_eSc_textblock_d3426d01" place="margin">
+                <note type="MarginTextZoneBis" corresp="#f65_eSc_textblock_d3426d01" place="margin">
                    <choice>
                       <orig>Luc.22.</orig>
                       <reg type="regularisee"><bibl type="biblical" ana="Lc22:17">Luc.22.</bibl></reg>
@@ -12394,7 +12394,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                <reg type="contemporary">à une même coupe. Il n'y a ni Juif ni païen, il n'y a ni esclave ni homme libre, il n'y</reg>
                <!-- Modernisation: ajout de ni. Ajout de Homme: homme libre -->
             </choice>
-                <note type="MarginTextZone" corresp="#f65_eSc_textblock_a26d1f32" place="margin">
+                <note type="MarginTextZoneBis" corresp="#f65_eSc_textblock_a26d1f32" place="margin">
                    <choice>
                       <orig>1.Cor.10</orig>
                       <reg type="regularisee"><bibl type="biblical" ana="ICo10:17">1.Cor.10</bibl></reg>
@@ -12419,7 +12419,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                <reg type="regularisee">Vous estes le corps de Christ/ et membres de membre<note type="editor">1Co 12: 27</note>. Vous</reg>
                <reg type="contemporary">Vous êtes le corps de Christ, et membres de ce corps, chacun pour sa part. Vous</reg>
             </choice>
-                <note type="MarginTextZone" corresp="#f65_eSc_textblock_ef36e579" place="margin">
+                <note type="MarginTextZoneBis" corresp="#f65_eSc_textblock_ef36e579" place="margin">
                    <choice>
                       <orig>1.Cor.11.</orig>
                       <reg type="regularisee"><bibl type="biblical" ana="ICo11:17-22">1.Cor.11.</bibl></reg>
@@ -12464,7 +12464,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                <reg type="regularisee">dez l'un l'autre<note type="editor">1Co 11: 17-22</note>. L'homme esprouve soy mesme/ et ainsi mangeus-</reg>
                <reg type="contemporary">dez-vous les uns les autres. Que l'homme s'éprouve lui-même et qu'ainsi il mange</reg><!-- Modernisation: ajout de s'. Ajout et que ainsi: et de cette manière-->
             </choice>
-                <note type="MarginTextZone" corresp="#f65_eSc_textblock_fadd4a44" place="margin">
+                <note type="MarginTextZoneBis" corresp="#f65_eSc_textblock_fadd4a44" place="margin">
                    <choice>
                       <orig>2.Cor.13.</orig>
                       <reg type="regularisee"><bibl type="biblical" ana="IICo13:5-6">2.Cor.13.</bibl></reg>
@@ -12495,7 +12495,7 @@ Pour une traduction française : Tite-Live, Histoire romaine, livre I, trad. M. 
                <reg type="regularisee">en vous? Si d'aventure n'estes reprouvéz<note type="editor">2Co 13: 5-6</note>. Si vous pardonnez</reg>
                <reg type="contemporary">en vous? À moins que vous ne soyez réprouvés. Si vous pardonnez</reg><!-- Modernisation: ajout de vous -->
             </choice>
-                <note type="MarginTextZone" corresp="#f65_eSc_textblock_18354f09" place="margin">
+                <note type="MarginTextZoneBis" corresp="#f65_eSc_textblock_18354f09" place="margin">
                    <choice>
                       <orig>mat.6.</orig>
                       <reg type="regularisee"><bibl type="biblical" ana="Mt6:14-15">mat.6.</bibl></reg>
