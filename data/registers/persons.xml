@@ -24,7 +24,7 @@
          <person xml:id="Aaron">
             <name>Aaron</name>
             <note>figure biblique</note>
-            <note>frère de Mo!ise, prêtre</note>
+            <note>frère de Moïse, prêtre</note>
             <ptr target="https://www.levangile.com/Dictionnaire-Biblique/definition-westphal-112-aaron"/>
          </person>
          <person xml:id="Appollos">
@@ -46,7 +46,7 @@
          </person>
          <person xml:id="Alexandre">
             <name>Rodrigo Borgia</name>
-            <name role="pape">Alexandre VI</name>
+            <persName role="pape">Alexandre VI</persName>
             <birth>1431</birth>
             <death>1503</death>
             <note>élu au pontificat en 1492</note>
@@ -198,35 +198,37 @@
             <name>de Quercu</name>
             <birth>?</birth>
             <death>1525</death>
-            <note type="courte">Docteur en théologie de la Sorbonne, prêtre/curé de S.Jean-en-Grève,
-               Paris</note>
-            <note type="longue">Guillaume Duchesne (de Quercu, † 1525), théologien parisien, docteur
-               de la Sorbonne, est une figure importante de la Faculté de théologie. Membre de
-               nombreuses commissions, il participe aux procédures contre Reuchlin, Lefèvre
-               d’Étaples et Luther. D’après Érasme, Duchesne joue un rôle actif dans l’examen et la
-               condamnation de Luther par la faculté en 1520 et 1521; Érasme le désigne fréquemment
-               comme le principal collaborateur de Noël Béda dans les procédures parisiennes
-               dirigées contre lui et contre Louis de Berquin. Dès 1505, Duchesne est chanoine de
-               l’église collégiale Saint-Benoît-le-Bien-Tourné à Paris; vers 1520, il est curé de
-               Saint-Jean-en-Grève à Paris et proviseur du collège d’Harcourt, puis est nommé membre
-               d’une commission inquisitoriale par le Parlement de Paris et le pape Clément VII.
-               Notice d’après James F. Farge, Contemporaries of Erasmus, vol. 1, A–E: A Biographical
-               Register of the Renaissance and Reformation, repr. Toronto, Univ. of Toronto Press,
-               1995, p. 410.</note>
-            <note type="biblio">W.G. Moore, La Réforme allemande et la littérature française.
-               Recherches sur la notoriété de Luther en France, Strasbourg, 1930, p. 272. Reid
-               Jonathan A, King's sister - queen of dissent : Marguerite of Navarre (1492-1549) and
-               her evangelical network, Leiden, Brill, 2009, p. 230. Registre des procès-verbaux de
-               la Faculté de théologie de Paris, Paris : V. Lecoffre - J. Gabalda, 1917, p. 4. Farge
-               K. James, Biographical register of Paris doctors of theology 1500-1536, Toronto,
-               1980, p. 384, n°406. Calvin, Jean, Irena Backus, Claire Chimelli, et Guillaume Farel.
-               La vraie piété : divers traités de Jean Calvin et Confession de foi de Guillaume
-               Farel. Genève: Labor et Fides, 1986, p. 181, n.23. Renaudet, Augustin. Préréforme et
-               humanisme à Paris pendant les premières guerres d’Italie : 1494-1517. 2e éd. revue et
-               corr. Paris: D’Argences, 1953, p. 537. Féret, Pierre. La Faculté de théologie de
-               Paris et ses docteurs les plus célèbres : époque moderne. Paris: A. Picard, 1900,
-               t.2, p. 62. Contemporaries of Erasmus Vol. 1.  A-E  : A Biographical Register of the
-               Renaissance and Reformation. Repr. Toronto: Univ. of Toronto Press, 1995. </note>
+            <note>Guillaume Duchesne (de Quercu, † 1525), théologien parisien, docteur en théologie
+               de la Sorbonne, (vers 1520) prêtre/curé de Saint-Jean-en-Grève, Paris. Figure
+               importante de la Faculté de théologie, il participe aux procédures contre Reuchlin,
+               Lefèvre d’Étaples et Luther. Il joue, d'après Érasme, un rôle actif dans l’examen et
+               la condamnation de Luther par la faculté en 1520 et 1521. Érasme le désigne
+               fréquemment comme le principal collaborateur de Noël Béda dans les procédures
+               parisiennes dirigées contre lui et contre Louis de Berquin. Chanoine, dès 1505, de
+               l’église collégiale Saint-Benoît-le-Bien-Tourné à Paris, Guillaume Duchesne est, vers
+               1520, curé de Saint-Jean-en-Grève à Paris et proviseur du collège d’Harcourt. En
+               1524, il est nommé par le Parlement de Paris à une commission inquisitoriale spéciale
+               instituée par Louise de Savoie et Clément VII. Notice d’après <bibl>James F. Farge,
+                  Contemporaries of Erasmus, vol. 1, A–E: A Biographical Register of the Renaissance
+                  and Reformation, repr. Toronto, Univ. of Toronto Press, 1995, p.
+               410.</bibl></note>
+            <bibl>W.G. Moore, La Réforme allemande et la littérature française. Recherches sur la
+               notoriété de Luther en France, Strasbourg, 1930, p. 272.</bibl>
+            <bibl>Reid Jonathan A, King's sister - queen of dissent : Marguerite of Navarre
+               (1492-1549) and her evangelical network, Leiden, Brill, 2009, p. 230.</bibl>
+            <bibl>Registre des procès-verbaux de la Faculté de théologie de Paris, Paris : V.
+               Lecoffre - J. Gabalda, 1917, p. 4. </bibl>
+            <bibl>Farge K. James, Biographical register of Paris doctors of theology 1500-1536,
+               Toronto, 1980, p. 384, n°406.</bibl>
+            <bibl>Calvin, Jean, Irena Backus, Claire Chimelli, et Guillaume Farel. La vraie piété :
+               divers traités de Jean Calvin et Confession de foi de Guillaume Farel. Genève: Labor
+               et Fides, 1986, p. 181, n.23. </bibl>
+            <bibl>Renaudet, Augustin. Préréforme et humanisme à Paris pendant les premières guerres
+               d’Italie : 1494-1517. 2e éd. revue et corr. Paris: D’Argences, 1953, p. 537.</bibl>
+            <bibl>Féret, Pierre. La Faculté de théologie de Paris et ses docteurs les plus
+               célèbres : époque moderne. Paris: A. Picard, 1900, t.2, p. 62.</bibl>
+            <bibl>Contemporaries of Erasmus Vol. 1.  A-E  : A Biographical Register of the
+               Renaissance and Reformation. Repr. Toronto: Univ. of Toronto Press, 1995.</bibl>
             <ptr/>
          </person>
          <person xml:id="Eusebe">
@@ -333,11 +335,10 @@
          <person xml:id="Cesar">
             <name>César Borgia</name>
             <persName>duc de Valentinois</persName>
-            <note> titre crée par Louis XII en 1498</note>
-            <birth>1475</birth>
-            <death>1507</death>
             <note>César Borgia, dit « le Valentinois », est le fils aîné naturel de Rodrigo Borgia
                (pape sous le nom d'Alexandre VI) et de Vannozza Cattanei, patricienne romaine</note>
+            <birth>1475</birth>
+            <death>1507</death>
          </person>
          <person xml:id="Jean">
             <name>Jacques Duèze (ou d'Euse)</name>
@@ -537,7 +538,7 @@
          <person xml:id="Paulus">
             <!-- A COMPLETER -->
             <name>Paul Émile, dit le Macédonique ou le Macédonien</name>
-            <name xml:id="lat">Lucius Aemilius Paullus Macedonicus</name>
+            <persName xml:id="lat">Lucius Aemilius Paullus Macedonicus</persName>
             <birth>vers 230 av. J.-C</birth>
             <death>160 av. J.-C</death>
             <note/>
@@ -569,9 +570,8 @@
             <ptr target="https://d-nb.info/gnd/118789066"/>
          </person>
          <person xml:id="Scipion">
-            <!-- A COMPLETER -->
             <name>Scipion Émilien</name>
-            <name xml:lang="la">Publius Cornelius Scipio Aemilianus, Africanus minor</name>
+            <persName xml:lang="la">Publius Cornelius Scipio Aemilianus, Africanus minor</persName>
             <birth>vers 185 av. J.-Ch</birth>
             <death>129 av. J.-Ch</death>
             <note>consul romain</note>

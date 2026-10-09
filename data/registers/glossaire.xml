@@ -425,8 +425,8 @@
                </item>
                <item xml:id="beste">
                 <term>beste</term>
-                <p>(adj.) (d'une pers.): stupide</p>
-                  <note>Terme issu du latin <hi rend="italic">bestia</hi>, attesté dès le XIe siècle et utilisé pour désigner un homme stupide. À ce propos, voir: <bibl>Lucken, Christopher. “La raison des mots des animaux sans raison”. L’animal : un objet d’étude, edited by Judith Förstel and Martine Plouvier, Éditions du Comité des travaux historiques et scientifiques, 2020.<ref target="https://doi.org/10.4000/books.cths.10278"/></bibl></note>
+                <p>(adj.) (d'une pers.): stupide. Terme issu du latin <hi rend="italic">bestia</hi>, attesté dès le XIe siècle et utilisé pour désigner un homme stupide.
+                   À ce propos, voir: <bibl>Lucken, Christopher. “La raison des mots des animaux sans raison”. L’animal : un objet d’étude, edited by Judith Förstel and Martine Plouvier, Éditions du Comité des travaux historiques et scientifiques, 2020.<ref type="static_link" target="https://doi.org/10.4000/books.cths.10278"/></bibl></p>
                </item>
                <item xml:id="beuvrage">
                   <term>beuvrage, breuvage</term>
@@ -453,8 +453,8 @@
                </item>
                <item xml:id="bouillir">
                   <term>bouillir, bouillant</term>
-                  <p>(verbe): exciter, agiter, troubler
-                  En lien, avec la traduction de l'expression utilisée de la Vulgate, dans <bibl>Es 5:11-12</bibl>: <ref>https://gaffiot.fr/#aestuo</ref></p>
+                  <p>(verbe): exciter, agiter, troubler.
+                     En lien, avec la traduction de l'expression utilisée de la Vulgate, dans <bibl>Es 5:11-12</bibl>: ut vino <ref type="static_link" target="https://gaffiot.fr/#aestuo">aestuetis</ref></p>
                   <ptr target="http://www.atilf.fr/dmf/definition/bouillir"/>
                </item>
                <item xml:id="bordeau">
@@ -907,6 +907,10 @@
                   <p>(subst.fem.): péché, faute</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/coulpe"/>
                </item>
+               <item xml:id="couronne">
+                  <p>Comprendre: tiare. La tiare papale est aussi appelée trirègne: elle est formée de trois couronnes symbolisant le triple pouvoir du pape</p>
+                  <ptr target="https://www.vatican.va/roman_curia/secretariat_state/documents/insigne/triregno_fr.html"/>
+               </item>
                <item xml:id="corporal">
                   <term>corporal</term>
                   <p>(subst.masc.): corporal, linge qui se met sur l'autel pour y poser l'hostie pendant la messe</p>
@@ -1282,7 +1286,9 @@
                </item>
                <item xml:id="entretant">
                   <term>entretant que</term>
-                  <p>(loc.conj.): pendant que, tandis que</p>
+                  <p>(loc.conj.): aussi longtemps que; pendant que; dans le temps que
+                  (par ext.): dans l'intervalle, entre-temps, d'ici là</p>
+                  <ptr target="https://lecteur-few.atilf.fr/lire/40/748?DMF"/>
                   <ptr target="http://www.atilf.fr/dmf/definition/entretant"/>
                </item>
                <item xml:id="entretenir"><!-- A SUPPRIMER -->
@@ -2780,6 +2786,11 @@
                   <ptr target="http://www.atilf.fr/dmf/definition/procéder"/>
                   <ptr target="https://www.cnrtl.fr/definition/academie9/proc%C3%A9der"/>
                </item>
+               <item xml:id="proeme">
+                  <term>proème</term>
+                  <p>(subst.masc.): prologue, préface</p>
+                  <ptr target="http://www.atilf.fr/dmf/definition/proème"/>
+               </item>
                <item xml:id="profiter">
                   <term>profiter qqch, ne rien profiter (à qq'un)</term>
                   <p>(verbe): servir à qqch</p>
@@ -3431,6 +3442,10 @@
                   <ptr target="http://www.atilf.fr/dmf/definition/tirer" corresp="Article_completD2b"/>
                   <ptr target="https://www.cnrtl.fr/lexicographie/tirer" corresp="Étymol_et_Hist_A1δ"/>
                </item>
+               <item xml:id="tirer1"><!-- A DEFINIR -->
+                  <term>tirer</term>
+                  <p>(verbe): action d'amener à soi, soutirer, extorquer</p>
+               </item>
                <item xml:id="titre">
                  <term>titre</term>
                  <p>(subst.masc.): titre, au sens canonique de <hi rend="italic">titulus</hi>. Rattachement et charge écclésiastique, paroisse, bénéfice</p>
@@ -3456,6 +3471,12 @@
                   <term>tourment</term>
                   <p>(subst.masc.): supplice. Par ext.: très vive souffrance imposée à qqn</p>
                   <ptr target="http://www.atilf.fr/dmf/definition/tourment"/>
+               </item>
+               <item xml:id="tour">
+                  <term>tour</term>
+                  <p>(subst. masc.): mouvement; mouvement réalisé avec adresse, exercice d'adresse</p>
+                  <p>(subst. masc.): façon de faire, procédé; (par.ext.) moyen employé pour tromper, ruse, manoeuvre, action habile et rusée</p>
+                  <ptr target="http://www.atilf.fr/dmf/definition/tour3"/>
                </item>
                <item xml:id="tourmenter">
                   <term>tourmenter</term>

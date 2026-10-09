@@ -17,13 +17,13 @@
   <text>
      <body xml:id="static">
         <div xml:lang="fr">
-           <head>Critères d'édition</head>
+           <head type="static_main_title">Critères d'édition</head>
            
            <p>En construction</p>
         </div>
         
         <div xml:lang="en">
-           <head>Editorial principles</head>
+           <head type="static_main_title">Editorial principles</head>
            
            <p>In progress</p>
         </div>

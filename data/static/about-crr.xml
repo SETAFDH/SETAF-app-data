@@ -22,7 +22,6 @@
            <p><graphic url="../resources/images/static/tours.svg" height="150px" rend="left"/>Le Corpus Réformé Romand (CRR) numérique comprend une quarantaine de textes imprimés entre les années 1530 et 1560, principalement à Neuchâtel et Genève.</p>
            <p>Il est organisé en quatre sous-corpus : l’un consacré aux publications de l’imprimeur Pierre de Vingle (PV), un autre à celles de Jean Michel (JM), un troisième à celles de Jean Girard (JG) et un dernier regroupant les publications issues des presses d’autres imprimeurs du réseau réformé (par exemple, Wygand Koeln, WK, ou Antoine Cercia, AC). Chaque édition est associée à un identifiant unique, construit en fonction du sous-corpus auquel il appartient : ainsi, CRRPV16 désigne la seizième édition du sous-corpus PV. Un seul exemplaire est sélectionné pour chaque édition.</p>
            <p>Le CRR a été conçu pour permettre l’étude de l’intertextualité à l’œuvre dans la première édition des Faits ([1534 ?]), imprimée par Pierre de Vingle. C’est pourquoi il inclut l’essentiel des publications genevoises et neuchâteloises de cet imprimeur, à quelques exceptions près (voir notre catalogue). Le corpus intègre également les deux autres éditions connues des Faits ([1540 ?] et [1560 ?]), dont l’édition critique est présentée sur la page « <ref type="static_link" target="about-edition.xml">À propos des Faits</ref> ». En outre, le CRR a été élargi à d’autres textes relevant de ce même espace éditorial, en fonction des axes de recherche de l’équipe.</p>
-           <p>Pour plus d’informations, voir notre catalogue : <hi rend="italic">Catalogue du Corpus Réformé Romand (CRR) - Projet FNS SETAF (2022-2026)</hi>, prochainement disponible sur HAL.</p>
             
            <div>
               <head type="static_subtitle">Accéder au corpus et effectuer des recherches</head>
@@ -64,6 +63,18 @@
               <p>Les textes peuvent être téléchargés aux formats PDF ou XML-TEI en cliquant sur les icônes correspondantes. Lorsque le texte est disponible à la fois en transcription graphématique et normalisée, seule cette dernière est proposée au téléchargement au format PDF.</p>
               <p>Pour plus d’informations sur l’encodage XML-TEI du CRR et sur sa chaîne de traitement numérique, voir la page « <ref type="static_link" target="aspects-techniques.xml">Aspects techniques</ref> ».</p>
            </div>
+           
+           <div>
+              <head type="static_subtitle">Références</head>
+              <list>
+                 <item>Sonia Solfrini, Geneviève Gross, Brigitte Roux, Nathalie Szczech, Daniela Solfaroli Camillocci, « Catalogue des éditions du Corpus Réformé Romand (CRR) - Projet FNS SETAF (2022-2027) », à paraître.</item>
+                 <item>Sonia Solfrini, Simon Gabay, Elina Leblanc, « Guide d’encodage XML-TEI du Corpus Réformé Romand (CRR) - Projet FNS SETAF (2022-2027) », à paraître.</item>
+                 <item>Sonia Solfrini, Mylène Dejouy, Aurélia Marques Oliveira, Pierre-Olivier Beaulnes, « <ref type="static_link" target="https://aclanthology.org/2025.jeptalnrecital-recital.13/">Normaliser le moyen français : du graphématique au semi-diplomatique</ref> », <hi rend="italic">ACL Anthology. RJCRI-RECITAL 2025</hi>, Actes des 18e Rencontres Jeunes Chercheurs en Recherche d'Information et du 27ème Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (Marseille, France), organisé par les associations ARIA et ATALA, 2025, p. 239-252.</item>
+                 <item>Sonia Solfrini, Simon Gabay, Maxime Humeau, Ariane Pinche, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Geneviève Gross, Daniela Solfaroli Camillocci, « <ref type="static_link" target="https://hal.science/hal-04555002v1">Océriser les imprimés du XVIe siècle en langue française : le cas d’un corpus romand en caractères gothiques</ref> », <hi rend="italic">Humanistica 2024</hi>, Actes du colloque Humanistica 2024 (Meknès, Maroc), organisé par l’Association francophone des humanités numériques, coll. « OCR », 2024.</item>
+                 <item>Sonia Solfrini, Geneviève Gross, Brigitte Roux, Nathalie Szczech, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Daniela Solfaroli Camillocci, « <ref type="static_link" target="https://hal.science/hal-04097381v1">Étudier le "groupe de Neuchâtel" : de l’édition des Faits à un corpus numérique de la première Réforme romande</ref> », <hi rend="italic">Humanistica 2023</hi>, Actes du colloque Humanistica 2023 (Genève, Suisse), organisé par l’Association francophone des humanités numériques, coll. « Posters », 2023.</item>
+                 <item>Sonia Solfrini, Simon Gabay, Geneviève Gross, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Daniela Solfaroli Camillocci, « <ref type="static_link" target="https://hal.science/hal-04281804v1">Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques</ref> », HAL, document de travail, version A, novembre 2023.</item>
+              </list>
+           </div>
         </div>
         
         <div xml:lang="en">
@@ -72,7 +83,6 @@
            <p><graphic url="../resources/images/static/tours.svg" height="150px" rend="left"/>Le Corpus Réformé Romand (CRR) numérique comprend une quarantaine de textes imprimés entre les années 1530 et 1560, principalement à Neuchâtel et Genève.</p>
            <p>Il est organisé en quatre sous-corpus : l’un consacré aux publications de l’imprimeur Pierre de Vingle (PV), un autre à celles de Jean Michel (JM), un troisième à celles de Jean Girard (JG) et un dernier regroupant les publications issues des presses d’autres imprimeurs du réseau réformé (par exemple, Wygand Koeln, WK, ou Antoine Cercia, AC). Chaque édition est associée à un identifiant unique, construit en fonction du sous-corpus auquel il appartient : ainsi, CRRPV16 désigne la seizième édition du sous-corpus PV. Un seul exemplaire est sélectionné pour chaque édition.</p>
            <p>Le CRR a été conçu pour permettre l’étude de l’intertextualité à l’œuvre dans la première édition des Faits ([1534 ?]), imprimée par Pierre de Vingle. C’est pourquoi il inclut l’essentiel des publications genevoises et neuchâteloises de cet imprimeur, à quelques exceptions près (voir notre catalogue). Le corpus intègre également les deux autres éditions connues des Faits ([1540 ?] et [1560 ?]), dont l’édition critique est présentée sur la page « <ref type="static_link" target="about-edition.xml">À propos des Faits</ref> ». En outre, le CRR a été élargi à d’autres textes relevant de ce même espace éditorial, en fonction des axes de recherche de l’équipe.</p>
-           <p>Pour plus d’informations, voir notre catalogue : <hi rend="italic">Catalogue du Corpus Réformé Romand (CRR) - Projet FNS SETAF (2022-2026)</hi>, prochainement disponible sur HAL.</p>
            
            <div>
               <head type="static_subtitle">Accéder au corpus et effectuer des recherches</head>

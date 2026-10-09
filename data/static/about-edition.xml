@@ -17,13 +17,13 @@
   <text>
      <body xml:id="static">
         <div xml:lang="fr">
-           <head>À propos des Faits</head>
+           <head type="static_main_title">À propos des Faits</head>
            
            <p>En construction</p>
         </div>
         
         <div xml:lang="en">
-           <head>About Les Faits</head>
+           <head type="static_main_title">About Les Faits</head>
            
            <p>In progress</p>
         </div>
